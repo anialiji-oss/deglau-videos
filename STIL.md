@@ -158,3 +158,4 @@ im Schnittplan gibt man an, wann der Sound am lautesten sein soll, der Renderer 
 - **Alles andere nur, wenn Deglau es ausdrücklich sagt** („bei Sekunde X Sound Y rein“). Nicht selbst zusätzlich einbauen.
 - Auf Deglaus Ansage (Video 1): **Geld abgezogen → `money_lose`**, **jemand wird getroffen → `scream_kurz` (leise, -4 dB)**, **jemand fällt hin → `bone_crack`** – jeweils genau auf den sichtbaren Moment.
   Diese drei darf ich künftig bei genau solchen Momenten auch von mir aus vorschlagen.
+  - Feinschliff (Deglau): Schrei erst **beginnen** lassen, wenn die Figur am Boden liegt (Startzeit, nicht Peak, auf den Moment). Bone Crack ruhig lauter (ca. +4 dB über dem Standard).
