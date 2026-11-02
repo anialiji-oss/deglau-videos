@@ -1,0 +1,551 @@
+{
+ "voice": "voice.m4a",
+ "words": "words.json",
+ "output": "/home/user/deglau-videos/videos/carry-on-together/carry_on_together.mp4",
+ "sources": {
+  "T": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/cot/trailer.mp4",
+  "G": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/cot/gameplay.mp4"
+ },
+ "_quellen": "T = neuester Steam-Trailer 'Carry On Together - Trailer' (257437740), G = 'Gameplay Trailer' (257437120)",
+ "flash": 3.5,
+ "end": 39.2,
+ "title": {
+  "lines": [
+   "Die schlechteste Umzugsfirma",
+   "mit deinen Freunden"
+  ],
+  "emojis": [
+   "🎮",
+   "🔥"
+  ]
+ },
+ "segments": [
+  {
+   "t": [
+    0.0,
+    1.4
+   ],
+   "src": [
+    "T",
+    0.0,
+    null
+   ],
+   "_": "In diesem Spiel sind du und deine Freunde – Team rennt raus"
+  },
+  {
+   "t": [
+    1.4,
+    2.5
+   ],
+   "src": [
+    "T",
+    53.55,
+    null
+   ],
+   "_": "die schlechteste Umzugsfirma – Lkw-Chaos, Kiste fliegt"
+  },
+  {
+   "t": [
+    2.5,
+    3.5
+   ],
+   "src": [
+    "G",
+    8.5,
+    null
+   ],
+   "_": "der ganzen Stadt – hinfallen auf der Straße"
+  },
+  {
+   "t": [
+    3.5,
+    4.85
+   ],
+   "src": [
+    "T",
+    41.2,
+    null
+   ],
+   "_": "richtig schwere Sachen – Schrank"
+  },
+  {
+   "t": [
+    4.85,
+    5.34
+   ],
+   "src": [
+    "T",
+    43.4,
+    null
+   ],
+   "_": "Sofa"
+  },
+  {
+   "t": [
+    5.34,
+    5.94
+   ],
+   "src": [
+    "T",
+    12.15,
+    null
+   ],
+   "_": "Kühlschränke"
+  },
+  {
+   "t": [
+    5.94,
+    7.26
+   ],
+   "src": [
+    "T",
+    2.19,
+    null
+   ],
+   "_": "Klavier zusammentragen",
+   "fit": 1.35
+  },
+  {
+   "t": [
+    7.26,
+    8.9
+   ],
+   "src": [
+    "T",
+    18.3,
+    null
+   ],
+   "_": "diesen einen Freund"
+  },
+  {
+   "t": [
+    8.9,
+    10.44
+   ],
+   "src": [
+    "T",
+    19.83,
+    null
+   ],
+   "_": "im falschen Moment loslässt – fällt hin"
+  },
+  {
+   "t": [
+    10.44,
+    11.78
+   ],
+   "src": [
+    "T",
+    15.0,
+    null
+   ],
+   "_": "nicht durch die Tür passt"
+  },
+  {
+   "t": [
+    11.78,
+    12.66
+   ],
+   "src": [
+    "T",
+    11.1,
+    null
+   ],
+   "_": "schmeißt ihr es halt einfach"
+  },
+  {
+   "t": [
+    12.66,
+    13.4
+   ],
+   "src": [
+    "T",
+    12.82,
+    null
+   ],
+   "_": "aus dem Fenster"
+  },
+  {
+   "t": [
+    13.4,
+    14.86
+   ],
+   "src": [
+    "T",
+    13.7,
+    14.98
+   ],
+   "_": "Kollegen gleich hinterher – fliegt aus dem Fenster"
+  },
+  {
+   "t": [
+    14.86,
+    16.62
+   ],
+   "src": [
+    "T",
+    21.4,
+    null
+   ],
+   "_": "ladet alles auf den Lkw"
+  },
+  {
+   "t": [
+    16.62,
+    17.9
+   ],
+   "src": [
+    "G",
+    74.0,
+    null
+   ],
+   "_": "driftest durch die Stadt"
+  },
+  {
+   "t": [
+    17.9,
+    19.44
+   ],
+   "src": [
+    "G",
+    77.6,
+    null
+   ],
+   "_": "jede Laterne mit"
+  },
+  {
+   "t": [
+    19.44,
+    21.2
+   ],
+   "src": [
+    "T",
+    4.0,
+    null
+   ],
+   "_": "Ich bin Deglau"
+  },
+  {
+   "t": [
+    21.2,
+    22.7
+   ],
+   "src": [
+    "T",
+    7.52,
+    null
+   ]
+  },
+  {
+   "t": [
+    22.7,
+    23.84
+   ],
+   "src": [
+    "T",
+    31.5,
+    null
+   ]
+  },
+  {
+   "t": [
+    23.84,
+    25.48
+   ],
+   "src": [
+    "T",
+    9.29,
+    null
+   ],
+   "_": "jedes kaputte Teil"
+  },
+  {
+   "t": [
+    25.48,
+    26.5
+   ],
+   "src": [
+    "T",
+    23.1,
+    null
+   ],
+   "_": "vom Geld abgezogen – Abrechnung",
+   "fit": 1.6
+  },
+  {
+   "t": [
+    26.5,
+    28.1
+   ],
+   "src": [
+    "T",
+    24.95,
+    null
+   ],
+   "cx": 0.3,
+   "_": "genug Geld – Lkw-Shop"
+  },
+  {
+   "t": [
+    28.1,
+    29.02
+   ],
+   "src": [
+    "T",
+    29.89,
+    null
+   ],
+   "_": "größeren Lkw"
+  },
+  {
+   "t": [
+    29.02,
+    29.58
+   ],
+   "src": [
+    "T",
+    26.69,
+    null
+   ],
+   "_": "bessere Firma"
+  },
+  {
+   "t": [
+    29.58,
+    30.48
+   ],
+   "src": [
+    "T",
+    27.86,
+    null
+   ],
+   "_": "aufbauen – Regale"
+  },
+  {
+   "t": [
+    30.48,
+    33.4
+   ],
+   "src": [
+    "T",
+    36.55,
+    39.25
+   ],
+   "_": "Das Spiel heißt Carry On Together … Steam"
+  },
+  {
+   "t": [
+    33.4,
+    35.34
+   ],
+   "src": [
+    "T",
+    55.3,
+    null
+   ],
+   "_": "Demo – Endbild",
+   "fit": 1.35
+  },
+  {
+   "t": [
+    35.34,
+    36.16
+   ],
+   "src": [
+    "T",
+    39.25,
+    null
+   ],
+   "_": "markiert eure Freunde"
+  },
+  {
+   "t": [
+    36.16,
+    37.0
+   ],
+   "src": [
+    "T",
+    47.9,
+    null
+   ]
+  },
+  {
+   "t": [
+    37.0,
+    39.2
+   ],
+   "src": [
+    "T",
+    57.3,
+    null
+   ],
+   "_": "viel Spaß euch – Endbild",
+   "fit": 1.35
+  }
+ ],
+ "caption_fixes": [
+  [
+   "geschlechteste",
+   "schlechteste"
+  ],
+  [
+   "Skrötschenke",
+   "Kühlschränke"
+  ],
+  [
+   "drifft",
+   "driftest"
+  ],
+  [
+   "nehmt",
+   "nimmst"
+  ],
+  [
+   "Deckler",
+   "Deglau"
+  ],
+  [
+   "jedenzeit",
+   "jeden Tag"
+  ],
+  [
+   "ihr",
+   "also"
+  ],
+  [
+   "seid",
+   "folgt"
+  ],
+  [
+   "als",
+   "heißt"
+  ],
+  [
+   "7",
+   "Steam"
+  ],
+  [
+   "durch",
+   "euch"
+  ]
+ ],
+ "bigwords": [
+  {
+   "text": "CARRY ON",
+   "color": "#39FF14",
+   "size": 160,
+   "t": [
+    30.8,
+    33.4
+   ],
+   "y": 560,
+   "anim": "drop",
+   "hide_captions": [
+    30.8,
+    31.9
+   ]
+  },
+  {
+   "text": "TOGETHER",
+   "color": "white",
+   "size": 130,
+   "t": [
+    31.3,
+    33.4
+   ],
+   "y": 740,
+   "anim": "slide"
+  }
+ ],
+ "sfx": [
+  [
+   "plop",
+   4.88
+  ],
+  [
+   "plop",
+   5.34
+  ],
+  [
+   "plop",
+   6.38
+  ],
+  [
+   "fahhh",
+   9.95
+  ],
+  [
+   "swoosh",
+   10.4
+  ],
+  [
+   "swoosh",
+   13.38
+  ],
+  [
+   "scream",
+   13.75,
+   -8
+  ],
+  [
+   "minecraft_door_close",
+   15.95
+  ],
+  [
+   "swoosh",
+   16.58
+  ],
+  [
+   "minecraft_door_close",
+   18.95
+  ],
+  [
+   "swoosh",
+   19.4
+  ],
+  [
+   "error",
+   25.9
+  ],
+  [
+   "mouse_click",
+   26.55
+  ],
+  [
+   "mouse_click",
+   27.0
+  ],
+  [
+   "mouse_click",
+   27.5
+  ],
+  [
+   "steam_achievement",
+   28.63
+  ],
+  [
+   "plop",
+   29.62
+  ],
+  [
+   "plop",
+   29.9
+  ],
+  [
+   "swoosh",
+   30.78
+  ],
+  [
+   "plop",
+   31.3
+  ],
+  [
+   "steam_sound",
+   32.86
+  ],
+  [
+   "minecraft_door_open",
+   33.38
+  ]
+ ]
+}

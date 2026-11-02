@@ -27,7 +27,10 @@ ElevenLabs („mainaccount“, `assets/stimme.json`) nur noch als Notlösung, we
 ## Dateien
 - `assets/logo.png` – Logo freigestellt · `assets/caption.ttf` – Untertitel-Schrift (Montserrat Black Italic)
 - `assets/musik/hintergrund_musik.mp3` – Intro-Musik · `assets/musik/mainbeat.mp3` – Beat, **Drop bei 13,77 s**
-- `scripts/render_test.py` – Renderer (Intro/Blitz/Beat/Logo/Titel/Untertitel) · `scripts/words.py` – Wort-Zeitstempel (faster-whisper)
+- `scripts/render.py` – **Haupt-Renderer**: `python3 scripts/render.py videos/<spiel>/edit.json` (Segmente, Intro/Blitz/Beat, Logo, Titel, Untertitel, große Wörter, SFX, Lautstärken)
+- `scripts/words.py` – Wort-Zeitstempel (faster-whisper; `pip install faster-whisper`) · `scripts/render_test.py` – alter Test
+- `videos/<spiel>/` – script.md, edit.json (Schnittplan), voice.m4a, words.json. Trailer liegen NICHT im Repo → neu laden (Steam-API) und Pfade in `sources` anpassen. Fertige MP4s werden nicht eingecheckt.
+- edit.json-Segmente: `"fit": 1.35` = ganzes 16:9-Bild mit unscharfem Hintergrund (für Logos/Endbilder/Menüs, damit nichts abgeschnitten wird); `cx` = horizontaler Ausschnitt 0–1
 
 ## Offen
 - SFX: 15 Sounds von Deglau sind da (siehe STIL.md); Hit und Boom noch selbst besorgen (CC0)
