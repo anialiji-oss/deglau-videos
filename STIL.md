@@ -41,7 +41,8 @@
 - Den **Trailer immer selbst raussuchen**: immer den **neuesten Trailer** des Spiels
   (Quelle: Steam, `store.steampowered.com/api/storesearch` → `appdetails` → `movies`, neuester zuerst, HLS-Download funktioniert).
 - Reicht der neueste Trailer nicht (z. B. viele Texttafeln), ältere Trailer / Gameplay-Videos des Spiels ergänzen.
-- 16:9 → auf 9:16 zuschneiden. Texttafeln/Logos/Endbilder des Trailers NICHT verwenden (nur Gameplay).
+- 16:9 → 9:16 mit **Zoom-Stufe 1.5** (Deglau): 1,5× breiterer Ausschnitt als Vollbild, unscharfer Rand oben/unten – sonst wirkt es zu nah. Im Renderer Standard (`wide`, pro Segment änderbar).
+- Texttafeln/Logos/Endbilder des Trailers NICHT verwenden (nur Gameplay).
 
 ### Bild muss zum Gesagten passen
 - Jede Szene muss zu dem passen, was gerade gesagt wird – wörtlich, wo möglich

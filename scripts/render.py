@@ -106,12 +106,18 @@ def main(edit_path):
         ss, se = sg["src"][1], sg["src"][2]
         speed = (se - ss) / out_d if se else 1.0
         cx = sg.get("cx", 0.5); zoom = sg.get("zoom", 1.0)
+        wide = sg.get("wide", E.get("wide", 1.5))   # 1.0 = alter Vollbild-Zuschnitt
         if "fit" in sg:   # ganzes 16:9-Bild zeigen (Logos/Endbild), unscharfer Hintergrund dahinter
             fw = int(W * sg["fit"]) // 2 * 2
             vf = (f"setpts=(PTS-STARTPTS)/{speed:.5f},split[a][b];"
                   f"[a]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},boxblur=25:2,eq=brightness=-0.08[bg];"
                   f"[b]scale={fw}:-2:flags=lanczos[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2,"
                   f"setsar=1,fps={FPS},tpad=stop_mode=clone:stop_duration=2")
+        elif wide > 1.0:  # Standard (Deglau: Stufe 1.5): breiterer Ausschnitt, unscharfer Rand oben/unten
+            vf = (f"setpts=(PTS-STARTPTS)/{speed:.5f},split[a][b];"
+                  f"[a]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},boxblur=25:2,eq=brightness=-0.08[bg];"
+                  f"[b]crop='min(iw,trunc(ih*9/16*{wide}/2)*2)':ih:(iw-ow)*{cx}:0,scale={W}:-2:flags=lanczos[fg];"
+                  f"[bg][fg]overlay=(W-w)/2:(H-h)/2,setsar=1,fps={FPS},tpad=stop_mode=clone:stop_duration=2")
         else:
             vf = (f"setpts=(PTS-STARTPTS)/{speed:.5f},"
                   f"crop=trunc(ih*9/16/{zoom}/2)*2:trunc(ih/{zoom}/2)*2:(iw-ow)*{cx}:(ih-oh)*{sg.get('cy', 0.5)},"
