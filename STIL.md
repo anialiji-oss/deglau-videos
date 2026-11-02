@@ -80,3 +80,15 @@ Nur an **coolen Stellen** (Feature-Highlight, Spielname, Logo), nicht ständig. 
 - Grundstock: Deglaus eigene SFX (werden in `assets/sfx/` abgelegt).
 - Passt keiner davon zur Stelle → **selbst einen passenden suchen und holen** (lizenzfrei, z. B. CC0) und ebenfalls in `assets/sfx/` speichern,
   damit er beim nächsten Mal da ist. Nur wenn nichts zu finden ist, selbst erzeugen.
+
+### Deglaus SFX (`assets/sfx/`, Stille am Anfang entfernt, Lautstärke angeglichen)
+Meme-/Comedy-Sounds – für lustige Momente, wenn im Gameplay oder im Text etwas schiefgeht oder absurd ist:
+| Datei | Länge | Wofür |
+|---|---|---|
+| `discord_notification.mp3` | 0,5 s | Nachricht/Handy/Einblendung poppt auf, „Pling“-Moment |
+| `error.mp3` | 1,0 s | etwas geht schief, falsche Entscheidung, Fail |
+| `fahhh.mp3` | 2,0 s | großer Fail / „oh nein“-Moment, jemand fällt oder versagt komplett |
+| `fart.mp3` | 0,4 s | peinlicher/dummer Moment, Pointe nach einem Witz |
+| `alarm.mp3` | 0,7 s | Polizei, Gefahr, „Achtung“, etwas Verbotenes |
+- Meme-Sounds sparsam: höchstens 2–3 pro Video, auf die Pointe – nie über ein wichtiges Wort.
+- Whoosh, Pop, Hit, Thunk, Boom (für Schnitte, Wort-Effekte, Platzieren, Logo) fehlen noch im Paket → selbst suchen (CC0) und hier ablegen.

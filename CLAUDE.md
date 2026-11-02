@@ -18,5 +18,5 @@ Dieses Repo gehört Deglau (TikTok @deglaugaming). Ziel: Auf „Mach das Game X�
 
 ## Offen
 - Saubere Stimmprobe + Entscheidung ElevenLabs vs. Open Source
-- SFX von Deglau kommen → in `assets/sfx/` ablegen und benennen (whoosh, pop, hit, …)
+- SFX: Meme-Sounds von Deglau sind da; Whoosh/Pop/Hit/Thunk/Boom noch selbst besorgen (CC0)
 - Effekt „Wörter hinter der Figur“ technisch einrichten (Segmentierung)
