@@ -188,8 +188,10 @@ im Schnittplan gibt man an, wann der Sound am lautesten sein soll, der Renderer 
 - Danach ein **Übergang** zum nächsten Abschnitt (heller Lichtblitz / Licht-Leak, Wisch-Unschärfe).
 
 ### Fotos / Bilder einblenden
-- Wenn etwas Bestimmtes gesagt wird, kleines Bild oben einblenden (Meme-Foto, Logo des Genannten, z. B. Python-Logo bei „programmieren“, App-Store-Kachel bei „auf dem Handy“, Hacker-Foto bei „verdammt gut“).
-- Beim Nennen des Spielnamens: kleine **Logo-Kachel** des Spiels oben (Bild-im-Bild, nicht Vollbild) – ⚠ mit Deglau klären, ob das trotz „nur Gameplay“ okay ist.
+- ✅ **Erlaubt (Deglau):** kleine **Kachel/Kästchen vom Spiel selbst** (Steam-Kapselbild/Header des Spiels), oben als Bild-im-Bild, z. B. wenn der Spielname fällt oder ein Spiel angekündigt wird. Quelle: Steam-API `header_image` / `capsule_image` des Spiels.
+- ⛔ **Nicht erlaubt:** Logos von anderen Firmen/Personen (Python-Logo, App-Store-Kachel usw.) und **Meme-/Personenfotos** (z. B. der Mann im Anzug/Kapuze aus dem Mythix-Video).
+- Ausnahme, von Deglau ausdrücklich gewollt: das **drehende Steam-Logo** bei „Steam“ (und das Steam-Icon mit „-100 %“ in der Gratis-Animation).
+- Weiterhin: keine Vollbild-Titelkarten/Endbilder aus dem Trailer – die Spiel-Kachel ist immer klein über dem Gameplay.
 
 ### Weitere Sätze/CTAs aus den Refs
 - „Speichert euch das Video, schickt es euren Freunden und lasst schon mal ein Follow da.“
