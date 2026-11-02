@@ -103,3 +103,8 @@ Meme-/Comedy-Sounds (discord, error, fahhh, fart, alarm, scream) für lustige Mo
 - Meme-Sounds sparsam: höchstens 2–3 pro Video, auf die Pointe – nie über ein wichtiges Wort.
 - Klick/Pop/Tür dürfen öfter kommen (Detail-Ebene), leise unter der Stimme.
 - Fehlen noch: Hit (Einrasten eines Worts, Logo), Boom/Bass-Hit (Endbild) → selbst suchen (CC0) und hier ablegen.
+
+### Aufnahme von Deglau (Tipps, die ihm mitgegeben werden)
+- Handy nah am Mund, ruhiger Raum, **keine Musik** im Hintergrund – Musik und SFX kommen beim Schnitt dazu.
+- Am Stück durchsprechen, im normalen TikTok-Tempo; Versprecher einfach den Satz nochmal sagen – Claude schneidet die beste Version raus.
+- Format egal (Sprachmemo, MP3, Video).
