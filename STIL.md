@@ -41,11 +41,12 @@
 - Den **Trailer immer selbst raussuchen**: immer den **neuesten Trailer** des Spiels
   (Quelle: Steam, `store.steampowered.com/api/storesearch` → `appdetails` → `movies`, neuester zuerst, HLS-Download funktioniert).
 - Reicht der neueste Trailer nicht (z. B. viele Texttafeln), ältere Trailer / Gameplay-Videos des Spiels ergänzen.
-- 16:9 → auf 9:16 zuschneiden, Texttafeln des Trailers nur nutzen, wenn sie zum Gesagten passen.
+- 16:9 → auf 9:16 zuschneiden. Texttafeln/Logos/Endbilder des Trailers NICHT verwenden (nur Gameplay).
 
 ### Bild muss zum Gesagten passen
 - Jede Szene muss zu dem passen, was gerade gesagt wird – wörtlich, wo möglich
-  (sagt er „er schießt ein Tor“ → im Clip fällt ein Tor; „Bier“ → Bier im Bild; „Skins“ → Charakterauswahl; Spielname → Endbild/Logo).
+  (sagt er „er schießt ein Tor“ → im Clip fällt ein Tor; „Bier“ → Bier im Bild; „Skins“ → Charakterauswahl).
+- **NUR GAMEPLAY** (Deglau): keine Logos, Titelbilder, Texttafeln oder Endbilder aus dem Trailer („Carry On Together“-Logo, „Demo now available“ usw.) – auch nicht beim Spielnamen. Den Spielnamen zeigen wir mit unseren eigenen großen Wörtern über Gameplay.
 - Ablauf: Schnitte im Trailer erkennen → Standbilder mit Zeitstempel ansehen → jedem Satz/Stichwort die passendste Stelle zuordnen.
 
 ### Soundeffekte – „Kirsche auf der Sahnetorte“ (gelernt aus Referenzvideo Download_12, Once Human)
@@ -87,14 +88,14 @@ Meme-/Comedy-Sounds (discord, error, fahhh, fart, alarm, scream) für lustige Mo
 |---|---|---|
 | `discord_notification.mp3` | 0,5 s | Nachricht/Handy/Einblendung poppt auf, „Pling“-Moment |
 | `error.mp3` | 1,0 s | etwas geht schief, falsche Entscheidung, Fail |
-| `fahhh.mp3` | 2,0 s | großer Fail / „oh nein“-Moment, jemand fällt oder versagt komplett |
+| `fahhh.mp3` | 2,0 s | ⛔ NICHT benutzen (Deglau: passt nicht) |
 | `fart.mp3` | 0,4 s | peinlicher/dummer Moment, Pointe nach einem Witz |
 | `alarm.mp3` | 0,7 s | Polizei, Gefahr, „Achtung“, etwas Verbotenes |
 | `mouse_click.mp3` | 0,3 s | Klick: Menü, Kaufen, Auswählen, Button drücken, Handy antippen |
 | `plop.mp3` | 0,3 s | Pop: Wort/Bild/Sticker erscheint, Text-Einblendung Wort für Wort |
-| `minecraft_click.mp3` | 0,3 s | kurzer Klick/Tick: Auswahl, kleine Einblendung, Untertitel-Akzent |
-| `minecraft_door_open.mp3` | 0,4 s | Tür/Kiste/Menü geht auf, neue Szene „betreten“, Bild-im-Bild öffnet |
-| `minecraft_door_close.mp3` | 0,4 s | Tür/Kiste/Menü geht zu, Einblendung verschwindet; auch als dumpfer „Thunk“ beim Platzieren |
+| `minecraft_click.mp3` | 0,3 s | ⛔ NICHT benutzen (Deglau: passt nicht) |
+| `minecraft_door_open.mp3` | 0,4 s | ⛔ NICHT benutzen (Deglau: passt nicht) |
+| `minecraft_door_close.mp3` | 0,4 s | ⛔ NICHT benutzen (Deglau: passt nicht) |
 | `swoosh.mp3` | 0,4 s | Whoosh: harter Schnitt, reinfliegende/reinschwingende Wörter, Bild-im-Bild fliegt rein (Peak sofort am Anfang → auf den Moment setzen) |
 | `steam_sound.mp3` | 0,8 s | Steam-Sound: wenn Steam/PC/Release/„kommt auf Steam raus“ gesagt wird, Outro beim Spielnamen |
 | `steam_achievement.mp3` | 0,8 s | Steam-Erfolg: etwas geschafft, Tor, Sieg, Level-Up, krasses Feature freigeschaltet (Höhepunkt am Ende bei 0,7 s → 0,7 s vor dem Moment starten) |
@@ -119,3 +120,7 @@ Werte sind Verstärkung relativ zur **Original-Datei** (wie der Lautstärke-Regl
 | Jeder Soundeffekt (`assets/sfx/*`) | **ca. −3 dB** |
 - Deshalb SFX-Dateien **nie normalisieren**, nur Stille abschneiden – sonst stimmen die −3 dB nicht mehr.
 - Abweichen nur, wenn ein Sound im Mix eindeutig untergeht oder ein wichtiges Wort zudeckt – dann in kleinen Schritten.
+
+### Feedback Video 1 (Carry On Together)
+- Deglau: „Die Soundeffekte passen gar nicht zusammen.“ → fahhh und alle Minecraft-Sounds raus. SFX lieber **weniger und einheitlicher** (swoosh, plop, mouse_click, steam_*, error) statt bunter Meme-Mix.
+- Kein Logo/Titelbild aus dem Trailer – nur Gameplay.

@@ -95,15 +95,26 @@
   {
    "t": [
     5.94,
+    6.38
+   ],
+   "src": [
+    "T",
+    44.55,
+    null
+   ],
+   "_": "oder sogar ein – Sofa Ich-Perspektive"
+  },
+  {
+   "t": [
+    6.38,
     7.26
    ],
    "src": [
     "T",
-    2.19,
-    null
+    51.7,
+    52.3
    ],
-   "_": "Klavier zusammentragen",
-   "fit": 1.35
+   "_": "Klavier zusammentragen – Klavier im Zimmer (Gameplay)"
   },
   {
    "t": [
@@ -336,15 +347,26 @@
   {
    "t": [
     33.4,
+    34.38
+   ],
+   "src": [
+    "T",
+    45.21,
+    null
+   ],
+   "_": "die Demo könnt ihr – Sofa im Zimmer"
+  },
+  {
+   "t": [
+    34.38,
     35.34
    ],
    "src": [
     "T",
-    55.3,
+    46.0,
     null
    ],
-   "_": "Demo – Endbild",
-   "fit": 1.35
+   "_": "jetzt schon spielen – Chaos am Haus"
   },
   {
    "t": [
@@ -372,15 +394,26 @@
   {
    "t": [
     37.0,
-    39.2
+    38.1
    ],
    "src": [
     "T",
-    57.3,
+    50.56,
     null
    ],
-   "_": "viel Spaß euch – Endbild",
-   "fit": 1.35
+   "_": "und jetzt viel – Kollege auf dem Dach"
+  },
+  {
+   "t": [
+    38.1,
+    39.2
+   ],
+   "src": [
+    "G",
+    89.55,
+    null
+   ],
+   "_": "Spaß euch – fliegt durch die Luft"
   }
  ],
  "caption_fixes": [
@@ -471,10 +504,6 @@
    6.38
   ],
   [
-   "fahhh",
-   9.95
-  ],
-  [
    "swoosh",
    10.4
   ],
@@ -488,16 +517,8 @@
    -8
   ],
   [
-   "minecraft_door_close",
-   15.95
-  ],
-  [
    "swoosh",
    16.58
-  ],
-  [
-   "minecraft_door_close",
-   18.95
   ],
   [
    "swoosh",
@@ -542,10 +563,6 @@
   [
    "steam_sound",
    32.86
-  ],
-  [
-   "minecraft_door_open",
-   33.38
   ]
  ]
 }
