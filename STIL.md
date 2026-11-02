@@ -82,7 +82,7 @@ Nur an **coolen Stellen** (Feature-Highlight, Spielname, Logo), nicht ständig. 
   damit er beim nächsten Mal da ist. Nur wenn nichts zu finden ist, selbst erzeugen.
 
 ### Deglaus SFX (`assets/sfx/`, Stille am Anfang entfernt, Lautstärke angeglichen)
-Meme-/Comedy-Sounds – für lustige Momente, wenn im Gameplay oder im Text etwas schiefgeht oder absurd ist:
+Meme-/Comedy-Sounds (discord, error, fahhh, fart, alarm) für lustige Momente; Klick-/Pop-/Tür-Sounds als kleine Detail-Effekte:
 | Datei | Länge | Wofür |
 |---|---|---|
 | `discord_notification.mp3` | 0,5 s | Nachricht/Handy/Einblendung poppt auf, „Pling“-Moment |
@@ -90,5 +90,11 @@ Meme-/Comedy-Sounds – für lustige Momente, wenn im Gameplay oder im Text etwa
 | `fahhh.mp3` | 2,0 s | großer Fail / „oh nein“-Moment, jemand fällt oder versagt komplett |
 | `fart.mp3` | 0,4 s | peinlicher/dummer Moment, Pointe nach einem Witz |
 | `alarm.mp3` | 0,7 s | Polizei, Gefahr, „Achtung“, etwas Verbotenes |
+| `mouse_click.mp3` | 0,3 s | Klick: Menü, Kaufen, Auswählen, Button drücken, Handy antippen |
+| `plop.mp3` | 0,3 s | Pop: Wort/Bild/Sticker erscheint, Text-Einblendung Wort für Wort |
+| `minecraft_click.mp3` | 0,3 s | kurzer Klick/Tick: Auswahl, kleine Einblendung, Untertitel-Akzent |
+| `minecraft_door_open.mp3` | 0,4 s | Tür/Kiste/Menü geht auf, neue Szene „betreten“, Bild-im-Bild öffnet |
+| `minecraft_door_close.mp3` | 0,4 s | Tür/Kiste/Menü geht zu, Einblendung verschwindet; auch als dumpfer „Thunk“ beim Platzieren |
 - Meme-Sounds sparsam: höchstens 2–3 pro Video, auf die Pointe – nie über ein wichtiges Wort.
-- Whoosh, Pop, Hit, Thunk, Boom (für Schnitte, Wort-Effekte, Platzieren, Logo) fehlen noch im Paket → selbst suchen (CC0) und hier ablegen.
+- Klick/Pop/Tür dürfen öfter kommen (Detail-Ebene), leise unter der Stimme.
+- Fehlen noch: Whoosh/Swoosh (Schnitte, reinfliegende Wörter), Hit (Einrasten, Logo), Boom/Bass-Hit (Endbild) → selbst suchen (CC0) und hier ablegen.
