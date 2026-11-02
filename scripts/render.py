@@ -146,6 +146,9 @@ def main(edit_path):
     inputs = ["-i", base_v, "-i", os.path.join(A, "logo.png"), "-loop", "1", "-i", title]
     for f, _ in big:
         inputs += ["-loop", "1", "-i", f]
+    icons = E.get("icons", [])          # kurze Icon-Einblendungen, z. B. drehendes Steam-Logo
+    for ic in icons:
+        inputs += ["-loop", "1", "-i", p(ic["img"], REPO)]
     zoom = f"(1+if(lt(t,{FLASH}),0.02*t+if(gt(t,{TS}),0.07*(t-{TS})*(t-{TS}),0),0.12*exp(-(t-{FLASH})*6)))"
     shake = f"if(between(t,{TS},{FLASH}),9*(t-{TS})*sin(t*70),0)"
     v = (f"[0:v]scale=w='trunc({W}*{zoom}/2)*2':h=-2:eval=frame,"
@@ -164,6 +167,15 @@ def main(edit_path):
             y = str(y0); x = f"(W-w)/2+1100*exp(-9*(t-{t0}))*cos(9*(t-{t0}))"
         v += f";[{idx}:v]format=rgba[b{j}];[{last}][b{j}]overlay=x='{x}':y='{y}':enable='between(t,{t0},{t1})'[k{j}]"
         last = f"k{j}"
+    for j, ic in enumerate(icons):
+        t0, t1 = ic["t"]; d = t1 - t0; sz = ic.get("size", 300); idx = 3 + len(big) + j
+        turns = ic.get("spin", 1.0)
+        # schnell drehen mit Abbremsen (ease-out), kurz ein- und ausblenden
+        ang = f"2*PI*{turns}*(1-pow(1-min(max((t-{t0})/{d*0.8},0),1),3))"
+        v += (f";[{idx}:v]format=rgba,scale={sz}:{sz},rotate=a='{ang}':c=none:ow=iw:oh=ih,"
+              f"fade=in:st={t0}:d=0.06:alpha=1,fade=out:st={t1-0.1}:d=0.1:alpha=1[ic{j}];"
+              f"[{last}][ic{j}]overlay=x=(W-w)/2+{ic.get('dx', 0)}:y={ic.get('y', 700)}:enable='between(t,{t0},{t1})'[ik{j}]")
+        last = f"ik{j}"
     cdir = os.path.join(tmp, "w"); os.makedirs(cdir)
     dt = []
     for k, (s, e, w) in enumerate(caps):
@@ -176,7 +188,7 @@ def main(edit_path):
 
     ai = ["-i", voice, "-i", os.path.join(A, "musik", "hintergrund_musik.mp3"),
           "-i", os.path.join(A, "musik", "mainbeat.mp3"), "-i", os.path.join(A, "sfx", "tension.mp3")]
-    n0 = 3 + len(big)                     # Index der Voice-Eingabe
+    n0 = 3 + len(big) + len(icons)        # Index der Voice-Eingabe
     ms = lambda t: max(0, int(round(t * 1000)))
     a = (f"[{n0}:a]aformat=sample_rates=48000:channel_layouts=stereo[vo];"
          f"[{n0+1}:a]atrim=0:{FLASH},volume={VOL['bgm']},afade=out:st={FLASH-0.15}:d=0.15,aformat=sample_rates=48000:channel_layouts=stereo[bgm];"

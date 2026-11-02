@@ -139,3 +139,13 @@ im Schnittplan gibt man an, wann der Sound am lautesten sein soll, der Renderer 
 - Sounds selbst suchen ist ausdrücklich erlaubt (Deglau): passt nichts aus dem Ordner, auf Mixkit (`mixkit.co/free-sound-effects/<begriff>/`) suchen, zuschneiden, in `_meta.json` eintragen.
 - Feedback Video 1: Steam-Achievement bei „größeren Lkw“ war unnötig → Steam-Sounds nur, wenn wirklich „Steam“ gesagt wird.
 - Feedback Video 1 (v3): Rauschen/Whooshes komplett weglassen.
+
+### Steam-Logo (Deglau)
+- Wenn „Steam“ gesagt wird: `steam_sound` **+ drehendes Steam-Logo** (`assets/steam_logo.png`) – sehr kurz (~0,6 s), dreht sich einmal schnell und bremst ab, ein-/ausblenden.
+- Im Schnittplan: `"icons": [{"img": "assets/steam_logo.png", "t": [start, ende], "size": 260, "y": 690, "spin": 1.0}]` – Start ca. 0,05 s vor dem Steam-Sound. Große Wörter vorher enden lassen, damit nichts überlappt.
+
+### Weniger ist mehr (Feedback Video 1, v6)
+- Deglau: „Sehr viele Soundeffekte sind unnötig und passen nicht rein.“
+- **Nur noch SFX auf klar sichtbare Aktionen** (jemand fällt/landet, etwas wird geworfen, Klick wenn im Menü gewechselt wird, Kauf erscheint, große Wörter, Steam).
+- Nicht mehr: Plop auf bloß genannte Wörter (Sofa/Kühlschrank/Klavier), Schrei, Münzen, Boom am Ende, Geräusche auf Dinge, die man nicht klar sieht.
+- Richtwert: ca. 10–12 SFX pro 40-s-Video.
