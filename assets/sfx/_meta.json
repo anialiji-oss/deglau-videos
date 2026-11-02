@@ -1,0 +1,142 @@
+{
+ "alarm": {
+  "peak": 0.22,
+  "dauer": 0.59,
+  "quelle": "Deglau"
+ },
+ "boom_drum": {
+  "peak": 0.21,
+  "dauer": 3.95,
+  "quelle": "Mixkit: Drum deep impact"
+ },
+ "boom_intro": {
+  "peak": 0.379,
+  "dauer": 3.95,
+  "quelle": "Mixkit: Movie impact intro presentation"
+ },
+ "camera_shutter": {
+  "peak": 0.05,
+  "dauer": 0.26,
+  "quelle": "Mixkit: Camera shutter click"
+ },
+ "coins_clink": {
+  "peak": 0.17,
+  "dauer": 1.2,
+  "quelle": "Mixkit: Clinking coins"
+ },
+ "discord_notification": {
+  "peak": 0.12,
+  "dauer": 0.35,
+  "quelle": "Deglau"
+ },
+ "error": {
+  "peak": 0.03,
+  "dauer": 0.91,
+  "quelle": "Deglau"
+ },
+ "fahhh": {
+  "peak": 0.229,
+  "dauer": 1.84,
+  "quelle": "Deglau"
+ },
+ "fart": {
+  "peak": 0.05,
+  "dauer": 0.31,
+  "quelle": "Deglau"
+ },
+ "hit_deep": {
+  "peak": 1.287,
+  "dauer": 3.32,
+  "quelle": "Mixkit: Cinematic whoosh deep impact"
+ },
+ "hit_whoosh": {
+  "peak": 0.808,
+  "dauer": 3.2,
+  "quelle": "Mixkit: Movie trailer whoosh hit"
+ },
+ "hit_zoom": {
+  "peak": 2.035,
+  "dauer": 3.0,
+  "quelle": "Mixkit: Quick zoom impact"
+ },
+ "minecraft_click": {
+  "peak": 0.0,
+  "dauer": 0.23,
+  "quelle": "Deglau"
+ },
+ "minecraft_door_close": {
+  "peak": 0.18,
+  "dauer": 0.41,
+  "quelle": "Deglau"
+ },
+ "minecraft_door_open": {
+  "peak": 0.21,
+  "dauer": 0.41,
+  "quelle": "Deglau"
+ },
+ "money_bag": {
+  "peak": 0.16,
+  "dauer": 1.7,
+  "quelle": "Mixkit: Money bag drop"
+ },
+ "mouse_click": {
+  "peak": 0.02,
+  "dauer": 0.3,
+  "quelle": "Deglau"
+ },
+ "plop": {
+  "peak": 0.02,
+  "dauer": 0.24,
+  "quelle": "Deglau"
+ },
+ "scream": {
+  "peak": 0.559,
+  "dauer": 1.71,
+  "quelle": "Deglau"
+ },
+ "steam_achievement": {
+  "peak": 0.09,
+  "dauer": 0.71,
+  "quelle": "Deglau"
+ },
+ "steam_sound": {
+  "peak": 0.03,
+  "dauer": 0.71,
+  "quelle": "Deglau"
+ },
+ "swoosh": {
+  "peak": 0.05,
+  "dauer": 0.32,
+  "quelle": "Deglau"
+ },
+ "tension": {
+  "peak": 1.676,
+  "dauer": 2.67,
+  "quelle": "Deglau"
+ },
+ "thud_blow": {
+  "peak": 0.06,
+  "dauer": 1.2,
+  "quelle": "Mixkit: Fast impact blow"
+ },
+ "thud_wood": {
+  "peak": 1.127,
+  "dauer": 1.82,
+  "quelle": "Mixkit: Wood hard hit"
+ },
+ "whoosh_air": {
+  "peak": 0.429,
+  "dauer": 1.64,
+  "quelle": "Mixkit: Fast air sweep transition"
+ },
+ "whoosh_quick": {
+  "peak": 0.529,
+  "dauer": 1.32,
+  "quelle": "Mixkit: Quick swoosh accent"
+ },
+ "whoosh_soft": {
+  "peak": 0.888,
+  "dauer": 1.12,
+  "quelle": "Mixkit: Air woosh"
+ }
+}

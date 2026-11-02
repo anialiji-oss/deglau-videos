@@ -14,7 +14,10 @@ A = os.path.join(REPO, "assets")
 W, H, FPS = 1080, 1920, 30
 VOL = {"bgm": "-2.5dB", "beat": "-13dB", "sfx": -3.0}   # STIL.md
 BEAT_DROP = 13.77                                        # Drop im Main Beat
-TENSION_PEAK = 1.9                                       # Höhepunkt in tension.mp3
+_META = json.load(open(os.path.join(A, "sfx", "_meta.json")))
+def PEAK(name):
+    """Sekunde, an der der Sound am lautesten ist (assets/sfx/_meta.json)."""
+    return _META.get(name, {}).get("peak", 0.0)
 
 
 def p(path, base):
@@ -173,15 +176,16 @@ def main(edit_path):
          f"[{n0+1}:a]atrim=0:{FLASH},volume={VOL['bgm']},afade=out:st={FLASH-0.15}:d=0.15,aformat=sample_rates=48000:channel_layouts=stereo[bgm];"
          f"[{n0+2}:a]atrim=start={BEAT_DROP}:end={BEAT_DROP+END-FLASH+0.1},asetpts=PTS-STARTPTS,volume={VOL['beat']},"
          f"afade=out:st={END-FLASH-1.2}:d=1.2,adelay={ms(FLASH)}|{ms(FLASH)},aformat=sample_rates=48000:channel_layouts=stereo[beat];"
-         f"[{n0+3}:a]volume={VOL['sfx']}dB,adelay={ms(FLASH-TENSION_PEAK)}|{ms(FLASH-TENSION_PEAK)},aformat=sample_rates=48000:channel_layouts=stereo[ten];"
-         f"aevalsrc='0.5*(random(0)*2-1)*(exp(-t*45)+0.7*exp(-max(t-0.07,0)*60)*gte(t,0.07))':d=0.3:s=48000,highpass=f=800,"
-         f"adelay={ms(FLASH)}|{ms(FLASH)},aformat=sample_rates=48000:channel_layouts=stereo[shut]")
-    mix = ["vo", "bgm", "beat", "ten", "shut"]
+         f"[{n0+3}:a]volume={VOL['sfx']}dB,adelay={ms(FLASH-PEAK('tension'))}|{ms(FLASH-PEAK('tension'))},aformat=sample_rates=48000:channel_layouts=stereo[ten]")
+    mix = ["vo", "bgm", "beat", "ten"]
+    # Kamera-Auslöser auf dem Blitz (Datei aus assets/sfx, Peak auf den Blitz gelegt)
+    sfx_list = [["camera_shutter", FLASH]] + E.get("sfx", [])
     sfx_in = []
-    for k, (name, t, *extra) in enumerate(E.get("sfx", [])):
+    for k, (name, t, *extra) in enumerate(sfx_list):
         sfx_in += ["-i", os.path.join(A, "sfx", name + ".mp3")]
         db = VOL["sfx"] + (extra[0] if extra else 0)
-        a += f";[{n0+4+k}:a]volume={db}dB,adelay={ms(t)}|{ms(t)},aformat=sample_rates=48000:channel_layouts=stereo[s{k}]"
+        st = t - PEAK(name)                # t = Zeitpunkt, an dem der Sound am lautesten sein soll
+        a += f";[{n0+4+k}:a]volume={db}dB,adelay={ms(st)}|{ms(st)},aformat=sample_rates=48000:channel_layouts=stereo[s{k}]"
         mix.append(f"s{k}")
     a += ";" + "".join(f"[{m}]" for m in mix) + f"amix=inputs={len(mix)}:normalize=0:duration=longest,atrim=0:{END},alimiter=limit=0.95[aout]"
 

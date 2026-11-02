@@ -124,3 +124,17 @@ Werte sind Verstärkung relativ zur **Original-Datei** (wie der Lautstärke-Regl
 ### Feedback Video 1 (Carry On Together)
 - Deglau: „Die Soundeffekte passen gar nicht zusammen.“ → fahhh und alle Minecraft-Sounds raus. SFX lieber **weniger und einheitlicher** (swoosh, plop, mouse_click, steam_*, error) statt bunter Meme-Mix.
 - Kein Logo/Titelbild aus dem Trailer – nur Gameplay.
+
+### Eigene Sound-Auswahl (Mixkit, kostenlos auch kommerziell, ohne Namensnennung) – `assets/sfx/`
+Stil wie im Once-Human-Video: dezent, „cinematic“, passt zusammen. **Peak-Zeiten stehen in `assets/sfx/_meta.json`** –
+im Schnittplan gibt man an, wann der Sound am lautesten sein soll, der Renderer legt ihn automatisch richtig.
+| Datei | Wofür |
+|---|---|
+| `whoosh_quick`, `whoosh_air`, `whoosh_soft` | Schnitte zwischen Abschnitten, reinschießende Wörter |
+| `hit_whoosh`, `hit_zoom`, `hit_deep` | großes Wort / Name rastet ein |
+| `thud_blow`, `thud_wood` | jemand fällt hin, landet, etwas wird abgestellt, Laterne fällt |
+| `coins_clink`, `money_bag` | Geld verdienen, kaufen |
+| `boom_drum`, `boom_intro` | letzter Schnitt / Ende |
+| `camera_shutter` | kommt automatisch auf den Blitz |
+- Sounds selbst suchen ist ausdrücklich erlaubt (Deglau): passt nichts aus dem Ordner, auf Mixkit (`mixkit.co/free-sound-effects/<begriff>/`) suchen, zuschneiden, in `_meta.json` eintragen.
+- Feedback Video 1: Steam-Achievement bei „größeren Lkw“ war unnötig → Steam-Sounds nur, wenn wirklich „Steam“ gesagt wird.

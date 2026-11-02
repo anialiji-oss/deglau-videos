@@ -504,25 +504,53 @@
    6.38
   ],
   [
-   "swoosh",
-   10.4
+   "thud_blow",
+   9.37,
+   -3
+  ],
+  [
+   "whoosh_quick",
+   10.44,
+   -2
   ],
   [
    "swoosh",
-   13.38
+   12.8
   ],
   [
    "scream",
-   13.75,
+   13.6,
    -8
   ],
   [
-   "swoosh",
-   16.58
+   "thud_wood",
+   13.74,
+   -4
   ],
   [
-   "swoosh",
-   19.4
+   "thud_wood",
+   15.95,
+   -5
+  ],
+  [
+   "whoosh_air",
+   16.62,
+   -2
+  ],
+  [
+   "thud_blow",
+   18.97,
+   -3
+  ],
+  [
+   "whoosh_quick",
+   19.44,
+   -2
+  ],
+  [
+   "whoosh_soft",
+   25.48,
+   -2
   ],
   [
    "error",
@@ -533,16 +561,13 @@
    26.55
   ],
   [
-   "mouse_click",
-   27.0
+   "coins_clink",
+   27.15,
+   -2
   ],
   [
    "mouse_click",
    27.5
-  ],
-  [
-   "steam_achievement",
-   28.63
   ],
   [
    "plop",
@@ -553,16 +578,39 @@
    29.9
   ],
   [
-   "swoosh",
-   30.78
+   "whoosh_soft",
+   30.48,
+   -2
   ],
   [
-   "plop",
-   31.3
+   "hit_whoosh",
+   30.92,
+   -4
+  ],
+  [
+   "whoosh_quick",
+   31.45,
+   -3
   ],
   [
    "steam_sound",
    32.86
+  ],
+  [
+   "whoosh_soft",
+   33.4,
+   -2
+  ],
+  [
+   "whoosh_quick",
+   37.0,
+   -2
+  ],
+  [
+   "boom_drum",
+   38.1,
+   -4
   ]
- ]
+ ],
+ "_sfx_info": "Zeit = Moment, an dem der Sound am lautesten ist (Renderer zieht den Peak aus assets/sfx/_meta.json ab). Optional 3. Wert = zusätzliche dB zu den -3 dB."
 }
