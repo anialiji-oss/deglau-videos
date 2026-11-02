@@ -509,11 +509,6 @@
    -3
   ],
   [
-   "whoosh_quick",
-   10.44,
-   -2
-  ],
-  [
    "swoosh",
    12.8
   ],
@@ -533,24 +528,9 @@
    -5
   ],
   [
-   "whoosh_air",
-   16.62,
-   -2
-  ],
-  [
    "thud_blow",
    18.97,
    -3
-  ],
-  [
-   "whoosh_quick",
-   19.44,
-   -2
-  ],
-  [
-   "whoosh_soft",
-   25.48,
-   -2
   ],
   [
    "error",
@@ -578,33 +558,16 @@
    29.9
   ],
   [
-   "whoosh_soft",
-   30.48,
-   -2
+   "swoosh",
+   30.9
   ],
   [
-   "hit_whoosh",
-   30.92,
-   -4
-  ],
-  [
-   "whoosh_quick",
-   31.45,
-   -3
+   "plop",
+   31.47
   ],
   [
    "steam_sound",
    32.86
-  ],
-  [
-   "whoosh_soft",
-   33.4,
-   -2
-  ],
-  [
-   "whoosh_quick",
-   37.0,
-   -2
   ],
   [
    "boom_drum",

@@ -51,8 +51,7 @@
 
 ### Soundeffekte – „Kirsche auf der Sahnetorte“ (gelernt aus Referenzvideo Download_12, Once Human)
 Musik läuft durchgehend leise drunter, Stimme vorne. Dazu viele kurze, leise SFX, die nie ablenken, nur Details verstärken:
-- **Whoosh vor jedem harten Schnitt**: Rauschen, das in den Schnitt hineinzieht und genau auf dem Schnitt endet
-  (z. B. 3,7–3,9 s, 7,3 s, 19,1 s, 25,4 s, 30,2 s, 37,0 s).
+- ~~Whoosh vor jedem harten Schnitt~~ → **gestrichen (Deglau): kein Rauschen bei Schnitten.** Schnitte bleiben ohne Sound; Deglaus `swoosh.mp3` nur für Dinge, die wirklich fliegen (Wurf, reinfallende Wörter).
 - **Pop/Klick pro Wort bei großen Text-Einblendungen**: „NEW“ – „MAPS“ – „AND“ – „EXPANSIONS“ (2,75–3,1 s) erscheinen Wort für Wort, jedes Wort mit eigenem Pop.
 - **Bau-/Platzier-Geräusch („Thunk“, tief + kurz)**, genau in dem Frame, in dem ein Teil im Spiel erscheint
   (Floß wird gebaut: 10,2 s / 10,8 s / 11,2 s).
@@ -130,11 +129,12 @@ Stil wie im Once-Human-Video: dezent, „cinematic“, passt zusammen. **Peak-Ze
 im Schnittplan gibt man an, wann der Sound am lautesten sein soll, der Renderer legt ihn automatisch richtig.
 | Datei | Wofür |
 |---|---|
-| `whoosh_quick`, `whoosh_air`, `whoosh_soft` | Schnitte zwischen Abschnitten, reinschießende Wörter |
-| `hit_whoosh`, `hit_zoom`, `hit_deep` | großes Wort / Name rastet ein |
+| `whoosh_quick`, `whoosh_air`, `whoosh_soft` | ⛔ NICHT benutzen – Deglau: „unnötiges Rauschen, komplett weglassen“ |
+| `hit_zoom`, `hit_deep` | großes Wort / Name rastet ein (sparsam) · `hit_whoosh` ⛔ (Rauschen) |
 | `thud_blow`, `thud_wood` | jemand fällt hin, landet, etwas wird abgestellt, Laterne fällt |
 | `coins_clink`, `money_bag` | Geld verdienen, kaufen |
 | `boom_drum`, `boom_intro` | letzter Schnitt / Ende |
 | `camera_shutter` | kommt automatisch auf den Blitz |
 - Sounds selbst suchen ist ausdrücklich erlaubt (Deglau): passt nichts aus dem Ordner, auf Mixkit (`mixkit.co/free-sound-effects/<begriff>/`) suchen, zuschneiden, in `_meta.json` eintragen.
 - Feedback Video 1: Steam-Achievement bei „größeren Lkw“ war unnötig → Steam-Sounds nur, wenn wirklich „Steam“ gesagt wird.
+- Feedback Video 1 (v3): Rauschen/Whooshes komplett weglassen.
