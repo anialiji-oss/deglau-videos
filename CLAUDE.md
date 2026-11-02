@@ -18,5 +18,5 @@ Dieses Repo gehört Deglau (TikTok @deglaugaming). Ziel: Auf „Mach das Game X�
 
 ## Offen
 - Saubere Stimmprobe + Entscheidung ElevenLabs vs. Open Source
-- SFX-Paket (Whoosh, Pop, Thunk, Boom) – eigenes oder CC0
-- Wahl: große bunte Wort-Einblendungen wie im Referenzvideo Once Human übernehmen?
+- SFX von Deglau kommen → in `assets/sfx/` ablegen und benennen (whoosh, pop, hit, …)
+- Effekt „Wörter hinter der Figur“ technisch einrichten (Segmentierung)

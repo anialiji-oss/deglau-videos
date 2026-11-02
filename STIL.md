@@ -61,3 +61,22 @@ Musik läuft durchgehend leise drunter, Stimme vorne. Dazu viele kurze, leise SF
 - Lautstärke: SFX deutlich leiser als die Stimme, eher Gefühl als Geräusch; nie über ein wichtiges Wort legen.
 
 Regel für jedes Video: Bei jedem Schnitt, jeder Text-Einblendung und jeder sichtbaren Aktion im Gameplay (platzieren, schießen, Tor, hinfallen, kaufen …) prüfen, ob ein passender kleiner SFX drauf gehört.
+
+### Große Wörter mit Effekt (Referenz: Once-Human-Video, Download_12)
+Nur an **coolen Stellen** (Feature-Highlight, Spielname, Logo), nicht ständig. Nie einfach nur einblenden, die Wörter kommen **geschwungen** rein:
+- **Reinfliegen mit Bewegungsunschärfe**: Wort schießt seitlich rein (Motion Blur), schwingt leicht über das Ziel hinaus und rastet ein
+  (z. B. „EXPANSIONS“ rot, 3,1 s).
+- **Reinfallen mit Federn**: Wort fällt von oben rein, wippt kurz nach und bleibt stehen („MOBILE“ grün, 13,7–14,0 s),
+  die zweite Zeile kommt kleiner hinterher („SEA FORTRESS“ weiß, 14,2 s).
+- **Wort für Wort aufbauen**: „NEW“ → „MAPS“ → „AND“ → „EXPANSIONS“, jedes Wort einzeln, jedes mit eigenem Whoosh/Pop.
+- **Wörter HINTER der Figur**: Der Text steht im Bild-Hintergrund, die Figur/das Objekt läuft davor
+  (Spiel-Logo „ONCE HUMAN“ fliegt von unten groß und glitchig rein und landet hinter dem Charakter, 34,1–34,5 s).
+  Technik: Figur pro Frame freistellen (Segmentierung, z. B. rembg), Ebenen: Hintergrund → Text → Figur.
+- Farben: Signalfarben mit dicker Schrift (grün/weiß/rot), ein Schlüsselwort farbig, der Rest weiß.
+- Jeder dieser Effekte bekommt einen passenden **Whoosh/Swoosh** (Reinfliegen) bzw. **Hit** (Einrasten).
+- Die normalen Wort-für-Wort-Untertitel bleiben trotzdem; während eines großen Wort-Effekts können sie kurz ausgeblendet werden.
+
+### Soundeffekte – Beschaffung
+- Grundstock: Deglaus eigene SFX (werden in `assets/sfx/` abgelegt).
+- Passt keiner davon zur Stelle → **selbst einen passenden suchen und holen** (lizenzfrei, z. B. CC0) und ebenfalls in `assets/sfx/` speichern,
+  damit er beim nächsten Mal da ist. Nur wenn nichts zu finden ist, selbst erzeugen.
