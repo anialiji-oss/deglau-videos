@@ -4,6 +4,11 @@
   "dauer": 0.59,
   "quelle": "Deglau"
  },
+ "bone_crack": {
+  "peak": 0.04,
+  "dauer": 0.8,
+  "quelle": "Mixkit: Bone breaking with echo"
+ },
  "boom_drum": {
   "peak": 0.21,
   "dauer": 3.95,
@@ -79,6 +84,11 @@
   "dauer": 1.7,
   "quelle": "Mixkit: Money bag drop"
  },
+ "money_lose": {
+  "peak": 0.1,
+  "dauer": 1.72,
+  "quelle": "Mixkit: Negative answer lose"
+ },
  "mouse_click": {
   "peak": 0.02,
   "dauer": 0.3,
@@ -93,6 +103,11 @@
   "peak": 0.559,
   "dauer": 1.71,
   "quelle": "Deglau"
+ },
+ "scream_kurz": {
+  "peak": 0.559,
+  "dauer": 0.95,
+  "quelle": "Deglau (scream, auf 0,95 s gekürzt)"
  },
  "steam_achievement": {
   "peak": 0.09,

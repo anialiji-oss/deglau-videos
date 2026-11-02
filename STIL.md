@@ -156,3 +156,5 @@ im Schnittplan gibt man an, wann der Sound am lautesten sein soll, der Renderer 
   - „Steam“ gesagt → `steam_sound` + drehendes Steam-Logo
   - Wechsel/Auswahl in einem Menü, das man im Bild sieht (z. B. Lkw-Shop) → `mouse_click` genau auf jeden Wechsel
 - **Alles andere nur, wenn Deglau es ausdrücklich sagt** („bei Sekunde X Sound Y rein“). Nicht selbst zusätzlich einbauen.
+- Auf Deglaus Ansage (Video 1): **Geld abgezogen → `money_lose`**, **jemand wird getroffen → `scream_kurz` (leise, -4 dB)**, **jemand fällt hin → `bone_crack`** – jeweils genau auf den sichtbaren Moment.
+  Diese drei darf ich künftig bei genau solchen Momenten auch von mir aus vorschlagen.
