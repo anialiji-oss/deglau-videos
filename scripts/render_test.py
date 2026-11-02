@@ -51,9 +51,9 @@ v=(f"[0:v]trim=40.5:{40.5+END},setpts=PTS-STARTPTS,delogo=x=246:y=70:w=100:h=84,
    f"[1:v]scale=175:-1[lg];[g2][lg]overlay=x=(W-w)/2+8:y=128[g3];"
    f"[2:v]format=rgba[tt];[g3][tt]overlay=x=(W-w)/2:y=292:enable='lt(t,{FLASH})',"+",".join(caps)+"[vout]")
 fd=int(FLASH*1000)
-a=(f"[3:a]atrim=0:{FLASH},volume=1.4,afade=out:st={TS+0.3}:d={FLASH-TS-0.3}[bgm];"
+a=(f"[3:a]atrim=0:{FLASH},volume=-2.5dB,afade=out:st={TS+0.3}:d={FLASH-TS-0.3}[bgm];"
    f"[4:a]atrim=start=11.77:end={11.77+END},asetpts=PTS-STARTPTS,adelay={int(TS*1000)}|{int(TS*1000)},afade=in:st={TS}:d=1.4,"
-   f"volume='if(lt(t,{FLASH}),0.55,0.24+0.6*exp(-(t-{FLASH})*7))':eval=frame,afade=out:st={END-1.2}:d=1.2[beat];"
+   f"volume=-13dB,afade=out:st={END-1.2}:d=1.2[beat];"
    f"anoisesrc=d=2:c=pink:a=0.25,highpass=f=2000,afade=in:d=2:curve=exp,adelay={int(TS*1000)}|{int(TS*1000)},aformat=channel_layouts=stereo[rise];"
    f"aevalsrc='0.9*(random(0)*2-1)*(exp(-t*45)+0.7*exp(-max(t-0.07,0)*60)*gte(t,0.07))':d=0.3:s=44100,highpass=f=800,adelay={fd}|{fd},aformat=channel_layouts=stereo[shut];"
    f"[5:a]volume=1.7,aformat=channel_layouts=stereo,adelay={int(VOICE*1000)+1}|{int(VOICE*1000)+1}[vo];"

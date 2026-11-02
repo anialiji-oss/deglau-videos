@@ -81,7 +81,7 @@ Nur an **coolen Stellen** (Feature-Highlight, Spielname, Logo), nicht ständig. 
 - Passt keiner davon zur Stelle → **selbst einen passenden suchen und holen** (lizenzfrei, z. B. CC0) und ebenfalls in `assets/sfx/` speichern,
   damit er beim nächsten Mal da ist. Nur wenn nichts zu finden ist, selbst erzeugen.
 
-### Deglaus SFX (`assets/sfx/`, Stille am Anfang entfernt, Lautstärke angeglichen)
+### Deglaus SFX (`assets/sfx/`, Original-Lautstärke, nur Stille am Anfang entfernt)
 Meme-/Comedy-Sounds (discord, error, fahhh, fart, alarm, scream) für lustige Momente; Klick-/Pop-/Tür-Sounds als kleine Detail-Effekte:
 | Datei | Länge | Wofür |
 |---|---|---|
@@ -108,3 +108,14 @@ Meme-/Comedy-Sounds (discord, error, fahhh, fart, alarm, scream) für lustige Mo
 - Handy nah am Mund, ruhiger Raum, **keine Musik** im Hintergrund – Musik und SFX kommen beim Schnitt dazu.
 - Am Stück durchsprechen, im normalen TikTok-Tempo; Versprecher einfach den Satz nochmal sagen – Claude schneidet die beste Version raus.
 - Format egal (Sprachmemo, MP3, Video).
+
+### Lautstärken (Deglaus CapCut-Werte – fest)
+Werte sind Verstärkung relativ zur **Original-Datei** (wie der Lautstärke-Regler in CapCut):
+| Spur | Lautstärke |
+|---|---|
+| Stimme (Deglaus Aufnahme) | 0 dB (Original) |
+| Hintergrundmusik (`assets/musik/hintergrund_musik.mp3`) | **−2,5 dB** |
+| Main Beat (`assets/musik/mainbeat.mp3`) | **−13 dB** |
+| Jeder Soundeffekt (`assets/sfx/*`) | **ca. −3 dB** |
+- Deshalb SFX-Dateien **nie normalisieren**, nur Stille abschneiden – sonst stimmen die −3 dB nicht mehr.
+- Abweichen nur, wenn ein Sound im Mix eindeutig untergeht oder ein wichtiges Wort zudeckt – dann in kleinen Schritten.
