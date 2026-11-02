@@ -33,7 +33,7 @@
 ### Intro / Musik
 - Deglau redet **ab Sekunde 0 durchgehend**, nie erst nur Musik.
 - Darunter: **Hintergrundmusik** (`hintergrund_musik.mp4`) → **Spannung steigt** während des Hook-Satzes
-  (Übergang in den Aufbau vom Main Beat, Rauschen, Bild zoomt/wackelt/wird dunkler)
+  (Übergang in den Aufbau vom Main Beat + `assets/sfx/tension.mp3`, Bild zoomt/wackelt/wird dunkler)
   → **Kamera-Blitz + Beat-Wechsel genau am Ende des Hook-Satzes** → **Main Beat** (`mainbeat.mp4`, Drop bei 13,77 s) leiser unter der Stimme.
 - Titel-Box verschwindet mit dem Blitz.
 
@@ -82,7 +82,7 @@ Nur an **coolen Stellen** (Feature-Highlight, Spielname, Logo), nicht ständig. 
   damit er beim nächsten Mal da ist. Nur wenn nichts zu finden ist, selbst erzeugen.
 
 ### Deglaus SFX (`assets/sfx/`, Stille am Anfang entfernt, Lautstärke angeglichen)
-Meme-/Comedy-Sounds (discord, error, fahhh, fart, alarm) für lustige Momente; Klick-/Pop-/Tür-Sounds als kleine Detail-Effekte:
+Meme-/Comedy-Sounds (discord, error, fahhh, fart, alarm, scream) für lustige Momente; Klick-/Pop-/Tür-Sounds als kleine Detail-Effekte:
 | Datei | Länge | Wofür |
 |---|---|---|
 | `discord_notification.mp3` | 0,5 s | Nachricht/Handy/Einblendung poppt auf, „Pling“-Moment |
@@ -95,6 +95,11 @@ Meme-/Comedy-Sounds (discord, error, fahhh, fart, alarm) für lustige Momente; K
 | `minecraft_click.mp3` | 0,3 s | kurzer Klick/Tick: Auswahl, kleine Einblendung, Untertitel-Akzent |
 | `minecraft_door_open.mp3` | 0,4 s | Tür/Kiste/Menü geht auf, neue Szene „betreten“, Bild-im-Bild öffnet |
 | `minecraft_door_close.mp3` | 0,4 s | Tür/Kiste/Menü geht zu, Einblendung verschwindet; auch als dumpfer „Thunk“ beim Platzieren |
+| `swoosh.mp3` | 0,4 s | Whoosh: harter Schnitt, reinfliegende/reinschwingende Wörter, Bild-im-Bild fliegt rein (Peak sofort am Anfang → auf den Moment setzen) |
+| `steam_sound.mp3` | 0,8 s | Steam-Sound: wenn Steam/PC/Release/„kommt auf Steam raus“ gesagt wird, Outro beim Spielnamen |
+| `steam_achievement.mp3` | 0,8 s | Steam-Erfolg: etwas geschafft, Tor, Sieg, Level-Up, krasses Feature freigeschaltet (Höhepunkt am Ende bei 0,7 s → 0,7 s vor dem Moment starten) |
+| `scream.mp3` | 1,8 s | Schrei: Horror, Monster, Absturz, jemand fliegt durch die Luft – Meme-Sound, sparsam |
+| `tension.mp3` | 2,7 s | Spannungsaufbau fürs Intro: läuft während des Hook-Satzes, **Höhepunkt bei 1,9 s** → so legen, dass er genau auf Blitz + Beat-Wechsel landet (Start = Blitz − 1,9 s) |
 - Meme-Sounds sparsam: höchstens 2–3 pro Video, auf die Pointe – nie über ein wichtiges Wort.
 - Klick/Pop/Tür dürfen öfter kommen (Detail-Ebene), leise unter der Stimme.
-- Fehlen noch: Whoosh/Swoosh (Schnitte, reinfliegende Wörter), Hit (Einrasten, Logo), Boom/Bass-Hit (Endbild) → selbst suchen (CC0) und hier ablegen.
+- Fehlen noch: Hit (Einrasten eines Worts, Logo), Boom/Bass-Hit (Endbild) → selbst suchen (CC0) und hier ablegen.

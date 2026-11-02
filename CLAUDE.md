@@ -18,5 +18,5 @@ Dieses Repo gehört Deglau (TikTok @deglaugaming). Ziel: Auf „Mach das Game X�
 
 ## Offen
 - Saubere Stimmprobe + Entscheidung ElevenLabs vs. Open Source
-- SFX: 10 Sounds von Deglau sind da (Meme + Klick/Pop/Tür); Whoosh, Hit, Boom noch selbst besorgen (CC0)
+- SFX: 15 Sounds von Deglau sind da (siehe STIL.md); Hit und Boom noch selbst besorgen (CC0)
 - Effekt „Wörter hinter der Figur“ technisch einrichten (Segmentierung)
