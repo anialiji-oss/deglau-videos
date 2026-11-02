@@ -170,3 +170,29 @@ im Schnittplan gibt man an, wann der Sound am lautesten sein soll, der Renderer 
 
 **Deglau macht selbst (in CapCut, nachträglich):** alle anderen **Soundeffekte**.
 → Claude baut **keine weiteren SFX** ein (auch keine Klicks, Bone Crack, Schreie usw.), außer Deglau sagt es ausdrücklich für ein bestimmtes Video.
+
+## Referenzvideos 2 (Download_13–17, Mythix / Midsoss) – Stil-Erweiterungen
+### Format „Gratis-Spiel vorne + Hauptspiel hinten“ (Deglaus Idee)
+- Erst 1–2 **gratis** Spiele (kurz, je ~10–15 s), danach das eigentliche Spiel (länger). Das Gratis-Spiel zieht rein, das Hauptspiel ist der Payoff.
+- Hook teasert alles: z. B. „Doppelter **Gratis-Game-Alarm**! Hier sind 3 Spiele, die selbst dein **arbeitsloser Kollege** mit dir zocken kann, weil zwei davon komplett kostenlos sind. Und am Ende …“ (Teaser auf das Hauptspiel).
+- Übergänge zwischen Spielen: „Im ersten komplett kostenlosen Spiel …“ / „Im zweiten kostenlosen Spiel …“ / dann das Hauptspiel.
+- Einzelnes Gratis-Spiel: „Gratis-Game-Alarm! Dieses neue Spiel kann selbst dein arbeitsloser Kollege mit dir zocken, weil es komplett kostenlos ist – und verdammt gut aussieht.“
+- Der Spruch **„perfekt für deine arbeitslosen Freunde / dein arbeitsloser Kollege“** passt immer, wenn ein Spiel gratis ist.
+- Gratis-Spiele finden: Steam-Suche `maxprice=free` (+ `specials=1` für zeitweise -100 %), nach Bewertung (≥75 %, genug Reviews) und Release (neu) filtern, lieber Koop/lustig statt der bekannten Riesen (CS2, Apex …).
+
+### Reihen-Animation am Anfang (Titel baut sich auf)
+- Große Wörter erscheinen **nacheinander**, jedes kommt anders rein und bleibt stehen, bis der Block komplett ist:
+  „2x“ wächst auf (Scale-Pop) → **Steam-Icon mit grünen „-100 %“-Schildern** fliegt von unten rein → „GRATIS“ (gelb/grün) schießt von links rein → „GAME“ fällt von oben → „ALARM“ ploppt von unten. Ganzer Block in ~1,5 s.
+- Bei 2 Gratis-Spielen: Bild am Anfang **geteilt (oben Spiel 1, unten Spiel 2)**, Titel-Block in der Mitte.
+- Derselbe Effekt mitten im Video für Highlight-Sätze: „SIEHT – VERDAMMT (rot) – GUT AUS“ Wort für Wort, jedes aus einer anderen Richtung.
+- Danach ein **Übergang** zum nächsten Abschnitt (heller Lichtblitz / Licht-Leak, Wisch-Unschärfe).
+
+### Fotos / Bilder einblenden
+- Wenn etwas Bestimmtes gesagt wird, kleines Bild oben einblenden (Meme-Foto, Logo des Genannten, z. B. Python-Logo bei „programmieren“, App-Store-Kachel bei „auf dem Handy“, Hacker-Foto bei „verdammt gut“).
+- Beim Nennen des Spielnamens: kleine **Logo-Kachel** des Spiels oben (Bild-im-Bild, nicht Vollbild) – ⚠ mit Deglau klären, ob das trotz „nur Gameplay“ okay ist.
+
+### Weitere Sätze/CTAs aus den Refs
+- „Speichert euch das Video, schickt es euren Freunden und lasst schon mal ein Follow da.“
+- „Schickt das Video einem Freund, der …“ (passend zum Spiel)
+- Frage für Kommentare: „Würdet ihr lieber als X oder als Y spielen? Schreibt's mir in die Kommentare.“
+- „Den Playtest könnt ihr auf Steam zocken“ / „… und ist komplett kostenlos.“
