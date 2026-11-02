@@ -1,0 +1,14 @@
+{
+  "anbieter": "ElevenLabs",
+  "api_key_env": "ELEVENLABS_API_KEY",
+  "voice_name": "mainaccount",
+  "voice_id": "ZNgp5FIfk35zq3NKcpKB",
+  "modell_kandidaten": ["eleven_multilingual_v2", "eleven_v3"],
+  "modell": "noch offen – Deglau wählt nach Hörprobe",
+  "output_format": "mp3_44100_128",
+  "language_code": "de",
+  "hinweise": [
+    "mp3_44100_192 geht erst ab Creator-Abo",
+    "Deglau spricht im Original schneller (Hook + CTA ca. 9 s statt 11,5 s) -> ggf. voice_settings.speed ~1.1-1.2 testen"
+  ]
+}
