@@ -19,7 +19,7 @@ Features nur so, wie sie im Trailer auch zu sehen sind, damit Bild und Text spä
 - Neuesten Trailer holen (Steam-API, siehe STIL.md), Szenen passend zum Gesagten
 - Intro: Hintergrundmusik → `tension.mp3` → Blitz + Beat am Ende des Hook-Satzes
 - Logo, Titel-Box, Wort-für-Wort-Untertitel, große Wort-Effekte an coolen Stellen, Einblendungen
-- Soundeffekte aus `assets/sfx/` (Regeln in STIL.md)
+- Soundeffekte: **nur Steam (Sound + drehendes Logo) und Menü-Klicks**, alles andere nur auf Deglaus Ansage (STIL.md, Abschnitt ⭐)
 - Export 1080x1920, 30 fps → an Deglau schicken
 
 ElevenLabs („mainaccount“, `assets/stimme.json`) nur noch als Notlösung, wenn Deglau das ausdrücklich will.

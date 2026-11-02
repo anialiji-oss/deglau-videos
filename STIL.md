@@ -149,3 +149,10 @@ im Schnittplan gibt man an, wann der Sound am lautesten sein soll, der Renderer 
 - **Nur noch SFX auf klar sichtbare Aktionen** (jemand fällt/landet, etwas wird geworfen, Klick wenn im Menü gewechselt wird, Kauf erscheint, große Wörter, Steam).
 - Nicht mehr: Plop auf bloß genannte Wörter (Sofa/Kühlschrank/Klavier), Schrei, Münzen, Boom am Ende, Geräusche auf Dinge, die man nicht klar sieht.
 - Richtwert: ca. 10–12 SFX pro 40-s-Video.
+
+### ⭐ So machen wir es ab jetzt (Deglau, nach Video 1) – hat Vorrang vor allen SFX-Regeln oben
+- **Musik, Intro (Hintergrundmusik → Tension → Kamera-Auslöser + Blitz → Main Beat) bleiben immer.**
+- **Standard-SFX nur noch:**
+  - „Steam“ gesagt → `steam_sound` + drehendes Steam-Logo
+  - Wechsel/Auswahl in einem Menü, das man im Bild sieht (z. B. Lkw-Shop) → `mouse_click` genau auf jeden Wechsel
+- **Alles andere nur, wenn Deglau es ausdrücklich sagt** („bei Sekunde X Sound Y rein“). Nicht selbst zusätzlich einbauen.

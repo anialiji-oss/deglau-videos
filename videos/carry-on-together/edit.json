@@ -492,51 +492,12 @@
  ],
  "sfx": [
   [
-   "thud_blow",
-   9.37,
-   -3
-  ],
-  [
-   "swoosh",
-   12.8
-  ],
-  [
-   "thud_wood",
-   13.74,
-   -4
-  ],
-  [
-   "thud_blow",
-   18.97,
-   -3
-  ],
-  [
-   "error",
-   25.9
-  ],
-  [
    "mouse_click",
    26.9
   ],
   [
    "mouse_click",
    27.43
-  ],
-  [
-   "plop",
-   29.62
-  ],
-  [
-   "plop",
-   29.9
-  ],
-  [
-   "swoosh",
-   30.9
-  ],
-  [
-   "plop",
-   31.47
   ],
   [
    "steam_sound",
