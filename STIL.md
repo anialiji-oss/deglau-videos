@@ -159,3 +159,14 @@ im Schnittplan gibt man an, wann der Sound am lautesten sein soll, der Renderer 
 - Auf Deglaus Ansage (Video 1): **Geld abgezogen → `money_lose`**, **jemand wird getroffen → `scream_kurz` (leise, -4 dB)**, **jemand fällt hin → `bone_crack`** – jeweils genau auf den sichtbaren Moment.
   Diese drei darf ich künftig bei genau solchen Momenten auch von mir aus vorschlagen.
   - Feinschliff (Deglau): Schrei erst **beginnen** lassen, wenn die Figur am Boden liegt (Startzeit, nicht Peak, auf den Moment). Bone Crack ruhig lauter (ca. +4 dB über dem Standard).
+
+## ⭐⭐ AUFGABENTEILUNG (Deglau, final nach Video 1) – gilt vor allem anderen
+**Claude macht immer:**
+1. **Script schreiben** (Stil siehe oben, Features nur aus dem Trailer).
+2. **Video schneiden** auf Deglaus Aufnahme: Szenen passend zum Gesagten, nur Gameplay, Zoom-Stufe 1.5, Logo, Titel-Box, Wort-für-Wort-Untertitel, große Wörter.
+3. **Intro immer:** Hintergrundmusik → Tension → Kamera-Auslöser + Blitz → Main Beat (Lautstärken: −2,5 / −13 / −3 dB).
+4. **Steam immer:** sobald „Steam“ gesagt wird → `steam_sound` + drehendes Steam-Logo.
+5. **Übergänge** (Blitz/Zoom-Punch wie im Intro) darf Claude auch mitten im Video einsetzen, wenn es an einer Stelle gut passt (z. B. Wechsel zu einem Highlight) – sparsam.
+
+**Deglau macht selbst (in CapCut, nachträglich):** alle anderen **Soundeffekte**.
+→ Claude baut **keine weiteren SFX** ein (auch keine Klicks, Bone Crack, Schreie usw.), außer Deglau sagt es ausdrücklich für ein bestimmtes Video.

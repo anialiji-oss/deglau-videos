@@ -19,7 +19,8 @@ Features nur so, wie sie im Trailer auch zu sehen sind, damit Bild und Text spä
 - Neuesten Trailer holen (Steam-API, siehe STIL.md), Szenen passend zum Gesagten
 - Intro: Hintergrundmusik → `tension.mp3` → Blitz + Beat am Ende des Hook-Satzes
 - Logo, Titel-Box, Wort-für-Wort-Untertitel, große Wort-Effekte an coolen Stellen, Einblendungen
-- Soundeffekte: **nur Steam (Sound + drehendes Logo) und Menü-Klicks**, alles andere nur auf Deglaus Ansage (STIL.md, Abschnitt ⭐)
+- Soundeffekte: **nur Steam (Sound + drehendes Logo)**. Alle anderen SFX macht Deglau selbst in CapCut (STIL.md, Abschnitt ⭐⭐ Aufgabenteilung)
+- Übergänge (Blitz/Zoom-Punch) mitten im Video erlaubt, wenn es gut passt
 - Export 1080x1920, 30 fps → an Deglau schicken
 
 ElevenLabs („mainaccount“, `assets/stimme.json`) nur noch als Notlösung, wenn Deglau das ausdrücklich will.
@@ -33,5 +34,4 @@ ElevenLabs („mainaccount“, `assets/stimme.json`) nur noch als Notlösung, we
 - edit.json-Segmente: `"fit": 1.35` = ganzes 16:9-Bild mit unscharfem Hintergrund (für Logos/Endbilder/Menüs, damit nichts abgeschnitten wird); `cx` = horizontaler Ausschnitt 0–1
 
 ## Offen
-- SFX: 15 Sounds von Deglau sind da (siehe STIL.md); Hit und Boom noch selbst besorgen (CC0)
 - Effekt „Wörter hinter der Figur“ technisch einrichten (Segmentierung)
