@@ -1,0 +1,571 @@
+{
+ "voice": "voice.m4a",
+ "words": "words.json",
+ "output": "/home/user/deglau-videos/videos/gold-mining-simulator-de/gold_mining_simulator_de.mp4",
+ "sources": {
+  "T": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/gmsde/t_1314559506.mp4",
+  "D": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/gmsde/t_284677699.mp4"
+ },
+ "_quellen": "T = 'Definitive Edition - Trailer' (257396602), D = Devlog 'Release Date & What's new' (257459173). Beide haben eingebrannte Texte -> rect schneidet sie weg.",
+ "flash": 3.0,
+ "end": 42.6,
+ "title": {
+  "lines": [
+   "Goldrausch in Alaska",
+   "nur als Spiel"
+  ],
+  "emojis": [
+   "🎮",
+   "🔥"
+  ]
+ },
+ "segments": [
+  {
+   "t": [
+    0.0,
+    1.68
+   ],
+   "src": [
+    "T",
+    75.19,
+    null
+   ],
+   "_": "wie Goldrausch in Alaska – Wald mit Lichtstrahlen"
+  },
+  {
+   "t": [
+    1.68,
+    3.0
+   ],
+   "src": [
+    "T",
+    44.55,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.8
+   ],
+   "_": "du der Boss – große Mine, Berge"
+  },
+  {
+   "t": [
+    3.0,
+    4.7
+   ],
+   "src": [
+    "T",
+    4.99,
+    null
+   ],
+   "_": "kleine Goldpfanne"
+  },
+  {
+   "t": [
+    4.7,
+    5.96
+   ],
+   "src": [
+    "T",
+    64.16,
+    null
+   ],
+   "_": "riesigen Bagger"
+  },
+  {
+   "t": [
+    5.96,
+    6.96
+   ],
+   "src": [
+    "T",
+    41.66,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.8
+   ],
+   "_": "Muldenkipper"
+  },
+  {
+   "t": [
+    6.96,
+    8.52
+   ],
+   "src": [
+    "T",
+    29.06,
+    null
+   ],
+   "_": "komplette Waschanlage"
+  },
+  {
+   "t": [
+    8.52,
+    10.34
+   ],
+   "src": [
+    "T",
+    12.19,
+    null
+   ],
+   "_": "tonnenweise Erde durchsiebt – Trommel"
+  },
+  {
+   "t": [
+    10.34,
+    12.2
+   ],
+   "src": [
+    "T",
+    55.3,
+    null
+   ],
+   "_": "quasi Satisfactory – ganze Anlage"
+  },
+  {
+   "t": [
+    12.2,
+    13.52
+   ],
+   "src": [
+    "T",
+    0.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "alle DLCs – viele Maschinen"
+  },
+  {
+   "t": [
+    13.52,
+    14.5
+   ],
+   "src": [
+    "T",
+    2.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ]
+  },
+  {
+   "t": [
+    14.5,
+    16.3
+   ],
+   "src": [
+    "T",
+    20.95,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Grafik überarbeitet"
+  },
+  {
+   "t": [
+    16.3,
+    17.62
+   ],
+   "src": [
+    "T",
+    39.83,
+    null
+   ],
+   "_": "sieht unfassbar gut aus – Sonnenuntergang"
+  },
+  {
+   "t": [
+    17.62,
+    19.68
+   ],
+   "src": [
+    "D",
+    17.6,
+    null
+   ],
+   "rect": [
+    0.18,
+    0.05,
+    0.64,
+    0.68
+   ],
+   "_": "keine Ladebildschirme – Pickup fährt durch die Stadt"
+  },
+  {
+   "t": [
+    19.68,
+    20.95
+   ],
+   "src": [
+    "T",
+    66.53,
+    null
+   ],
+   "_": "mit deinem Bagger"
+  },
+  {
+   "t": [
+    20.95,
+    21.9
+   ],
+   "src": [
+    "T",
+    69.13,
+    null
+   ],
+   "_": "von einer Mine zur anderen"
+  },
+  {
+   "t": [
+    21.9,
+    23.3
+   ],
+   "src": [
+    "T",
+    36.19,
+    null
+   ],
+   "_": "Ich bin Deglau"
+  },
+  {
+   "t": [
+    23.3,
+    24.7
+   ],
+   "src": [
+    "T",
+    70.6,
+    null
+   ]
+  },
+  {
+   "t": [
+    24.7,
+    26.02
+   ],
+   "src": [
+    "T",
+    72.83,
+    null
+   ]
+  },
+  {
+   "t": [
+    26.02,
+    26.9
+   ],
+   "src": [
+    "T",
+    49.53,
+    null
+   ],
+   "_": "wenn es dunkel wird – Flutlicht"
+  },
+  {
+   "t": [
+    26.9,
+    28.0
+   ],
+   "src": [
+    "T",
+    50.45,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Flutlichter auf"
+  },
+  {
+   "t": [
+    28.0,
+    29.1
+   ],
+   "src": [
+    "T",
+    65.23,
+    null
+   ],
+   "_": "ganze Nacht baggern – Nordlicht"
+  },
+  {
+   "t": [
+    29.1,
+    30.86
+   ],
+   "src": [
+    "D",
+    238.0,
+    null
+   ],
+   "rect": [
+    0,
+    0.08,
+    0.3,
+    0.68
+   ],
+   "_": "Goldpreis selbst einstellen – Menü linke Spalte"
+  },
+  {
+   "t": [
+    30.86,
+    32.46
+   ],
+   "src": [
+    "T",
+    48.0,
+    null
+   ],
+   "rect": [
+    0.42,
+    0.04,
+    0.55,
+    0.62
+   ],
+   "_": "Millionär – Kontostand 99.939.999 $"
+  },
+  {
+   "t": [
+    32.46,
+    34.24
+   ],
+   "src": [
+    "T",
+    10.59,
+    12.15
+   ],
+   "_": "Das Spiel heißt Gold Mining Simulator",
+   "rect": [
+    0,
+    0,
+    1,
+    0.76
+   ]
+  },
+  {
+   "t": [
+    34.24,
+    35.86
+   ],
+   "src": [
+    "T",
+    32.79,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "neue Edition"
+  },
+  {
+   "t": [
+    35.86,
+    37.54
+   ],
+   "src": [
+    "T",
+    23.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "17. November"
+  },
+  {
+   "t": [
+    37.54,
+    38.48
+   ],
+   "src": [
+    "T",
+    26.0,
+    null
+   ],
+   "_": "PC, PlayStation, Xbox"
+  },
+  {
+   "t": [
+    38.48,
+    40.14
+   ],
+   "src": [
+    "T",
+    37.86,
+    null
+   ],
+   "_": "markiert eure Freunde"
+  },
+  {
+   "t": [
+    40.14,
+    42.6
+   ],
+   "src": [
+    "D",
+    173.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    0.85,
+    0.7
+   ],
+   "_": "viel Spaß euch – Sonnenuntergang"
+  }
+ ],
+ "caption_fixes": [
+  [
+   "Goldrosch",
+   "Goldrausch"
+  ],
+  [
+   "Goldfahne",
+   "Goldpfanne"
+  ],
+  [
+   "Modelkipper",
+   "Muldenkipper"
+  ],
+  [
+   "tonweise",
+   "tonnenweise"
+  ],
+  [
+   "durchsieht",
+   "durchsiebt"
+  ],
+  [
+   "fängst",
+   "fährst"
+  ],
+  [
+   "einem",
+   "deinem"
+  ],
+  [
+   "Deckel",
+   "Deglau"
+  ],
+  [
+   "noch",
+   "doch"
+  ],
+  [
+   "stellt",
+   "stellst"
+  ],
+  [
+   "zu",
+   "du"
+  ],
+  [
+   "flutlich",
+   "Flutlichter"
+  ],
+  [
+   "der",
+   ""
+  ],
+  [
+   "Auf",
+   "auf"
+  ],
+  [
+   "baggerts",
+   "baggerst"
+  ],
+  [
+   "Goldreich",
+   "Goldpreis"
+  ],
+  [
+   "ziehen",
+   "ziemlich"
+  ],
+  [
+   "mich",
+   ""
+  ],
+  [
+   "die",
+   "und die"
+  ],
+  [
+   "markiere",
+   "markiert"
+  ]
+ ],
+ "bigwords": [
+  {
+   "text": "SATISFACTORY",
+   "color": "white",
+   "size": 100,
+   "t": [
+    10.45,
+    12.15
+   ],
+   "y": 560,
+   "anim": "drop",
+   "hide_captions": [
+    10.4,
+    12.2
+   ]
+  },
+  {
+   "text": "NUR MIT GOLD",
+   "color": "#FFD000",
+   "size": 105,
+   "t": [
+    11.3,
+    12.15
+   ],
+   "y": 730,
+   "anim": "slide"
+  }
+ ],
+ "icons": [
+  {
+   "img": "videos/gold-mining-simulator-de/spiel_kachel.png",
+   "t": [
+    32.75,
+    34.3
+   ],
+   "size": 640,
+   "y": 380,
+   "spin": 0,
+   "_": "kleine Spiel-Kachel beim Spielnamen"
+  }
+ ],
+ "sfx": []
+}

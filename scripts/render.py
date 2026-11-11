@@ -107,19 +107,22 @@ def main(edit_path):
         speed = (se - ss) / out_d if se else 1.0
         cx = sg.get("cx", 0.5); zoom = sg.get("zoom", 1.0)
         wide = sg.get("wide", E.get("wide", 1.5))   # 1.0 = alter Vollbild-Zuschnitt
+        # "rect": [x, y, w, h] als Anteile 0–1 – Ausschnitt VOR allem anderen (z. B. eingebrannte Trailer-Texte unten wegschneiden: [0,0,1,0.78])
+        rx, ry, rw, rh = sg.get("rect", [0, 0, 1, 1])
+        pre = f"crop=trunc(iw*{rw}/2)*2:trunc(ih*{rh}/2)*2:iw*{rx}:ih*{ry}," if sg.get("rect") else ""
         if "fit" in sg:   # ganzes 16:9-Bild zeigen (Logos/Endbild), unscharfer Hintergrund dahinter
             fw = int(W * sg["fit"]) // 2 * 2
-            vf = (f"setpts=(PTS-STARTPTS)/{speed:.5f},split[a][b];"
+            vf = (f"setpts=(PTS-STARTPTS)/{speed:.5f},{pre}split[a][b];"
                   f"[a]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},boxblur=25:2,eq=brightness=-0.08[bg];"
                   f"[b]scale={fw}:-2:flags=lanczos[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2,"
                   f"setsar=1,fps={FPS},tpad=stop_mode=clone:stop_duration=2")
         elif wide > 1.0:  # Standard (Deglau: Stufe 1.5): breiterer Ausschnitt, unscharfer Rand oben/unten
-            vf = (f"setpts=(PTS-STARTPTS)/{speed:.5f},split[a][b];"
+            vf = (f"setpts=(PTS-STARTPTS)/{speed:.5f},{pre}split[a][b];"
                   f"[a]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},boxblur=25:2,eq=brightness=-0.08[bg];"
                   f"[b]crop='min(iw,trunc(ih*9/16*{wide}/2)*2)':ih:(iw-ow)*{cx}:0,scale={W}:-2:flags=lanczos[fg];"
                   f"[bg][fg]overlay=(W-w)/2:(H-h)/2,setsar=1,fps={FPS},tpad=stop_mode=clone:stop_duration=2")
         else:
-            vf = (f"setpts=(PTS-STARTPTS)/{speed:.5f},"
+            vf = (f"setpts=(PTS-STARTPTS)/{speed:.5f},{pre}"
                   f"crop=trunc(ih*9/16/{zoom}/2)*2:trunc(ih/{zoom}/2)*2:(iw-ow)*{cx}:(ih-oh)*{sg.get('cy', 0.5)},"
                   f"scale={W}:{H}:flags=lanczos,setsar=1,fps={FPS},tpad=stop_mode=clone:stop_duration=2")
         f = os.path.join(tmp, f"seg{i:03d}.mp4")
@@ -172,7 +175,7 @@ def main(edit_path):
         turns = ic.get("spin", 1.0)
         # schnell drehen mit Abbremsen (ease-out), kurz ein- und ausblenden
         ang = f"2*PI*{turns}*(1-pow(1-min(max((t-{t0})/{d*0.8},0),1),3))"
-        v += (f";[{idx}:v]format=rgba,scale={sz}:{sz},rotate=a='{ang}':c=none:ow=iw:oh=ih,"
+        v += (f";[{idx}:v]format=rgba,scale={sz}:-2,rotate=a='{ang}':c=none:ow=iw:oh=ih,"
               f"fade=in:st={t0}:d=0.06:alpha=1,fade=out:st={t1-0.1}:d=0.1:alpha=1[ic{j}];"
               f"[{last}][ic{j}]overlay=x=(W-w)/2+{ic.get('dx', 0)}:y={ic.get('y', 700)}:enable='between(t,{t0},{t1})'[ik{j}]")
         last = f"ik{j}"

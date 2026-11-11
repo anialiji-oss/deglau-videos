@@ -31,7 +31,8 @@ ElevenLabs („mainaccount“, `assets/stimme.json`) nur noch als Notlösung, we
 - `scripts/render.py` – **Haupt-Renderer**: `python3 scripts/render.py videos/<spiel>/edit.json` (Segmente, Intro/Blitz/Beat, Logo, Titel, Untertitel, große Wörter, SFX, Lautstärken)
 - `scripts/words.py` – Wort-Zeitstempel (faster-whisper; `pip install faster-whisper`) · `scripts/render_test.py` – alter Test
 - `videos/<spiel>/` – script.md, edit.json (Schnittplan), voice.m4a, words.json. Trailer liegen NICHT im Repo → neu laden (Steam-API) und Pfade in `sources` anpassen. Fertige MP4s werden nicht eingecheckt.
-- edit.json-Segmente: `"fit": 1.35` = ganzes 16:9-Bild mit unscharfem Hintergrund (für Logos/Endbilder/Menüs, damit nichts abgeschnitten wird); `cx` = horizontaler Ausschnitt 0–1
+- edit.json-Segmente: `"fit": 1.35` = ganzes 16:9-Bild mit unscharfem Hintergrund; `cx` = horizontaler Ausschnitt 0–1; `"rect": [x,y,w,h]` (Anteile) = Ausschnitt vorab, z. B. eingebrannte Trailer-Texte/Untertitel unten wegschneiden `[0,0,1,0.78]`; `"wide"` = Zoom-Stufe (Standard 1.5)
+- `"icons"`: kurze Bild-Einblendungen (drehendes Steam-Logo `spin: 1`, Spiel-Kachel `spin: 0`, Breite `size`, Höhe automatisch). Spiel-Kachel = Steam `header_image` mit runden Ecken (siehe videos/gold-mining-simulator-de/spiel_kachel.png)
 
 ## Offen
 - Effekt „Wörter hinter der Figur“ technisch einrichten (Segmentierung)
