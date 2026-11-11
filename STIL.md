@@ -198,3 +198,8 @@ im Schnittplan gibt man an, wann der Sound am lautesten sein soll, der Renderer 
 - „Schickt das Video einem Freund, der …“ (passend zum Spiel)
 - Frage für Kommentare: „Würdet ihr lieber als X oder als Y spielen? Schreibt's mir in die Kommentare.“
 - „Den Playtest könnt ihr auf Steam zocken“ / „… und ist komplett kostenlos.“
+
+### Vergleiche & Streamer (Deglau, ab Video 3)
+- Wenn es passt (nicht Pflicht): das Spiel mit **großen, bekannten Spielen oder Shows** vergleichen – „quasi Satisfactory, nur mit …“, „wie Goldrausch in Alaska, nur dass du der Boss bist“, „Low-Budget-Elden-Ring“.
+- Sätze wie „man kann ganze Sachen automatisieren“ nur, wenn der Trailer das auch zeigt (sonst stimmt Bild ≠ Text).
+- **Streamer-Zeile** („das perfekte Spiel für ___“), wenn ein Streamer gut passt. Claude macht einen Vorschlag, aber keine erfundenen Aussagen über echte Personen (nicht „X spielt das schon“) – im Zweifel Deglau den Namen wählen lassen.
