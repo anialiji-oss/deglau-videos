@@ -1,0 +1,863 @@
+{
+ "voice": "voice.m4a",
+ "words": "words.json",
+ "output": "/home/user/deglau-videos/videos/sonar/sonar.mp4",
+ "sources": {
+  "W": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/sonar/wish.mp4",
+  "R": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/sonar/release.mp4"
+ },
+ "_quellen": "W = 'Wishlist Trailer GE' (257388426, dt. Untertitel unten weggeschnitten) · R = 'Trailer Release ge' (257475240, Streamer-Facecam rechts weggeschnitten)",
+ "flash": 5.88,
+ "end": 60.0,
+ "title": {
+  "lines": [
+   "Eure Freunde als",
+   "U-Boot-Crew"
+  ],
+  "emojis": [
+   "🎮",
+   "🔥"
+  ]
+ },
+ "segments": [
+  {
+   "t": [
+    0.0,
+    1.25
+   ],
+   "src": [
+    "W",
+    0.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.85
+   ],
+   "_": "In diesem Spiel – U-Boot außen"
+  },
+  {
+   "t": [
+    1.25,
+    2.64
+   ],
+   "src": [
+    "W",
+    20.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.85
+   ],
+   "_": "Crew von einem U-Boot – Crew salutiert"
+  },
+  {
+   "t": [
+    2.64,
+    3.8
+   ],
+   "src": [
+    "W",
+    3.55,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.85
+   ],
+   "_": "keiner von euch"
+  },
+  {
+   "t": [
+    3.8,
+    5.88
+   ],
+   "src": [
+    "R",
+    0.5,
+    null
+   ],
+   "rect": [
+    0,
+    0.03,
+    0.75,
+    0.95
+   ],
+   "_": "keine Ahnung was ihr machen müsst – Crew an Stationen"
+  },
+  {
+   "t": [
+    5.88,
+    7.32
+   ],
+   "src": [
+    "W",
+    1.26,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.85
+   ],
+   "_": "Periskop"
+  },
+  {
+   "t": [
+    7.32,
+    8.1
+   ],
+   "src": [
+    "W",
+    37.4,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.85
+   ],
+   "_": "steuert"
+  },
+  {
+   "t": [
+    8.1,
+    8.96
+   ],
+   "src": [
+    "W",
+    32.46,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.85
+   ],
+   "_": "Torpedos"
+  },
+  {
+   "t": [
+    8.96,
+    10.4
+   ],
+   "src": [
+    "W",
+    6.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.85
+   ],
+   "_": "Leck"
+  },
+  {
+   "t": [
+    10.4,
+    11.82
+   ],
+   "src": [
+    "R",
+    24.55,
+    null
+   ],
+   "rect": [
+    0,
+    0.03,
+    0.75,
+    0.95
+   ],
+   "_": "voller Wasser"
+  },
+  {
+   "t": [
+    11.82,
+    12.94
+   ],
+   "src": [
+    "W",
+    9.95,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.85
+   ],
+   "_": "Feuer"
+  },
+  {
+   "t": [
+    12.94,
+    13.88
+   ],
+   "src": [
+    "W",
+    15.05,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.85
+   ],
+   "_": "während alles brennt"
+  },
+  {
+   "t": [
+    13.88,
+    16.52
+   ],
+   "src": [
+    "W",
+    11.88,
+    14.38
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.85
+   ],
+   "_": "liest ruhig die Bedienungsanleitung"
+  },
+  {
+   "t": [
+    16.52,
+    17.99
+   ],
+   "src": [
+    "W",
+    21.78,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.85
+   ],
+   "_": "Ich bin Deglau"
+  },
+  {
+   "t": [
+    17.99,
+    19.0
+   ],
+   "src": [
+    "R",
+    2.75,
+    null
+   ],
+   "rect": [
+    0,
+    0.03,
+    0.75,
+    0.95
+   ]
+  },
+  {
+   "t": [
+    19.0,
+    20.9
+   ],
+   "src": [
+    "R",
+    15.12,
+    null
+   ],
+   "rect": [
+    0,
+    0.03,
+    0.75,
+    0.95
+   ]
+  },
+  {
+   "t": [
+    20.9,
+    22.12
+   ],
+   "src": [
+    "W",
+    26.39,
+    27.55
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.85
+   ],
+   "_": "grillt ein Steak"
+  },
+  {
+   "t": [
+    22.12,
+    23.18
+   ],
+   "src": [
+    "R",
+    6.0,
+    null
+   ],
+   "rect": [
+    0,
+    0.03,
+    0.75,
+    0.95
+   ],
+   "_": "wenn es richtig wackelt"
+  },
+  {
+   "t": [
+    23.18,
+    24.6
+   ],
+   "src": [
+    "R",
+    9.55,
+    null
+   ],
+   "rect": [
+    0,
+    0.03,
+    0.75,
+    0.95
+   ],
+   "_": "kotzt auf den Boden"
+  },
+  {
+   "t": [
+    24.6,
+    25.3
+   ],
+   "src": [
+    "W",
+    0.3,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.85
+   ],
+   "_": "Das Boot – U-Boot außen"
+  },
+  {
+   "t": [
+    25.3,
+    26.2
+   ],
+   "src": [
+    "R",
+    12.2,
+    null
+   ],
+   "rect": [
+    0,
+    0.03,
+    0.75,
+    0.95
+   ],
+   "_": "dümmsten Freunden – Kollege voller Kotze"
+  },
+  {
+   "t": [
+    26.2,
+    28.65
+   ],
+   "src": [
+    "W",
+    39.46,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.85
+   ],
+   "_": "Das Spiel heißt S.O.N.A.R. … Steam"
+  },
+  {
+   "t": [
+    28.65,
+    29.34
+   ],
+   "src": [
+    "W",
+    42.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.85
+   ],
+   "_": "10 Euro – Sonar-Karte"
+  },
+  {
+   "t": [
+    29.34,
+    30.39
+   ],
+   "src": [
+    "W",
+    27.57,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.85
+   ],
+   "_": "markiert die Freunde"
+  },
+  {
+   "t": [
+    30.39,
+    31.27
+   ],
+   "src": [
+    "W",
+    28.62,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.85
+   ],
+   "_": "U-Boot versenken / viel Spaß"
+  },
+  {
+   "t": [
+    31.27,
+    33.11
+   ],
+   "src": [
+    "R",
+    30.15,
+    null
+   ],
+   "rect": [
+    0,
+    0.03,
+    0.75,
+    0.95
+   ],
+   "_": "viel Spaß euch"
+  },
+  {
+   "t": [
+    33.11,
+    35.0
+   ],
+   "src": [
+    "W",
+    16.3,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.85
+   ]
+  },
+  {
+   "t": [
+    35.0,
+    36.9
+   ],
+   "src": [
+    "R",
+    7.0,
+    null
+   ],
+   "rect": [
+    0,
+    0.03,
+    0.75,
+    0.95
+   ]
+  },
+  {
+   "t": [
+    36.9,
+    38.4
+   ],
+   "src": [
+    "W",
+    31.05,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.85
+   ]
+  },
+  {
+   "t": [
+    38.4,
+    40.4
+   ],
+   "src": [
+    "R",
+    22.0,
+    null
+   ],
+   "rect": [
+    0,
+    0.03,
+    0.75,
+    0.95
+   ]
+  },
+  {
+   "t": [
+    40.4,
+    42.0
+   ],
+   "src": [
+    "W",
+    34.1,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.85
+   ]
+  },
+  {
+   "t": [
+    42.0,
+    43.5
+   ],
+   "src": [
+    "W",
+    35.75,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.85
+   ]
+  },
+  {
+   "t": [
+    43.5,
+    45.5
+   ],
+   "src": [
+    "R",
+    19.6,
+    null
+   ],
+   "rect": [
+    0,
+    0.03,
+    0.75,
+    0.95
+   ]
+  },
+  {
+   "t": [
+    45.5,
+    47.0
+   ],
+   "src": [
+    "W",
+    4.88,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.85
+   ]
+  },
+  {
+   "t": [
+    47.0,
+    48.6
+   ],
+   "src": [
+    "R",
+    17.1,
+    null
+   ],
+   "rect": [
+    0,
+    0.03,
+    0.75,
+    0.95
+   ]
+  },
+  {
+   "t": [
+    48.6,
+    50.2
+   ],
+   "src": [
+    "R",
+    26.0,
+    null
+   ],
+   "rect": [
+    0,
+    0.03,
+    0.75,
+    0.95
+   ]
+  },
+  {
+   "t": [
+    50.2,
+    52.0
+   ],
+   "src": [
+    "R",
+    28.5,
+    null
+   ],
+   "rect": [
+    0,
+    0.03,
+    0.75,
+    0.95
+   ]
+  },
+  {
+   "t": [
+    52.0,
+    53.25
+   ],
+   "src": [
+    "W",
+    38.2,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.85
+   ]
+  },
+  {
+   "t": [
+    53.25,
+    55.0
+   ],
+   "src": [
+    "R",
+    13.0,
+    null
+   ],
+   "rect": [
+    0,
+    0.03,
+    0.75,
+    0.95
+   ]
+  },
+  {
+   "t": [
+    55.0,
+    56.5
+   ],
+   "src": [
+    "R",
+    4.0,
+    null
+   ],
+   "rect": [
+    0,
+    0.03,
+    0.75,
+    0.95
+   ]
+  },
+  {
+   "t": [
+    56.5,
+    58.3
+   ],
+   "src": [
+    "R",
+    5.2,
+    null
+   ],
+   "rect": [
+    0,
+    0.03,
+    0.75,
+    0.95
+   ]
+  },
+  {
+   "t": [
+    58.3,
+    60.0
+   ],
+   "src": [
+    "W",
+    0.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.85
+   ]
+  }
+ ],
+ "caption_fixes": [
+  [
+   "sie",
+   "ihr"
+  ],
+  [
+   "muss",
+   "müsst"
+  ],
+  [
+   "Periscope",
+   "Periskop"
+  ],
+  [
+   "Toperos",
+   "Torpedos"
+  ],
+  [
+   "brich",
+   "bricht"
+  ],
+  [
+   "ließ",
+   "liest"
+  ],
+  [
+   "durch",
+   "ruhig"
+  ],
+  [
+   "Deckler",
+   "Deglau"
+  ],
+  [
+   "grült",
+   "grillt ihr"
+  ],
+  [
+   "Boden",
+   "Boden"
+  ],
+  [
+   "Boden",
+   "Boot"
+  ],
+  [
+   "um",
+   "nur"
+  ],
+  [
+   "Spielai",
+   "Spiel heißt"
+  ],
+  [
+   "Sonas",
+   "S.O.N.A.R."
+  ],
+  [
+   "setzt",
+   "ist jetzt"
+  ],
+  [
+   "mehr",
+   "mal"
+  ],
+  [
+   "10€",
+   "10 Euro"
+  ],
+  [
+   "durch",
+   "euch"
+  ]
+ ],
+ "bigwords": [
+  {
+   "text": "DAS BOOT",
+   "color": "white",
+   "size": 150,
+   "t": [
+    24.72,
+    26.15
+   ],
+   "y": 560,
+   "anim": "drop",
+   "hide_captions": [
+    24.7,
+    25.3
+   ]
+  }
+ ],
+ "icons": [
+  {
+   "img": "videos/sonar/spiel_kachel.png",
+   "t": [
+    26.3,
+    27.4
+   ],
+   "size": 640,
+   "y": 380,
+   "spin": 0
+  },
+  {
+   "img": "assets/steam_logo.png",
+   "t": [
+    27.45,
+    28.05
+   ],
+   "size": 260,
+   "y": 690,
+   "spin": 1.0
+  }
+ ],
+ "sfx": [
+  [
+   "steam_sound",
+   27.52
+  ]
+ ]
+}
