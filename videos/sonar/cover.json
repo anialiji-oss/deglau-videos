@@ -1,0 +1,27 @@
+{
+ "src": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/sonar/wish.mp4",
+ "src_time": 11.2,
+ "rect": [
+  0,
+  0,
+  1,
+  0.85
+ ],
+ "lines": [
+  [
+   "EURE FREUNDE",
+   "white"
+  ],
+  [
+   "ALS U-BOOT",
+   "#39FF14"
+  ],
+  [
+   "CREW",
+   "white"
+  ]
+ ],
+ "card": "spiel_kachel.png",
+ "output": "titelbild.jpg",
+ "_hinweis": "Keine Emojis im Text – die Schrift kann sie nicht darstellen."
+}

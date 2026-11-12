@@ -208,3 +208,8 @@ im Schnittplan gibt man an, wann der Sound am lautesten sein soll, der Renderer 
 - Video **immer bis 60 s** laufen lassen, auch wenn Deglau vorher fertig gesprochen hat (TikTok-1-Minuten-Grenze).
 - Nach dem letzten Wort: weiter Gameplay-Montage (Schnitte alle ~1,5–2 s, möglichst noch unbenutzte Szenen) mit dem Main Beat, ohne Untertitel; letzter Schnitt ein schönes Bild, Beat blendet zum Schluss aus.
 - Im Schnittplan: `"end": 60.0`.
+
+### Zu jedem Video: Beschreibungen + Titelbild (Deglau)
+- Immer `videos/<spiel>/posts.md` mit **TikTok** (kurze Caption + Frage für Kommentare + 3–5 Hashtags), **YouTube Shorts** (Titel ≤ 100 Zeichen mit #shorts + Beschreibung + Abo-Satz), **Instagram Reels** (längere Caption, CTA markieren/speichern, ~10 Hashtags, deutsch + allgemein).
+- Nur Fakten, die stimmen (Preis, Plattformen, Release, Spielerzahl von Steam).
+- **Titelbild** 1080×1920: `python3 scripts/cover.py videos/<spiel>/cover.json` – spannendste Szene aus dem Trailer (gleicher Bildaufbau wie im Video, Logo oben), Spiel-Kachel, 2–3 Zeilen großer Text (ein Wort farbig). **Keine Emojis im Bild-Text** (Schrift kann sie nicht). Text in der Mitte, damit das 3:4-Raster auf TikTok/Instagram ihn nicht abschneidet.

@@ -23,6 +23,7 @@ Features nur so, wie sie im Trailer auch zu sehen sind, damit Bild und Text spä
 - Übergänge (Blitz/Zoom-Punch) mitten im Video erlaubt, wenn es gut passt
 - **Video immer 60 s lang** (nach der Stimme Gameplay-Montage mit Beat bis 1:00, `"end": 60.0`)
 - Export 1080x1920, 30 fps → an Deglau schicken
+- **Dazu immer:** `posts.md` (Beschreibungen TikTok / YouTube Shorts / Instagram) + `titelbild.jpg` (`scripts/cover.py`, siehe STIL.md)
 
 ElevenLabs („mainaccount“, `assets/stimme.json`) nur noch als Notlösung, wenn Deglau das ausdrücklich will.
 
