@@ -21,7 +21,7 @@ Features nur so, wie sie im Trailer auch zu sehen sind, damit Bild und Text spä
 - Logo, Titel-Box, Wort-für-Wort-Untertitel, große Wort-Effekte an coolen Stellen, Einblendungen
 - Soundeffekte: **nur Steam (Sound + drehendes Logo)**. Alle anderen SFX macht Deglau selbst in CapCut (STIL.md, Abschnitt ⭐⭐ Aufgabenteilung)
 - Übergänge (Blitz/Zoom-Punch) mitten im Video erlaubt, wenn es gut passt
-- **Video immer 60 s lang** (nach der Stimme Gameplay-Montage mit Beat bis 1:00, `"end": 60.0`)
+- **Videolänge:** endet ~1 s nach Deglaus letztem Wort. **Nur wenn Deglau „1 Minute“ sagt** → bis 60 s mit Gameplay-Montage + Beat (`"end": 60.0`)
 - Export 1080x1920, 30 fps → an Deglau schicken
 - **Dazu immer:** `posts.md` (Beschreibungen TikTok / YouTube Shorts / Instagram) + `titelbild.jpg` (`scripts/cover.py`, siehe STIL.md)
 

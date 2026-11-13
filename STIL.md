@@ -204,10 +204,9 @@ im Schnittplan gibt man an, wann der Sound am lautesten sein soll, der Renderer 
 - Sätze wie „man kann ganze Sachen automatisieren“ nur, wenn der Trailer das auch zeigt (sonst stimmt Bild ≠ Text).
 - **Streamer-Zeile** („das perfekte Spiel für ___“), wenn ein Streamer gut passt. Claude macht einen Vorschlag, aber keine erfundenen Aussagen über echte Personen (nicht „X spielt das schon“) – im Zweifel Deglau den Namen wählen lassen.
 
-### Videolänge: immer 1 Minute (Deglau, ab Video S.O.N.A.R.)
-- Video **immer bis 60 s** laufen lassen, auch wenn Deglau vorher fertig gesprochen hat (TikTok-1-Minuten-Grenze).
-- Nach dem letzten Wort: weiter Gameplay-Montage (Schnitte alle ~1,5–2 s, möglichst noch unbenutzte Szenen) mit dem Main Beat, ohne Untertitel; letzter Schnitt ein schönes Bild, Beat blendet zum Schluss aus.
-- Im Schnittplan: `"end": 60.0`.
+### Videolänge (Deglau)
+- **Standard: Video endet kurz nach Deglaus letztem Wort** (ca. 1 s Ausklang mit Beat, `"end"` = Ende der Stimme + ~1 s).
+- **Nur wenn Deglau ausdrücklich „1 Minute“ sagt**: bis 60 s mit Gameplay-Montage + Beat verlängern (Schnitte alle ~1,5–2 s, ohne Untertitel), `"end": 60.0`.
 
 ### Zu jedem Video: Beschreibungen + Titelbild (Deglau)
 - Immer `videos/<spiel>/posts.md` mit **TikTok** (kurze Caption + Frage für Kommentare + 3–5 Hashtags), **YouTube Shorts** (Titel ≤ 100 Zeichen mit #shorts + Beschreibung + Abo-Satz), **Instagram Reels** (längere Caption, CTA markieren/speichern, ~10 Hashtags, deutsch + allgemein).
