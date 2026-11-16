@@ -212,3 +212,9 @@ im Schnittplan gibt man an, wann der Sound am lautesten sein soll, der Renderer 
 - Immer `videos/<spiel>/posts.md` mit **TikTok** (kurze Caption + Frage für Kommentare + 3–5 Hashtags), **YouTube Shorts** (Titel ≤ 100 Zeichen mit #shorts + Beschreibung + Abo-Satz), **Instagram Reels** (längere Caption, CTA markieren/speichern, ~10 Hashtags, deutsch + allgemein).
 - Nur Fakten, die stimmen (Preis, Plattformen, Release, Spielerzahl von Steam).
 - **Titelbild** 1080×1920: `python3 scripts/cover.py videos/<spiel>/cover.json` – spannendste Szene aus dem Trailer (gleicher Bildaufbau wie im Video, Logo oben), Spiel-Kachel, 2–3 Zeilen großer Text (ein Wort farbig). **Keine Emojis im Bild-Text** (Schrift kann sie nicht). Text in der Mitte, damit das 3:4-Raster auf TikTok/Instagram ihn nicht abschneidet.
+
+### Trailer für Spiele, die NICHT auf Steam sind (z. B. GTA 6)
+- YouTube blockt Downloads aus der Cloud – **nicht umgehen**.
+- Offizielle Quelle: **playstation.com-Spieleseite** (`https://www.playstation.com/de-de/games/<spiel>/`) – im HTML stehen die Trailer als direkte MP4s (`vulcan.dl.playstation.net/...mp4`). Datum steckt im Pfad (z. B. `202610/1517` = 15.10.).
+- Deutsche Seite → oft **eingebrannte deutsche Untertitel + schwarze Balken** → `rect` (bei GTA 6: `[0,0.055,1,0.78]`).
+- Lange Untertitel-Wörter werden im Renderer jetzt automatisch kleiner (max. 1000 px breit).

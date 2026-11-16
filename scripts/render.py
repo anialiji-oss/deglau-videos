@@ -183,7 +183,10 @@ def main(edit_path):
     dt = []
     for k, (s, e, w) in enumerate(caps):
         tf = os.path.join(cdir, f"{k}.txt"); open(tf, "w").write(w)
-        dt.append(f"drawtext=fontfile={A}/caption.ttf:textfile={tf}:fontsize=84:fontcolor=white:borderw=7:bordercolor=black:"
+        fs = 84   # lange Wörter automatisch kleiner, damit sie nicht aus dem Bild ragen (max. 1000 px breit)
+        while fs > 40 and ImageFont.truetype(os.path.join(A, "caption.ttf"), fs).getlength(w) + 14 > 1000:
+            fs -= 2
+        dt.append(f"drawtext=fontfile={A}/caption.ttf:textfile={tf}:fontsize={fs}:fontcolor=white:borderw=7:bordercolor=black:"
                   f"x=(w-text_w)/2:y=h*0.57:enable='between(t,{s:.2f},{e:.2f})'")
     v += f";[{last}]" + ",".join(dt) + "[vout]"
 

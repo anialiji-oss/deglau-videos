@@ -1,0 +1,754 @@
+{
+ "voice": "voice.m4a",
+ "words": "words.json",
+ "output": "/home/user/deglau-videos/videos/gta6-fakten/gta6_fakten.mp4",
+ "sources": {
+  "T1": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/gta6/ps/v1.mp4",
+  "T2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/gta6/ps/v2.mp4",
+  "L": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/gta6/ps/v3.mp4"
+ },
+ "_quellen": "Offizielle Trailer von playstation.com (de-de GTA-VI-Seite, vulcan.dl.playstation.net): T1 = Trailer 1, T2 = Trailer 2, L = Launch-Trailer (15.10.2026). Alle mit dt. Untertiteln + schwarzen Balken -> rect schneidet weg.",
+ "flash": 3.2,
+ "end": 60.0,
+ "title": {
+  "lines": [
+   "GTA 6 Details, die",
+   "fast keiner kennt"
+  ],
+  "emojis": [
+   "🎮",
+   "🔥"
+  ]
+ },
+ "segments": [
+  {
+   "t": [
+    0.0,
+    1.1
+   ],
+   "src": [
+    "T1",
+    0.0,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "GTA 6 hat jetzt schon – Vice City Sonnenuntergang"
+  },
+  {
+   "t": [
+    1.1,
+    2.0
+   ],
+   "src": [
+    "T1",
+    33.1,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Weltrekorde gebrochen – Brücke von oben"
+  },
+  {
+   "t": [
+    2.0,
+    3.2
+   ],
+   "src": [
+    "L",
+    3.0,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "noch nicht mal draußen – The Keys"
+  },
+  {
+   "t": [
+    3.2,
+    5.48
+   ],
+   "src": [
+    "T1",
+    9.73,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Der erste Trailer … 24 Stunden"
+  },
+  {
+   "t": [
+    5.48,
+    7.36
+   ],
+   "src": [
+    "T1",
+    18.5,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "90 Millionen – Flamingos"
+  },
+  {
+   "t": [
+    7.36,
+    8.8
+   ],
+   "src": [
+    "T1",
+    36.95,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "drei Guinness-Weltrekorde – VICE-Schriftzug"
+  },
+  {
+   "t": [
+    8.8,
+    11.0
+   ],
+   "src": [
+    "L",
+    69.4,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "die Polizei erkennt dich – Polizeiauto"
+  },
+  {
+   "t": [
+    11.0,
+    13.12
+   ],
+   "src": [
+    "T1",
+    44.7,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Überwachungskameras – Überfall auf Kamera"
+  },
+  {
+   "t": [
+    13.12,
+    14.84
+   ],
+   "src": [
+    "T1",
+    58.38,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Wechselklamotten im Auto"
+  },
+  {
+   "t": [
+    14.84,
+    16.72
+   ],
+   "src": [
+    "T1",
+    66.17,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "auf der Flucht umziehen – Maskierte"
+  },
+  {
+   "t": [
+    16.72,
+    19.24
+   ],
+   "src": [
+    "T2",
+    115.0,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Tatort / sofort wieder Sterne"
+  },
+  {
+   "t": [
+    19.24,
+    21.92
+   ],
+   "src": [
+    "L",
+    72.3,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "sechs Sterne wie in San Andreas – Schießerei"
+  },
+  {
+   "t": [
+    21.92,
+    24.46
+   ],
+   "src": [
+    "T2",
+    20.08,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "drei Tage auf der Flucht – Jason oben ohne"
+  },
+  {
+   "t": [
+    24.46,
+    25.64
+   ],
+   "src": [
+    "T1",
+    70.06,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "schlafen musst du auch – Bett"
+  },
+  {
+   "t": [
+    25.64,
+    27.6
+   ],
+   "src": [
+    "T1",
+    22.38,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Ich bin Deglau – Lucia fährt"
+  },
+  {
+   "t": [
+    27.6,
+    30.06
+   ],
+   "src": [
+    "L",
+    55.5,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Doppeldecker am Strand"
+  },
+  {
+   "t": [
+    30.06,
+    31.24
+   ],
+   "src": [
+    "T1",
+    73.95,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Ladenbesitzer schießen zurück"
+  },
+  {
+   "t": [
+    31.24,
+    33.1
+   ],
+   "src": [
+    "T2",
+    36.5,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Gym"
+  },
+  {
+   "t": [
+    33.1,
+    33.88
+   ],
+   "src": [
+    "T2",
+    125.8,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Mitgliedschaft"
+  },
+  {
+   "t": [
+    33.88,
+    36.02
+   ],
+   "src": [
+    "L",
+    40.45,
+    42.15
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Easter Egg – Jason & Lucia, Jasons Shirt"
+  },
+  {
+   "t": [
+    36.02,
+    38.62
+   ],
+   "src": [
+    "L",
+    40.45,
+    42.15
+   ],
+   "rect": [
+    0.22,
+    0.4,
+    0.24,
+    0.36
+   ],
+   "fit": 1.0,
+   "_": "Zoom aufs Shirt (U.S. ARMY MARAUDER COMBAT TRAINING SCHOOL)"
+  },
+  {
+   "t": [
+    38.62,
+    40.12
+   ],
+   "src": [
+    "T1",
+    15.57,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "erstes GTA von 1997"
+  },
+  {
+   "t": [
+    40.12,
+    42.1
+   ],
+   "src": [
+    "L",
+    17.84,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "kommt am 19. November"
+  },
+  {
+   "t": [
+    42.1,
+    43.34
+   ],
+   "src": [
+    "L",
+    46.6,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "PS5 und Xbox"
+  },
+  {
+   "t": [
+    43.34,
+    44.84
+   ],
+   "src": [
+    "L",
+    49.4,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "markiert den Freund – Dirtbike"
+  },
+  {
+   "t": [
+    44.84,
+    46.8
+   ],
+   "src": [
+    "L",
+    52.5,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "viel Spaß euch – Explosion"
+  },
+  {
+   "t": [
+    46.8,
+    48.6
+   ],
+   "src": [
+    "T1",
+    20.4,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ]
+  },
+  {
+   "t": [
+    48.6,
+    50.4
+   ],
+   "src": [
+    "T2",
+    136.9,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ]
+  },
+  {
+   "t": [
+    50.4,
+    52.2
+   ],
+   "src": [
+    "T1",
+    25.3,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ]
+  },
+  {
+   "t": [
+    52.2,
+    54.0
+   ],
+   "src": [
+    "T1",
+    68.1,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ]
+  },
+  {
+   "t": [
+    54.0,
+    55.8
+   ],
+   "src": [
+    "T2",
+    138.7,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ]
+  },
+  {
+   "t": [
+    55.8,
+    57.6
+   ],
+   "src": [
+    "T1",
+    30.16,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ]
+  },
+  {
+   "t": [
+    57.6,
+    60.0
+   ],
+   "src": [
+    "L",
+    27.8,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ]
+  }
+ ],
+ "caption_fixes": [
+  [
+   "GTR",
+   "GTA"
+  ],
+  [
+   "Genius",
+   "Guinness"
+  ],
+  [
+   "wenn",
+   ""
+  ],
+  [
+   "Sex",
+   "sechs"
+  ],
+  [
+   "Deckler",
+   "Deglau"
+  ],
+  [
+   "es",
+   "also"
+  ],
+  [
+   "freut",
+   "folgt"
+  ],
+  [
+   "mich",
+   "mir"
+  ],
+  [
+   "auch",
+   "doch"
+  ],
+  [
+   "Lucy",
+   "Lucia"
+  ],
+  [
+   "ans",
+   "ins"
+  ],
+  [
+   "der",
+   "Easter"
+  ],
+  [
+   "Eck",
+   "Egg"
+  ],
+  [
+   "Jason's",
+   "Jasons"
+  ],
+  [
+   "in",
+   ""
+  ],
+  [
+   "Nord",
+   "North"
+  ],
+  [
+   "4th",
+   "Fort"
+  ],
+  [
+   "ihr",
+   "den"
+  ],
+  [
+   "durch",
+   "euch"
+  ]
+ ],
+ "bigwords": [
+  {
+   "text": "90 MILLIONEN",
+   "color": "#FFD000",
+   "size": 120,
+   "t": [
+    5.45,
+    7.3
+   ],
+   "y": 560,
+   "anim": "drop",
+   "hide_captions": [
+    5.45,
+    6.75
+   ]
+  },
+  {
+   "text": "UMZIEHEN",
+   "color": "white",
+   "size": 140,
+   "t": [
+    15.9,
+    16.7
+   ],
+   "y": 560,
+   "anim": "slide",
+   "hide_captions": [
+    15.9,
+    16.7
+   ]
+  },
+  {
+   "text": "6 STERNE",
+   "color": "#FF3B3B",
+   "size": 150,
+   "t": [
+    20.05,
+    21.85
+   ],
+   "y": 560,
+   "anim": "drop",
+   "hide_captions": [
+    20.05,
+    20.6
+   ]
+  },
+  {
+   "text": "1997",
+   "color": "#FFD000",
+   "size": 200,
+   "t": [
+    38.75,
+    40.1
+   ],
+   "y": 560,
+   "anim": "drop",
+   "hide_captions": [
+    38.7,
+    40.1
+   ]
+  }
+ ],
+ "sfx": []
+}
