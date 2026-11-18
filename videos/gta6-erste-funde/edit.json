@@ -1,0 +1,586 @@
+{
+ "voice": "voice.m4a",
+ "words": "words.json",
+ "output": "/home/user/deglau-videos/videos/gta6-erste-funde/gta6_erste_funde.mp4",
+ "sources": {
+  "g1": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/gta6clips/gameplay_1.mp4",
+  "g2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/gta6clips/gameplay_2.mp4",
+  "g3": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/gta6clips/gameplay_3.mp4",
+  "g4": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/gta6clips/gameplay_4.mp4",
+  "so": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/gta6clips/socken.mp4",
+  "T1": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/gta6/ps/v1.mp4",
+  "T2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/gta6/ps/v2.mp4",
+  "L": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/gta6/ps/v3.mp4"
+ },
+ "_quellen": "g1–g4, so = Gameplay-Clips vom Release-Tag (von Deglaus PC-Sitzung geladen, Quellen in quellen.txt bei Deglau); T1/T2/L = offizielle Trailer (playstation.com).",
+ "flash": 3.35,
+ "end": 60.0,
+ "title": {
+  "lines": [
+   "GTA 6: Das haben Spieler",
+   "schon gefunden"
+  ],
+  "emojis": [
+   "🎮",
+   "🔥"
+  ]
+ },
+ "segments": [
+  {
+   "t": [
+    0.0,
+    1.58
+   ],
+   "src": [
+    "g3",
+    0.0,
+    null
+   ],
+   "_": "So sieht GTA 6 wirklich aus – roter Sportwagen"
+  },
+  {
+   "t": [
+    1.58,
+    3.35
+   ],
+   "src": [
+    "g1",
+    0.0,
+    null
+   ],
+   "_": "echtes Gameplay vom ersten Tag – Highway"
+  },
+  {
+   "t": [
+    3.35,
+    5.32
+   ],
+   "src": [
+    "g1",
+    4.0,
+    null
+   ],
+   "_": "Vice City bei Tag"
+  },
+  {
+   "t": [
+    5.32,
+    7.42
+   ],
+   "src": [
+    "g2",
+    2.0,
+    null
+   ],
+   "_": "nachts über den Highway"
+  },
+  {
+   "t": [
+    7.42,
+    8.96
+   ],
+   "src": [
+    "so",
+    0.0,
+    null
+   ],
+   "_": "Das Erste, was Spieler gefunden haben – Kleidungsmenü"
+  },
+  {
+   "t": [
+    8.96,
+    10.7
+   ],
+   "src": [
+    "so",
+    5.0,
+    null
+   ],
+   "_": "Socken in Flip-Flops"
+  },
+  {
+   "t": [
+    10.7,
+    11.96
+   ],
+   "src": [
+    "so",
+    9.0,
+    null
+   ],
+   "_": "gesperrt – Menü"
+  },
+  {
+   "t": [
+    11.96,
+    16.14
+   ],
+   "src": [
+    "g3",
+    4.0,
+    null
+   ],
+   "_": "Ich bin Deglau"
+  },
+  {
+   "t": [
+    16.14,
+    18.5
+   ],
+   "src": [
+    "g2",
+    6.0,
+    null
+   ],
+   "_": "Twitch-Rekord"
+  },
+  {
+   "t": [
+    18.5,
+    20.84
+   ],
+   "src": [
+    "L",
+    17.84,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "3 Millionen gleichzeitig"
+  },
+  {
+   "t": [
+    20.84,
+    24.64
+   ],
+   "src": [
+    "g3",
+    10.9,
+    null
+   ],
+   "_": "Metascore 99 (ohne die Spiel-Untertitel bei 9–10,5 s)"
+  },
+  {
+   "t": [
+    24.64,
+    26.5
+   ],
+   "src": [
+    "g4",
+    1.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.82
+   ],
+   "_": "GTA Online gibt's noch nicht"
+  },
+  {
+   "t": [
+    26.5,
+    28.26
+   ],
+   "src": [
+    "g4",
+    8.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.82
+   ],
+   "_": "nur die Story mit Jason und Lucia"
+  },
+  {
+   "t": [
+    28.26,
+    30.95
+   ],
+   "src": [
+    "g2",
+    10.0,
+    null
+   ],
+   "_": "markiert den Freund … viel Spaß euch"
+  },
+  {
+   "t": [
+    30.95,
+    32.8
+   ],
+   "src": [
+    "g1",
+    8.0,
+    null
+   ]
+  },
+  {
+   "t": [
+    32.8,
+    34.6
+   ],
+   "src": [
+    "L",
+    46.6,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ]
+  },
+  {
+   "t": [
+    34.6,
+    36.4
+   ],
+   "src": [
+    "g3",
+    6.6,
+    null
+   ]
+  },
+  {
+   "t": [
+    36.4,
+    38.2
+   ],
+   "src": [
+    "T1",
+    20.4,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ]
+  },
+  {
+   "t": [
+    38.2,
+    40.0
+   ],
+   "src": [
+    "g4",
+    10.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.82
+   ]
+  },
+  {
+   "t": [
+    40.0,
+    41.8
+   ],
+   "src": [
+    "T2",
+    136.9,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ]
+  },
+  {
+   "t": [
+    41.8,
+    43.6
+   ],
+   "src": [
+    "g1",
+    10.5,
+    null
+   ]
+  },
+  {
+   "t": [
+    43.6,
+    45.4
+   ],
+   "src": [
+    "L",
+    49.4,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ]
+  },
+  {
+   "t": [
+    45.4,
+    47.2
+   ],
+   "src": [
+    "g2",
+    0.0,
+    null
+   ]
+  },
+  {
+   "t": [
+    47.2,
+    49.0
+   ],
+   "src": [
+    "T1",
+    25.3,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ]
+  },
+  {
+   "t": [
+    49.0,
+    50.8
+   ],
+   "src": [
+    "g3",
+    2.0,
+    null
+   ]
+  },
+  {
+   "t": [
+    50.8,
+    52.6
+   ],
+   "src": [
+    "L",
+    52.5,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ]
+  },
+  {
+   "t": [
+    52.6,
+    54.4
+   ],
+   "src": [
+    "T2",
+    138.7,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ]
+  },
+  {
+   "t": [
+    54.4,
+    56.2
+   ],
+   "src": [
+    "g1",
+    2.0,
+    null
+   ]
+  },
+  {
+   "t": [
+    56.2,
+    58.0
+   ],
+   "src": [
+    "T1",
+    33.1,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ]
+  },
+  {
+   "t": [
+    58.0,
+    60.0
+   ],
+   "src": [
+    "L",
+    27.8,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ]
+  }
+ ],
+ "caption_fixes": [
+  [
+   "Weil",
+   "Vice"
+  ],
+  [
+   "es",
+   "City"
+  ],
+  [
+   "sieht",
+   ""
+  ],
+  [
+   "die",
+   ""
+  ],
+  [
+   "Beitage",
+   "bei Tag"
+  ],
+  [
+   "sich",
+   "sieht"
+  ],
+  [
+   "zu",
+   "du"
+  ],
+  [
+   "fest",
+   "fährst"
+  ],
+  [
+   "im",
+   "in"
+  ],
+  [
+   "Flübblos",
+   "Flip-Flops"
+  ],
+  [
+   "Deckler",
+   "Deglau"
+  ],
+  [
+   "Twitch",
+   "Twitch-Rekord"
+  ],
+  [
+   "-Dekord",
+   ""
+  ],
+  [
+   "bewährte",
+   "bewertet"
+  ],
+  [
+   "in",
+   "und"
+  ],
+  [
+   "Magie",
+   "markiert"
+  ],
+  [
+   "durch",
+   "euch"
+  ]
+ ],
+ "bigwords": [
+  {
+   "text": "ECHTES GAMEPLAY",
+   "color": "#39FF14",
+   "size": 88,
+   "t": [
+    1.75,
+    3.3
+   ],
+   "y": 560,
+   "anim": "drop",
+   "hide_captions": [
+    1.75,
+    2.9
+   ]
+  },
+  {
+   "text": "GESPERRT",
+   "color": "#FF3B3B",
+   "size": 150,
+   "t": [
+    11.25,
+    11.95
+   ],
+   "y": 560,
+   "anim": "slide",
+   "hide_captions": [
+    11.2,
+    11.95
+   ]
+  },
+  {
+   "text": "3 MILLIONEN",
+   "color": "white",
+   "size": 130,
+   "t": [
+    18.45,
+    20.1
+   ],
+   "y": 560,
+   "anim": "drop",
+   "hide_captions": [
+    18.45,
+    19.6
+   ]
+  },
+  {
+   "text": "99",
+   "color": "#FFD000",
+   "size": 240,
+   "t": [
+    21.4,
+    22.8
+   ],
+   "y": 520,
+   "anim": "drop",
+   "hide_captions": [
+    21.4,
+    21.8
+   ]
+  }
+ ],
+ "sfx": [],
+ "_hinweis": "gameplay_3 hat zwischen 9,0 und 10,5 s englische Spiel-Untertitel mit Beleidigungen -> nie verwenden."
+}
