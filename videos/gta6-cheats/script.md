@@ -3,21 +3,29 @@
 **Idee:** Thema „GTA 6 Cheats“ (Anstoß: TikTok von „Six Star | GTA 6 Facts“). **Nicht kopiert:** eigener Text, eigene Recherche, eigene Cheat-Karten-Grafik, eigenes Bildmaterial (offizielle Trailer + Deglaus Gameplay-Clips).
 **Titel-Box:** „GTA 6 Cheats – aber mit Haken 🎮🔥“
 
-## Text zum Einsprechen (~40 s)
+## Text zum Einsprechen (Entwurf 2 – mehr Cheats, ~50 s, Video auf 1 Min)
 **[Hook – danach Blitz + Beat]**
 In GTA 6 gibt's wieder Cheats – aber Rockstar hat einen richtig fiesen Haken eingebaut.
 
-Insgesamt gibt es 61 Cheats. Mit dem hier bekommst du 250.000 Dollar: oben, rechts, unten, links, oben, links, unten, rechts.
+Insgesamt gibt es 61 Cheats – das hier sind die, die schon funktionieren.
 
-Aber der funktioniert erst, wenn du die komplette Story durchgespielt hast. Und jeder Cheat muss einzeln freigeschaltet werden: Für die Schutzweste musst du 100-mal ins Gym, für unendlich Munition 25 Silbermedaillen am Schießstand holen.
+250.000 Dollar: oben, rechts, unten, links, oben, links, unten, rechts. Freigeschaltet, sobald du die Story durch hast.
+
+Schutzweste: unten, oben, links, fünfmal oben, zweimal unten. Dafür musst du aber 100-mal ins Gym.
+
+Unendlich Munition: unten, oben, rechts, unten, zweimal links, oben, dreimal unten. Dafür brauchst du 25 Silbermedaillen am Schießstand.
 
 Ich bin Deglau und stelle euch jeden Tag neue Spiele vor, also folgt mir doch gerne, um keine mehr zu verpassen.
 
-Mein Favorit: Gibst du 2.500 Dollar für Alkohol aus, schaltest du den Betrunken-Cheat frei – dann sind Jason und Lucia sofort besoffen.
+Kein Nachladen geht fast genauso – nur am Ende einmal oben statt unten. Dafür aber 25 Goldmedaillen.
 
-Und der größte Haken: Sobald du einen Cheat eingibst, sind Trophäen und Speichern für die ganze Session aus – und das Geld ist weg, sobald du das Spiel beendest.
+Und lustig: Wer 2.500 Dollar für Alkohol ausgibt, schaltet den Betrunken-Cheat frei. Und wer 25-mal drei Sterne abschüttelt, kriegt einen Cheat, der dir noch mehr Polizei auf den Hals hetzt.
 
-Eingeben könnt ihr die Codes übers Handy: Steuerkreuz hoch, L1 halten, R1 drücken – und dann den Code. Speichert euch das Video, und jetzt viel Spaß euch.
+Aber der Haken: Sobald du einen Cheat eingibst, sind Trophäen und Speichern für die Session aus – und das Geld ist weg, sobald du das Spiel beendest.
+
+Eingeben könnt ihr alles übers Handy: Steuerkreuz hoch, L1 halten, R1 drücken – und dann den Code. Speichert euch das Video, und jetzt viel Spaß euch.
+
+**Cheat-Karten (eigene Grafik):** 250.000 $ ↑→↓←↑←↓→ · Schutzweste ↓↑←↑↑↑↑↑↓↓ · Unendlich Munition ↓↑→↓←←↑↓↓↓ · Kein Nachladen ↓↑→↓←←↑↓↓↑
 
 ## Bild
 - Eigene **Cheat-Karten** (Deglau-Design, gelb/schwarz, Pfeile als Grafik) für: 250.000 $ (↑ → ↓ ← ↑ ← ↓ →), Schutzweste (↓ ↑ ← ↑ ↑ ↑ ↑ ↑ ↓ ↓), Unendlich Munition (↓ ↑ → ↓ ← ← ↑ ↓ ↓ ↓)
@@ -28,4 +36,5 @@ Eingeben könnt ihr die Codes übers Handy: Steuerkreuz hoch, L1 halten, R1 drü
 - 61 Cheats, erst nach der Story, jeder mit eigener Freischalt-Aufgabe, Eingabe über Handy (↑, L1 halten, R1, Code), Trophäen/Erfolge + Speichern für die Session aus, Geld/Fahrzeuge weg nach Beenden: TweakTown, VGTimes, Red Bull, AlcastHQ, G2A News
 - 250.000 $ = ↑ → ↓ ← ↑ ← ↓ → (Story beenden); Schutzweste = ↓ ↑ ← ↑ ↑ ↑ ↑ ↑ ↓ ↓ (100 Workouts); Unendlich Munition = ↓ ↑ → ↓ ← ← ↑ ↓ ↓ ↓ (25× Silber am Schießstand): LevelUp, GameSpot, Insider Gaming, Gamer Tweak, theclick.gg
 - Betrunken-Cheat nach 2.500 $ für Alkohol: Vice-/Dexterto-/Destructoid-Listen laut Suche
-- Unsicher (nicht verwendet): Codes für Fahrzeuge, Wanted-Level, „Unlimited Focus“ (Quellen widersprechen sich)
+- Kein Nachladen = ↓↑→↓←←↑↓↓↑ (25× Gold): Destructoid + Gamerant; „Fahndung erhöhen“ nach 25× 3 Sterne verlieren: mehrere Listen (Code selbst noch unbekannt → nur Freischaltung erwähnt)
+- Unsicher (nicht verwendet): Max Ammo (nur 1 Quelle, Freischaltung widersprüchlich), Unlimited Focus (keine seriöse Quelle), Fahrzeug-Cheats (Codes meist unbekannt), Exploding Balls (nur 1 Quelle)
