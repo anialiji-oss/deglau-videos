@@ -3,27 +3,25 @@
 **Idee:** Thema „GTA 6 Cheats“ (Anstoß: TikTok von „Six Star | GTA 6 Facts“). **Nicht kopiert:** eigener Text, eigene Recherche, eigene Cheat-Karten-Grafik, eigenes Bildmaterial (offizielle Trailer + Deglaus Gameplay-Clips).
 **Titel-Box:** „GTA 6 Cheats – aber mit Haken 🎮🔥“
 
-## Text zum Einsprechen (Entwurf 2 – mehr Cheats, ~50 s, Video auf 1 Min)
+## Text zum Einsprechen (Entwurf 3 – Codes NICHT vorlesen, nur als Cheat-Karte im Bild)
 **[Hook – danach Blitz + Beat]**
 In GTA 6 gibt's wieder Cheats – aber Rockstar hat einen richtig fiesen Haken eingebaut.
 
-Insgesamt gibt es 61 Cheats – das hier sind die, die schon funktionieren.
+Insgesamt gibt es 61 Cheats – das hier sind die, die schon funktionieren. Die Codes seht ihr direkt im Video.
 
-250.000 Dollar: oben, rechts, unten, links, oben, links, unten, rechts. Freigeschaltet, sobald du die Story durch hast.
+250.000 Dollar – aber nur, wenn du die Story komplett durch hast.
 
-Schutzweste: unten, oben, links, fünfmal oben, zweimal unten. Dafür musst du aber 100-mal ins Gym.
+Die Schutzweste kriegst du erst, wenn du 100-mal ins Gym gehst.
 
-Unendlich Munition: unten, oben, rechts, unten, zweimal links, oben, dreimal unten. Dafür brauchst du 25 Silbermedaillen am Schießstand.
+Für unendlich Munition brauchst du 25 Silbermedaillen am Schießstand – und mit 25 Goldmedaillen musst du nie wieder nachladen.
 
 Ich bin Deglau und stelle euch jeden Tag neue Spiele vor, also folgt mir doch gerne, um keine mehr zu verpassen.
-
-Kein Nachladen geht fast genauso – nur am Ende einmal oben statt unten. Dafür aber 25 Goldmedaillen.
 
 Und lustig: Wer 2.500 Dollar für Alkohol ausgibt, schaltet den Betrunken-Cheat frei. Und wer 25-mal drei Sterne abschüttelt, kriegt einen Cheat, der dir noch mehr Polizei auf den Hals hetzt.
 
 Aber der Haken: Sobald du einen Cheat eingibst, sind Trophäen und Speichern für die Session aus – und das Geld ist weg, sobald du das Spiel beendest.
 
-Eingeben könnt ihr alles übers Handy: Steuerkreuz hoch, L1 halten, R1 drücken – und dann den Code. Speichert euch das Video, und jetzt viel Spaß euch.
+Eingeben könnt ihr alles übers Handy. Speichert euch das Video, und jetzt viel Spaß euch.
 
 **Cheat-Karten (eigene Grafik):** 250.000 $ ↑→↓←↑←↓→ · Schutzweste ↓↑←↑↑↑↑↑↓↓ · Unendlich Munition ↓↑→↓←←↑↓↓↓ · Kein Nachladen ↓↑→↓←←↑↓↓↑
 
