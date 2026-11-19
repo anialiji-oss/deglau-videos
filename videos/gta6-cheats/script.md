@@ -21,7 +21,7 @@ Ich bin Deglau und stelle euch jeden Tag neue Spiele vor, also folgt mir doch ge
 
 Und lustig: Wer 2.500 Dollar für Alkohol ausgibt, schaltet den Betrunken-Cheat frei. Und wer 25-mal drei Sterne abschüttelt, kriegt einen Cheat, der dir noch mehr Polizei auf den Hals hetzt.
 
-Es gibt sogar Bildfilter: Sammel alle 24 Flamingo-Karten in Vice City, und das ganze Spiel wird pink.
+Es gibt sogar Bildfilter: Sammel alle 24 Flamingo-Karten in Vice City, und du schaltest den Bubblegum-Filter fürs ganze Spiel frei.
 
 Aber der Haken: Sobald du einen Cheat eingibst, sind Trophäen und Speichern für die Session aus – und das Geld ist weg, sobald du das Spiel beendest.
 
