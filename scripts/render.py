@@ -187,7 +187,7 @@ def main(edit_path):
         while fs > 40 and ImageFont.truetype(os.path.join(A, "caption.ttf"), fs).getlength(w) + 14 > 1000:
             fs -= 2
         dt.append(f"drawtext=fontfile={A}/caption.ttf:textfile={tf}:fontsize={fs}:fontcolor=white:borderw=7:bordercolor=black:"
-                  f"x=(w-text_w)/2:y=h*0.57:enable='between(t,{s:.2f},{e:.2f})'")
+                  f"x=(w-text_w)/2:y=h*0.57:enable='gte(t,{s:.3f})*lt(t,{e:.3f})'")
     v += f";[{last}]" + ",".join(dt) + "[vout]"
 
     # ---- 4) Audio ----

@@ -1,0 +1,670 @@
+{
+ "voice": "voice.m4a",
+ "words": "words.json",
+ "output": "/home/user/deglau-videos/videos/gta6-cheats/gta6_cheats.mp4",
+ "sources": {
+  "T1": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/gta6/ps/v1.mp4",
+  "T2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/gta6/ps/v2.mp4",
+  "L": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/gta6/ps/v3.mp4"
+ },
+ "_quellen": "T1/T2/L = offizielle Trailer (playstation.com). Codes: Insider Gaming + Gamerant (18.11.2026).",
+ "flash": 3.62,
+ "end": 60.0,
+ "title": {
+  "lines": [
+   "GTA 6 Cheats sind zurück",
+   "aber mit Haken"
+  ],
+  "emojis": [
+   "🎮",
+   "🔥"
+  ]
+ },
+ "segments": [
+  {
+   "t": [
+    0.0,
+    1.6
+   ],
+   "src": [
+    "T1",
+    75.0,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Cheats – Waffen"
+  },
+  {
+   "t": [
+    1.6,
+    3.62
+   ],
+   "src": [
+    "T1",
+    10.5,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Rockstar Haken – Vice City"
+  },
+  {
+   "t": [
+    3.62,
+    5.45
+   ],
+   "src": [
+    "T2",
+    31.5,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "61 Cheats – Highway"
+  },
+  {
+   "t": [
+    5.45,
+    7.6
+   ],
+   "src": [
+    "L",
+    46.5,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "funktionieren"
+  },
+  {
+   "t": [
+    7.6,
+    9.95
+   ],
+   "src": [
+    "T1",
+    28.5,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Codes im Hintergrund"
+  },
+  {
+   "t": [
+    9.95,
+    11.85
+   ],
+   "src": [
+    "T2",
+    138.0,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "freischalten"
+  },
+  {
+   "t": [
+    11.85,
+    15.05
+   ],
+   "src": [
+    "T1",
+    59.5,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "250.000 Dollar – Geld"
+  },
+  {
+   "t": [
+    15.05,
+    18.2
+   ],
+   "src": [
+    "T2",
+    35.8,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Gym – Bankdrücken"
+  },
+  {
+   "t": [
+    18.2,
+    21.6
+   ],
+   "src": [
+    "T2",
+    127.0,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Munition – Waffenladen"
+  },
+  {
+   "t": [
+    21.6,
+    24.25
+   ],
+   "src": [
+    "L",
+    71.5,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "nie nachladen – Gewehr"
+  },
+  {
+   "t": [
+    24.25,
+    26.6
+   ],
+   "src": [
+    "T2",
+    115.0,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Granaten – Explosion"
+  },
+  {
+   "t": [
+    26.6,
+    28.8
+   ],
+   "src": [
+    "T1",
+    0.5,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Ich bin Deglau"
+  },
+  {
+   "t": [
+    28.8,
+    30.9
+   ],
+   "src": [
+    "T2",
+    151.0,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "folgt mir"
+  },
+  {
+   "t": [
+    30.9,
+    32.9
+   ],
+   "src": [
+    "T2",
+    76.0,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Alkohol – Bar"
+  },
+  {
+   "t": [
+    32.9,
+    34.6
+   ],
+   "src": [
+    "T2",
+    88.0,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Betrunken – Shots"
+  },
+  {
+   "t": [
+    34.6,
+    36.7
+   ],
+   "src": [
+    "T2",
+    43.0,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "3 Sterne – Polizei"
+  },
+  {
+   "t": [
+    36.7,
+    39.0
+   ],
+   "src": [
+    "L",
+    47.5,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "mehr Polizei"
+  },
+  {
+   "t": [
+    39.0,
+    41.1
+   ],
+   "src": [
+    "L",
+    26.0,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Bildfilter – pink"
+  },
+  {
+   "t": [
+    41.1,
+    43.0
+   ],
+   "src": [
+    "T1",
+    17.5,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Flamingos"
+  },
+  {
+   "t": [
+    43.0,
+    45.2
+   ],
+   "src": [
+    "T1",
+    30.0,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Bubblegum"
+  },
+  {
+   "t": [
+    45.2,
+    48.0
+   ],
+   "src": [
+    "T2",
+    48.0,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Haken – Gefängnis"
+  },
+  {
+   "t": [
+    48.0,
+    51.35
+   ],
+   "src": [
+    "T1",
+    66.0,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Geld weg – Überfall"
+  },
+  {
+   "t": [
+    51.35,
+    53.3
+   ],
+   "src": [
+    "L",
+    11.5,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Handy"
+  },
+  {
+   "t": [
+    53.3,
+    55.6
+   ],
+   "src": [
+    "T1",
+    9.0,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "viel Spaß"
+  },
+  {
+   "t": [
+    55.6,
+    57.1
+   ],
+   "src": [
+    "L",
+    49.0,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    57.1,
+    58.6
+   ],
+   "src": [
+    "T1",
+    62.5,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    58.6,
+    60.0
+   ],
+   "src": [
+    "L",
+    55.0,
+    null
+   ],
+   "rect": [
+    0,
+    0.055,
+    1,
+    0.78
+   ],
+   "_": "Montage"
+  }
+ ],
+ "caption_fixes": [
+  [
+   "GTR",
+   "GTA"
+  ],
+  [
+   "Schutzwerte",
+   "Schutzweste"
+  ],
+  [
+   "Stream",
+   "Gym"
+  ],
+  [
+   "Silbermedellin",
+   "Silbermedaillen"
+  ],
+  [
+   "Goldmedellin",
+   "Goldmedaillen"
+  ],
+  [
+   "Deckel",
+   "Deglau"
+  ],
+  [
+   "fäuse",
+   "vor also"
+  ],
+  [
+   "Alkoholausgibt",
+   "Alkohol ausgibt"
+  ],
+  [
+   "Betrunken",
+   "Betrunken-"
+  ],
+  [
+   "den",
+   ""
+  ],
+  [
+   "Schieß",
+   "Cheat"
+  ],
+  [
+   "abschüttet",
+   "abschüttelt"
+  ],
+  [
+   "-Karten",
+   "Karten"
+  ],
+  [
+   "Weiss",
+   "Vice"
+  ],
+  [
+   "-Pink",
+   "Pink"
+  ],
+  [
+   "-Filter",
+   "Filter"
+  ],
+  [
+   "in",
+   "sind"
+  ],
+  [
+   "Speicher",
+   "Speichern"
+  ]
+ ],
+ "bigwords": [
+  {
+   "text": "61",
+   "color": "#FFD000",
+   "size": 260,
+   "t": [
+    4.48,
+    5.6
+   ],
+   "y": 500,
+   "anim": "drop",
+   "hide_captions": [
+    4.48,
+    4.92
+   ]
+  },
+  {
+   "text": "HAKEN",
+   "color": "#FF3B3B",
+   "size": 170,
+   "t": [
+    45.5,
+    46.5
+   ],
+   "y": 540,
+   "anim": "slide",
+   "hide_captions": [
+    45.5,
+    45.96
+   ]
+  }
+ ],
+ "icons": [
+  {
+   "img": "videos/gta6-cheats/karten/geld.png",
+   "t": [
+    11.85,
+    15.0
+   ],
+   "spin": 0,
+   "size": 920,
+   "y": 330
+  },
+  {
+   "img": "videos/gta6-cheats/karten/weste.png",
+   "t": [
+    15.05,
+    18.2
+   ],
+   "spin": 0,
+   "size": 920,
+   "y": 330
+  },
+  {
+   "img": "videos/gta6-cheats/karten/munition.png",
+   "t": [
+    18.25,
+    21.6
+   ],
+   "spin": 0,
+   "size": 920,
+   "y": 330
+  },
+  {
+   "img": "videos/gta6-cheats/karten/nachladen.png",
+   "t": [
+    21.65,
+    24.25
+   ],
+   "spin": 0,
+   "size": 920,
+   "y": 330
+  },
+  {
+   "img": "videos/gta6-cheats/karten/polizei.png",
+   "t": [
+    34.6,
+    39.0
+   ],
+   "spin": 0,
+   "size": 920,
+   "y": 330
+  }
+ ],
+ "sfx": []
+}

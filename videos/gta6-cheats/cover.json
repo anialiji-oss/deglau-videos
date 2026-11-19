@@ -1,0 +1,9 @@
+{
+ "src": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/gta6/ps/v1.mp4",
+ "src_time": 75.3,
+ "rect": [0, 0.055, 1, 0.78],
+ "lines": [["GTA 6 CHEATS", "white"], ["SIND ZURÜCK", "#FFD000"], ["MIT HAKEN", "#FF3B3B"]],
+ "card": "karten/geld.png",
+ "card_width": 760,
+ "output": "titelbild.jpg"
+}
