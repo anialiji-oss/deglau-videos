@@ -1,31 +1,36 @@
-# GTA 6 – Roter Hulk (Easter Egg) · Script Entwurf 1
+# GTA 6 – Roter Hulk (Kyle) · Script Entwurf 2 (passend zu den Clips)
 
 **Titel-Box:** „Der rote Hulk in GTA 6“
 
-## Text zum Einsprechen (~30–35 s)
+## Text zum Einsprechen (~35 s)
 **[Hook – danach Blitz + Beat]**
-In GTA 6 gibt's einen versteckten roten Hulk – und wenn du ihn umarmen willst, passiert das hier.
+In GTA 6 gibt's einen versteckten roten Hulk – und wenn du ihn umarmst, passiert das hier.
 
-Auf einer Farm taucht plötzlich ein riesiges rotes Monster auf. Er zerlegt die Scheune, wirft mit Autos um sich – und einen Hubschrauber holt er runter, indem er einfach einen Menschen draufwirft. Genau wie Red Hulk im neuen Captain-America-Film.
+Auf einer Farm wird plötzlich alles abgesperrt – überall Agenten. Und dann siehst du ihn: Kyle, der zu einem riesigen roten Monster mutiert ist.
+
+Autos fliegen durch die Luft, alles explodiert, und Kyle wütet mitten zwischen den Agenten.
 
 Ich bin Deglau und stelle euch jeden Tag neue Spiele vor, also folgt mir doch gerne, um keine mehr zu verpassen.
 
-Am Ende setzt er sich hin, und du kannst ihn umarmen. Aber statt kuscheln packt er Jason, schleudert ihn weg – und springt einfach aus der Map.
+Am Ende kniet er vor der Scheune und streckt die Arme aus – und du kannst entscheiden: umarmen oder ablehnen.
 
-Was passiert, wenn du Nein sagst, weiß bis jetzt noch keiner. Probiert's aus, schreibt's in die Kommentare – und jetzt viel Spaß euch.
+Mit Lucia packt er dich und schleudert dich einfach weg. Mit Jason gibt's dafür eine Umarmung – und sogar einen Bonus.
 
-## Fakten-Check
-- Monster bei einer Scheune, wirft Autos, Umarmen-Option, schleudert Jason weg, springt weg: all.gg, unboxholics, comicbasics
-- Hubschrauber mit geworfenem NPC = Szene aus „Captain America: Brave New World“: comingsoon.net, superherohype, comicbasics
-- Was bei „Nein“ passiert: noch unbekannt (comicbasics)
-- Nur 1 Quelle → NICHT im Text: Name „Kyle“, Bauer mit Riesen-Erdbeeren/Chemikalien
-- Rockstar hat sich nicht geäußert. Gefunden wurde es im Stream von IShowSpeed → laut Deglau nicht über Streamer reden, nur übers Game.
+Freischalten könnt ihr das über die Nebenmissionen mit Kyle. Spielt sie bis zum Ende – und jetzt viel Spaß euch.
 
-## Bild
-Keine offiziellen Trailer-Szenen davon → Gameplay-Clips nötig (Deglau lädt sie lokal, Quellen notieren):
-1. Monster taucht an der Scheune auf
-2. Scheune kaputt / Auto wird geworfen
-3. Hubschrauber-Szene
-4. Hinsetzen + Umarmen-Auswahl
-5. Jason wird weggeschleudert, Monster springt weg
-Ohne Facecam/Stream-Overlay oder mit Facecam, die sich wegschneiden lässt.
+## Clips (Credit!)
+| Satz | Clip | Creator |
+|---|---|---|
+| Hook | 04 (Hulk groß) / 01 | Estinto |
+| Absperrung, Agenten, Hulk in der Ferne | 05 | Zanar |
+| Autos fliegen, Explosion, Kampf | 01, 02, 06 | Estinto, Zanar |
+| Deglau-Satz | 06 | Zanar |
+| Kniet, Arme aus, HUG/DECLINE | 03 | Estinto |
+| Lucia wird weggeschleudert | 04 | Estinto |
+| Jason umarmt, „Focus buffed“ | 07 | Ruba |
+| Outro | 07 (Kyle groß vor Scheune) | Ruba |
+
+## Fakten
+- Kyle McKittrick, „Strangers & Freaks“-Mission, HUG/DECLINE: Beschreibungen Estinto + Ruba, im Clip zu sehen
+- Lucia weggeschleudert (Clip 04), Jason umarmt + „Focus buffed“ (Clip 07)
+- Hubschrauber-Szene NICHT in den Clips → nicht im Text
