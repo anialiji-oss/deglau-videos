@@ -1,0 +1,642 @@
+{
+ "voice": "voice.m4a",
+ "words": "words.json",
+ "output": "/home/user/deglau-videos/videos/gta6-versteckt/gta6_versteckt.mp4",
+ "sources": {
+  "c01": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/versteckt/01_rodwenn_lagerhaus_sturmgewehr.mp4",
+  "c03": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/versteckt/03_rodwenn_waffenkammer_raketenwerfer.mp4",
+  "c04": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/versteckt/04_rodwenn_dach_sniper.mp4",
+  "c05": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/versteckt/05_willis_kingfisher_w22_fischerhuette.mp4",
+  "c06": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/versteckt/06_willis_schrottplatz_tresorraum.mp4",
+  "c07": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/versteckt/07_willis_sunrise_motel_garage.mp4",
+  "c08": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/versteckt/08_arekkz_funkturm_sniper.mp4",
+  "c09": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/versteckt/09_arekkz_lueftungsschacht_geldversteck.mp4",
+  "c10": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/versteckt/10_robbinrams_geheimer_bunker.mp4",
+  "c11": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/versteckt/11_jfm_crabshack_mp5.mp4"
+ },
+ "_quellen": "Clips: Rodwenn (01,03,04), WiLLiSGaming (05,06,07), Arekkz Gaming (08,09), Robbin Rams (10), JFM (11) – Links in quellen_uebersicht.txt",
+ "flash": 3.9,
+ "end": 60.0,
+ "title": {
+  "lines": [
+   "Versteckte Waffen in GTA 6,",
+   "die fast keiner findet"
+  ],
+  "emojis": [
+   "🎮",
+   "🔥"
+  ]
+ },
+ "segments": [
+  {
+   "t": [
+    0,
+    1.9
+   ],
+   "src": [
+    "c03",
+    0.0,
+    null
+   ],
+   "_": "Hook – Schrottplatz"
+  },
+  {
+   "t": [
+    1.9,
+    3.9
+   ],
+   "src": [
+    "c05",
+    4.5,
+    null
+   ],
+   "_": "Hook – Schießerei"
+  },
+  {
+   "t": [
+    3.9,
+    6.5
+   ],
+   "src": [
+    "c03",
+    2.0,
+    null
+   ],
+   "_": "Schrottplatz – Hütte/Falltür"
+  },
+  {
+   "t": [
+    6.5,
+    9.65
+   ],
+   "src": [
+    "c03",
+    7.0,
+    null
+   ],
+   "_": "Waffenraum – Raketenwerfer"
+  },
+  {
+   "t": [
+    9.65,
+    12.4
+   ],
+   "src": [
+    "c08",
+    0.5,
+    null
+   ],
+   "_": "Funkturm hochlaufen",
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ]
+  },
+  {
+   "t": [
+    12.4,
+    14.45
+   ],
+   "src": [
+    "c08",
+    10.8,
+    null
+   ],
+   "_": "Fallschirmsprung",
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ]
+  },
+  {
+   "t": [
+    14.45,
+    17.3
+   ],
+   "src": [
+    "c01",
+    0.0,
+    null
+   ],
+   "_": "Lagerhaus Seitentür"
+  },
+  {
+   "t": [
+    17.3,
+    19.1
+   ],
+   "src": [
+    "c01",
+    6.0,
+    null
+   ],
+   "_": "MP aufheben"
+  },
+  {
+   "t": [
+    19.1,
+    21.0
+   ],
+   "src": [
+    "c07",
+    1.0,
+    null
+   ],
+   "_": "Sunrise Motel Karte"
+  },
+  {
+   "t": [
+    21.0,
+    22.7
+   ],
+   "src": [
+    "c07",
+    6.4,
+    null
+   ],
+   "_": "Rolltor"
+  },
+  {
+   "t": [
+    22.7,
+    24.3
+   ],
+   "src": [
+    "c07",
+    9.5,
+    null
+   ],
+   "_": "Lagerraum"
+  },
+  {
+   "t": [
+    24.3,
+    25.3
+   ],
+   "src": [
+    "c07",
+    0.0,
+    null
+   ],
+   "_": "Granatwerfer Waffenrad"
+  },
+  {
+   "t": [
+    25.3,
+    27.5
+   ],
+   "src": [
+    "c08",
+    5.0,
+    null
+   ],
+   "_": "Ich bin Deglau – Turm",
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ]
+  },
+  {
+   "t": [
+    27.5,
+    29.85
+   ],
+   "src": [
+    "c06",
+    2.0,
+    null
+   ],
+   "_": "folgt mir – Hütte"
+  },
+  {
+   "t": [
+    29.85,
+    32.9
+   ],
+   "src": [
+    "c04",
+    7.3,
+    null
+   ],
+   "_": "Dach Key Lento Sniper"
+  },
+  {
+   "t": [
+    32.9,
+    35.5
+   ],
+   "src": [
+    "c04",
+    4.0,
+    null
+   ],
+   "_": "Sammelkarte",
+   "rect": [
+    0.4,
+    0.17,
+    0.26,
+    0.3
+   ],
+   "cx": 0.62
+  },
+  {
+   "t": [
+    35.5,
+    36.75
+   ],
+   "src": [
+    "c04",
+    9.0,
+    null
+   ],
+   "_": "Sniper Prompt"
+  },
+  {
+   "t": [
+    36.75,
+    38.6
+   ],
+   "src": [
+    "c11",
+    0.0,
+    null
+   ],
+   "_": "Monster-Krabbe"
+  },
+  {
+   "t": [
+    38.6,
+    40.1
+   ],
+   "src": [
+    "c11",
+    5.3,
+    null
+   ],
+   "_": "Code eingeben"
+  },
+  {
+   "t": [
+    40.1,
+    41.45
+   ],
+   "src": [
+    "c11",
+    10.6,
+    null
+   ],
+   "_": "Tresor auf"
+  },
+  {
+   "t": [
+    41.45,
+    43.2
+   ],
+   "src": [
+    "c05",
+    0.0,
+    null
+   ],
+   "_": "Fischerhütten Karte"
+  },
+  {
+   "t": [
+    43.2,
+    44.8
+   ],
+   "src": [
+    "c05",
+    5.5,
+    null
+   ],
+   "_": "Kampf"
+  },
+  {
+   "t": [
+    44.8,
+    46.4
+   ],
+   "src": [
+    "c05",
+    10.6,
+    null
+   ],
+   "_": "Spezialgewehr freigeschaltet"
+  },
+  {
+   "t": [
+    46.4,
+    48.3
+   ],
+   "src": [
+    "c09",
+    0.0,
+    null
+   ],
+   "_": "Papagei",
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ]
+  },
+  {
+   "t": [
+    48.3,
+    50.3
+   ],
+   "src": [
+    "c09",
+    6.0,
+    null
+   ],
+   "_": "Lüftungsschacht",
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ]
+  },
+  {
+   "t": [
+    50.3,
+    51.6
+   ],
+   "src": [
+    "c10",
+    3.0,
+    null
+   ],
+   "_": "Wald"
+  },
+  {
+   "t": [
+    51.6,
+    53.7
+   ],
+   "src": [
+    "c10",
+    8.0,
+    null
+   ],
+   "_": "Bunker Tür"
+  },
+  {
+   "t": [
+    53.7,
+    56.0
+   ],
+   "src": [
+    "c06",
+    0.0,
+    null
+   ],
+   "_": "Speichert – Schrottplatz"
+  },
+  {
+   "t": [
+    56.0,
+    57.4
+   ],
+   "src": [
+    "c03",
+    10.4,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    57.4,
+    58.7
+   ],
+   "src": [
+    "c06",
+    7.8,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    58.7,
+    60.0
+   ],
+   "src": [
+    "c08",
+    11.6,
+    null
+   ],
+   "_": "Montage",
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ]
+  }
+ ],
+ "caption_fixes": [
+  [
+   "Lassen",
+   "Das sind"
+  ],
+  [
+   "GTR",
+   "GTA"
+  ],
+  [
+   "Shopplatz",
+   "Schrottplatz"
+  ],
+  [
+   "Raketen",
+   "Raketenwerfer"
+  ],
+  [
+   "werfern",
+   ""
+  ],
+  [
+   "Scharfschützen",
+   "Scharfschützengewehr"
+  ],
+  [
+   "-Gwehr",
+   ""
+  ],
+  [
+   "Falltürm",
+   "Fallschirm"
+  ],
+  [
+   "Motor",
+   "Motel"
+  ],
+  [
+   "Tuquesta",
+   "Tequesta"
+  ],
+  [
+   "Rolltoil",
+   "Rolltor"
+  ],
+  [
+   "verstecken",
+   "versteckten"
+  ],
+  [
+   "übertrieben",
+   "übertriebener"
+  ],
+  [
+   "Weil",
+   ""
+  ],
+  [
+   "Deckner",
+   "Deglau"
+  ],
+  [
+   "Sie",
+   ""
+  ],
+  [
+   "Quilento",
+   "Key Lento"
+  ],
+  [
+   "Scharfschützen",
+   "Scharfschützengewehr"
+  ],
+  [
+   "-Gwehr",
+   ""
+  ],
+  [
+   "Stückbarin",
+   "Stripperin"
+  ],
+  [
+   "Monsterkrabbe",
+   "Monster-Krabbe"
+  ],
+  [
+   "Rhino",
+   "rein"
+  ],
+  [
+   "Krabben",
+   "Crabshack"
+  ],
+  [
+   "-Shack",
+   ""
+  ],
+  [
+   "einem",
+   "den"
+  ],
+  [
+   "Fischhölten",
+   "Fischerhütten"
+  ],
+  [
+   "im",
+   "in"
+  ],
+  [
+   "Kingfischte",
+   "Kingfishers"
+  ],
+  [
+   "Rhymes",
+   "räumst"
+  ],
+  [
+   "zu",
+   "du"
+  ],
+  [
+   "auskriegst",
+   "aus kriegst"
+  ],
+  [
+   "Papageien",
+   "Papagei"
+  ],
+  [
+   "-Lüft",
+   "einen"
+  ],
+  [
+   "-Uftschach",
+   "Lüftungsschacht"
+  ],
+  [
+   "Zahnschloss",
+   "Zahlenschloss"
+  ],
+  [
+   "durch",
+   "euch"
+  ]
+ ],
+ "bigwords": [
+  {
+   "text": "GRATIS",
+   "color": "#39FF14",
+   "size": 170,
+   "t": [
+    3.0,
+    3.9
+   ],
+   "y": 560,
+   "anim": "drop",
+   "hide_captions": [
+    3.34,
+    3.9
+   ]
+  },
+  {
+   "text": "18",
+   "color": "#FFD000",
+   "size": 240,
+   "t": [
+    35.0,
+    36.0
+   ],
+   "y": 520,
+   "anim": "drop",
+   "hide_captions": [
+    35.0,
+    35.3
+   ]
+  },
+  {
+   "text": "RÄTSEL",
+   "color": "#FF3B3B",
+   "size": 160,
+   "t": [
+    53.2,
+    54.2
+   ],
+   "y": 560,
+   "anim": "slide",
+   "hide_captions": [
+    53.2,
+    53.64
+   ]
+  }
+ ],
+ "icons": [],
+ "sfx": []
+}
