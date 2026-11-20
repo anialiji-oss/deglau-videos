@@ -1,8 +1,9 @@
-# GTA 6 – Versteckte Waffen & Orte · Script Entwurf 1
+# GTA 6 – Versteckte Waffen & Orte · FINAL (Video 1 Minute, gesprochen ~45–50 s)
 
 **Titel-Box:** „Versteckte Waffen in GTA 6, die fast keiner findet“
+**Länge:** Video auf 60 s (Rest = Gameplay-Montage + Beat)
 
-## Text zum Einsprechen (~40–45 s)
+## Text zum Einsprechen
 **[Hook – danach Blitz + Beat]**
 Diese Waffen kriegst du in GTA 6 komplett gratis – wenn du weißt, wo sie versteckt sind.
 
@@ -12,7 +13,11 @@ Ganz oben auf dem Funkturm im Startgebiet liegt ein Scharfschützengewehr – un
 
 Im Lagerhaus „Apollo Aggregates“ musst du nur die Seitentür aufmachen – da liegt einfach eine MP auf dem Boden.
 
+Hinterm Sunrise Motel in Tequesta führt ein Rolltor in einen versteckten Lagerraum – da drin wartet sogar ein Granatwerfer.
+
 Ich bin Deglau und stelle euch jeden Tag neue Spiele vor, also folgt mir doch gerne, um keine mehr zu verpassen.
+
+Auf einem Dach in Key Lento liegt noch ein Scharfschützengewehr – und direkt daneben eine Sammelkarte von einer Stripperin. Davon gibt's 18 Stück, also viel Spaß beim Sammeln.
 
 In einem Haus mit einer riesigen Monster-Krabbe steht ein Tresor – Code rein, und drin wartet die Crabshack.
 
@@ -25,15 +30,17 @@ Und mitten im Wald steht ein Bunker mit Zahlenschloss – was da drin ist, ist n
 ## Clips (Credit im Post!)
 | Satz | Clip | Creator |
 |---|---|---|
-| Schrottplatz/Falltür/Raketenwerfer | 03 (Falltür) + 06 (Schrottplatz von außen) | Rodwenn / WiLLiSGaming |
-| Funkturm-Sniper + Fallschirmsprung | 08 (Wasserzeichen unten links wegschneiden) | Arekkz Gaming |
-| (Montage) Dach-Sniper Key Lento | 04 (Sammelkarte 3,5–6 s NICHT zeigen) | Rodwenn |
-| Fischerhütten Wetman Bay, Kingfishers W-22 | 05 | WiLLiSGaming |
+| Hook | 06 Schrottplatz von außen / 08 Fallschirm | WiLLiSGaming / Arekkz |
+| Schrottplatz, Falltür, Raketenwerfer | 03 (+06) | Rodwenn (+WiLLiSGaming) |
+| Funkturm, Sniper, Fallschirm | 08 (Wasserzeichen unten links weg) | Arekkz Gaming |
 | Lagerhaus Apollo Aggregates, Type 9 | 01 | Rodwenn |
+| Sunrise Motel, Rolltor, Granatwerfer | 07 (0 s = Granatwerfer im Waffenrad) | WiLLiSGaming |
+| Dach Key Lento, SM-69 + Karte „Delights Dancers 1/18“ | 04 | Rodwenn |
 | Monster-Krabbe, Tresor, Crabshack | 11 | JFM |
-| Papagei, Lüftungsschacht, Secret Stash | 09 (Wasserzeichen unten links wegschneiden) | Arekkz Gaming |
-| Bunker im Wald, Zahlenschloss | 10 (ab 11 s Foto-Modus-Menü rechts → wegschneiden) | Robbin Rams |
+| Fischerhütten Wetman Bay, Kingfishers W-22 | 05 | WiLLiSGaming |
+| Papagei, Lüftungsschacht, Secret Stash | 09 (Wasserzeichen weg) | Arekkz Gaming |
+| Bunker im Wald | 10 (Foto-Menü ab 11 s weg) | Robbin Rams |
+| Montage bis 60 s | Reste aus 03/06/08/05 | – |
 
-## Fakten
-- Schrottplatz-Bunker mit H-AT-Raketenwerfer: 2 Creator (Rodwenn, WiLLiS) + egamers.io
-- Alles andere: im Clip selbst zu sehen (Ort laut Video-Einblendung/Kapitel)
+## Hinweis
+Karten-Bild im Spiel ist freizügig (knapper Bikini) → nur kurz und groß nur Name/Zähler „Delights Dancers 1/18“ zeigen, damit TikTok nicht runterstuft.
