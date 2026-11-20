@@ -1,0 +1,760 @@
+{
+ "voice": "voice.m4a",
+ "words": "words.json",
+ "output": "/home/user/deglau-videos/videos/gta6-ritual/gta6_ritual.mp4",
+ "sources": {
+  "c01": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/ritual/01_punish_weg_zur_lagerhalle.mp4",
+  "c02": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/ritual/02_punish_tagebuch_pentagramm.mp4",
+  "c03": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/ritual/03_punish_opfer_tragen.mp4",
+  "c04": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/ritual/04_punish_pentagramm_brennt.mp4",
+  "c05": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/ritual/05_punish_cleanse_fenster.mp4",
+  "c06": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/ritual/06_punish_zombie_angriff.mp4",
+  "c07": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/ritual/07_dynasty_halluzination_kampf.mp4"
+ },
+ "_quellen": "Clips: Punish (01-06), Dynasty (07) – Links in quellen_uebersicht.txt. GTA-6-Kachel aus offiziellem Trailer (Spiel-Logo, erlaubt als Spiel-Kachel).",
+ "flash": 4.12,
+ "end": 60.0,
+ "title": {
+  "lines": [
+   "Das gruseligste",
+   "Easter Egg in GTA 6"
+  ],
+  "emojis": [
+   "🎮",
+   "🔥"
+  ]
+ },
+ "segments": [
+  {
+   "t": [
+    0,
+    2.1
+   ],
+   "src": [
+    "c05",
+    6.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Hook – pinker Raum"
+  },
+  {
+   "t": [
+    2.1,
+    4.12
+   ],
+   "src": [
+    "c06",
+    3.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Hook – Angriff"
+  },
+  {
+   "t": [
+    4.12,
+    7.0
+   ],
+   "src": [
+    "c01",
+    0.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Lagerhalle an den Gleisen"
+  },
+  {
+   "t": [
+    7.0,
+    8.6
+   ],
+   "src": [
+    "c02",
+    1.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Pentagramm aus Kerzen"
+  },
+  {
+   "t": [
+    8.6,
+    10.6
+   ],
+   "src": [
+    "c02",
+    5.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Tagebuch – Opfer"
+  },
+  {
+   "t": [
+    10.6,
+    13.1
+   ],
+   "src": [
+    "c03",
+    0.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Bauarbeiter holen"
+  },
+  {
+   "t": [
+    13.1,
+    14.4
+   ],
+   "src": [
+    "c03",
+    8.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "in die Halle tragen"
+  },
+  {
+   "t": [
+    14.4,
+    15.55
+   ],
+   "src": [
+    "c04",
+    0.5,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "ins Pentagramm legen"
+  },
+  {
+   "t": [
+    15.55,
+    17.6
+   ],
+   "src": [
+    "c07",
+    0.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Ich bin Deglau"
+  },
+  {
+   "t": [
+    17.6,
+    20.1
+   ],
+   "src": [
+    "c06",
+    0.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "folgt mir"
+  },
+  {
+   "t": [
+    20.1,
+    22.3
+   ],
+   "src": [
+    "c04",
+    7.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "anzünden, dunkel"
+  },
+  {
+   "t": [
+    22.3,
+    23.8
+   ],
+   "src": [
+    "c04",
+    9.5,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Stimmen nach Jason"
+  },
+  {
+   "t": [
+    23.8,
+    25.0
+   ],
+   "src": [
+    "c05",
+    1.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Fenster pink"
+  },
+  {
+   "t": [
+    25.0,
+    26.6
+   ],
+   "src": [
+    "c05",
+    8.8,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Blut an der Wand"
+  },
+  {
+   "t": [
+    26.6,
+    27.9
+   ],
+   "src": [
+    "c05",
+    10.8,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Gestalt packt Jason"
+  },
+  {
+   "t": [
+    27.9,
+    29.3
+   ],
+   "src": [
+    "c06",
+    4.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "greifen an"
+  },
+  {
+   "t": [
+    29.3,
+    32.9
+   ],
+   "src": [
+    "c07",
+    3.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Traut ihr euch"
+  },
+  {
+   "t": [
+    32.9,
+    34.41
+   ],
+   "src": [
+    "c05",
+    4.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    34.41,
+    35.91
+   ],
+   "src": [
+    "c03",
+    2.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    35.91,
+    37.42
+   ],
+   "src": [
+    "c06",
+    8.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    37.42,
+    38.92
+   ],
+   "src": [
+    "c05",
+    9.5,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    38.92,
+    40.43
+   ],
+   "src": [
+    "c01",
+    4.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    40.43,
+    41.93
+   ],
+   "src": [
+    "c02",
+    6.5,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    41.93,
+    43.44
+   ],
+   "src": [
+    "c05",
+    11.3,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    43.44,
+    44.94
+   ],
+   "src": [
+    "c03",
+    10.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    44.94,
+    46.45
+   ],
+   "src": [
+    "c06",
+    5.5,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    46.45,
+    47.96
+   ],
+   "src": [
+    "c05",
+    7.5,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    47.96,
+    49.46
+   ],
+   "src": [
+    "c01",
+    10.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    49.46,
+    50.97
+   ],
+   "src": [
+    "c02",
+    8.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    50.97,
+    52.47
+   ],
+   "src": [
+    "c05",
+    2.5,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    52.47,
+    53.98
+   ],
+   "src": [
+    "c03",
+    5.5,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    53.98,
+    55.48
+   ],
+   "src": [
+    "c06",
+    6.5,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    55.48,
+    56.99
+   ],
+   "src": [
+    "c05",
+    10.2,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    56.99,
+    58.49
+   ],
+   "src": [
+    "c01",
+    2.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    58.49,
+    60.0
+   ],
+   "src": [
+    "c05",
+    5.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.78
+   ],
+   "_": "Montage"
+  }
+ ],
+ "caption_fixes": [
+  [
+   "GTAVI",
+   "GTA 6"
+  ],
+  [
+   "übertriebenes",
+   "übertrieben"
+  ],
+  [
+   "dem",
+   "den"
+  ],
+  [
+   "holt",
+   "holst"
+  ],
+  [
+   "sie",
+   "du"
+  ],
+  [
+   "im",
+   "am"
+  ],
+  [
+   "ein",
+   "einen"
+  ],
+  [
+   "Deckmann",
+   "Deglau"
+  ],
+  [
+   "durch",
+   "du"
+  ],
+  [
+   "das",
+   "hörst"
+  ],
+  [
+   "scheinen",
+   "schreien"
+  ]
+ ],
+ "bigwords": [
+  {
+   "text": "OPFER",
+   "color": "#FF3B3B",
+   "size": 180,
+   "t": [
+    10.1,
+    10.9
+   ],
+   "y": 560,
+   "anim": "drop",
+   "hide_captions": [
+    10.12,
+    10.46
+   ]
+  },
+  {
+   "text": "PINK",
+   "color": "#FF4FD8",
+   "size": 200,
+   "t": [
+    24.7,
+    25.5
+   ],
+   "y": 560,
+   "anim": "slide",
+   "hide_captions": [
+    24.7,
+    24.96
+   ]
+  }
+ ],
+ "icons": [
+  {
+   "img": "videos/gta6-ritual/gta6_kachel.png",
+   "t": [
+    0.12,
+    1.7
+   ],
+   "spin": 0,
+   "size": 520,
+   "y": 470
+  },
+  {
+   "img": "videos/gta6-ritual/gta6_kachel.png",
+   "t": [
+    17.65,
+    19.0
+   ],
+   "spin": 0,
+   "size": 520,
+   "y": 420
+  }
+ ],
+ "sfx": []
+}
