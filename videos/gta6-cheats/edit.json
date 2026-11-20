@@ -46,7 +46,7 @@
    ],
    "src": [
     "T1",
-    10.5,
+    9.0,
     null
    ],
    "rect": [
@@ -641,6 +641,16 @@
   }
  ],
  "icons": [
+  {
+   "img": "videos/gta6-cheats/karten/hook.mov",
+   "t": [
+    0.0,
+    3.62
+   ],
+   "spin": 0,
+   "size": 960,
+   "y": 470
+  },
   {
    "img": "videos/gta6-cheats/karten/geld.mov",
    "t": [
