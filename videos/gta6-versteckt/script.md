@@ -8,7 +8,7 @@ Diese Waffen kriegst du in GTA 6 komplett gratis – wenn du weißt, wo sie vers
 
 Auf dem Schrottplatz in Mariana County ist in einer Hütte eine Falltür – und darunter ein geheimer Waffenraum mit Raketenwerfer.
 
-Auf einem Dach in Key Lento liegt einfach ein Scharfschützengewehr rum – musst nur hochklettern.
+Ganz oben auf dem Funkturm im Startgebiet liegt ein Scharfschützengewehr – und mit dem Fallschirm springst du einfach wieder runter.
 
 Im Lagerhaus „Apollo Aggregates“ musst du nur die Seitentür aufmachen – da liegt einfach eine MP auf dem Boden.
 
@@ -26,7 +26,8 @@ Und mitten im Wald steht ein Bunker mit Zahlenschloss – was da drin ist, ist n
 | Satz | Clip | Creator |
 |---|---|---|
 | Schrottplatz/Falltür/Raketenwerfer | 03 (Falltür) + 06 (Schrottplatz von außen) | Rodwenn / WiLLiSGaming |
-| Dach-Sniper Key Lento (SM-69) | 04 (Sammelkarte 3,5–6 s NICHT zeigen) | Rodwenn |
+| Funkturm-Sniper + Fallschirmsprung | 08 (Wasserzeichen unten links wegschneiden) | Arekkz Gaming |
+| (Montage) Dach-Sniper Key Lento | 04 (Sammelkarte 3,5–6 s NICHT zeigen) | Rodwenn |
 | Fischerhütten Wetman Bay, Kingfishers W-22 | 05 | WiLLiSGaming |
 | Lagerhaus Apollo Aggregates, Type 9 | 01 | Rodwenn |
 | Monster-Krabbe, Tresor, Crabshack | 11 | JFM |
