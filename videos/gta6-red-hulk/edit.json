@@ -1,0 +1,481 @@
+{
+ "voice": "voice.m4a",
+ "words": "words.json",
+ "output": "/home/user/deglau-videos/videos/gta6-red-hulk/gta6_red_hulk.mp4",
+ "sources": {
+  "c01": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/hulk/01_estinto_auto_fliegt_explosion.mp4",
+  "c02": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/hulk/02_estinto_explosion_agenten.mp4",
+  "c03": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/hulk/03_estinto_umarmen_auswahl.mp4",
+  "c04": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/hulk/04_estinto_hulk_schleudert_lucia.mp4",
+  "c05": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/hulk/05_zanar_absperrung_hulk_in_der_ferne.mp4",
+  "c06": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/hulk/06_zanar_hulk_kampf.mp4",
+  "c07": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/hulk/07_ruba_jason_umarmt_hulk_nachts.mp4"
+ },
+ "_quellen": "Clips: Estinto (01-04), Zanar (05,06), Ruba (07) – Links in quellen_uebersicht.txt",
+ "flash": 3.78,
+ "end": 36.8,
+ "title": {
+  "lines": [
+   "Der rote Hulk",
+   "in GTA 6"
+  ],
+  "emojis": [
+   "🎮",
+   "🔥"
+  ]
+ },
+ "segments": [
+  {
+   "t": [
+    0,
+    2.0
+   ],
+   "src": [
+    "c04",
+    4.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Hook – Hulk riesig"
+  },
+  {
+   "t": [
+    2.0,
+    3.78
+   ],
+   "src": [
+    "c01",
+    6.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Hook – Explosion"
+  },
+  {
+   "t": [
+    3.78,
+    5.75
+   ],
+   "src": [
+    "c05",
+    0.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "abgesperrt"
+  },
+  {
+   "t": [
+    5.75,
+    7.35
+   ],
+   "src": [
+    "c05",
+    3.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Agenten"
+  },
+  {
+   "t": [
+    7.35,
+    9.5
+   ],
+   "src": [
+    "c05",
+    10.5,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Kyle in der Ferne"
+  },
+  {
+   "t": [
+    9.5,
+    11.9
+   ],
+   "src": [
+    "c01",
+    0.5,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Autos durch die Luft"
+  },
+  {
+   "t": [
+    11.9,
+    13.3
+   ],
+   "src": [
+    "c02",
+    4.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Explosion"
+  },
+  {
+   "t": [
+    13.3,
+    15.0
+   ],
+   "src": [
+    "c06",
+    3.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "wütend in der Mitte"
+  },
+  {
+   "t": [
+    15.0,
+    17.6
+   ],
+   "src": [
+    "c06",
+    6.5,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Ich bin Deglau"
+  },
+  {
+   "t": [
+    17.6,
+    19.45
+   ],
+   "src": [
+    "c02",
+    8.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "folgt mir"
+  },
+  {
+   "t": [
+    19.45,
+    21.6
+   ],
+   "src": [
+    "c06",
+    10.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Kampf mit Agenten"
+  },
+  {
+   "t": [
+    21.6,
+    23.6
+   ],
+   "src": [
+    "c03",
+    2.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "kniet, Arme raus"
+  },
+  {
+   "t": [
+    23.6,
+    25.85
+   ],
+   "src": [
+    "c03",
+    8.5,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Umarmen oder ablehnen"
+  },
+  {
+   "t": [
+    25.85,
+    27.5
+   ],
+   "src": [
+    "c04",
+    3.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Lucia beim Hulk"
+  },
+  {
+   "t": [
+    27.5,
+    29.0
+   ],
+   "src": [
+    "c04",
+    9.5,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "weggeschleudert"
+  },
+  {
+   "t": [
+    29.0,
+    31.4
+   ],
+   "src": [
+    "c07",
+    0.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Jason Umarmung + Bonus"
+  },
+  {
+   "t": [
+    31.4,
+    34.1
+   ],
+   "src": [
+    "c07",
+    6.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Nebenmission Kyle"
+  },
+  {
+   "t": [
+    34.1,
+    36.8
+   ],
+   "src": [
+    "c07",
+    10.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Outro – Kyle vor Scheune"
+  }
+ ],
+ "caption_fixes": [
+  [
+   "GTR",
+   "GTA"
+  ],
+  [
+   "dein",
+   "einen"
+  ],
+  [
+   "verstecktes",
+   "versteckten"
+  ],
+  [
+   "Halkon",
+   "Hulk"
+  ],
+  [
+   "in",
+   "ihn"
+  ],
+  [
+   "den",
+   ""
+  ],
+  [
+   "Umarmst",
+   "umarmst"
+  ],
+  [
+   "Farmwille",
+   "Farm wird"
+  ],
+  [
+   "plötzig",
+   "plötzlich"
+  ],
+  [
+   "Kai",
+   "Kyle"
+  ],
+  [
+   "übertriebenes",
+   "übertrieben"
+  ],
+  [
+   "Deckler",
+   "Deglau"
+  ],
+  [
+   "GTR",
+   "GTA"
+  ],
+  [
+   "in",
+   "ihn"
+  ],
+  [
+   "den",
+   ""
+  ],
+  [
+   "Umarm",
+   "umarmen"
+  ],
+  [
+   "Ablehm",
+   "ablehnen"
+  ],
+  [
+   "Lussier",
+   "Lucia"
+  ],
+  [
+   "Halkon",
+   "Hulk"
+  ],
+  [
+   "schleutert",
+   "schleudert"
+  ],
+  [
+   "Umarm",
+   "Umarmung"
+  ],
+  [
+   "Keil",
+   "Kyle"
+  ],
+  [
+   "durch",
+   "euch"
+  ]
+ ],
+ "bigwords": [
+  {
+   "text": "UMARMEN?",
+   "color": "#FF3B3B",
+   "size": 140,
+   "t": [
+    24.2,
+    25.8
+   ],
+   "y": 560,
+   "anim": "drop",
+   "hide_captions": [
+    24.58,
+    25.6
+   ]
+  },
+  {
+   "text": "BONUS",
+   "color": "#39FF14",
+   "size": 170,
+   "t": [
+    30.8,
+    31.6
+   ],
+   "y": 560,
+   "anim": "slide",
+   "hide_captions": [
+    30.86,
+    31.2
+   ]
+  }
+ ],
+ "icons": [],
+ "sfx": []
+}
