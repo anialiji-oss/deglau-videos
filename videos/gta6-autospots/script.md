@@ -4,9 +4,9 @@
 
 ## Text zum Einsprechen (~35–40 s)
 **[Hook – danach Blitz + Beat]**
-Hier sind vier versteckte Supersportwagen in GTA 6 – speichert euch das Video sofort ab.
+In GTA 6 steht ein komplett goldener Lambo einfach in einer Garage rum – und das ist nicht mal das krasseste Auto.
 
-Spot eins: Casanova Island. In dieser Garage wartet ein komplett goldener SUV – der Pegassi Lustrous Toros.
+Spot eins: Casanova Island. Hier wartet der Pegassi Lustrous Toros.
 
 Spot zwei: die Crimson Palms Condominiums direkt am Vice Beach. Im Parkhaus steht der goldene Pegassi Gold Rush Tempesta.
 
