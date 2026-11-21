@@ -153,10 +153,12 @@ def main(edit_path):
     for ic in icons:   # .mov = fertige Animation (z. B. Cheat-Karte mit gedrückten Pfeilen), sonst Standbild
         inputs += (["-i"] if ic["img"].endswith(".mov") else ["-loop", "1", "-i"]) + [p(ic["img"], REPO)]
     zoom = f"(1+if(lt(t,{FLASH}),0.02*t+if(gt(t,{TS}),0.07*(t-{TS})*(t-{TS}),0),0.12*exp(-(t-{FLASH})*6)))"
-    shake = f"if(between(t,{TS},{FLASH}),9*(t-{TS})*sin(t*70),0)"
+    # Wackeln + Abdunkeln vor dem Blitz: auf Deglaus Wunsch standardmäßig AUS (edit.json: "shake": true / "darken": true)
+    shake = f"if(between(t,{TS},{FLASH}),9*(t-{TS})*sin(t*70),0)" if E.get("shake", False) else "0"
+    dark = f"eq=brightness='if(between(t,{TS},{FLASH}),-0.15*(t-{TS})/2,0)':eval=frame" if E.get("darken", False) else "null"
     v = (f"[0:v]scale=w='trunc({W}*{zoom}/2)*2':h=-2:eval=frame,"
          f"crop={W}:{H}:x='(iw-{W})/2+{shake}':y='(ih-{H})/2+{shake.replace('sin(t*70)', 'cos(t*53)')}',"
-         f"eq=brightness='if(between(t,{TS},{FLASH}),-0.15*(t-{TS})/2,0)':eval=frame[g0];"
+         f"{dark}[g0];"
          f"color=white:s={W}x{H}:d=0.5,format=rgba,fade=out:st=0.05:d=0.45:alpha=1,setpts=PTS+{FLASH}/TB[fl];"
          f"[g0][fl]overlay=eof_action=pass[g1];"
          f"[1:v]scale=175:-1[lg];[g1][lg]overlay=x=(W-w)/2+8:y=128[g2];"

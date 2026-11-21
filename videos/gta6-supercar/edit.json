@@ -22,7 +22,7 @@
  },
  "_quellen": "Clips: WiLLiSGaming, Arekkz Gaming, Mogi, 100% Guides, KingAlexHD, Incredilags, Champs Squad – Links in quellen_uebersicht.txt",
  "flash": 4.62,
- "end": 44.2,
+ "end": 60.0,
  "title": {
   "lines": [
    "So klaust du das",
@@ -307,6 +307,150 @@
     null
    ],
    "_": "viel Spaß"
+  },
+  {
+   "t": [
+    44.2,
+    45.64
+   ],
+   "src": [
+    "c15",
+    11.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    45.64,
+    47.07
+   ],
+   "src": [
+    "c09",
+    4.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    47.07,
+    48.51
+   ],
+   "src": [
+    "c05",
+    11.5,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    48.51,
+    49.95
+   ],
+   "src": [
+    "c16",
+    5.0,
+    null
+   ],
+   "_": "Montage",
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ]
+  },
+  {
+   "t": [
+    49.95,
+    51.38
+   ],
+   "src": [
+    "c08",
+    10.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    51.38,
+    52.82
+   ],
+   "src": [
+    "c15",
+    3.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    52.82,
+    54.25
+   ],
+   "src": [
+    "c09",
+    9.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    54.25,
+    55.69
+   ],
+   "src": [
+    "c14",
+    9.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    55.69,
+    57.13
+   ],
+   "src": [
+    "c16",
+    9.0,
+    null
+   ],
+   "_": "Montage",
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ]
+  },
+  {
+   "t": [
+    57.13,
+    58.56
+   ],
+   "src": [
+    "c06",
+    9.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    58.56,
+    60.0
+   ],
+   "src": [
+    "c15",
+    1.0,
+    null
+   ],
+   "_": "Montage"
   }
  ],
  "caption_fixes": [

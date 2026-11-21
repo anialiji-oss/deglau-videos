@@ -218,3 +218,7 @@ im Schnittplan gibt man an, wann der Sound am lautesten sein soll, der Renderer 
 - Offizielle Quelle: **playstation.com-Spieleseite** (`https://www.playstation.com/de-de/games/<spiel>/`) – im HTML stehen die Trailer als direkte MP4s (`vulcan.dl.playstation.net/...mp4`). Datum steckt im Pfad (z. B. `202610/1517` = 15.10.).
 - Deutsche Seite → oft **eingebrannte deutsche Untertitel + schwarze Balken** → `rect` (bei GTA 6: `[0,0.055,1,0.78]`).
 - Lange Untertitel-Wörter werden im Renderer jetzt automatisch kleiner (max. 1000 px breit).
+
+### Intro ohne Wackeln und ohne Abdunkeln (Deglau, 21.11.2026)
+- Vor dem Blitz **kein Wackeln (Shake)** und **kein Dunkelwerden** mehr – gefällt Deglau nicht.
+- `render.py`: standardmäßig AUS. Nur auf ausdrücklichen Wunsch per `"shake": true` / `"darken": true` in edit.json.
