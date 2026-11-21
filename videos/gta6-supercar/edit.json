@@ -1,0 +1,433 @@
+{
+ "voice": "voice.m4a",
+ "words": "words.json",
+ "output": "/home/user/deglau-videos/videos/gta6-supercar/gta6_supercar.mp4",
+ "sources": {
+  "c05": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/supercar/05_c_tor-klettern_100guides.mp4",
+  "c07": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/supercar/07_d_tor-klettern_kampf-wache_arekkz.mp4",
+  "c03": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/supercar/03_b_villa-aussen_scan-menue_mogi.mp4",
+  "c15": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/supercar/15_i_emerus-rasen_arekkz.mp4",
+  "c08": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/supercar/08_e_einsteigen_ausfahrt_kingalex.mp4",
+  "c13": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/supercar/13_g_auto-scannen-tipp_willis.mp4",
+  "c10": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/supercar/10_f_tankstelle-reparieren_willis.mp4",
+  "c09": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/supercar/09_e_wegfahren-nacht_mogi.mp4",
+  "c04": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/supercar/04_c_ueber-mauer-reinschleichen_mogi.mp4",
+  "c06": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/supercar/06_d_wache-ausschalten_einsteigen_mogi.mp4",
+  "c12": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/supercar/12_g_menue-tracker-none_willis.mp4",
+  "c02": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/supercar/02_a_karte_vespucci-mansion_arekkz.mp4",
+  "c11": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/supercar/11_f-g_paynspray_reparatur_anmelden_mogi.mp4",
+  "c14": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/supercar/14_h_sky-garage_incredilags.mp4",
+  "c16": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/supercar/16_i_strassenrennen-npcs_champs.mp4",
+  "c01": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/supercar/01_a_karte_neptune-circle_willis.mp4"
+ },
+ "_quellen": "Clips: WiLLiSGaming, Arekkz Gaming, Mogi, 100% Guides, KingAlexHD, Incredilags, Champs Squad – Links in quellen_uebersicht.txt",
+ "flash": 4.62,
+ "end": 44.2,
+ "title": {
+  "lines": [
+   "So klaust du das",
+   "schnellste Auto in GTA 6"
+  ],
+  "emojis": [
+   "🎮",
+   "🔥"
+  ]
+ },
+ "segments": [
+  {
+   "t": [
+    0,
+    2.3
+   ],
+   "src": [
+    "c15",
+    6.0,
+    null
+   ],
+   "_": "Hook – Emerus rast"
+  },
+  {
+   "t": [
+    2.3,
+    4.62
+   ],
+   "src": [
+    "c05",
+    9.0,
+    null
+   ],
+   "_": "Hook – Emerus Einfahrt"
+  },
+  {
+   "t": [
+    4.62,
+    7.3
+   ],
+   "src": [
+    "c01",
+    2.0,
+    null
+   ],
+   "_": "Karte Rialto Islands / Neptune Circle"
+  },
+  {
+   "t": [
+    7.3,
+    9.4
+   ],
+   "src": [
+    "c02",
+    3.0,
+    null
+   ],
+   "_": "Karte – Drogen-Besitzer"
+  },
+  {
+   "t": [
+    9.4,
+    11.1
+   ],
+   "src": [
+    "c02",
+    0.0,
+    null
+   ],
+   "_": "roter Emerus vor Garage"
+  },
+  {
+   "t": [
+    11.1,
+    12.6
+   ],
+   "src": [
+    "c04",
+    2.8,
+    null
+   ],
+   "_": "über die Mauer"
+  },
+  {
+   "t": [
+    12.6,
+    14.4
+   ],
+   "src": [
+    "c05",
+    0.0,
+    null
+   ],
+   "_": "übers Tor"
+  },
+  {
+   "t": [
+    14.4,
+    16.2
+   ],
+   "src": [
+    "c07",
+    9.0,
+    null
+   ],
+   "_": "Wache ausschalten"
+  },
+  {
+   "t": [
+    16.2,
+    19.0
+   ],
+   "src": [
+    "c06",
+    3.0,
+    null
+   ],
+   "_": "leise, nicht erwischt"
+  },
+  {
+   "t": [
+    19.0,
+    21.0
+   ],
+   "src": [
+    "c09",
+    1.0,
+    null
+   ],
+   "_": "folgt mir"
+  },
+  {
+   "t": [
+    21.0,
+    23.2
+   ],
+   "src": [
+    "c03",
+    0.0,
+    null
+   ],
+   "_": "Villa abends",
+   "cx": 0.4
+  },
+  {
+   "t": [
+    23.2,
+    25.0
+   ],
+   "src": [
+    "c08",
+    1.0,
+    null
+   ],
+   "_": "einsteigen"
+  },
+  {
+   "t": [
+    25.0,
+    26.4
+   ],
+   "src": [
+    "c08",
+    8.0,
+    null
+   ],
+   "_": "durchs Tor"
+  },
+  {
+   "t": [
+    26.4,
+    28.7
+   ],
+   "src": [
+    "c12",
+    5.0,
+    null
+   ],
+   "_": "Menü Tracker NONE",
+   "rect": [
+    0.54,
+    0.22,
+    0.44,
+    0.62
+   ],
+   "wide": 2.3
+  },
+  {
+   "t": [
+    28.7,
+    31.6
+   ],
+   "src": [
+    "c11",
+    3.0,
+    null
+   ],
+   "_": "Pay n Spray Reparatur",
+   "cx": 0.0
+  },
+  {
+   "t": [
+    31.6,
+    34.0
+   ],
+   "src": [
+    "c11",
+    6.5,
+    null
+   ],
+   "_": "Anmelden 29.900",
+   "cx": 0.0
+  },
+  {
+   "t": [
+    34.0,
+    36.6
+   ],
+   "src": [
+    "c03",
+    3.5,
+    null
+   ],
+   "_": "Verkaufswert 33.000",
+   "rect": [
+    0.75,
+    0.52,
+    0.25,
+    0.42
+   ]
+  },
+  {
+   "t": [
+    36.6,
+    38.4
+   ],
+   "src": [
+    "c05",
+    10.0,
+    null
+   ],
+   "_": "sieht gut aus"
+  },
+  {
+   "t": [
+    38.4,
+    40.3
+   ],
+   "src": [
+    "c15",
+    9.0,
+    null
+   ],
+   "_": "übertrieben schnell"
+  },
+  {
+   "t": [
+    40.3,
+    42.2
+   ],
+   "src": [
+    "c16",
+    1.0,
+    null
+   ],
+   "_": "Speichert – Rennen",
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ]
+  },
+  {
+   "t": [
+    42.2,
+    44.2
+   ],
+   "src": [
+    "c09",
+    8.0,
+    null
+   ],
+   "_": "viel Spaß"
+  }
+ ],
+ "caption_fixes": [
+  [
+   "Fan",
+   "Fahr"
+  ],
+  [
+   "Realto",
+   "Rialto"
+  ],
+  [
+   "Island",
+   "Islands"
+  ],
+  [
+   "-Zirkel",
+   "Circle"
+  ],
+  [
+   "Gerase",
+   "Garage"
+  ],
+  [
+   "Brogen",
+   "Progen"
+  ],
+  [
+   "schlecht",
+   "schleich"
+  ],
+  [
+   "sich",
+   "dich"
+  ],
+  [
+   "sie",
+   "ihr"
+  ],
+  [
+   "Autobiss",
+   "Auto bist"
+  ],
+  [
+   "nicht",
+   "keinen"
+  ],
+  [
+   "was",
+   ""
+  ],
+  [
+   "ein",
+   ""
+  ],
+  [
+   "Pain",
+   "Pay"
+  ],
+  [
+   "and",
+   "'n'"
+  ],
+  [
+   "durch",
+   "euch"
+  ]
+ ],
+ "bigwords": [
+  {
+   "text": "KEIN TRACKER",
+   "color": "#39FF14",
+   "size": 120,
+   "t": [
+    27.0,
+    28.6
+   ],
+   "y": 560,
+   "anim": "drop",
+   "hide_captions": [
+    27.08,
+    27.4
+   ]
+  },
+  {
+   "text": "33.000 $",
+   "color": "#FFD000",
+   "size": 150,
+   "t": [
+    35.0,
+    36.5
+   ],
+   "y": 560,
+   "anim": "slide",
+   "hide_captions": [
+    35.04,
+    36.06
+   ]
+  }
+ ],
+ "icons": [
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    0.56,
+    1.9
+   ],
+   "spin": 0,
+   "size": 520,
+   "y": 470
+  },
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    19.8,
+    21.1
+   ],
+   "spin": 0,
+   "size": 520,
+   "y": 420
+  }
+ ],
+ "sfx": []
+}
