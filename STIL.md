@@ -222,3 +222,8 @@ im Schnittplan gibt man an, wann der Sound am lautesten sein soll, der Renderer 
 ### Intro ohne Wackeln und ohne Abdunkeln (Deglau, 21.11.2026)
 - Vor dem Blitz **kein Wackeln (Shake)** und **kein Dunkelwerden** mehr – gefällt Deglau nicht.
 - `render.py`: standardmäßig AUS. Nur auf ausdrücklichen Wunsch per `"shake": true` / `"darken": true` in edit.json.
+
+### Auto-/Waffen-Namen im Script: einfach, wonach es aussieht (Deglau, 21.11.2026)
+- Im gesprochenen Text **keine langen Spielnamen** („Pegassi Lustrous Toros“), sondern so, wie es aussieht:
+  „goldener Lambo“, „goldener SUV“, „Bugatti im Gepardenlook“, „roter Ferrari“.
+- Die echten Spielnamen nur in Beschreibung/posts.md oder als kleine Einblendung, wenn überhaupt.
