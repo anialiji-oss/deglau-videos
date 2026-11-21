@@ -1,0 +1,465 @@
+{
+ "voice": "voice.m4a",
+ "words": "words.json",
+ "output": "/home/user/deglau-videos/videos/gta6-autospots/gta6_autospots.mp4",
+ "sources": {
+  "c5b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/autospots/5b_auto_thrax-auf-anhaenger_mogi.mp4",
+  "c4a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/autospots/4a_karte_starfish-island_kingalex.mp4",
+  "c2a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/autospots/2a_karte_crimson-palms_kingalex.mp4",
+  "c4c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/autospots/4c_auto_garage-supersportwagen_kingalex.mp4",
+  "c4b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/autospots/4b_auto_villa-springbrunnen-gepard_kingalex.mp4",
+  "c1c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/autospots/1c_auto_gold-suv-garage-auf_deluxplays.mp4",
+  "c1b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/autospots/1b_auto_gold-suv-garage_kingalex.mp4",
+  "c2b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/autospots/2b_auto_gold-supersportwagen_kingalex.mp4",
+  "c1a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/autospots/1a_karte_gold-suv_kingalex.mp4",
+  "c5a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/autospots/5a_karte_speedway_mogi.mp4"
+ },
+ "_quellen": "Clips: KingAlexHD, DeluxPlays, Mogi – Links in quellen_uebersicht.txt",
+ "flash": 5.2,
+ "end": 38.4,
+ "title": {
+  "lines": [
+   "4 versteckte Supersportwagen",
+   "in GTA 6"
+  ],
+  "emojis": [
+   "🎮",
+   "🔥"
+  ]
+ },
+ "segments": [
+  {
+   "t": [
+    0,
+    1.8
+   ],
+   "src": [
+    "c2b",
+    4.0,
+    null
+   ],
+   "_": "Hook – goldener SUV"
+  },
+  {
+   "t": [
+    1.8,
+    3.5
+   ],
+   "src": [
+    "c5b",
+    2.0,
+    null
+   ],
+   "_": "Hook – goldener Tempesta"
+  },
+  {
+   "t": [
+    3.5,
+    5.2
+   ],
+   "src": [
+    "c1c",
+    10.0,
+    null
+   ],
+   "_": "Hook – goldener Lambo"
+  },
+  {
+   "t": [
+    5.2,
+    7.1
+   ],
+   "src": [
+    "c1a",
+    7.0,
+    null
+   ],
+   "_": "Karte Casanova Island"
+  },
+  {
+   "t": [
+    7.1,
+    9.1
+   ],
+   "src": [
+    "c1b",
+    0.5,
+    null
+   ],
+   "_": "Lustrous Toros Scan"
+  },
+  {
+   "t": [
+    9.1,
+    10.6
+   ],
+   "src": [
+    "c2a",
+    0.0,
+    null
+   ],
+   "_": "Crimson Palms Schild"
+  },
+  {
+   "t": [
+    10.6,
+    12.7
+   ],
+   "src": [
+    "c2a",
+    4.0,
+    null
+   ],
+   "_": "Karte Vice Beach"
+  },
+  {
+   "t": [
+    12.7,
+    15.7
+   ],
+   "src": [
+    "c2b",
+    3.5,
+    null
+   ],
+   "_": "Tempesta im Parkhaus"
+  },
+  {
+   "t": [
+    15.7,
+    17.9
+   ],
+   "src": [
+    "c4a",
+    1.0,
+    null
+   ],
+   "_": "Karte Starfish Island"
+  },
+  {
+   "t": [
+    17.9,
+    19.9
+   ],
+   "src": [
+    "c4b",
+    1.0,
+    null
+   ],
+   "_": "Villa Einfahrt"
+  },
+  {
+   "t": [
+    19.9,
+    21.9
+   ],
+   "src": [
+    "c4b",
+    5.0,
+    null
+   ],
+   "_": "Big Cat Furia"
+  },
+  {
+   "t": [
+    21.9,
+    24.3
+   ],
+   "src": [
+    "c4c",
+    7.0,
+    null
+   ],
+   "_": "Garage zwei Autos"
+  },
+  {
+   "t": [
+    24.3,
+    26.8
+   ],
+   "src": [
+    "c1c",
+    4.0,
+    null
+   ],
+   "_": "Ich bin Deglau"
+  },
+  {
+   "t": [
+    26.8,
+    29.3
+   ],
+   "src": [
+    "c4c",
+    9.5,
+    null
+   ],
+   "_": "folgt mir"
+  },
+  {
+   "t": [
+    29.3,
+    31.1
+   ],
+   "src": [
+    "c5a",
+    1.0,
+    null
+   ],
+   "_": "Karte Speedway"
+  },
+  {
+   "t": [
+    31.1,
+    33.2
+   ],
+   "src": [
+    "c5b",
+    0.5,
+    null
+   ],
+   "_": "Thrax auf Anhänger"
+  },
+  {
+   "t": [
+    33.2,
+    35.7
+   ],
+   "src": [
+    "c1b",
+    4.0,
+    null
+   ],
+   "_": "Tracker-Warnung"
+  },
+  {
+   "t": [
+    35.7,
+    38.4
+   ],
+   "src": [
+    "c5b",
+    10.5,
+    null
+   ],
+   "_": "viel Spaß"
+  }
+ ],
+ "caption_fixes": [
+  [
+   "GTAVI",
+   "GTA 6"
+  ],
+  [
+   "übertriebenes",
+   "übertrieben"
+  ],
+  [
+   "zeug",
+   "zeig"
+  ],
+  [
+   "mich",
+   "euch"
+  ],
+  [
+   "z",
+   "z.B."
+  ],
+  [
+   "B",
+   ""
+  ],
+  [
+   "ein",
+   "einen"
+  ],
+  [
+   "Lustrotoros",
+   "Lustrous Toros"
+  ],
+  [
+   "Poems",
+   "Palms"
+  ],
+  [
+   "Codominus",
+   "Condominiums"
+  ],
+  [
+   "Weiß",
+   "Vice"
+  ],
+  [
+   "Parkhof",
+   "Parkhaus"
+  ],
+  [
+   "Goldrush",
+   "Gold Rush"
+  ],
+  [
+   "Tempest",
+   "Tempesta"
+  ],
+  [
+   "Pizzer",
+   "Piccia"
+  ],
+  [
+   "Furio",
+   "Furia"
+  ],
+  [
+   "mit",
+   "bin"
+  ],
+  [
+   "Deckelung",
+   "Deglau"
+  ],
+  [
+   "vorhäuse",
+   "vor"
+  ],
+  [
+   "fiete",
+   "vierte"
+  ],
+  [
+   "Bone",
+   "Boone"
+  ],
+  [
+   "Truffane",
+   "Truffade"
+  ],
+  [
+   "Tracks",
+   "Thrax"
+  ],
+  [
+   "wenn",
+   ""
+  ],
+  [
+   "durch",
+   "euch"
+  ]
+ ],
+ "bigwords": [
+  {
+   "text": "GOLDENER LAMBO",
+   "color": "#FFD000",
+   "size": 88,
+   "t": [
+    4.0,
+    5.2
+   ],
+   "y": 560,
+   "anim": "drop",
+   "hide_captions": [
+    4.04,
+    4.7
+   ]
+  },
+  {
+   "text": "SPOT 1",
+   "color": "white",
+   "size": 150,
+   "t": [
+    5.45,
+    6.5
+   ],
+   "y": 560,
+   "anim": "slide",
+   "hide_captions": [
+    5.48,
+    5.98
+   ]
+  },
+  {
+   "text": "SPOT 2",
+   "color": "white",
+   "size": 150,
+   "t": [
+    9.25,
+    10.3
+   ],
+   "y": 560,
+   "anim": "slide",
+   "hide_captions": [
+    9.28,
+    9.84
+   ]
+  },
+  {
+   "text": "SPOT 3",
+   "color": "white",
+   "size": 150,
+   "t": [
+    15.95,
+    17.0
+   ],
+   "y": 560,
+   "anim": "slide",
+   "hide_captions": [
+    15.98,
+    16.5
+   ]
+  },
+  {
+   "text": "SPOT 4",
+   "color": "white",
+   "size": 150,
+   "t": [
+    29.5,
+    30.5
+   ],
+   "y": 560,
+   "anim": "slide",
+   "hide_captions": [
+    29.56,
+    29.98
+   ]
+  },
+  {
+   "text": "TRACKER!",
+   "color": "#FF3B3B",
+   "size": 150,
+   "t": [
+    35.25,
+    36.1
+   ],
+   "y": 560,
+   "anim": "drop",
+   "hide_captions": [
+    35.3,
+    35.6
+   ]
+  }
+ ],
+ "icons": [
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    0.08,
+    1.7
+   ],
+   "spin": 0,
+   "size": 520,
+   "y": 470
+  },
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    26.5,
+    27.9
+   ],
+   "spin": 0,
+   "size": 520,
+   "y": 420
+  }
+ ],
+ "sfx": []
+}
