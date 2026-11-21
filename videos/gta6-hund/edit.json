@@ -1,0 +1,350 @@
+{
+ "voice": "voice.m4a",
+ "words": "words.json",
+ "output": "/home/user/deglau-videos/videos/gta6-hund/gta6_hund.mp4",
+ "sources": {
+  "ca1": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/hund/a1_vom-boot-springen_maka91.mp4",
+  "ca2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/hund/a2_karte-gambit-bay_maka91.mp4",
+  "ce": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/hund/e_ankunft-hunde-insel_ign.mp4",
+  "cc": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/hund/c_praise-aufsteigen_maka91.mp4",
+  "cd": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/hund/d_fahrt-uebers-meer_ign.mp4",
+  "cf": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/hund/f_geldboerse-ausbuddeln_maka91.mp4",
+  "cb": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/hund/b_hund-kommt-auf-jetski_maka91.mp4"
+ },
+ "_quellen": "Clips: Maka91Productions, IGN – Links in quellen_uebersicht.txt",
+ "flash": 4.56,
+ "end": 33.1,
+ "title": {
+  "lines": [
+   "Ein Hund rettet dich",
+   "in GTA 6"
+  ],
+  "emojis": [
+   "🎮",
+   "🔥"
+  ]
+ },
+ "segments": [
+  {
+   "t": [
+    0,
+    1.6
+   ],
+   "src": [
+    "cd",
+    4.0,
+    null
+   ],
+   "_": "Hook – Hund fährt"
+  },
+  {
+   "t": [
+    1.6,
+    3.1
+   ],
+   "src": [
+    "cb",
+    4.0,
+    null
+   ],
+   "_": "Hook – Hund kommt"
+  },
+  {
+   "t": [
+    3.1,
+    4.56
+   ],
+   "src": [
+    "ce",
+    10.0,
+    null
+   ],
+   "_": "Hook – Hunde-Insel"
+  },
+  {
+   "t": [
+    4.56,
+    7.1
+   ],
+   "src": [
+    "ca1",
+    0.0,
+    null
+   ],
+   "_": "vom Boot springen"
+  },
+  {
+   "t": [
+    7.1,
+    8.85
+   ],
+   "src": [
+    "ca1",
+    3.5,
+    null
+   ],
+   "_": "schwimmen, Bellen"
+  },
+  {
+   "t": [
+    8.85,
+    10.0
+   ],
+   "src": [
+    "ca2",
+    9.5,
+    null
+   ],
+   "_": "Jetski kommt"
+  },
+  {
+   "t": [
+    10.0,
+    12.1
+   ],
+   "src": [
+    "cb",
+    6.0,
+    null
+   ],
+   "_": "Hund mit Schwimmweste"
+  },
+  {
+   "t": [
+    12.1,
+    14.5
+   ],
+   "src": [
+    "cc",
+    8.0,
+    null
+   ],
+   "_": "aufsteigen"
+  },
+  {
+   "t": [
+    14.5,
+    17.4
+   ],
+   "src": [
+    "cd",
+    2.0,
+    null
+   ],
+   "_": "Richtung Land"
+  },
+  {
+   "t": [
+    17.4,
+    19.0
+   ],
+   "src": [
+    "ce",
+    0.0,
+    null
+   ],
+   "_": "Ankunft Insel"
+  },
+  {
+   "t": [
+    19.0,
+    21.0
+   ],
+   "src": [
+    "ce",
+    8.5,
+    null
+   ],
+   "_": "Hunde spielen"
+  },
+  {
+   "t": [
+    21.0,
+    23.3
+   ],
+   "src": [
+    "cf",
+    9.5,
+    null
+   ],
+   "_": "Geldbörse"
+  },
+  {
+   "t": [
+    23.3,
+    25.7
+   ],
+   "src": [
+    "cd",
+    7.0,
+    null
+   ],
+   "_": "Ich bin Deglau"
+  },
+  {
+   "t": [
+    25.7,
+    28.2
+   ],
+   "src": [
+    "cc",
+    0.0,
+    null
+   ],
+   "_": "folgt mir"
+  },
+  {
+   "t": [
+    28.2,
+    30.5
+   ],
+   "src": [
+    "ce",
+    10.8,
+    null
+   ],
+   "_": "bester Hund"
+  },
+  {
+   "t": [
+    30.5,
+    33.1
+   ],
+   "src": [
+    "cd",
+    10.0,
+    null
+   ],
+   "_": "viel Spaß"
+  }
+ ],
+ "caption_fixes": [
+  [
+   "GTR",
+   "GTA"
+  ],
+  [
+   "lädt",
+   "rettet"
+  ],
+  [
+   "sich",
+   "dich"
+  ],
+  [
+   "sich",
+   "dich"
+  ],
+  [
+   "übertriebenes",
+   "übertrieben viel"
+  ],
+  [
+   "Filut",
+   "Loot"
+  ],
+  [
+   "Game",
+   "Gambit"
+  ],
+  [
+   "and",
+   ""
+  ],
+  [
+   "Taucherbrill",
+   "Taucherbrille"
+  ],
+  [
+   "du",
+   "er"
+  ],
+  [
+   "ein",
+   "an"
+  ],
+  [
+   "du",
+   "er"
+  ],
+  [
+   "zu",
+   "zur"
+  ],
+  [
+   "geheimem",
+   "geheimen"
+  ],
+  [
+   "buddet",
+   "buddelt"
+  ],
+  [
+   "Geldböse",
+   "Geldbörse"
+  ],
+  [
+   "Deckel",
+   "Deglau"
+  ],
+  [
+   "durch",
+   "euch"
+  ]
+ ],
+ "bigwords": [
+  {
+   "text": "HUNDE-INSEL",
+   "color": "#39FF14",
+   "size": 120,
+   "t": [
+    3.05,
+    4.56
+   ],
+   "y": 560,
+   "anim": "drop",
+   "hide_captions": [
+    3.08,
+    3.5
+   ]
+  },
+  {
+   "text": "+1.218 $",
+   "color": "#39FF14",
+   "size": 160,
+   "t": [
+    21.85,
+    23.2
+   ],
+   "y": 560,
+   "anim": "slide",
+   "hide_captions": [
+    21.88,
+    22.88
+   ]
+  }
+ ],
+ "icons": [
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    0.12,
+    1.6
+   ],
+   "spin": 0,
+   "size": 520,
+   "y": 470
+  },
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    25.26,
+    26.6
+   ],
+   "spin": 0,
+   "size": 520,
+   "y": 420
+  }
+ ],
+ "sfx": []
+}
