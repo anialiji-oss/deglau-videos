@@ -1,0 +1,137 @@
+LAPTOP-RÄTSEL -> "VANESSA'S GROWLER" (pinker Pfister Growler) – Clips (Stand 23.11.2026)
+19 Clips, alle 1080p, H.264, 10–14 Sekunden, ohne Facecam. Die Maxemilio-Clips waren HDR (blass/grau) und sind
+in normale SDR-Farben umgewandelt. Ich habe jeden Clip mit Standbildern geprüft.
+
+QUELLEN
+- Maxemilio Gaming – "GTA 6 – How To Unlock Boobie's Laptop - Password Clues in Apartment | Chapter 3 Vice City" (20.11.2026)
+  https://www.youtube.com/watch?v=O-WNG72Pk_I   (Jason, keine Overlays) – Wohnung, Hinweise, Passwort
+- Maxemilio Gaming – "GTA 6 – Boobie's Laptop Safe Code 92665 | Hidden Garage Location & Vanessa's Growler (Pfister)" (21.11.2026)
+  https://www.youtube.com/watch?v=CWOg7i6lYBs   (Jason; nur 0:01–0:09 Text "Where to use Boobie's safe code?", den habe ich NICHT genommen)
+- LunarGaming – "GTA 6 - How To Get Vanesa's Pink Growler (FREE CAR FOR LUCIA)" (21.11.2026)
+  https://www.youtube.com/watch?v=MYu6GAIhD98   (Lucia; Text-Einblendungen nur in der ersten Hälfte, meine Clips sind ohne)
+- JFM – "GTA 6 - SECRET Missable Garage & "Vanessa's Growler" Pink Porsche Location!" (22.11.2026)
+  https://www.youtube.com/watch?v=hhZQq6ccbec   (nachts, nur für die groß lesbare Nachricht genommen)
+- Nicht genommen: Perfect Score (Untertitel-Balken über dem Bild), KingAlexHD (anderes Video, goldene Autos),
+  ZoneX (nur zum Gegenlesen der Beschreibung).
+
+FAKTEN – GENAU WIE IM SPIEL
+- Wohnung: Es ist NICHT Jasons & Lucias eigene Wohnung, sondern Boobies Wohnung, in der sie in Kapitel 3 wohnen.
+  Im Spiel heißt sie "Bayside apartment". Vorher wohnte dort "Vanessa" (ihr gehört der Laptop).
+- Laptop steht im Schlafzimmer auf dem Schreibtisch, Interaktion "LOG ON". Sperrbildschirm mit Passwortfeld.
+- Hinweis 1 (am Eingang, kleiner runder Tisch neben der Wohnungstür, Wand mit Flamingos):
+  Bilderrahmen mit Hundehalsband: "You have left Paw Prints on Our hearts!" + Hundefoto + Name "MUFFINS".
+  -> Es ist also eine Erinnerungs-Tafel für einen verstorbenen Hund, nicht nur ein Hundebild.
+- Hinweis 2 (Notizblock im Schlafzimmer, Tisch neben dem Bett):
+  Vorne: Zeichnung (Figur auf einem Thron = "Queen"-Hinweis). Hinten (FLIP): "Class of '15 reunion next Friday".
+- PASSWORT: Man TIPPT NICHTS EIN. Man wählt drei Teile aus Listen:
+    1) FLUFFY / MUFFIN / MUFFINS / PAWPRINTS  -> MUFFINS
+    2) PRINCESS / CROWN / QUEEN               -> QUEEN
+    3) 5 / 15 / 10 / 25                       -> 15
+  = "MuffinsQueen15" (Maxemilio schreibt es so). Falsch: "Incorrect password. Please try again."
+- Nachricht (Messenger "WHATUP", Kontakt "Unknown", ganz unten in der Liste):
+    "Hi Vanessa" / "blocking u just msg me on peekhole" / "WAIT I got you something"
+    "Hint: it's NOT another Teddy Bear, lmao"
+    "Go to LaPerle right next to Auntie's Place and use 92665 to get it. I think you're going to really love it"
+    "Well, what do you think?" / "Vanessa?" / "Did you get it?"
+  Danach steht oben rechts eine Notiz: "Safe code: 92665".
+- CODE: 92665 (stimmt).
+- Ort: La Perle. Am Imbiss hängt das Schild "AUNTIE'S PLACE" (+ "TAKE OUT RESTAURANT").
+  ACHTUNG: Auf der KARTE heißt der Laden dort "AUNT ZOLA'S SOUL FOOD" ("Family-run soul food spot serving authentic
+  Haitian meals and drinks"). "Auntie's Place" steht nur am Gebäude und in der Nachricht.
+  Garage hinter dem Laden, Wand mit Graffiti "SLABS", Schild "WARNING – DO NOT PARK HERE", lila/pinke Schleife an die Wand gemalt,
+  Tastenfeld rechts neben dem Tor.
+- Name der Garage im Spiel: "Del Rio Boulevard Garage".
+- Auto: "PFISTER – VANESSA'S GROWLER" (Einblendung unten links). Meldung: "Vanessa's Growler is now an owned vehicle".
+- Fahrzeug-Menü (Vehicles / GIRLYPOP, Sammlung "Girlypop 4/16"):
+    "VANESSA'S GROWLER – One-off Pfister Growler left in a Rockridge lockup as a gift for Vanessa, the previous
+     occupant of the Bayside apartment."
+    SPEED 5.4 | ACCELERATION 6.1 | ASPHALT HANDLING 6.5 | OFF-ROAD HANDLING 3.8 | STRENGTH 3.0 | RATING 274 / 616
+- Lucia schreibt danach an Jason: "So Vanessa, the girl who used to live in our place. I found a cute car some guy left
+  in a lock-up for her. Why don't you leave me nice..."
+- Wenn man schon ein Auto hat, wird es umgeparkt: z. B. "'72 Deviant -> Del Rio Boulevard Garage".
+
+-----------------------------------------------------------------------------------------------------
+DATEI | WAS MAN SIEHT | QUELLE + ZEITSTEMPEL
+-----------------------------------------------------------------------------------------------------
+0_showcase_growler_aus_garage.mp4
+  Jason steht vor dem offenen Tor mit dem pinken Growler, steigt ein, fährt raus in die Sonne.
+  Maxemilio – https://www.youtube.com/watch?v=CWOg7i6lYBs&t=140s (2:20–2:33)
+0_showcase_growler_fahrt_strasse.mp4
+  Pinker Growler fährt bei Sonne durch La Perle (Palmen, Donut-Schild).
+  Maxemilio – &t=149s (2:29–2:41)
+0_showcase_growler_menue_und_vor_garage_lunar.mp4
+  Fahrzeug-Menü "VANESSA'S GROWLER", dann Ausfahrt, am Ende parkt der Growler vor der SLABS-Wand bei Tag.
+  LunarGaming – https://www.youtube.com/watch?v=MYu6GAIhD98&t=106s (1:46–1:59)
+
+a_wohnung_rein.mp4
+  Jason kommt in die pinke Wohnung (Stange, Flamingo-Tapete), geht ins Schlafzimmer.
+  Maxemilio – https://www.youtube.com/watch?v=O-WNG72Pk_I&t=10s (0:10–0:23)
+a2_laptop_schlafzimmer_gesperrt.mp4
+  Schlafzimmer, "LOG ON" am Laptop, gesperrter Bildschirm mit Passwortfeld.
+  Maxemilio – &t=18s (0:18–0:31)
+
+b_notizblock_class_of_15.mp4
+  Notizblock: vorne Zeichnung, umgedreht "Class of '15 reunion next Friday".
+  Maxemilio – &t=59s (0:59–1:13)
+c_hundebild_muffins_eingang.mp4
+  Jason am Tisch beim Eingang, Rahmen "You have left Paw Prints on Our hearts!" mit Halsband und "MUFFINS".
+  Maxemilio – &t=46s (0:46–0:58)
+
+d_passwort_muffins_queen_15.mp4
+  Auswahl FLUFFY/MUFFIN/MUFFINS/PAWPRINTS, dann PRINCESS/CROWN/QUEEN, dann 5/15/10/25 – Sternchen füllen sich.
+  Maxemilio – &t=80s (1:20–1:34)
+d2_laptop_entsperrt.mp4
+  Letzte Auswahl, Laptop entsperrt (Hintergrundbild), Messenger geht auf.
+  Maxemilio – &t=90s (1:30–1:40)
+
+e_nachrichten_unknown_92665.mp4
+  Chats Boobie, Morgan Dorie, Mom, dann "Unknown" mit "Go to LaPerle right next to Auntie's Place and use 92665".
+  Maxemilio – https://www.youtube.com/watch?v=CWOg7i6lYBs&t=10s (0:10–0:23)
+e2_whatup_text_gross_jfm.mp4
+  Gleiche Nachricht, dann groß eingeblendet als "WHATUP"-Text (gut lesbar).
+  JFM – https://www.youtube.com/watch?v=hhZQq6ccbec&t=54s (0:54–1:06)
+
+f_karte_la_perle.mp4
+  Karte Vice City, Wegpunkt in La Perle, Infotafel "AUNT ZOLA'S SOUL FOOD", danach Jason am Auto.
+  Maxemilio – &t=34s (0:34–0:46)
+f2_auntie_s_place_zur_garage_lunar.mp4
+  Karte nah, dann Lucia läuft am Schild "AUNTIE'S PLACE" vorbei zur Garage (SLABS-Graffiti, Schleife).
+  LunarGaming – https://www.youtube.com/watch?v=MYu6GAIhD98&t=75s (1:15–1:28)
+
+g_schleife_code_92665_lucia.mp4
+  Lucia an der Wand mit Schleife und "DO NOT PARK HERE", tippt den Code ins Tastenfeld (Notiz "92665" unten rechts).
+  LunarGaming – &t=84s (1:24–1:37)
+g2_schleife_code_92665_jason.mp4
+  Jason am Garagentor mit gemalter Schleife, tippt den Code ein (Nahaufnahme Tastenfeld).
+  Maxemilio – https://www.youtube.com/watch?v=CWOg7i6lYBs&t=100s (1:40–1:54)
+
+h_tor_auf_growler_drin.mp4
+  Tor geht auf ("Del Rio Boulevard Garage"), pinker Growler drin, "Vanessa's Growler is now an owned vehicle", Lucias SMS.
+  Maxemilio – &t=113s (1:53–2:07)
+h2_owned_vehicle_menue_girlypop.mp4
+  Lucia steigt ein, "is now an owned vehicle", "Girlypop 4/16", dann Menü VANESSA'S GROWLER mit Werten.
+  LunarGaming – &t=95s (1:35–1:49)
+h3_beschreibung_lucia_sms.mp4
+  Menü mit Beschreibung + Werten lange zu sehen, dann Garage mit Lucias SMS an Jason, Ausfahrt.
+  LunarGaming – &t=103s (1:43–1:56)
+
+NICHT GEFUNDEN / WAS NICHT STIMMT
+- "Wohnung von Jason & Lucia": Es ist Boobies Wohnung ("Bayside apartment"), früher von Vanessa bewohnt.
+- "Notizblock: hinten steht 15": Hinten steht "Class of '15 reunion next Friday". Das "Queen" kommt von der Zeichnung vorne.
+- "Hundebild Muffins": Stimmt, aber es ist ein Gedenk-Rahmen ("You have left Paw Prints on Our hearts!") mit Halsband.
+- "Passwort MuffinsQueen15 eintippen": Man tippt nicht, man wählt MUFFINS + QUEEN + 15 aus Listen aus.
+- "unbekannter Kontakt": Heißt im Spiel "Unknown", Messenger "WHATUP". Ein Foto davon machen ist möglich ("TAKE PHOTO"
+  steht in der Steuerung), danach steht "Safe code: 92665" als Notiz am Bildschirmrand.
+- "Garage neben Auntie's Place": Stimmt (Schild am Gebäude). Auf der Karte heißt der Laden aber "Aunt Zola's Soul Food".
+  Und: Die Fahrzeugbeschreibung sagt "Rockridge lockup", obwohl die Garage in La Perle liegt (Rockridge ist das Nachbarviertel).
+- "pinke Schleife": Es ist eine lila/pinke SCHLEIFE, die an die Wand gemalt ist, keine echte Schleife am Tor.
+- "Scan-Menü mit Name, Tracker, Wert": In keinem Video gesehen. Es gibt nur die Einblendung "PFISTER / VANESSA'S GROWLER",
+  die Meldung "now an owned vehicle" und das Fahrzeug-Menü mit Werten (Stats + Rating 274/616). Einen Dollar-Wert oder
+  Tracker-Hinweis habe ich nicht gefunden. (Perfect Score schreibt, man soll zum Pay 'n' Spray zum Registrieren – im Bild nicht gezeigt.)
+- "behalten oder verkaufen": Eine Auswahl "behalten/verkaufen" kommt nicht vor. Das Auto gehört einem sofort ("owned vehicle").
+- "+1 extra Garagenplatz gratis": Die Garage ("Del Rio Boulevard Garage") wird freigeschaltet, ein vorhandenes Auto wird dorthin
+  umgeparkt. Ob es genau "1 extra Platz" ist, wird nirgends eingeblendet.
+- "Weg nach Kapitel 3?": NICHT im Spiel bewiesen. ZoneX und andere sagen "missable, gone once the chapter ends",
+  Perfect Score sagt "in einem anderen Kapitel einfach Code 92665 probieren". Niemand zeigt, dass es danach weg ist.
+  -> Im TikTok lieber sagen: "Am besten in Kapitel 3 machen, solange ihr in der Wohnung wohnt."
+- Name im Spiel: "Vanessa's Growler" (Pfister Growler). Nicht "Pink Porsche" (so nennen ihn nur YouTuber).
