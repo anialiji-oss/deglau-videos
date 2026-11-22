@@ -16,7 +16,7 @@ Du landest direkt in der Hölle. Überall Feuer, überall Dämonen – und auf d
 
 Den musst du stürzen: Riesiger Dämon, grüne Flammen, Explosionen – richtig krasser Bosskampf.
 
-Danach wachst du im Wald auf – mit Höllen-Schrotflinte, neuem Tattoo, mehr Leben und einem Highway-to-Hell-Shirt. Und jetzt viel Spaß euch.
+Danach wachst du im Wald auf – und jetzt kommt die Belohnung: eine Höllen-Schrotflinte, ein neues Tattoo, ein Highway-to-Hell-Shirt – und deine maximale Gesundheit steigt dauerhaft. Und jetzt viel Spaß euch.
 
 ## Clips (Credit!)
 | Satz | Clip | Creator |
@@ -30,4 +30,5 @@ Danach wachst du im Wald auf – mit Höllen-Schrotflinte, neuem Tattoo, mehr Le
 | Belohnung | g, g2, g3 | Kephket, 100% Guides |
 
 ## Fakten (aus den Clips)
+„Max health increased“ im Spiel eingeblendet (Kephket, Clip g) – Ausdauer: NICHT gezeigt → nicht im Text.
 Port Gellhorn (Kelly County), 22–4 Uhr, als Lucia. Belohnung: "Hellspawn Comshot 12", neues Tattoo, "Max health increased", Shirt "Highway to Hell Tour".
