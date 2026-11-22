@@ -1,0 +1,862 @@
+{
+ "voice": "voice.m4a",
+ "words": "words.json",
+ "output": "/home/user/deglau-videos/videos/gta6-satan/gta6_satan.mp4",
+ "sources": {
+  "f3": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/satan/f3_bosskampf_finale_boss_besiegt.mp4",
+  "lucia": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/satan/0_showcase_lucia_mit_schrotflinte.mp4",
+  "c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/satan/c_in_den_van.mp4",
+  "f4": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/satan/f4_kampf_am_altar_100guides.mp4",
+  "d": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/satan/d_hoellen_welt_ankunft_feuer.mp4",
+  "b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/satan/b_metal_fans_roter_raum.mp4",
+  "g3": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/satan/g3_schrotflinte_schiessen_ego.mp4",
+  "f": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/satan/f_hellspawn_auftritt_daemonen.mp4",
+  "a3": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/satan/a3_hell_house_nachts_rotes_licht.mp4",
+  "boss": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/satan/0_showcase_boss_altar_gruene_flammen.mp4",
+  "e": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/satan/e_falscher_satan_pentagramm.mp4",
+  "g2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/satan/g2_shirt_tattoo_hell_top.mp4",
+  "hell": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/satan/0_showcase_hellspawn_und_daemonen.mp4",
+  "g": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/satan/g_belohnung_tattoo_schrotflinte.mp4",
+  "f2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/satan/f2_bosskampf.mp4",
+  "feuer": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/satan/0_showcase_feuer_explosionen.mp4",
+  "a2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/satan/a2_hell_house_tag_van.mp4",
+  "karte": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/satan/a_karte_port_gellhorn.mp4"
+ },
+ "_quellen": "Clips: Kephket, Dynasty, 100% Guides – Links in quellen_uebersicht.txt",
+ "flash": 4.34,
+ "end": 60.0,
+ "title": {
+  "lines": [
+   "Geheimer Satan-Bosskampf",
+   "in GTA 6"
+  ],
+  "emojis": [
+   "🎮",
+   "🔥"
+  ]
+ },
+ "segments": [
+  {
+   "t": [
+    0,
+    1.4
+   ],
+   "src": [
+    "boss",
+    2.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Hook – Dämon am Altar"
+  },
+  {
+   "t": [
+    1.4,
+    2.9
+   ],
+   "src": [
+    "lucia",
+    9.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Hook – Lucia mit Schrotflinte"
+  },
+  {
+   "t": [
+    2.9,
+    4.34
+   ],
+   "src": [
+    "hell",
+    6.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Hook – rote Augen"
+  },
+  {
+   "t": [
+    4.34,
+    6.1
+   ],
+   "src": [
+    "f2",
+    4.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Easter Egg – Feuer"
+  },
+  {
+   "t": [
+    6.1,
+    8.3
+   ],
+   "src": [
+    "f",
+    1.5,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Boss Satan"
+  },
+  {
+   "t": [
+    8.3,
+    9.45
+   ],
+   "src": [
+    "feuer",
+    3.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "in der Hölle fighten"
+  },
+  {
+   "t": [
+    9.45,
+    12.92
+   ],
+   "src": [
+    "karte",
+    2.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Karte Port Gellhorn"
+  },
+  {
+   "t": [
+    12.92,
+    15.06
+   ],
+   "src": [
+    "a2",
+    2.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Garage mit Metal-Van"
+  },
+  {
+   "t": [
+    15.06,
+    16.8
+   ],
+   "src": [
+    "b",
+    0.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Metal-Fans"
+  },
+  {
+   "t": [
+    16.8,
+    19.66
+   ],
+   "src": [
+    "c",
+    3.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "in den Van"
+  },
+  {
+   "t": [
+    19.66,
+    21.3
+   ],
+   "src": [
+    "e",
+    2.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Hölle, Feuer"
+  },
+  {
+   "t": [
+    21.3,
+    23.9
+   ],
+   "src": [
+    "hell",
+    0.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "falscher Satan"
+  },
+  {
+   "t": [
+    23.9,
+    26.3
+   ],
+   "src": [
+    "boss",
+    6.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Ich bin Deglau"
+  },
+  {
+   "t": [
+    26.3,
+    28.6
+   ],
+   "src": [
+    "f4",
+    3.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "folgt mir"
+  },
+  {
+   "t": [
+    28.6,
+    31.3
+   ],
+   "src": [
+    "f2",
+    7.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Bosskampf krass"
+  },
+  {
+   "t": [
+    31.3,
+    34.24
+   ],
+   "src": [
+    "f3",
+    4.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "explodiert, aufpassen"
+  },
+  {
+   "t": [
+    34.24,
+    36.5
+   ],
+   "src": [
+    "g",
+    1.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "im Wald aufwachen"
+  },
+  {
+   "t": [
+    36.5,
+    37.5
+   ],
+   "src": [
+    "g3",
+    5.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Höllen-Schrotflinte"
+  },
+  {
+   "t": [
+    37.5,
+    38.1
+   ],
+   "src": [
+    "g2",
+    9.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Tattoo"
+  },
+  {
+   "t": [
+    38.1,
+    38.72
+   ],
+   "src": [
+    "g",
+    9.5,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Max health"
+  },
+  {
+   "t": [
+    38.72,
+    41.0
+   ],
+   "src": [
+    "g2",
+    3.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "T-Shirt"
+  },
+  {
+   "t": [
+    41.0,
+    43.9
+   ],
+   "src": [
+    "lucia",
+    10.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "speichert das Video"
+  },
+  {
+   "t": [
+    43.9,
+    45.36
+   ],
+   "src": [
+    "boss",
+    9.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    45.36,
+    46.83
+   ],
+   "src": [
+    "f4",
+    8.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    46.83,
+    48.29
+   ],
+   "src": [
+    "hell",
+    11.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    48.29,
+    49.75
+   ],
+   "src": [
+    "f3",
+    10.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    49.75,
+    51.22
+   ],
+   "src": [
+    "feuer",
+    8.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    51.22,
+    52.68
+   ],
+   "src": [
+    "f",
+    9.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    52.68,
+    54.15
+   ],
+   "src": [
+    "g3",
+    9.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    54.15,
+    55.61
+   ],
+   "src": [
+    "f2",
+    11.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    55.61,
+    57.07
+   ],
+   "src": [
+    "lucia",
+    6.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    57.07,
+    58.54
+   ],
+   "src": [
+    "f4",
+    12.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    58.54,
+    60.0
+   ],
+   "src": [
+    "boss",
+    11.0,
+    null
+   ],
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ],
+   "_": "Montage"
+  }
+ ],
+ "caption_fixes": [
+  [
+   "Lebensbus",
+   "Lebensboost"
+  ],
+  [
+   "Schottgarn",
+   "Schrotflinte"
+  ],
+  [
+   "E",
+   "Easter"
+  ],
+  [
+   "-Sack",
+   "Egg"
+  ],
+  [
+   "feiten",
+   "fighten"
+  ],
+  [
+   "Lucille",
+   "Lucia"
+  ],
+  [
+   "Mathe",
+   "Metal"
+  ],
+  [
+   "-Van",
+   "Van"
+  ],
+  [
+   "hängen",
+   "hängen"
+  ],
+  [
+   "Mathe",
+   "Metal"
+  ],
+  [
+   "-Fans",
+   "Fans"
+  ],
+  [
+   "hängen",
+   "häng"
+  ],
+  [
+   "steigen",
+   "steig"
+  ],
+  [
+   "einfach",
+   "ein"
+  ],
+  [
+   "Deckel",
+   "Deglau"
+  ],
+  [
+   "warst",
+   "wachst"
+  ],
+  [
+   "Höllenstrup",
+   "Höllen-Schrotflinte"
+  ],
+  [
+   "flinte",
+   ""
+  ],
+  [
+   "Lebensbus",
+   "Lebensboost"
+  ],
+  [
+   "bekommt",
+   "bekommst"
+  ],
+  [
+   "dir",
+   "du"
+  ],
+  [
+   "T",
+   "T-Shirt"
+  ],
+  [
+   "-Shirt",
+   ""
+  ],
+  [
+   "gespaßt",
+   "viel Spaß"
+  ]
+ ],
+ "bigwords": [
+  {
+   "text": "LEBENSBOOST",
+   "color": "#39FF14",
+   "size": 120,
+   "t": [
+    0.95,
+    1.75
+   ],
+   "y": 560,
+   "anim": "drop",
+   "hide_captions": [
+    0.98,
+    1.42
+   ]
+  },
+  {
+   "text": "SCHROTFLINTE",
+   "color": "#FF3B3B",
+   "size": 110,
+   "t": [
+    2.2,
+    2.95
+   ],
+   "y": 560,
+   "anim": "slide",
+   "hide_captions": [
+    2.24,
+    2.66
+   ]
+  },
+  {
+   "text": "22–4 UHR",
+   "color": "white",
+   "size": 150,
+   "t": [
+    10.85,
+    12.2
+   ],
+   "y": 560,
+   "anim": "drop",
+   "hide_captions": [
+    10.88,
+    12.1
+   ]
+  },
+  {
+   "text": "SCHROTFLINTE",
+   "color": "#FF3B3B",
+   "size": 110,
+   "t": [
+    36.5,
+    37.5
+   ],
+   "y": 560,
+   "anim": "slide",
+   "hide_captions": [
+    36.54,
+    37.3
+   ]
+  },
+  {
+   "text": "TATTOO",
+   "color": "white",
+   "size": 150,
+   "t": [
+    37.5,
+    38.15
+   ],
+   "y": 560,
+   "anim": "slide",
+   "hide_captions": [
+    37.54,
+    38.02
+   ]
+  },
+  {
+   "text": "+ LEBEN",
+   "color": "#39FF14",
+   "size": 160,
+   "t": [
+    38.15,
+    38.85
+   ],
+   "y": 560,
+   "anim": "slide",
+   "hide_captions": [
+    38.24,
+    38.72
+   ]
+  },
+  {
+   "text": "T-SHIRT",
+   "color": "white",
+   "size": 150,
+   "t": [
+    40.5,
+    41.2
+   ],
+   "y": 560,
+   "anim": "slide",
+   "hide_captions": [
+    40.56,
+    40.96
+   ]
+  }
+ ],
+ "icons": [
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    3.74,
+    4.34
+   ],
+   "spin": 0,
+   "size": 480,
+   "y": 470
+  },
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    26.06,
+    27.3
+   ],
+   "spin": 0,
+   "size": 520,
+   "y": 420
+  }
+ ],
+ "sfx": []
+}
