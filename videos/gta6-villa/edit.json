@@ -1,0 +1,642 @@
+{
+ "voice": "voice.m4a",
+ "words": "words.json",
+ "output": "/home/user/deglau-videos/videos/gta6-villa/gta6_villa.mp4",
+ "sources": {
+  "a2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/villa/a2_villa_aussen_hecke.mp4",
+  "h2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/villa/h2_wegfahren.mp4",
+  "h": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/villa/h_emerus_garage.mp4",
+  "c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/villa/c_ins_haus.mp4",
+  "d2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/villa/d2_kampf_draussen.mp4",
+  "a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/villa/a_karte_tor_vespucci.mp4",
+  "a4": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/villa/a4_villa_aussen_mauer_100guides.mp4",
+  "b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/villa/b_mauer_wendeltreppe.mp4",
+  "villa": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/villa/0_showcase_villa_tageslicht.mp4",
+  "b2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/villa/b2_wache_balkon_ausschalten.mp4",
+  "kingp": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/villa/0_showcase_kingpin_heathen_wand_nah.mp4",
+  "e": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/villa/e_waffenwand_kingpin_heathen.mp4",
+  "f": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/villa/f_tresor_1.mp4",
+  "g": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/villa/g_obstkisten_flaschen_kein_tisch.mp4",
+  "a3": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/villa/a3_karte_info_vespucci_mansion_100guides.mp4",
+  "c2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/villa/c2_bargeld_schlafzimmer.mp4",
+  "d": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/villa/d_wache_ueber_balkon_in_pool.mp4",
+  "emeru": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/villa/0_showcase_emerus_fahrt_tag.mp4",
+  "f2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/villa/f2_tresor_2.mp4",
+  "d3": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/villa/d3_kampf_balkon_jason_100guides.mp4",
+  "e2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/villa/e2_gewehr_nehmen.mp4"
+ },
+ "_quellen": "Clips: Wick, 100% Guides – Links in quellen_uebersicht.txt",
+ "flash": 5.2,
+ "end": 60.0,
+ "title": {
+  "lines": [
+   "Der beste Loot-Spot",
+   "in GTA 6"
+  ],
+  "emojis": [
+   "🎮",
+   "🔥"
+  ]
+ },
+ "segments": [
+  {
+   "t": [
+    0,
+    1.7
+   ],
+   "src": [
+    "kingp",
+    5.0,
+    null
+   ],
+   "_": "Hook – goldenes Gewehr"
+  },
+  {
+   "t": [
+    1.7,
+    3.4
+   ],
+   "src": [
+    "kingp",
+    9.0,
+    null
+   ],
+   "_": "Hook – Gewehr nah"
+  },
+  {
+   "t": [
+    3.4,
+    5.2
+   ],
+   "src": [
+    "emeru",
+    7.0,
+    null
+   ],
+   "_": "Hook – Hypercar"
+  },
+  {
+   "t": [
+    5.2,
+    7.8
+   ],
+   "src": [
+    "a",
+    5.0,
+    null
+   ],
+   "_": "Karte Vespucci"
+  },
+  {
+   "t": [
+    7.8,
+    9.4
+   ],
+   "src": [
+    "villa",
+    5.0,
+    null
+   ],
+   "_": "Villa bei Tag"
+  },
+  {
+   "t": [
+    9.4,
+    11.8
+   ],
+   "src": [
+    "a3",
+    4.0,
+    null
+   ],
+   "_": "Infotafel 22.600 $"
+  },
+  {
+   "t": [
+    11.8,
+    13.3
+   ],
+   "src": [
+    "a4",
+    6.0,
+    null
+   ],
+   "_": "über die Mauer"
+  },
+  {
+   "t": [
+    13.3,
+    14.0
+   ],
+   "src": [
+    "b",
+    9.0,
+    null
+   ],
+   "_": "Wendeltreppe"
+  },
+  {
+   "t": [
+    14.0,
+    15.6
+   ],
+   "src": [
+    "b2",
+    4.0,
+    null
+   ],
+   "_": "Balkon-Wache"
+  },
+  {
+   "t": [
+    15.6,
+    17.2
+   ],
+   "src": [
+    "c2",
+    9.0,
+    null
+   ],
+   "_": "Bargeld Schlafzimmer"
+  },
+  {
+   "t": [
+    17.2,
+    19.6
+   ],
+   "src": [
+    "d",
+    7.0,
+    null
+   ],
+   "_": "Wache in den Pool"
+  },
+  {
+   "t": [
+    19.6,
+    21.2
+   ],
+   "src": [
+    "e",
+    4.0,
+    null
+   ],
+   "_": "Waffenzimmer"
+  },
+  {
+   "t": [
+    21.2,
+    23.2
+   ],
+   "src": [
+    "e2",
+    10.0,
+    null
+   ],
+   "_": "legendäres Gewehr"
+  },
+  {
+   "t": [
+    23.2,
+    24.0
+   ],
+   "src": [
+    "e",
+    8.0,
+    null
+   ],
+   "_": "Schutzweste"
+  },
+  {
+   "t": [
+    24.0,
+    25.5
+   ],
+   "src": [
+    "f",
+    8.0,
+    null
+   ],
+   "_": "Tresor 1"
+  },
+  {
+   "t": [
+    25.5,
+    28.0
+   ],
+   "src": [
+    "f2",
+    5.0,
+    null
+   ],
+   "_": "Tresor 2 / Deglau"
+  },
+  {
+   "t": [
+    28.0,
+    30.1
+   ],
+   "src": [
+    "a2",
+    2.0,
+    null
+   ],
+   "_": "folgt mir"
+  },
+  {
+   "t": [
+    30.1,
+    31.5
+   ],
+   "src": [
+    "h",
+    2.0,
+    null
+   ],
+   "_": "Einfahrt"
+  },
+  {
+   "t": [
+    31.5,
+    33.9
+   ],
+   "src": [
+    "h2",
+    0.0,
+    null
+   ],
+   "_": "Supersportwagen"
+  },
+  {
+   "t": [
+    33.9,
+    36.9
+   ],
+   "src": [
+    "emeru",
+    0.0,
+    null
+   ],
+   "_": "speichert"
+  },
+  {
+   "t": [
+    36.9,
+    38.44
+   ],
+   "src": [
+    "emeru",
+    10.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    38.44,
+    39.98
+   ],
+   "src": [
+    "kingp",
+    11.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    39.98,
+    41.52
+   ],
+   "src": [
+    "d",
+    10.5,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    41.52,
+    43.06
+   ],
+   "src": [
+    "villa",
+    7.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    43.06,
+    44.6
+   ],
+   "src": [
+    "h2",
+    10.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    44.6,
+    46.14
+   ],
+   "src": [
+    "b2",
+    9.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    46.14,
+    47.68
+   ],
+   "src": [
+    "a4",
+    9.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    47.68,
+    49.22
+   ],
+   "src": [
+    "emeru",
+    4.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    49.22,
+    50.76
+   ],
+   "src": [
+    "f2",
+    10.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    50.76,
+    52.3
+   ],
+   "src": [
+    "d2",
+    8.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    52.3,
+    53.84
+   ],
+   "src": [
+    "c",
+    10.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    53.84,
+    55.38
+   ],
+   "src": [
+    "h",
+    9.5,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    55.38,
+    56.92
+   ],
+   "src": [
+    "emeru",
+    12.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    56.92,
+    58.46
+   ],
+   "src": [
+    "kingp",
+    2.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    58.46,
+    60.0
+   ],
+   "src": [
+    "d",
+    12.0,
+    null
+   ],
+   "_": "Montage"
+  }
+ ],
+ "caption_fixes": [
+  [
+   "Lospots",
+   "Loot-Spots"
+  ],
+  [
+   "goldes",
+   "goldenes"
+  ],
+  [
+   "West",
+   "Vespucci"
+  ],
+  [
+   "Pucci",
+   ""
+  ],
+  [
+   "zu",
+   "zur"
+  ],
+  [
+   "Wille",
+   "Villa"
+  ],
+  [
+   "-Zirkel",
+   "Circle"
+  ],
+  [
+   "einen",
+   "einem"
+  ],
+  [
+   "Drogenbox",
+   "Drogenboss"
+  ],
+  [
+   "die",
+   "dir"
+  ],
+  [
+   "Mauern",
+   "Mauer"
+  ],
+  [
+   "im",
+   "nimm"
+  ],
+  [
+   "Wendeltreppen",
+   "Wendeltreppe"
+  ],
+  [
+   "Wachrang",
+   "Wache"
+  ],
+  [
+   "Gelände",
+   "Geländer"
+  ],
+  [
+   "dem",
+   "den"
+  ],
+  [
+   "liegen",
+   "legendäre"
+  ],
+  [
+   "der",
+   ""
+  ],
+  [
+   "Drogenbox",
+   "Drogenboss"
+  ],
+  [
+   "Deckel",
+   "Deglau"
+  ],
+  [
+   "Fertigseite",
+   "fertig seid"
+  ],
+  [
+   "Luten",
+   "Looten"
+  ],
+  [
+   "ein",
+   "einen"
+  ]
+ ],
+ "bigwords": [
+  {
+   "text": "GOLDENES GEWEHR",
+   "color": "#FFD000",
+   "size": 82,
+   "t": [
+    2.5,
+    3.4
+   ],
+   "y": 560,
+   "anim": "drop",
+   "hide_captions": [
+    2.5,
+    3.32
+   ]
+  },
+  {
+   "text": "22.000 $",
+   "color": "#39FF14",
+   "size": 160,
+   "t": [
+    10.3,
+    11.6
+   ],
+   "y": 560,
+   "anim": "drop",
+   "hide_captions": [
+    10.3,
+    11.42
+   ]
+  },
+  {
+   "text": "POOL!",
+   "color": "#3FC5FF",
+   "size": 170,
+   "t": [
+    19.0,
+    19.7
+   ],
+   "y": 560,
+   "anim": "slide",
+   "hide_captions": [
+    19.26,
+    19.46
+   ]
+  },
+  {
+   "text": "LEGENDÄR",
+   "color": "#FFD000",
+   "size": 150,
+   "t": [
+    21.0,
+    21.9
+   ],
+   "y": 560,
+   "anim": "drop",
+   "hide_captions": [
+    21.02,
+    21.9
+   ]
+  }
+ ],
+ "icons": [
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    1.56,
+    2.3
+   ],
+   "spin": 0,
+   "size": 480,
+   "y": 470
+  },
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    27.68,
+    28.9
+   ],
+   "spin": 0,
+   "size": 520,
+   "y": 420
+  }
+ ],
+ "sfx": []
+}
