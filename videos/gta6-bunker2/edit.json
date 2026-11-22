@@ -1,0 +1,660 @@
+{
+ "voice": "voice.m4a",
+ "words": "words.json",
+ "output": "/home/user/deglau-videos/videos/gta6-bunker2/gta6_bunker2.mp4",
+ "sources": {
+  "f2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/f2_luke_geht_auf.mp4",
+  "i": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/i_jose_hypnose_spirale.mp4",
+  "f3": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/f3_kontrollraum_tor_auf.mp4",
+  "a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/a_denkmal_russo_jose.mp4",
+  "c2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/c2_rundtor_geht_auf.mp4",
+  "f": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/f_luke_wald_zahlenschloss_085355.mp4",
+  "d2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/d2_praesidenten_buero_schreibtisch.mp4",
+  "h2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/h2_aufnahme_bunker2.mp4",
+  "d3": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/d3_rotes_telefon.mp4",
+  "i2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/i2_klinik_praesident_blauer_anzug.mp4",
+  "hwyexp": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/0_showcase_panzer_highway_explosion.mp4",
+  "i4": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/i4_roter_flur_praesident.mp4",
+  "hwy2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/0_showcase_panzer_highway_2.mp4",
+  "i3": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/i3_rotes_telefon_klinik.mp4",
+  "g2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/g2_mini_panzer_garage_raus.mp4",
+  "d": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/d_strom_an_tunnel.mp4",
+  "i5": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/i5_belohnung_brainwasher_pistole.mp4",
+  "a2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/a2_denkmal_russo_lucia_zonex.mp4",
+  "g": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/g_sturmgewehr_cold_war_556.mp4",
+  "h": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/h_munitionskisten_granaten.mp4",
+  "c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/c_rundtor_graffiti_sharktooth_code.mp4",
+  "b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/b_wohnung_little_cuba_aussen.mp4",
+  "e": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/e_tresor_code_2975.mp4",
+  "h3": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/h3_panzer_6_sterne_kein_pay_n_spray_dalekjd.mp4",
+  "tag": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/0_showcase_panzer_tageslicht_bunker.mp4",
+  "e2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/e2_tresor_auf_pistole.mp4",
+  "i6": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/i6_tattoo_brainwashed.mp4",
+  "e3": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/e3_foto_obsess.mp4",
+  "b3": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/b3_aufnahme_handy_code_010317.mp4",
+  "g3": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/g3_sturmgewehr_aufheben_zonex.mp4",
+  "b2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/bunker2/b2_wohnung_innen_wahlplakate_russo.mp4"
+ },
+ "_quellen": "Clips: Robbin Rams, ZoneX, MrDalekJD – Links in quellen_uebersicht.txt",
+ "flash": 6.3,
+ "end": 60.0,
+ "title": {
+  "lines": [
+   "Gratis Panzer im",
+   "geheimen Bunker"
+  ],
+  "emojis": [
+   "🎮",
+   "🔥"
+  ]
+ },
+ "segments": [
+  {
+   "t": [
+    0,
+    2.0
+   ],
+   "src": [
+    "hwyexp",
+    2.0,
+    null
+   ],
+   "_": "Hook – Panzer sprengt"
+  },
+  {
+   "t": [
+    2.0,
+    4.3
+   ],
+   "src": [
+    "tag",
+    1.0,
+    null
+   ],
+   "_": "Hook – Panzer aus Bunker"
+  },
+  {
+   "t": [
+    4.3,
+    6.3
+   ],
+   "src": [
+    "hwy2",
+    2.0,
+    null
+   ],
+   "_": "Hook – Panzer Highway"
+  },
+  {
+   "t": [
+    6.3,
+    8.6
+   ],
+   "src": [
+    "f",
+    2.0,
+    null
+   ],
+   "_": "Luke im Wald"
+  },
+  {
+   "t": [
+    8.6,
+    10.66
+   ],
+   "src": [
+    "a",
+    3.0,
+    null
+   ],
+   "_": "Denkmal Russo"
+  },
+  {
+   "t": [
+    10.66,
+    12.3
+   ],
+   "src": [
+    "b",
+    3.0,
+    null
+   ],
+   "_": "Wohnung Little Cuba"
+  },
+  {
+   "t": [
+    12.3,
+    14.3
+   ],
+   "src": [
+    "b2",
+    3.0,
+    null
+   ],
+   "_": "Aufnahme"
+  },
+  {
+   "t": [
+    14.3,
+    15.76
+   ],
+   "src": [
+    "b3",
+    3.0,
+    null
+   ],
+   "_": "Code 1"
+  },
+  {
+   "t": [
+    15.76,
+    17.0
+   ],
+   "src": [
+    "c",
+    4.0,
+    null
+   ],
+   "_": "Rundtor Sharktooth"
+  },
+  {
+   "t": [
+    17.0,
+    18.2
+   ],
+   "src": [
+    "c2",
+    6.0,
+    null
+   ],
+   "_": "Tor geht auf"
+  },
+  {
+   "t": [
+    18.2,
+    19.5
+   ],
+   "src": [
+    "d2",
+    3.0,
+    null
+   ],
+   "_": "geheimes Büro"
+  },
+  {
+   "t": [
+    19.5,
+    20.42
+   ],
+   "src": [
+    "d3",
+    4.0,
+    null
+   ],
+   "_": "rotes Telefon"
+  },
+  {
+   "t": [
+    20.42,
+    22.8
+   ],
+   "src": [
+    "hwy2",
+    6.0,
+    null
+   ],
+   "_": "Ich bin Deglau"
+  },
+  {
+   "t": [
+    22.8,
+    25.26
+   ],
+   "src": [
+    "hwyexp",
+    7.0,
+    null
+   ],
+   "_": "folgt mir"
+  },
+  {
+   "t": [
+    25.26,
+    27.4
+   ],
+   "src": [
+    "e",
+    3.0,
+    null
+   ],
+   "_": "Tresor Code"
+  },
+  {
+   "t": [
+    27.4,
+    29.4
+   ],
+   "src": [
+    "e2",
+    5.0,
+    null
+   ],
+   "_": "Pistole"
+  },
+  {
+   "t": [
+    29.4,
+    31.6
+   ],
+   "src": [
+    "e3",
+    5.0,
+    null
+   ],
+   "_": "Foto OBSESS"
+  },
+  {
+   "t": [
+    31.6,
+    33.4
+   ],
+   "src": [
+    "f",
+    6.0,
+    null
+   ],
+   "_": "Luke Zahlenschloss"
+  },
+  {
+   "t": [
+    33.4,
+    34.62
+   ],
+   "src": [
+    "f2",
+    6.0,
+    null
+   ],
+   "_": "Luke geht auf"
+  },
+  {
+   "t": [
+    34.62,
+    36.0
+   ],
+   "src": [
+    "f3",
+    5.0,
+    null
+   ],
+   "_": "Panzer hinter Scheibe"
+  },
+  {
+   "t": [
+    36.0,
+    37.8
+   ],
+   "src": [
+    "g3",
+    2.0,
+    null
+   ],
+   "_": "Sturmgewehr"
+  },
+  {
+   "t": [
+    37.8,
+    39.1
+   ],
+   "src": [
+    "h",
+    5.0,
+    null
+   ],
+   "_": "Granaten"
+  },
+  {
+   "t": [
+    39.1,
+    40.6
+   ],
+   "src": [
+    "i",
+    3.0,
+    null
+   ],
+   "_": "Hypnose"
+  },
+  {
+   "t": [
+    40.6,
+    42.7
+   ],
+   "src": [
+    "i5",
+    3.0,
+    null
+   ],
+   "_": "zweite Pistole"
+  },
+  {
+   "t": [
+    42.7,
+    43.96
+   ],
+   "src": [
+    "i5",
+    7.0,
+    null
+   ],
+   "_": "mehr Fokus"
+  },
+  {
+   "t": [
+    43.96,
+    44.7
+   ],
+   "src": [
+    "i6",
+    4.0,
+    null
+   ],
+   "_": "Tattoo"
+  },
+  {
+   "t": [
+    44.7,
+    46.4
+   ],
+   "src": [
+    "g2",
+    8.0,
+    null
+   ],
+   "_": "Panzer fährt raus"
+  },
+  {
+   "t": [
+    46.4,
+    47.91
+   ],
+   "src": [
+    "hwyexp",
+    9.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    47.91,
+    49.42
+   ],
+   "src": [
+    "tag",
+    8.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    49.42,
+    50.93
+   ],
+   "src": [
+    "i4",
+    5.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    50.93,
+    52.44
+   ],
+   "src": [
+    "hwy2",
+    10.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    52.44,
+    53.96
+   ],
+   "src": [
+    "g2",
+    10.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    53.96,
+    55.47
+   ],
+   "src": [
+    "h3",
+    2.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    55.47,
+    56.98
+   ],
+   "src": [
+    "hwyexp",
+    11.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    56.98,
+    58.49
+   ],
+   "src": [
+    "i2",
+    4.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    58.49,
+    60.0
+   ],
+   "src": [
+    "tag",
+    11.0,
+    null
+   ],
+   "_": "Montage"
+  }
+ ],
+ "caption_fixes": [
+  [
+   "an",
+   "in"
+  ],
+  [
+   "GTR",
+   "GTA"
+  ],
+  [
+   "wo",
+   "wurde"
+  ],
+  [
+   "du",
+   ""
+  ],
+  [
+   "gelöstest",
+   "gelöst"
+  ],
+  [
+   "Lospot",
+   "Loot-Spot"
+  ],
+  [
+   "Rousseau",
+   "Russo"
+  ],
+  [
+   "Joe's",
+   "Joses"
+  ],
+  [
+   "Cooper",
+   "Cuba"
+  ],
+  [
+   "Sharktouff",
+   "Sharktooth"
+  ],
+  [
+   "von",
+   "vom"
+  ],
+  [
+   "Denkler",
+   "Deglau"
+  ],
+  [
+   "GTR",
+   "GTA"
+  ],
+  [
+   "erfolgt",
+   "folgt"
+  ],
+  [
+   "ersten",
+   ""
+  ],
+  [
+   "Saison",
+   "Tresor"
+  ],
+  [
+   "von",
+   "vom"
+  ],
+  [
+   "Obsess",
+   "OBSESS"
+  ],
+  [
+   "Gehirn",
+   "gehirngewaschen"
+  ],
+  [
+   "gewaschen",
+   ""
+  ],
+  [
+   "für",
+   "für"
+  ],
+  [
+   "für",
+   ""
+  ]
+ ],
+ "bigwords": [
+  {
+   "text": "PANZER",
+   "color": "#39FF14",
+   "size": 170,
+   "t": [
+    5.75,
+    6.4
+   ],
+   "y": 560,
+   "anim": "drop",
+   "hide_captions": [
+    5.78,
+    6.3
+   ]
+  },
+  {
+   "text": "OBSESS",
+   "color": "white",
+   "size": 160,
+   "t": [
+    30.65,
+    31.5
+   ],
+   "y": 560,
+   "anim": "slide",
+   "hide_captions": [
+    30.7,
+    31.04
+   ]
+  }
+ ],
+ "icons": [
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    1.34,
+    2.4
+   ],
+   "spin": 0,
+   "size": 480,
+   "y": 470
+  },
+  {
+   "img": "videos/gta6-bunker2/karten/code1.mov",
+   "t": [
+    13.68,
+    17.28
+   ],
+   "spin": 0,
+   "size": 920,
+   "y": 330
+  },
+  {
+   "img": "videos/gta6-bunker2/karten/code2.mov",
+   "t": [
+    26.22,
+    29.42
+   ],
+   "spin": 0,
+   "size": 920,
+   "y": 330
+  },
+  {
+   "img": "videos/gta6-bunker2/karten/code3.mov",
+   "t": [
+    31.6,
+    35.4
+   ],
+   "spin": 0,
+   "size": 920,
+   "y": 330
+  },
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    22.74,
+    24.0
+   ],
+   "spin": 0,
+   "size": 520,
+   "y": 420
+  }
+ ],
+ "sfx": []
+}

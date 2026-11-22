@@ -235,3 +235,11 @@ im Schnittplan gibt man an, wann der Sound am lautesten sein soll, der Renderer 
   Auto frei im Tageslicht, Kamera fährt drumherum, Rasen von hinten/seitlich, Sonnenuntergang/Skyline;
   bei Waffen/Easter Eggs: Nahaufnahme, gut beleuchtet.
 - Diese schönsten Bilder kommen in den Hook, in den Deglau-Satz und in die Montage.
+
+### Codes immer als animierte Code-Karte (Deglau, 22.11.2026)
+- Sagt Deglau einen Code (Tür, Tresor, Luke …) → gelb-schwarze Karte wie beim Cheat-Video, Ziffern werden **langsam nacheinander eingetippt**,
+  Karte bleibt ~3–4 s stehen. Erzeugen: `python3 scripts/code_card.py "TITEL" CODE DAUER ausgabe.mov "unterzeile"` → als `.mov`-Icon in edit.json.
+
+### Stimme glätten (Deglau, 22.11.2026)
+- Deglaus Aufnahmen haben Spitzen (bis 0 dB, „spiked“ in den Kopfhörern) → `render.py` macht jetzt automatisch
+  Hochpass + De-Esser + Kompressor + Limiter (Spitzen max. ca. −3 dB). Abschalten nur mit `"voice_fx": false`.

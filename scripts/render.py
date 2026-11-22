@@ -201,7 +201,10 @@ def main(edit_path):
           "-i", os.path.join(A, "musik", "mainbeat.mp3"), "-i", os.path.join(A, "sfx", "tension.mp3")]
     n0 = 3 + len(big) + len(icons)        # Index der Voice-Eingabe
     ms = lambda t: max(0, int(round(t * 1000)))
-    a = (f"[{n0}:a]aformat=sample_rates=48000:channel_layouts=stereo[vo];"
+    # Stimme glätten (Deglau 22.11.: Spitzen/Zischen beim Sprechen zu laut): Rumpeln weg, De-Esser, Kompressor, Limiter
+    vfx = ("highpass=f=70,deesser=i=0.5:m=0.5:f=0.5:s=o,acompressor=threshold=0.125:ratio=3:attack=4:release=90:makeup=2.2,"
+           "alimiter=limit=0.7:level=false," if E.get("voice_fx", True) else "")
+    a = (f"[{n0}:a]{vfx}aformat=sample_rates=48000:channel_layouts=stereo[vo];"
          f"[{n0+1}:a]atrim=0:{FLASH},volume={VOL['bgm']},afade=out:st={FLASH-0.15}:d=0.15,aformat=sample_rates=48000:channel_layouts=stereo[bgm];"
          f"[{n0+2}:a]atrim=start={BEAT_DROP}:end={BEAT_DROP+END-FLASH+0.1},asetpts=PTS-STARTPTS,volume={VOL['beat']},"
          f"afade=out:st={END-FLASH-1.2}:d=1.2,adelay={ms(FLASH)}|{ms(FLASH)},aformat=sample_rates=48000:channel_layouts=stereo[beat];"
