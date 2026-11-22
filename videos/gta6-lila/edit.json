@@ -18,7 +18,7 @@
  },
  "_quellen": "Clips: JFM, Dan Allen Gaming, Anubis_RD, LunarGaming, MonkeyKingHero, Game Guides Channel, RLG – Links in quellen_uebersicht.txt",
  "flash": 4.38,
- "end": 36.8,
+ "end": 60.0,
  "title": {
   "lines": [
    "2 lila Supersportwagen",
@@ -52,7 +52,13 @@
     4.0,
     null
    ],
-   "_": "Hook – lila Lambo"
+   "_": "Hook – lila Lambo",
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ]
   },
   {
    "t": [
@@ -244,7 +250,13 @@
     5.0,
     null
    ],
-   "_": "Tracker"
+   "_": "Tracker",
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ]
   },
   {
    "t": [
@@ -268,7 +280,241 @@
     2.0,
     null
    ],
-   "_": "Gas geben"
+   "_": "Gas geben",
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ]
+  },
+  {
+   "t": [
+    36.8,
+    38.25
+   ],
+   "src": [
+    "c2e2",
+    6.0,
+    null
+   ],
+   "_": "Montage",
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ]
+  },
+  {
+   "t": [
+    38.25,
+    39.7
+   ],
+   "src": [
+    "c1e",
+    11.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    39.7,
+    41.15
+   ],
+   "src": [
+    "c2c",
+    10.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    41.15,
+    42.6
+   ],
+   "src": [
+    "c1c",
+    11.5,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    42.6,
+    44.05
+   ],
+   "src": [
+    "c2e1",
+    5.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    44.05,
+    45.5
+   ],
+   "src": [
+    "c1e",
+    3.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    45.5,
+    46.95
+   ],
+   "src": [
+    "c2d",
+    8.0,
+    null
+   ],
+   "_": "Montage",
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ]
+  },
+  {
+   "t": [
+    46.95,
+    48.4
+   ],
+   "src": [
+    "c1d",
+    3.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    48.4,
+    49.85
+   ],
+   "src": [
+    "c2e2",
+    9.0,
+    null
+   ],
+   "_": "Montage",
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ]
+  },
+  {
+   "t": [
+    49.85,
+    51.3
+   ],
+   "src": [
+    "c1e",
+    6.5,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    51.3,
+    52.75
+   ],
+   "src": [
+    "c2e1",
+    3.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    52.75,
+    54.2
+   ],
+   "src": [
+    "c1c",
+    12.5,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    54.2,
+    55.65
+   ],
+   "src": [
+    "c2e2",
+    11.0,
+    null
+   ],
+   "_": "Montage",
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ]
+  },
+  {
+   "t": [
+    55.65,
+    57.1
+   ],
+   "src": [
+    "c1e",
+    9.5,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    57.1,
+    58.55
+   ],
+   "src": [
+    "c2d",
+    10.5,
+    null
+   ],
+   "_": "Montage",
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ]
+  },
+  {
+   "t": [
+    58.55,
+    60.0
+   ],
+   "src": [
+    "c2e2",
+    0.5,
+    null
+   ],
+   "_": "Montage",
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ]
   }
  ],
  "caption_fixes": [
