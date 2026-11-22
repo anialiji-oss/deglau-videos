@@ -1,0 +1,447 @@
+{
+ "voice": "voice.m4a",
+ "words": "words.json",
+ "output": "/home/user/deglau-videos/videos/gta6-lila/gta6_lila.mp4",
+ "sources": {
+  "c1e": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/lila/1e_losfahren-rasen_anubis.mp4",
+  "c2b1": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/lila/2b1_hebebuehne-hoch_lunar.mp4",
+  "c2e1": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/lila/2e1_flucht-polizei_gameguides.mp4",
+  "c2e2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/lila/2e2_flucht-sterne_rlg.mp4",
+  "c1c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/lila/1c_container-lila-emerus_anubis.mp4",
+  "c2d": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/lila/2d_scan-menue_monkeyking.mp4",
+  "c2a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/lila/2a_karte-polizeiwache_lunar.mp4",
+  "c1b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/lila/1b_lager-gegner_danallen.mp4",
+  "c2c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/lila/2c_infernus-im-parkhaus_lunar.mp4",
+  "c2b2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/lila/2b2_aufzug-parkhaus_lunar.mp4",
+  "c1d": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/lila/1d_scan-menue_jfm.mp4",
+  "c1a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/lila/1a_karte-chatfield_jfm.mp4"
+ },
+ "_quellen": "Clips: JFM, Dan Allen Gaming, Anubis_RD, LunarGaming, MonkeyKingHero, Game Guides Channel, RLG – Links in quellen_uebersicht.txt",
+ "flash": 4.38,
+ "end": 36.8,
+ "title": {
+  "lines": [
+   "2 lila Supersportwagen",
+   "in GTA 6"
+  ],
+  "emojis": [
+   "🎮",
+   "🔥"
+  ]
+ },
+ "segments": [
+  {
+   "t": [
+    0,
+    1.5
+   ],
+   "src": [
+    "c1c",
+    9.0,
+    null
+   ],
+   "_": "Hook – lila McLaren"
+  },
+  {
+   "t": [
+    1.5,
+    3.0
+   ],
+   "src": [
+    "c2d",
+    4.0,
+    null
+   ],
+   "_": "Hook – lila Lambo"
+  },
+  {
+   "t": [
+    3.0,
+    4.38
+   ],
+   "src": [
+    "c1e",
+    5.0,
+    null
+   ],
+   "_": "Hook – losfahren"
+  },
+  {
+   "t": [
+    4.38,
+    6.0
+   ],
+   "src": [
+    "c1a",
+    3.0,
+    null
+   ],
+   "_": "Karte Chatfield"
+  },
+  {
+   "t": [
+    6.0,
+    7.45
+   ],
+   "src": [
+    "c1a",
+    7.0,
+    null
+   ],
+   "_": "zum Tor"
+  },
+  {
+   "t": [
+    7.45,
+    9.4
+   ],
+   "src": [
+    "c1b",
+    0.0,
+    null
+   ],
+   "_": "Wachen, schleichen"
+  },
+  {
+   "t": [
+    9.4,
+    11.66
+   ],
+   "src": [
+    "c1b",
+    5.0,
+    null
+   ],
+   "_": "aufräumen"
+  },
+  {
+   "t": [
+    11.66,
+    13.8
+   ],
+   "src": [
+    "c1c",
+    2.0,
+    null
+   ],
+   "_": "zum roten Container"
+  },
+  {
+   "t": [
+    13.8,
+    16.64
+   ],
+   "src": [
+    "c1c",
+    8.0,
+    null
+   ],
+   "_": "lila McLaren im Container"
+  },
+  {
+   "t": [
+    16.64,
+    19.3
+   ],
+   "src": [
+    "c1e",
+    0.0,
+    null
+   ],
+   "_": "Ich bin Deglau"
+  },
+  {
+   "t": [
+    19.3,
+    21.74
+   ],
+   "src": [
+    "c1e",
+    8.0,
+    null
+   ],
+   "_": "folgt mir"
+  },
+  {
+   "t": [
+    21.74,
+    24.98
+   ],
+   "src": [
+    "c1d",
+    0.0,
+    null
+   ],
+   "_": "kein Tracker"
+  },
+  {
+   "t": [
+    24.98,
+    26.3
+   ],
+   "src": [
+    "c2a",
+    1.0,
+    null
+   ],
+   "_": "Karte Wunschliste"
+  },
+  {
+   "t": [
+    26.3,
+    27.54
+   ],
+   "src": [
+    "c2a",
+    8.0,
+    null
+   ],
+   "_": "Polizeiwache Crosstown"
+  },
+  {
+   "t": [
+    27.54,
+    29.3
+   ],
+   "src": [
+    "c2b1",
+    2.0,
+    null
+   ],
+   "_": "Hebebühne"
+  },
+  {
+   "t": [
+    29.3,
+    30.18
+   ],
+   "src": [
+    "c2b2",
+    1.0,
+    null
+   ],
+   "_": "Aufzug"
+  },
+  {
+   "t": [
+    30.18,
+    31.04
+   ],
+   "src": [
+    "c2c",
+    7.0,
+    null
+   ],
+   "_": "Level 7"
+  },
+  {
+   "t": [
+    31.04,
+    33.4
+   ],
+   "src": [
+    "c2d",
+    5.0,
+    null
+   ],
+   "_": "Tracker"
+  },
+  {
+   "t": [
+    33.4,
+    35.0
+   ],
+   "src": [
+    "c2e1",
+    1.0,
+    null
+   ],
+   "_": "Ausfahrt Polizei"
+  },
+  {
+   "t": [
+    35.0,
+    36.8
+   ],
+   "src": [
+    "c2e2",
+    2.0,
+    null
+   ],
+   "_": "Gas geben"
+  }
+ ],
+ "caption_fixes": [
+  [
+   "den",
+   ""
+  ],
+  [
+   "den",
+   ""
+  ],
+  [
+   "Er",
+   "Erst"
+  ],
+  [
+   "ist",
+   ""
+  ],
+  [
+   "ein",
+   "den"
+  ],
+  [
+   "fahrt",
+   "fahr"
+  ],
+  [
+   "Chatfeet",
+   "Chatfield"
+  ],
+  [
+   "Maximum",
+   "Waxman"
+  ],
+  [
+   "schlächtig",
+   "schleichst"
+  ],
+  [
+   "dir",
+   ""
+  ],
+  [
+   "den",
+   ""
+  ],
+  [
+   "der",
+   ""
+  ],
+  [
+   "Glock",
+   "Deglau"
+  ],
+  [
+   "erfolgt",
+   "folgt"
+  ],
+  [
+   "nichtmals",
+   "nicht mal"
+  ],
+  [
+   "ein",
+   "einen"
+  ],
+  [
+   "Damit",
+   "Mit"
+  ],
+  [
+   "Park",
+   "Parkhaus"
+  ],
+  [
+   "aus",
+   ""
+  ],
+  [
+   "nimmt",
+   "nimm"
+  ],
+  [
+   "ein",
+   "einen"
+  ],
+  [
+   "seit",
+   ""
+  ],
+  [
+   "so",
+   "also"
+  ],
+  [
+   "dir",
+   ""
+  ]
+ ],
+ "bigwords": [
+  {
+   "text": "GRATIS",
+   "color": "#39FF14",
+   "size": 170,
+   "t": [
+    2.7,
+    3.6
+   ],
+   "y": 560,
+   "anim": "drop",
+   "hide_captions": [
+    2.72,
+    3.16
+   ]
+  },
+  {
+   "text": "KEIN TRACKER",
+   "color": "#39FF14",
+   "size": 120,
+   "t": [
+    23.2,
+    24.6
+   ],
+   "y": 560,
+   "anim": "drop",
+   "hide_captions": [
+    23.32,
+    23.54
+   ]
+  },
+  {
+   "text": "LEVEL 7",
+   "color": "white",
+   "size": 160,
+   "t": [
+    30.15,
+    31.0
+   ],
+   "y": 560,
+   "anim": "slide",
+   "hide_captions": [
+    30.18,
+    30.58
+   ]
+  },
+  {
+   "text": "TRACKER!",
+   "color": "#FF3B3B",
+   "size": 150,
+   "t": [
+    32.2,
+    33.0
+   ],
+   "y": 560,
+   "anim": "drop",
+   "hide_captions": [
+    32.24,
+    32.46
+   ]
+  }
+ ],
+ "icons": [
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    18.48,
+    19.8
+   ],
+   "spin": 0,
+   "size": 520,
+   "y": 420
+  }
+ ],
+ "sfx": []
+}
