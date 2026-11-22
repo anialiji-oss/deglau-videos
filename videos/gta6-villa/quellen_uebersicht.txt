@@ -1,0 +1,121 @@
+VESPUCCI MANSION (Villa mit rotem Emerus) – Loot-Clips (Stand 22.11.2026)
+21 Clips, alle 1080p, H.264, 11–14 Sekunden, ohne Facecam, ohne große Text-Einblendungen. Ich habe jeden Clip mit Standbildern geprüft.
+
+QUELLEN
+- Wick – "THE KINGPIN HEATHEN! I FOUND GTA 6'S LEGENDARY ASSAULT RIFLE!" (21.11.2026, ca. 60 Aufrufe)
+  https://www.youtube.com/watch?v=mm935WXm4no
+  Gespielt mit Lucia, bei Tag (13:27 Uhr Spielzeit), keine Overlays, kein Logo. HAUPTQUELLE (der ganze Ablauf in einem Durchgang).
+- 100% Guides – "GTA 6 Kingpin Heathen Legendary Burst Fire Weapon Location" (22.11.2026, ca. 150 Aufrufe)
+  https://www.youtube.com/watch?v=TW12FgbrGVo
+  Gespielt mit Jason (Lucia läuft mit), 16:58 Uhr Spielzeit. Ab ca. 0:45 kommt ein Abspann mit Schatztruhe, den habe ich nicht genommen.
+- Nicht genommen: MerKaDynasty (Facecam), Ghosts of Reykjavik (grüner Rahmen mit Text um das ganze Bild),
+  WoW Quests (dauerhafte Text-Leiste unten), JFM (nachts, sehr dunkel).
+
+NAMEN UND ZAHLEN WIE IM SPIEL
+- Karte: "Rialto Islands", Straße "Neptune Cir" (unten links eingeblendet), Vice-Dale County.
+- Infotafel auf der Karte (Robbery Opportunity):
+    "VESPUCCI MANSION – The owner of a heavily-guarded mansion on Vespucci Island has made a fortune in the narcotics trade."
+    SECURITY: HIGH  |  TAKE VALUE: $13,200 - $22,600  |  KEY VALUABLES: 1 Tresor-Symbol + 2 "?"
+- Waffe: "KINGPIN HEATHEN ASSAULT RIFLE" (so steht es an der Wand beim Aufheben). Im Inventar heißt sie "Kingpin Heathen",
+  Text: "High-end custom assault rifle belonging to a drug lord. Stolen from his luxury residence in Rialto Islands."
+  (Das ist ein weiß-goldenes Bullpup-Sturmgewehr.)
+- Körperpanzerung: "BODY ARMOR" hängt direkt neben dem Gewehr an derselben Wand.
+- Auto: "PROGEN ROYAL RUBY EMERUS". Einblendung: "You've found a standout vehicle. Some of its parts may be unique and
+  can't be reapplied if modified." und "Key Valuables Found".
+- Tresore: Interaktion "BREAK OPEN", dann Minispiel ("Use (L) to find the right spot to fill the circle quickly and break the lock").
+
+GELD – GENAU WIE EINGEBLENDET (Bargeld-Anzeige oben rechts, Wick-Video)
+- Vor dem Einbruch: $1,833, nach der Balkon-Wache: $1,880
+- Nach dem Bargeld im Schlafzimmer: $2,002 (also nur ca. +$122)
+- Nach Tresor 1: $3,030 (ca. +$1,028)
+- Nach Tresor 2: $3,970 (ca. +$940)
+=> Die beiden Tresore haben bei Wick zusammen nur ca. $1,970 gebracht, NICHT ca. $9,600. Die Beträge sind wohl zufällig
+   (die Infotafel sagt "Take Value $13,200 - $22,600" für das ganze Haus inkl. Auto/Waffe).
+
+-----------------------------------------------------------------------------------------------------
+DATEI | WAS MAN SIEHT | QUELLE + ZEITSTEMPEL
+-----------------------------------------------------------------------------------------------------
+0_showcase_villa_tageslicht.mp4
+  Straße mit Baustelle, dann die weiße Villa bei Sonne, Lucia läuft zum Tor mit Hecke, kurz die Karte.
+  Wick – https://www.youtube.com/watch?v=mm935WXm4no&t=8s (0:08–0:22)
+0_showcase_kingpin_heathen_wand_nah.mp4
+  Das weiß-goldene Sturmgewehr groß an der schwarzen Wand, daneben die Body Armor, Einblendung "KINGPIN HEATHEN ASSAULT RIFLE".
+  Wick – &t=121s (2:01–2:14)
+0_showcase_emerus_fahrt_tag.mp4
+  Roter Emerus unterm Carport ("standout vehicle"), fährt aus der Einfahrt und über die Straße bei Sonne.
+  Wick – &t=276s (4:36–4:50)
+
+a_karte_tor_vespucci.mp4
+  Lucia vor dem Tor mit Hecke und Steinpfeilern, dann Karte mit "Neptune Cir".
+  Wick – &t=15s (0:15–0:29)
+a2_villa_aussen_hecke.mp4
+  Tor und Hecke, Lucia an der Steinmauer ("Private Property"-Schild), Waffenrad.
+  Wick – &t=28s (0:28–0:40)
+a3_karte_info_vespucci_mansion_100guides.mp4
+  Karte "Rialto Islands" / "Neptune Cir", dann Infotafel "VESPUCCI MANSION", Security HIGH, Take Value $13,200 - $22,600. Danach Jason + Lucia auf der Straße.
+  100% Guides – https://www.youtube.com/watch?v=TW12FgbrGVo&t=0s (0:00–0:11)
+a4_villa_aussen_mauer_100guides.mp4
+  Jason und Lucia laufen zur Villa (Abendsonne), klettern über die Steinmauer.
+  100% Guides – &t=8s (0:08–0:20)
+
+b_mauer_wendeltreppe.mp4
+  Waffenrad, dann Lucia schleicht zur Wendeltreppe hinter dem Haus und geht hoch.
+  Wick – &t=36s (0:36–0:50)
+b2_wache_balkon_ausschalten.mp4
+  Oben auf dem Balkon steht eine Wache mit Gewehr, Lucia schleicht hin und schaltet sie lautlos aus, nimmt die SMG.
+  Wick – &t=51s (0:51–1:05)
+
+c_ins_haus.mp4
+  Balkon, Lucia geht durch die Glastür ins Haus, Wohnraum mit lila Teppich und Hundehütten.
+  Wick – &t=64s (1:04–1:18)
+c2_bargeld_schlafzimmer.mp4
+  Flur, lila Schlafzimmer, Bargeld auf der Kommode (Anzeige "$2,002"), danach Tür.
+  Wick – &t=97s (1:37–1:51)
+
+d_wache_ueber_balkon_in_pool.mp4
+  Wache im orangen Hemd am Fenster, Lucia packt ihn und wirft ihn über das Balkongeländer in den Pool. Lustig!
+  Wick – &t=130s (2:10–2:24)
+d2_kampf_draussen.mp4
+  Draußen an der Einfahrt, Lucia mit Gewehr, Wache wird am Tor ausgeschaltet.
+  Wick – &t=232s (3:52–4:06)
+d3_kampf_balkon_jason_100guides.mp4
+  Jason prügelt sich auf dem Balkon mit einer Wache, geht ins Haus, Treppe, Waffenwand.
+  100% Guides – &t=30s (0:30–0:43)
+
+e_waffenwand_kingpin_heathen.mp4
+  Raum mit der Waffenwand, Gewehr und Body Armor, Einblendung "KINGPIN HEATHEN ASSAULT RIFLE" gut lesbar.
+  Wick – &t=118s (1:58–2:12)
+e2_gewehr_nehmen.mp4
+  Tresor geht auf, dann Lucia an der Waffenwand mit "KINGPIN HEATHEN ASSAULT RIFLE" und "+ Assault Rifle Ammo".
+  Wick – &t=165s (2:45–2:58)
+
+f_tresor_1.mp4
+  Balkon, dann Tresor 1 im Waffenzimmer: "BREAK OPEN", Minispiel, Tresor offen. (Danach $3,030)
+  Wick – &t=140s (2:20–2:34)
+f2_tresor_2.mp4
+  Anzeige "$3,030", Tresor 2 am Fenster: "BREAK OPEN", Minispiel, Tresor offen mit "CASH".
+  Wick – &t=155s (2:35–2:49)
+
+g_obstkisten_flaschen_kein_tisch.mp4
+  Wohnraum mit grünen Kisten (Obst, Flaschen), Interaktion "BOTTLE", dann Bad. ACHTUNG: Das ist NICHT die "Ware auf dem Tisch".
+  Wick – &t=72s (1:12–1:26)
+
+h_emerus_garage.mp4
+  Lucia öffnet das Tor, läuft über die Einfahrt zum roten Emerus unterm Carport und steigt ein.
+  Wick – &t=257s (4:17–4:31)
+h2_wegfahren.mp4
+  Lucia neben dem Emerus, Einblendung "PROGEN ROYAL RUBY EMERUS" + "standout vehicle", fährt raus auf die Straße.
+  Wick – &t=268s (4:28–4:42)
+
+NICHT GEFUNDEN / WAS NICHT STIMMT
+- "Ware auf dem Tisch im Wert von fast $3,000": In keinem Video gefunden. Es gibt nur Flaschen/Obstkisten ("BOTTLE"),
+  ohne großen Wert. Clip g heißt deshalb "kein_tisch".
+- "2 Tresore mit zusammen ca. $9,600": Stimmt bei Wick NICHT. Die Tresore gaben ca. $1,028 und ca. $940 (Anzeige $2,002 -> $3,030 -> $3,970).
+  Die Infotafel nennt $13,200 - $22,600 Take Value für das ganze Haus.
+- "Wachen auf dem Dach": Die Wache steht auf dem großen BALKON im Obergeschoss (über die Wendeltreppe), nicht auf dem Dach.
+- Ein richtiger "Kampf im Flur" mit Schießerei kommt bei Wick nicht vor (sie macht alles leise). Ersatz: Wache in den Pool (d),
+  Kampf an der Einfahrt (d2), Prügelei auf dem Balkon bei 100% Guides (d3).
+- PROBESCHIESSEN mit dem Kingpin Heathen gibt es in keinem der geprüften Videos ohne Facecam. Bei Wick sieht man nur,
+  dass die Munition danach von 129 auf 109 sinkt (also hat sie geschossen), aber nicht im Bild.
+- Waffenname: "Kingpin Heathen" stimmt. Das Wort "Heathen Assault Rifle" allein gibt es nicht, im Spiel heißt sie "KINGPIN HEATHEN ASSAULT RIFLE".
+- Ort: Im Spiel heißt das Haus "VESPUCCI MANSION" auf "Vespucci Island" in den "Rialto Islands", Straße "Neptune Cir". Passt.
