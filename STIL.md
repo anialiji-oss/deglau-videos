@@ -227,3 +227,11 @@ im Schnittplan gibt man an, wann der Sound am lautesten sein soll, der Renderer 
 - Im gesprochenen Text **keine langen Spielnamen** („Pegassi Lustrous Toros“), sondern so, wie es aussieht:
   „goldener Lambo“, „goldener SUV“, „Bugatti im Gepardenlook“, „roter Ferrari“.
 - Die echten Spielnamen nur in Beschreibung/posts.md oder als kleine Einblendung, wenn überhaupt.
+
+### Immer schöne „Showcase“-Aufnahmen, vor allem am Anfang (Deglau, 22.11.2026)
+- Das Thema (Auto, Waffe, Monster …) muss **schön und klar zu sehen** sein – besonders im Hook/ersten Bild.
+  Nicht im dunklen Container, nicht halb verdeckt von der Spielfigur, nicht nur Menü/Karte.
+- Beim Clip-Auftrag für Deglaus PC-Claude **immer zusätzlich 2–3 Showcase-Clips** anfordern:
+  Auto frei im Tageslicht, Kamera fährt drumherum, Rasen von hinten/seitlich, Sonnenuntergang/Skyline;
+  bei Waffen/Easter Eggs: Nahaufnahme, gut beleuchtet.
+- Diese schönsten Bilder kommen in den Hook, in den Deglau-Satz und in die Montage.
