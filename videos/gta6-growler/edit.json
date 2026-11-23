@@ -1,0 +1,545 @@
+{
+ "voice": "voice.m4a",
+ "words": "words.json",
+ "output": "/home/user/deglau-videos/videos/gta6-growler/gta6_growler.mp4",
+ "sources": {
+  "f": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/growler/f_karte_la_perle.mp4",
+  "h3": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/growler/h3_beschreibung_lucia_sms.mp4",
+  "f2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/growler/f2_auntie_s_place_zur_garage_lunar.mp4",
+  "d": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/growler/d_passwort_muffins_queen_15.mp4",
+  "a2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/growler/a2_laptop_schlafzimmer_gesperrt.mp4",
+  "e": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/growler/e_nachrichten_unknown_92665.mp4",
+  "b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/growler/b_notizblock_class_of_15.mp4",
+  "g0fahrt": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/growler/0_showcase_growler_fahrt_strasse.mp4",
+  "d2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/growler/d2_laptop_entsperrt.mp4",
+  "e2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/growler/e2_whatup_text_gross_jfm.mp4",
+  "g2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/growler/g2_schleife_code_92665_jason.mp4",
+  "g": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/growler/g_schleife_code_92665_lucia.mp4",
+  "g0menue": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/growler/0_showcase_growler_menue_und_vor_garage_lunar.mp4",
+  "h": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/growler/h_tor_auf_growler_drin.mp4",
+  "h2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/growler/h2_owned_vehicle_menue_girlypop.mp4",
+  "g0aus": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/growler/0_showcase_growler_aus_garage.mp4",
+  "c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/growler/c_hundebild_muffins_eingang.mp4",
+  "a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/growler/a_wohnung_rein.mp4"
+ },
+ "_quellen": "Clips: Maxemilio Gaming, LunarGaming, JFM – Links in quellen_uebersicht.txt",
+ "flash": 4.7,
+ "end": 60.0,
+ "title": {
+  "lines": [
+   "Geheimer pinker Porsche",
+   "in GTA 6"
+  ],
+  "emojis": [
+   "🎮",
+   "🔥"
+  ]
+ },
+ "segments": [
+  {
+   "t": [
+    0,
+    1.6
+   ],
+   "src": [
+    "g0aus",
+    3.0,
+    null
+   ],
+   "_": "Hook – Porsche aus Garage"
+  },
+  {
+   "t": [
+    1.6,
+    3.2
+   ],
+   "src": [
+    "g0fahrt",
+    2.0,
+    null
+   ],
+   "_": "Hook – Fahrt"
+  },
+  {
+   "t": [
+    3.2,
+    4.7
+   ],
+   "src": [
+    "h",
+    4.0,
+    null
+   ],
+   "_": "Hook – Tor auf"
+  },
+  {
+   "t": [
+    4.7,
+    6.4
+   ],
+   "src": [
+    "a",
+    2.0,
+    null
+   ],
+   "_": "Kapitel 3"
+  },
+  {
+   "t": [
+    6.4,
+    8.0
+   ],
+   "src": [
+    "a",
+    7.0,
+    null
+   ],
+   "_": "Boobies Wohnung"
+  },
+  {
+   "t": [
+    8.0,
+    10.4
+   ],
+   "src": [
+    "a2",
+    3.0,
+    null
+   ],
+   "_": "gesperrter Laptop"
+  },
+  {
+   "t": [
+    10.4,
+    11.9
+   ],
+   "src": [
+    "a2",
+    8.0,
+    null
+   ],
+   "_": "zwei Hinweise"
+  },
+  {
+   "t": [
+    11.9,
+    14.0
+   ],
+   "src": [
+    "c",
+    4.0,
+    null
+   ],
+   "_": "Hund Muffins"
+  },
+  {
+   "t": [
+    14.0,
+    15.9
+   ],
+   "src": [
+    "b",
+    2.0,
+    null
+   ],
+   "_": "Zeichnung Königin"
+  },
+  {
+   "t": [
+    15.9,
+    17.5
+   ],
+   "src": [
+    "b",
+    8.0,
+    null
+   ],
+   "_": "Class of 15"
+  },
+  {
+   "t": [
+    17.5,
+    19.6
+   ],
+   "src": [
+    "d",
+    3.0,
+    null
+   ],
+   "_": "Passwort"
+  },
+  {
+   "t": [
+    19.6,
+    21.7
+   ],
+   "src": [
+    "d2",
+    5.0,
+    null
+   ],
+   "_": "Nachrichten"
+  },
+  {
+   "t": [
+    21.7,
+    23.9
+   ],
+   "src": [
+    "e2",
+    3.0,
+    null
+   ],
+   "_": "Unbekannter, La Perle"
+  },
+  {
+   "t": [
+    23.9,
+    26.1
+   ],
+   "src": [
+    "f",
+    3.0,
+    null
+   ],
+   "_": "Karte La Perle"
+  },
+  {
+   "t": [
+    26.1,
+    28.9
+   ],
+   "src": [
+    "f2",
+    6.0,
+    null
+   ],
+   "_": "Garage Schleife"
+  },
+  {
+   "t": [
+    28.9,
+    30.4
+   ],
+   "src": [
+    "g2",
+    5.0,
+    null
+   ],
+   "_": "Code eingeben"
+  },
+  {
+   "t": [
+    30.4,
+    32.5
+   ],
+   "src": [
+    "h",
+    1.0,
+    null
+   ],
+   "_": "Tor auf"
+  },
+  {
+   "t": [
+    32.5,
+    34.6
+   ],
+   "src": [
+    "h2",
+    2.0,
+    null
+   ],
+   "_": "gehört dir"
+  },
+  {
+   "t": [
+    34.6,
+    36.5
+   ],
+   "src": [
+    "h3",
+    6.0,
+    null
+   ],
+   "_": "Garage gleich mit"
+  },
+  {
+   "t": [
+    36.5,
+    38.9
+   ],
+   "src": [
+    "g0menue",
+    9.0,
+    null
+   ],
+   "_": "viel Spaß"
+  },
+  {
+   "t": [
+    38.9,
+    40.41
+   ],
+   "src": [
+    "g0aus",
+    8.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    40.41,
+    41.91
+   ],
+   "src": [
+    "g0fahrt",
+    7.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    41.91,
+    43.42
+   ],
+   "src": [
+    "h",
+    9.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    43.42,
+    44.93
+   ],
+   "src": [
+    "g0menue",
+    2.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    44.93,
+    46.44
+   ],
+   "src": [
+    "g0fahrt",
+    10.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    46.44,
+    47.94
+   ],
+   "src": [
+    "g0aus",
+    11.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    47.94,
+    49.45
+   ],
+   "src": [
+    "f2",
+    10.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    49.45,
+    50.96
+   ],
+   "src": [
+    "h2",
+    9.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    50.96,
+    52.46
+   ],
+   "src": [
+    "g0fahrt",
+    4.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    52.46,
+    53.97
+   ],
+   "src": [
+    "h",
+    11.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    53.97,
+    55.48
+   ],
+   "src": [
+    "g0aus",
+    6.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    55.48,
+    56.99
+   ],
+   "src": [
+    "g0fahrt",
+    0.5,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    56.99,
+    58.49
+   ],
+   "src": [
+    "g0menue",
+    11.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    58.49,
+    60.0
+   ],
+   "src": [
+    "h3",
+    10.0,
+    null
+   ],
+   "_": "Montage"
+  }
+ ],
+ "caption_fixes": [
+  [
+   "Bobbys",
+   "Boobies"
+  ],
+  [
+   "den",
+   "dem"
+  ],
+  [
+   "Klasse",
+   "Class"
+  ],
+  [
+   "auf",
+   "of"
+  ],
+  [
+   "unbekanter",
+   "Unbekannter"
+  ],
+  [
+   "fahren",
+   "fahr"
+  ],
+  [
+   "Pearl",
+   "Perle"
+  ],
+  [
+   "Auntys",
+   "Auntie's"
+  ],
+  [
+   "um",
+   "einem"
+  ],
+  [
+   "für",
+   ""
+  ]
+ ],
+ "bigwords": [
+  {
+   "text": "GRATIS",
+   "color": "#39FF14",
+   "size": 170,
+   "t": [
+    3.6,
+    4.7
+   ],
+   "y": 560,
+   "anim": "drop",
+   "hide_captions": [
+    3.72,
+    4.12
+   ]
+  },
+  {
+   "text": "+ GARAGE",
+   "color": "#FF4FD8",
+   "size": 160,
+   "t": [
+    33.3,
+    34.6
+   ],
+   "y": 560,
+   "anim": "slide",
+   "hide_captions": [
+    33.4,
+    34.58
+   ]
+  }
+ ],
+ "icons": [
+  {
+   "img": "videos/gta6-growler/karten/passwort.mov",
+   "t": [
+    17.52,
+    21.62
+   ],
+   "spin": 0,
+   "size": 920,
+   "y": 330
+  },
+  {
+   "img": "videos/gta6-growler/karten/code.mov",
+   "t": [
+    23.88,
+    27.98
+   ],
+   "spin": 0,
+   "size": 920,
+   "y": 330
+  }
+ ],
+ "sfx": []
+}

@@ -17,10 +17,13 @@ def frame(title, code, sub, shown, press_t):
     fs = 74
     while ImageFont.truetype(FONT, fs).getlength(title) > W - 80: fs -= 2
     d.text((W / 2, 68), title, font=ImageFont.truetype(FONT, fs), fill=BLK, anchor="mm")
-    n = len(code); x0 = (W - (n * box + (n - 1) * gap)) / 2; y0 = 120
-    fd = ImageFont.truetype(FONT, 92)
-    for i, ch in enumerate(code):
-        cx, cy = x0 + i * (box + gap) + box / 2, y0 + box / 2
+    toks = code.split(" ") if " " in code else list(code)   # Passwort aus Wörtern: "MUFFINS QUEEN 15"
+    fd = ImageFont.truetype(FONT, 92 if " " not in code else 64)
+    ws = [max(box, int(fd.getlength(t)) + 44) for t in toks]
+    x = (W - (sum(ws) + (len(ws) - 1) * gap)) / 2; y0 = 120; xs = []
+    for w_ in ws: xs.append(x + w_ / 2); x += w_ + gap
+    for i, ch in enumerate(toks):
+        cx, cy = xs[i], y0 + box / 2; bw = ws[i] / 2
         k = 1.0
         if i < shown:
             bg, fg = BLK, YEL
@@ -29,8 +32,8 @@ def frame(title, code, sub, shown, press_t):
                 if press_t < 0.5: bg, fg = (255, 255, 255, 255), BLK
         else:
             bg, fg = GREY, None
-        h = box * k / 2
-        d.rounded_rectangle([cx - h, cy - h, cx + h, cy + h], 18, fill=bg)
+        h = box * k / 2; hw = bw * k
+        d.rounded_rectangle([cx - hw, cy - h, cx + hw, cy + h], 18, fill=bg)
         if fg:
             d.text((cx, cy + 4), ch, font=fd, fill=fg, anchor="mm")
     if sub:
@@ -41,7 +44,8 @@ def frame(title, code, sub, shown, press_t):
 
 
 def make(title, code, dur, out, sub="", start=0.4, step=0.32, fps=30):
-    tmp = tempfile.mkdtemp(); n = len(code); press = 0.16
+    tmp = tempfile.mkdtemp(); n = len(code.split(" ")) if " " in code else len(code); press = 0.16
+    if " " in code: step = 0.5
     for f in range(int(round(dur * fps))):
         t = f / fps
         q = (t - start) / step
