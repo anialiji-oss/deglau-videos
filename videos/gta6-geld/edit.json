@@ -1,0 +1,585 @@
+{
+ "voice": "voice.m4a",
+ "words": "words.json",
+ "output": "/home/user/deglau-videos/videos/gta6-geld/gta6_geld.mp4",
+ "sources": {
+  "f": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geld/f_verkauf_tyrone_dalekjd.mp4",
+  "d3": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geld/d3_beute_in_apollo-van_packen_dpj.mp4",
+  "a0": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geld/a0_beweis_version_1-002-002_dpj.mp4",
+  "e3": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geld/e3_kokain_wieder_da_dpj.mp4",
+  "e": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geld/e_beute_noch_im_auto_bubs.mp4",
+  "a2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geld/a2_karte_south_vice-dale_bubs.mp4",
+  "b2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geld/b2_lagerhalle_teddy-van_dpj.mp4",
+  "d2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geld/d2_spielstand_laden_bubs.mp4",
+  "c2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geld/c2_kokain_drinnen_geldanzeige_dpj.mp4",
+  "b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geld/b_lagerhalle_aussen_ankunft_dpj.mp4",
+  "a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geld/a_karte_hamlet_lagerhalle_dpj.mp4",
+  "e2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geld/e2_wegfahren_und_zurueck_dpj.mp4",
+  "f2": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geld/f2_nach_verkauf_dalekjd.mp4",
+  "c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geld/c_beute_teddy-van_einsammeln_dpj.mp4",
+  "s9": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geld/0_showcase_9999999_dollar_sell_stash_dalekjd.mp4",
+  "d": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geld/d_im_auto_lagern_speichern_bubs.mp4",
+  "st": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geld/0_showcase_tresor_1348945_dollar_bubs.mp4"
+ },
+ "_quellen": "Clips: DPJ, Bubs, MrDalekJD – Links in quellen_uebersicht.txt",
+ "flash": 3.88,
+ "end": 60.0,
+ "title": {
+  "lines": [
+   "Geld-Glitch in GTA 6",
+   "– geht noch!"
+  ],
+  "emojis": [
+   "🎮",
+   "🔥"
+  ]
+ },
+ "segments": [
+  {
+   "t": [
+    0,
+    1.4
+   ],
+   "src": [
+    "s9",
+    0.0,
+    null
+   ],
+   "_": "Hook – Millionen",
+   "fit": 1.0
+  },
+  {
+   "t": [
+    1.4,
+    2.6
+   ],
+   "src": [
+    "a0",
+    2.0,
+    null
+   ],
+   "_": "Hook – Update-Version",
+   "fit": 1.0
+  },
+  {
+   "t": [
+    2.6,
+    3.88
+   ],
+   "src": [
+    "s9",
+    4.0,
+    null
+   ],
+   "_": "Hook – Sell Stash",
+   "fit": 1.0
+  },
+  {
+   "t": [
+    3.88,
+    5.5
+   ],
+   "src": [
+    "st",
+    0.0,
+    null
+   ],
+   "_": "beeil dich – Tresor"
+  },
+  {
+   "t": [
+    5.5,
+    7.4
+   ],
+   "src": [
+    "a2",
+    3.0,
+    null
+   ],
+   "_": "Karte Hamlet"
+  },
+  {
+   "t": [
+    7.4,
+    9.2
+   ],
+   "src": [
+    "b",
+    3.0,
+    null
+   ],
+   "_": "rote Lagerhalle"
+  },
+  {
+   "t": [
+    9.2,
+    10.6
+   ],
+   "src": [
+    "b2",
+    7.0,
+    null
+   ],
+   "_": "Lieferwagen"
+  },
+  {
+   "t": [
+    10.6,
+    12.6
+   ],
+   "src": [
+    "c",
+    4.0,
+    null
+   ],
+   "_": "Pakete 1.200 $"
+  },
+  {
+   "t": [
+    12.6,
+    13.9
+   ],
+   "src": [
+    "d3",
+    6.0,
+    null
+   ],
+   "_": "ins Auto packen"
+  },
+  {
+   "t": [
+    13.9,
+    15.7
+   ],
+   "src": [
+    "d",
+    9.0,
+    null
+   ],
+   "_": "speichern"
+  },
+  {
+   "t": [
+    15.7,
+    17.2
+   ],
+   "src": [
+    "d2",
+    7.0,
+    null
+   ],
+   "_": "laden"
+  },
+  {
+   "t": [
+    17.2,
+    19.8
+   ],
+   "src": [
+    "e3",
+    3.0,
+    null
+   ],
+   "_": "Halle wieder voll"
+  },
+  {
+   "t": [
+    19.8,
+    21.7
+   ],
+   "src": [
+    "e2",
+    3.0,
+    null
+   ],
+   "_": "Auto voll machen"
+  },
+  {
+   "t": [
+    21.7,
+    23.2
+   ],
+   "src": [
+    "e3",
+    8.0,
+    null
+   ],
+   "_": "wiederholen"
+  },
+  {
+   "t": [
+    23.2,
+    24.2
+   ],
+   "src": [
+    "f",
+    3.0,
+    null
+   ],
+   "_": "Hehler"
+  },
+  {
+   "t": [
+    24.2,
+    26.7
+   ],
+   "src": [
+    "s9",
+    4.5,
+    null
+   ],
+   "_": "165.000 $",
+   "fit": 1.0
+  },
+  {
+   "t": [
+    26.7,
+    29.8
+   ],
+   "src": [
+    "b2",
+    2.0,
+    null
+   ],
+   "_": "ab Kapitel 2"
+  },
+  {
+   "t": [
+    29.8,
+    33.3
+   ],
+   "src": [
+    "st",
+    4.0,
+    null
+   ],
+   "_": "folgt mir"
+  },
+  {
+   "t": [
+    33.3,
+    35.0
+   ],
+   "src": [
+    "s9",
+    0.5,
+    null
+   ],
+   "_": "viel Spaß",
+   "fit": 1.0
+  },
+  {
+   "t": [
+    35.0,
+    36.56
+   ],
+   "src": [
+    "b",
+    9.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    36.56,
+    38.12
+   ],
+   "src": [
+    "c2",
+    2.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    38.12,
+    39.69
+   ],
+   "src": [
+    "e2",
+    9.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    39.69,
+    41.25
+   ],
+   "src": [
+    "st",
+    5.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    41.25,
+    42.81
+   ],
+   "src": [
+    "d3",
+    10.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    42.81,
+    44.38
+   ],
+   "src": [
+    "c",
+    10.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    44.38,
+    45.94
+   ],
+   "src": [
+    "a0",
+    10.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    45.94,
+    47.5
+   ],
+   "src": [
+    "e3",
+    1.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    47.5,
+    49.06
+   ],
+   "src": [
+    "b2",
+    11.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    49.06,
+    50.62
+   ],
+   "src": [
+    "s9",
+    1.5,
+    null
+   ],
+   "_": "Montage",
+   "fit": 1.0
+  },
+  {
+   "t": [
+    50.62,
+    52.19
+   ],
+   "src": [
+    "d3",
+    2.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    52.19,
+    53.75
+   ],
+   "src": [
+    "c",
+    6.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    53.75,
+    55.31
+   ],
+   "src": [
+    "e2",
+    12.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    55.31,
+    56.88
+   ],
+   "src": [
+    "b",
+    12.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    56.88,
+    58.44
+   ],
+   "src": [
+    "b2",
+    0.5,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    58.44,
+    60.0
+   ],
+   "src": [
+    "st",
+    2.0,
+    null
+   ],
+   "_": "Montage"
+  }
+ ],
+ "caption_fixes": [
+  [
+   "gelblichen",
+   "Geld-Glitch in"
+  ],
+  [
+   "GTR6",
+   "GTA 6"
+  ],
+  [
+   "in",
+   "ihn"
+  ],
+  [
+   "Patch",
+   "patcht"
+  ],
+  [
+   "fahren",
+   "Fahr"
+  ],
+  [
+   "bei",
+   "beim"
+  ],
+  [
+   "Heller",
+   "Hehler"
+  ],
+  [
+   "macht",
+   "mach"
+  ],
+  [
+   "auf",
+   "ab"
+  ],
+  [
+   "GTR6",
+   "GTA 6"
+  ],
+  [
+   "Spiel",
+   "Spielen"
+  ],
+  [
+   "durch",
+   "euch"
+  ]
+ ],
+ "bigwords": [
+  {
+   "text": "1.200 $",
+   "color": "#39FF14",
+   "size": 170,
+   "t": [
+    11.45,
+    12.6
+   ],
+   "y": 560,
+   "anim": "drop",
+   "hide_captions": [
+    11.5,
+    12.56
+   ]
+  },
+  {
+   "text": "165.000 $",
+   "color": "#39FF14",
+   "size": 160,
+   "t": [
+    24.5,
+    26.0
+   ],
+   "y": 560,
+   "anim": "drop",
+   "hide_captions": [
+    24.56,
+    25.86
+   ]
+  },
+  {
+   "text": "AB KAPITEL 2",
+   "color": "white",
+   "size": 120,
+   "t": [
+    28.0,
+    29.0
+   ],
+   "y": 560,
+   "anim": "slide",
+   "hide_captions": [
+    28.08,
+    28.74
+   ]
+  }
+ ],
+ "icons": [
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    0.78,
+    1.8
+   ],
+   "spin": 0,
+   "size": 480,
+   "y": 470
+  },
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    30.5,
+    31.8
+   ],
+   "spin": 0,
+   "size": 520,
+   "y": 420
+  }
+ ],
+ "sfx": []
+}
