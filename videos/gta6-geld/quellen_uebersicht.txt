@@ -1,0 +1,153 @@
+GELD-GLITCH: LAGERHALLE "APOLLO AGGREGATES" ÖSTLICH VON HAMLET – Clips (Stand 23.11.2026)
+17 Clips, alle 1080p, H.264, 8–14 Sekunden, ohne Facecam. Jeden Clip mit Standbildern geprüft.
+
+=====================================================================================================
+WELCHER GLITCH?
+=====================================================================================================
+Deine beiden Kandidaten sind DERSELBE ORT:
+- "Rote Scheune/Lagerhalle östlich von Hamlet" (Bubs) und "Apollo VICEMIX / Lando-Corp" (Space Ranger)
+  = die rote Lagerhalle "APOLLO AGGREGATES" in South Vice-Dale County, östlich von Hamlet.
+  "VICEMIX" ist nur die Telefonnummer auf dem weißen Lieferwagen: "CEMENT · SAND · AGGREGATE / CALL 1-999-VICEMIX".
+  Im Spiel steht beim Reinlaufen unten links "Apollo Aggregates", draußen "South Vice-Dale County".
+- Neuere Varianten seit 21.11. (alle an derselben Halle, nur ein anderer "Reset"-Trick):
+    1) Speichern + Spielstand laden (Original, Bubs 19.11.)
+    2) Charakter wechseln (Jason <-> Lucia) hinter dem Van (Musty Sky / Zombie Slayer / Tristan, 21.–23.11.)
+    3) Wegfahren (ca. 500 m) und zurückkommen (DPJ, 23.11., nach Patch)
+- Wirklich NEU und anders: Bubs "NEVER SEEN" (23.11.) = Vespucci Mansion ausrauben und neu spawnen lassen.
+  Hat Werbe-Overlays und ist eher ein Raub. Nicht genommen (Villa-Thema hast du schon).
+
+=====================================================================================================
+GEHT ER NOCH? (Patch 1.002.002 vom 23.11.2026)
+=====================================================================================================
+- Rockstar-Patch 1.002.002 (23.11.2026): 7 Fixes (Abstürze, Wetter, Autosave, Anrufe, Fahndungslevel).
+  Der Geld-Glitch wird in den Patch-Notes NICHT erwähnt.
+  Quellen: playstationlifestyle.net (23.11.), notebookcheck.net ("leaves infinite money glitch untouched"),
+  comicbook.com ("Does GTA 6's Infinite Money Glitch Still Work After Today's Patch?").
+- DPJ zeigt im Video die Xbox-Version "1.002.2" (Clip a0) und macht den Glitch danach. Er funktioniert.
+- YouTube-Kommentare vom 23.11. sind GEMISCHT:
+    "23/11 after patch still working" / "Still works 11/23/26 $2,400 per bag" / "Glitch still working! Just been doing it!"
+    aber auch: "Patched" / "Not working, the two vans are not showing" / "Switching characters method is patched".
+    Deutsch (Weisswurst): "ER GEHT NOCH, ihr dürft aber nicht im Fahrzeug sitzen bleiben!! sonst sind alle
+    Fahrzeuge bei der Halle despawned" – andere: "tauchen nicht mehr alle Kokain-Pakete erneut auf".
+- FAZIT: Der Glitch an der Apollo-Halle geht laut den neuesten Quellen NOCH. Am sichersten sind
+  SPEICHERN+LADEN oder WEGFAHREN+ZURÜCK. Der CHARAKTERWECHSEL ist bei vielen kaputt.
+  Der Tresor kommt NICHT immer wieder ("the safe doesn't respawn"). Was zuverlässig wiederkommt, ist das Kokain in den Vans.
+  -> Im TikTok: "Funktioniert noch nach dem Update 1.002.002 (Stand 23.11.) – kann jederzeit gepatcht werden."
+
+=====================================================================================================
+SCHRITTE (wie in den Videos gezeigt)
+=====================================================================================================
+1. Eigenes Auto mit Stauraum mitbringen (Pickup oder Van). Fremden Van beim Pay 'n' Spray registrieren
+   ("REGISTER") -> wird dein eigenes Fahrzeug. Bravado '74 Youga hat "Storage 10".
+2. Zur roten Lagerhalle "Apollo Aggregates" östlich von Hamlet (South Vice-Dale County) fahren.
+3. Beute holen: Teddybär-Van draußen ("Flying Teddies"), Van drinnen rechts (Kokain), Tresor + Geldtasche im Büro.
+   Einblendung pro Paket: "+$1,200" (ab Kapitel 3; vorher ca. $400 laut Zombie Slayer/Kommentaren).
+4. Beute ins eigene Auto ("STASH BAG", Speicher-Anzeige z. B. "STORAGE (4/6)").
+5. Reset:
+   a) Pause -> Game -> Save -> "OVERWRITE SAVED GAME?" -> dann Game -> Load Game -> "LOAD SAVED GAME?"
+      -> Die Taschen sind noch im Auto, die Halle ist wieder voll.
+   b) ODER: mit dem Van wegfahren, zurückkommen -> Teddy-Van ist wieder voll (DPJ, nach Patch).
+6. Wiederholen, bis das Auto voll ist. Dann bei einem Hehler verkaufen:
+   Brian (Key Lento, ab Kapitel 1), Tyrone (La Perle, ab Kapitel 3, "paying a good price for narcotics").
+   MrDalekJD: "SELL STASH (+$165,600)" bei TYRONE.
+7. WICHTIG (MrDalekJD): Bargeld, das man bei sich hat, ist am Ende von Kapitel 1 weg. Nur BuckMe-Geld bleibt.
+   -> Am besten ab Kapitel 2 machen.
+
+Beträge, wie eingeblendet:
+- "+$1,200" pro Kokain-Paket, Geldanzeige oben rechts z. B. $7,800 -> $9,000 -> $9,600 (DPJ)
+- "SELL STASH (+$165,600)" bei Tyrone (MrDalekJD)
+- Showcase-Kontostände: $9,285,455 / $9,264,857 / $283,136 (MrDalekJD), $1,348,945 / $786,935 (Bubs, Tresor zu Hause)
+
+-----------------------------------------------------------------------------------------------------
+DATEI | WAS MAN SIEHT | QUELLE + ZEITSTEMPEL
+-----------------------------------------------------------------------------------------------------
+0_showcase_9999999_dollar_sell_stash_dalekjd.mp4
+  Riesige Kontostände ($9,285,455 / $9,264,857, dann $283,136), dann "SELL STASH (+$165,600)" bei TYRONE,
+  dann $3,600 -> $7,200 an der Halle.
+  MrDalekJD – https://www.youtube.com/watch?v=DM1Au7JTzcE&t=3s (0:03–0:16)
+0_showcase_tresor_1348945_dollar_bubs.mp4
+  Geheimfach im Boden, "WITHDRAW/DEPOSIT", groß "$1,348,945 / $786,935", dann Pickup auf einer Brücke übers Meer.
+  Bubs – https://www.youtube.com/watch?v=ICcBjMkomIY&t=1s (0:01–0:09)
+
+a0_beweis_version_1-002-002_dpj.mp4
+  Xbox-Menü "Manage Grand Theft Auto VI" mit Version 1.002.2, danach fährt Lucia mit dem grünen Van los.
+  DPJ – https://www.youtube.com/watch?v=TqhKfvF23c4&t=27s (0:27–0:40)
+a_karte_hamlet_lagerhalle_dpj.mp4
+  Karte: Leonida -> Zoom auf Hamlet -> Halle mit Fahrzeug-Infotafel.
+  DPJ – &t=100s (1:40–1:54)
+a2_karte_south_vice-dale_bubs.mp4
+  Karte "South Vice-Dale County", Hamlet, Ziel östlich davon; dann roter Pickup kommt an der Halle an.
+  Bubs – https://www.youtube.com/watch?v=ICcBjMkomIY&t=28s (0:28–0:39)
+
+b_lagerhalle_aussen_ankunft_dpj.mp4
+  Grüner Van fährt aufs Gelände, rote Lagerhalle, Teddy-Van und weiße Apollo-Vans davor.
+  DPJ – &t=85s (1:25–1:39)
+b2_lagerhalle_teddy-van_dpj.mp4
+  Lucia läuft an der roten Halle zum Teddybär-Van (bei Tag, schön zu sehen).
+  DPJ – &t=117s (1:57–2:11)
+
+c_beute_teddy-van_einsammeln_dpj.mp4
+  Lucia holt Taschen aus dem Teddy-Van, geht zur Halle.
+  DPJ – &t=278s (4:38–4:52)
+c2_kokain_drinnen_geldanzeige_dpj.mp4
+  Teddy-Van, dann drinnen "COCAINE" einsammeln, Geldanzeige oben rechts $9,600.
+  DPJ – &t=290s (4:50–5:04)
+
+d_im_auto_lagern_speichern_bubs.mp4
+  Jason legt die Tasche in den roten Pickup ("STASH BAG"), Pause-Menü, SAVE-Liste.
+  Bubs – &t=87s (1:27–1:41)
+d2_spielstand_laden_bubs.mp4
+  Game -> Load Game -> "LOAD SAVED GAME?" (Spielstand "Donnie's Drop").
+  Bubs – &t=100s (1:40–1:54)
+d3_beute_in_apollo-van_packen_dpj.mp4
+  Lucia packt die Beute in den weißen APOLLO-Van ("CALL 1-999-VICEMIX").
+  DPJ – &t=322s (5:22–5:36)
+
+e_beute_noch_im_auto_bubs.mp4
+  Nach dem Laden: Jason wacht auf (Spiegel), geht zum Pickup -> Stauraum-Menü zeigt die Taschen noch drin.
+  Bubs – &t=114s (1:54–2:07)
+e2_wegfahren_und_zurueck_dpj.mp4
+  Apollo-Van fährt weg übers Feld und kommt zurück zur Halle (Teddy-Van steht wieder da).
+  DPJ – &t=375s (6:15–6:29)
+e3_kokain_wieder_da_dpj.mp4
+  Zurück an der Halle: Teddy-Van ist WIEDER VOLL, Lucia holt erneut Taschen, Geld $9,600. (BEWEIS)
+  DPJ – &t=386s (6:26–6:40)
+
+f_verkauf_tyrone_dalekjd.mp4
+  Bei Tyrone in der blauen Wohnung: "SELL STASH (+$165,600)", Übergabe der Tasche.
+  MrDalekJD – &t=393s (6:33–6:47)
+f2_nach_verkauf_dalekjd.mp4
+  Tyrone, dann Meldung "You won't receive pending BuckMe transactions until there's room in your account".
+  MrDalekJD – &t=405s (6:45–6:59)
+
+QUELLEN (nicht genommen)
+- Space Ranger (DUXwIRHRLBE): viele große pinke Untertitel.
+- Tristan (Klj81Nvfds0): Untertitel im ganzen Bild.
+- Zombie Slayer HQ (4iIKCR-Xvf8): große Text-Overlays, Facecam, Clips anderer YouTuber.
+- Weisswurst (jEF-vKzDTo4, deutsch): Facecam unten rechts.
+- Ears (UNt4uz0-9R4): Facecam.
+- Bubs "NEVER SEEN" (NBIux5X4NqY): anderer Glitch (Vespucci Mansion), Werbe-Overlays.
+
+=====================================================================================================
+WAS NICHT STIMMT / AUFPASSEN
+=====================================================================================================
+- "Zwei Glitches (Scheune + Lando-Corp/VICEMIX)": Es ist EINE Halle. "Apollo Aggregates", östlich von Hamlet.
+  "Lando-Corp" habe ich in keinem Bild gesehen. "VICEMIX" steht nur als Telefonnummer auf dem Apollo-Van.
+- "Scheune": Es ist eine rote Lagerhalle mit Rolltor, keine Scheune.
+- "8.000–10.000 $ pro Runde": Passt ungefähr. Pro Kokain-Paket "+$1,200" (Kapitel 3), der Teddy-Van gibt
+  laut Zombie Slayer 3 Pakete = ca. $7,200 pro Runde mit beiden Vans. Vor Kapitel 3 weniger (~$400 pro Paket).
+- "Millionen pro Stunde": Übertrieben. Realistisch laut Zombie Slayer ca. $110,000 pro voller Van-Ladung,
+  MrDalekJD verkauft einmal für $165,600. Kommentar: "made 400k+ in 1hr 30 min".
+- "$9,999,999 / $9 Mio": Die Showcase-Zahlen von MrDalekJD sind ein Endstand, nicht EINE Runde.
+  Nicht als "so viel bekommst du sofort" verkaufen.
+- "Sammelkarten im Pfandhaus verkaufen" (Space Ranger): Im Tresor liegt eine Sammelkarte ("Collectible cards can
+  be sold at pawn shops"), das ist aber nur ein Nebenteil. Das Geld kommt vom Kokain-Verkauf beim Hehler.
+- Geld wird nicht sofort bar ausgezahlt: Laut MrDalekJD landet es teils als "pending BuckMe transaction" –
+  "You won't receive pending BuckMe transactions until there's room in your account" (Kontolimit!).
+  Kommentare: "I have 34k pending and it won't send". In Kapitel 1 holt man bei Brian das Geld aus Jasons Briefkasten.
+- "Tresor kommt immer wieder": Nein. Laut Tristan/Kommentaren kommt der Tresor nicht (oder nur manchmal) wieder.
+  Zuverlässig kommt nur das Kokain in den Vans wieder.
+- "Charakterwechsel = schnellster Weg": War am 21./22.11. der beste Trick, am 23.11. schreiben viele "patched".
+  Nicht als sicher verkaufen.
+- "Gepatcht": Offiziell NEIN (Patch-Notes 1.002.002 erwähnen ihn nicht). Einige Spieler melden, dass die Vans
+  nicht mehr spawnen – Weisswurst: nicht im Auto sitzen bleiben, sonst despawnen die Fahrzeuge an der Halle.
