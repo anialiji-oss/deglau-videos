@@ -74,6 +74,8 @@ def main(path):
     from rembg import new_session
     base = os.path.dirname(os.path.abspath(path)); C = json.load(open(path))
     B = C["background"]; bg = frame(base, B["src"], B["time"])
+    if B.get("rect"):  # Ausschnitt vorab (x,y,w,h Anteile), z. B. Einblendungen unten wegschneiden
+        rx, ry, rw, rh = B["rect"]; bg = bg.crop((int(rx * bg.width), int(ry * bg.height), int((rx + rw) * bg.width), int((ry + rh) * bg.height)))
     s = max(W / bg.width, H / bg.height); bg = bg.resize((int(bg.width * s) + 1, int(bg.height * s) + 1), Image.LANCZOS)
     bx = int((bg.width - W) * B.get("cx", 0.5)); bg = bg.crop((bx, 0, bx + W, H)).filter(ImageFilter.GaussianBlur(B.get("blur", 14)))
     im = bg.convert("RGBA")
@@ -90,6 +92,9 @@ def main(path):
     sess = new_session(C.get("model", "isnet-general-use"))
     for O in C["objects"]:
         o = cutout(frame(base, O["src"], O["time"]), sess)
+        if O.get("bright"):  # dunkle Szenen aufhellen
+            from PIL import ImageEnhance
+            a_ = o.getchannel("A"); o = ImageEnhance.Brightness(o.convert("RGB")).enhance(O["bright"]).convert("RGBA"); o.putalpha(a_)
         if O.get("flip"): o = o.transpose(Image.FLIP_LEFT_RIGHT)
         o = o.resize((O["width"], int(o.height * O["width"] / o.width)), Image.LANCZOS)
         st = sticker(o, O.get("stroke", 16))

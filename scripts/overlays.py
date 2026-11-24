@@ -7,6 +7,9 @@ python3 scripts/overlays.py things  "MAGAZINE" 0 2 2.0 out.mov                 #
 python3 scripts/overlays.py step    3 "RACE GEGEN YAGO" 3.0 out.mov            # Nummer-Kreis + Label-Schild oben links
 python3 scripts/overlays.py cta     4.0 out.mov                                # "FOLGEN" + "VIDEO SPEICHERN" mit Hand
 python3 scripts/overlays.py place   "EVELYN ANDREWS ANTIQUES" 2.5 out.mov       # gelbes Ortsschild (über Karte legen)
+python3 scripts/overlays.py liste   liste.json out.mov                          # Schritt-Liste zum Abfotografieren
+    liste.json: {"title": "ALLE 12 UMSPANNWERKE", "sub": "Screenshot machen!", "dur": 9.0, "step": 0.18,
+                 "rows": [["1", "Downtown Vice City", "D"], ...]}   (3. Spalte = Badge rechts, optional)
 """
 import math, os, shutil, subprocess, sys, tempfile
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
@@ -157,6 +160,37 @@ def place(text, dur, out):
     render(fn, dur, (W, H), out)
 
 
+def liste(cfg, out):
+    import json
+    P = json.load(open(cfg)); rows = P["rows"]; RH = 64; W = 940
+    H = 150 + RH * len(rows) + 30
+
+    def fn(im, t, dur):
+        card = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(card)
+        d.rounded_rectangle([4, 4, W - 4, H - 4], 30, fill=(18, 18, 24, 232), outline=YEL, width=6)
+        s_ = 62
+        while F(s_).getlength(P["title"]) > W - 60: s_ -= 2
+        d.text((W / 2, 62), P["title"], font=F(s_), fill=WHT, anchor="mm")
+        if P.get("sub"): d.text((W / 2, 118), P["sub"], font=F(34), fill=YEL, anchor="mm")
+        for i, r in enumerate(rows):
+            p = ease((t - 0.3 - i * P.get("step", 0.18)) / 0.2)
+            if p <= 0: continue
+            y = 150 + i * RH + RH / 2; x = (1 - p) * 80
+            row = Image.new("RGBA", (W, RH), (0, 0, 0, 0)); rd = ImageDraw.Draw(row)
+            rd.rounded_rectangle([20, 5, W - 20, RH - 5], 14, fill=(255, 255, 255, 26 if i % 2 else 14))
+            rd.ellipse([34, 9, 80, 55], fill=PINK); rd.text((57, 32), r[0], font=F(28 if len(r[0]) > 1 else 32), fill=WHT, anchor="mm")
+            rd.text((100, 32), r[1], font=F(38), fill=WHT, anchor="lm")
+            if len(r) > 2 and r[2]:
+                bw = max(70, F(36).getlength(r[2]) + 34)
+                rd.rounded_rectangle([W - 40 - bw, 10, W - 40, 54], 12, fill=YEL)
+                rd.text((W - 40 - bw / 2, 32), r[2], font=F(36), fill=BLK, anchor="mm")
+            row.putalpha(row.getchannel("A").point(lambda v: int(v * p)))
+            card.alpha_composite(row, (int(x), int(y - RH / 2)))
+        paste_scaled(im, card, 1.0 if t > 0.22 else 0.6 + 0.4 * ease(t / 0.22), W / 2, H / 2)
+        fade_out(im, t, dur)
+    render(fn, json.load(open(cfg))["dur"], (W, H), out)
+
+
 if __name__ == "__main__":
     a = sys.argv; k = a[1]
     if k == "stamp": stamp(a[2], a[3], float(a[4]), a[5])
@@ -165,4 +199,5 @@ if __name__ == "__main__":
     elif k == "step": step(a[2], a[3], float(a[4]), a[5])
     elif k == "cta": cta(float(a[2]), a[3])
     elif k == "place": place(a[2], float(a[3]), a[4])
+    elif k == "liste": liste(a[2], a[3])
     print("ok", a[-1])

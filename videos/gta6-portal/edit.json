@@ -1,0 +1,618 @@
+{
+ "voice": "voice.m4a",
+ "words": "words.json",
+ "output": "/home/user/deglau-videos/videos/gta6-portal/gta6_portal.mp4",
+ "sources": {
+  "01": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/portal/01_radioturm-hebel-knopf-malibu-tv_danallen.mp4",
+  "02": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/portal/02_umspannwerk1-karte-LPL-gebaeude_danallen.mp4",
+  "03": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/portal/03_umspannwerk1-schalter-D_danallen.mp4",
+  "04": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/portal/04_umspannwerk5-P-wand-schalter_danallen.mp4",
+  "05": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/portal/05_umspannwerk10-ME-schalter_danallen.mp4",
+  "06": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/portal/06_umspannwerk12-Y-hebel-sms-unknown_danallen.mp4",
+  "07": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/portal/07_heli-nacht-zum-kraftwerk_danallen.mp4",
+  "08": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/portal/08_kraftwerk-portal-geht-auf_danallen.mp4",
+  "09": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/portal/09_reaktor2-portal-reingehen-ps2-club_shirrako.mp4",
+  "10": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/portal/10_malibu-club-ps2-tanzflaeche_gameriot.mp4",
+  "11": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/portal/11_kent-paul-lounge_shirrako.mp4",
+  "12": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/portal/12_zurueck-paradiso-zombie-bobber_danallen.mp4",
+  "13": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/portal/13_bobber-scan-werte_incredilags.mp4",
+  "14": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/portal/14_bobber-nachts-fahren_shirrako.mp4",
+  "15": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/portal/15_jason-im-hawaiihemd_shirrako.mp4",
+  "sp": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/portal/0_showcase_portal-blitze-gross_gameriot.mp4",
+  "sm": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/portal/0_showcase_malibu-club-neon-sterne_shirrako.mp4",
+  "sb": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/portal/0_showcase_bobber-nacht-stadt_shirrako.mp4",
+  "sh": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/portal/0_showcase_hawaiihemd-ocean-drive_shirrako.mp4"
+ },
+ "_quellen": "Clips: Dan Allen Gaming, Shirrako, GameRiot, Incredilags – Links in quellen_uebersicht.txt",
+ "flash": 4.95,
+ "end": 60.0,
+ "title": {
+  "lines": [
+   "Geheimes Portal",
+   "ins alte Vice City"
+  ],
+  "emojis": [
+   "🎮",
+   "🔥"
+  ]
+ },
+ "caption_fixes": [
+  [
+   "Geheimnisportal",
+   "geheimes Portal"
+  ],
+  [
+   "Fernsehen",
+   "Fernseher"
+  ],
+  [
+   "klappest",
+   "klapperst"
+  ],
+  [
+   "Launch",
+   "Lounge"
+  ]
+ ],
+ "caption_colors": {
+  "PORTAL": "#FF3B8C",
+  "GEHEIMPORTAL": "#FF3B8C",
+  "MALIBU": "#FF3B8C",
+  "SMS": "#39FF14",
+  "SCHNELL": "#FF3B3B",
+  "REISEN": "#FF3B3B",
+  "UMSPANNWERKE": "#FFD000",
+  "KRAFTWERK": "#FFD000",
+  "HAWAIIHEMD": "#39FF14",
+  "CHEAT": "#FFD000",
+  "GEHEIMES": "#FF3B8C"
+ },
+ "bigwords": [],
+ "icons": [
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    0.14,
+    1.3
+   ],
+   "spin": 0,
+   "size": 480,
+   "y": 470,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-portal/ov/st_ps2.mov",
+   "t": [
+    3.3,
+    4.9
+   ],
+   "spin": 0,
+   "size": 800,
+   "y": 560,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-portal/ov/radio.mov",
+   "t": [
+    5.0,
+    12.1
+   ],
+   "spin": 0,
+   "size": 900,
+   "y": 310,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-portal/ov/zaehler.mov",
+   "t": [
+    12.9,
+    17.0
+   ],
+   "spin": 0,
+   "size": 560,
+   "y": 330,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-portal/ov/cheat.mov",
+   "t": [
+    17.1,
+    20.0
+   ],
+   "spin": 0,
+   "size": 900,
+   "y": 330,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-portal/ov/st_reisen.mov",
+   "t": [
+    20.6,
+    23.0
+   ],
+   "spin": 0,
+   "size": 860,
+   "y": 560,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-portal/ov/sms.mov",
+   "t": [
+    24.7,
+    27.7
+   ],
+   "spin": 0,
+   "size": 900,
+   "y": 330,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-portal/ov/pl_kraftwerk.mov",
+   "t": [
+    28.3,
+    30.3
+   ],
+   "spin": 0,
+   "size": 800,
+   "y": 620,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-portal/ov/cta.mov",
+   "t": [
+    30.85,
+    36.25
+   ],
+   "spin": 0,
+   "size": 860,
+   "y": 560,
+   "sfx": "mouse_click",
+   "clicks": [
+    31.35
+   ]
+  },
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    34.6,
+    35.9
+   ],
+   "spin": 0,
+   "size": 420,
+   "y": 330,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-portal/ov/pl_kent.mov",
+   "t": [
+    39.6,
+    41.2
+   ],
+   "spin": 0,
+   "size": 700,
+   "y": 620,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-portal/ov/st_hemd.mov",
+   "t": [
+    43.2,
+    44.8
+   ],
+   "spin": 0,
+   "size": 800,
+   "y": 560,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-portal/ov/liste.mov",
+   "t": [
+    50.8,
+    60.0
+   ],
+   "spin": 0,
+   "size": 940,
+   "y": 250,
+   "sfx": "mouse_click"
+  }
+ ],
+ "sfx": [],
+ "segments": [
+  {
+   "t": [
+    0,
+    1.6
+   ],
+   "src": [
+    "sp",
+    5.0,
+    null
+   ],
+   "_": "Hook Portal"
+  },
+  {
+   "t": [
+    1.6,
+    3.2
+   ],
+   "src": [
+    "sm",
+    7.0,
+    null
+   ],
+   "_": "Hook Club"
+  },
+  {
+   "t": [
+    3.2,
+    4.95
+   ],
+   "src": [
+    "09",
+    12.6,
+    null
+   ],
+   "_": "PS2-Club"
+  },
+  {
+   "t": [
+    4.95,
+    7.0
+   ],
+   "src": [
+    "01",
+    0.0,
+    null
+   ],
+   "_": "Kontrollraum"
+  },
+  {
+   "t": [
+    7.0,
+    9.2
+   ],
+   "src": [
+    "01",
+    4.5,
+    null
+   ],
+   "_": "Hebel"
+  },
+  {
+   "t": [
+    9.2,
+    10.3
+   ],
+   "src": [
+    "01",
+    8.5,
+    null
+   ],
+   "_": "Knopf"
+  },
+  {
+   "t": [
+    10.3,
+    12.2
+   ],
+   "src": [
+    "01",
+    12.4,
+    null
+   ],
+   "_": "Malibu TV"
+  },
+  {
+   "t": [
+    12.2,
+    13.8
+   ],
+   "src": [
+    "02",
+    1.0,
+    null
+   ],
+   "_": "Karte"
+  },
+  {
+   "t": [
+    13.8,
+    15.0
+   ],
+   "src": [
+    "02",
+    9.5,
+    null
+   ],
+   "_": "LPL-Gebäude"
+  },
+  {
+   "t": [
+    15.0,
+    17.0
+   ],
+   "src": [
+    "03",
+    9.0,
+    null
+   ],
+   "_": "Schalter D"
+  },
+  {
+   "t": [
+    17.0,
+    18.6
+   ],
+   "src": [
+    "05",
+    11.0,
+    null
+   ],
+   "_": "ME"
+  },
+  {
+   "t": [
+    18.6,
+    20.0
+   ],
+   "src": [
+    "04",
+    9.5,
+    null
+   ],
+   "_": "P-Wand"
+  },
+  {
+   "t": [
+    20.0,
+    23.0
+   ],
+   "src": [
+    "07",
+    1.0,
+    null
+   ],
+   "_": "Heli – nicht schnellreisen"
+  },
+  {
+   "t": [
+    23.0,
+    24.6
+   ],
+   "src": [
+    "06",
+    4.5,
+    null
+   ],
+   "_": "Y-Hebel"
+  },
+  {
+   "t": [
+    24.6,
+    27.3
+   ],
+   "src": [
+    "06",
+    11.0,
+    null
+   ],
+   "_": "SMS"
+  },
+  {
+   "t": [
+    27.3,
+    28.8
+   ],
+   "src": [
+    "07",
+    9.5,
+    null
+   ],
+   "_": "Stadt nachts"
+  },
+  {
+   "t": [
+    28.8,
+    30.8
+   ],
+   "src": [
+    "08",
+    6.0,
+    null
+   ],
+   "_": "Portal öffnet"
+  },
+  {
+   "t": [
+    30.8,
+    33.5
+   ],
+   "src": [
+    "sh",
+    2.0,
+    null
+   ],
+   "_": "Deglau – Hemd"
+  },
+  {
+   "t": [
+    33.5,
+    36.3
+   ],
+   "src": [
+    "sb",
+    3.0,
+    null
+   ],
+   "_": "Deglau – Bobber"
+  },
+  {
+   "t": [
+    36.3,
+    37.4
+   ],
+   "src": [
+    "09",
+    1.0,
+    null
+   ],
+   "_": "Portal nah"
+  },
+  {
+   "t": [
+    37.4,
+    38.6
+   ],
+   "src": [
+    "10",
+    2.0,
+    null
+   ],
+   "_": "Club PS2"
+  },
+  {
+   "t": [
+    38.6,
+    40.4
+   ],
+   "src": [
+    "11",
+    6.0,
+    null
+   ],
+   "_": "Kent Paul"
+  },
+  {
+   "t": [
+    40.4,
+    42.3
+   ],
+   "src": [
+    "sm",
+    9.0,
+    null
+   ],
+   "_": "Club"
+  },
+  {
+   "t": [
+    42.3,
+    44.6
+   ],
+   "src": [
+    "12",
+    3.5,
+    null
+   ],
+   "_": "zurück Paradiso"
+  },
+  {
+   "t": [
+    44.6,
+    45.8
+   ],
+   "src": [
+    "12",
+    9.5,
+    null
+   ],
+   "_": "Bike"
+  },
+  {
+   "t": [
+    45.8,
+    47.0
+   ],
+   "src": [
+    "13",
+    4.0,
+    null
+   ],
+   "_": "Bike Paradiso"
+  },
+  {
+   "t": [
+    47.0,
+    50.8
+   ],
+   "src": [
+    "15",
+    6.0,
+    null
+   ],
+   "_": "Hemd Tag"
+  },
+  {
+   "t": [
+    50.8,
+    52.3
+   ],
+   "src": [
+    "sb",
+    8.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    52.3,
+    53.8
+   ],
+   "src": [
+    "sp",
+    9.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    53.8,
+    55.3
+   ],
+   "src": [
+    "10",
+    8.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    55.3,
+    56.8
+   ],
+   "src": [
+    "14",
+    5.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    56.8,
+    58.4
+   ],
+   "src": [
+    "sh",
+    10.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    58.4,
+    60.0
+   ],
+   "src": [
+    "08",
+    10.0,
+    null
+   ],
+   "_": "Montage"
+  }
+ ]
+}

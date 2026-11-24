@@ -1,0 +1,41 @@
+{
+ "background": {
+  "src": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/portal/0_showcase_portal-blitze-gross_gameriot.mp4",
+  "time": 13.0,
+  "blur": 2,
+  "dark": 0.1,
+  "cx": 0.55,
+  "rect": [
+   0.32,
+   0.05,
+   0.68,
+   0.8
+  ]
+ },
+ "objects": [
+  {
+   "src": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/portal/0_showcase_hawaiihemd-ocean-drive_shirrako.mp4",
+   "time": 12.0,
+   "x": 330,
+   "y": 1180,
+   "width": 470,
+   "stroke": 14,
+   "bright": 1.6
+  }
+ ],
+ "texts": [
+  {
+   "text": "GEHEIMES PORTAL",
+   "color": "#FF3B8C",
+   "y": 330,
+   "size": 150
+  },
+  {
+   "text": "INS ALTE VICE CITY",
+   "color": "#3FC5FF",
+   "y": 1600,
+   "size": 130
+  }
+ ],
+ "output": "titelbild.jpg"
+}
