@@ -1,0 +1,204 @@
+GTA 6 – "Die zwei schnellsten Autos": Grotti Itali RSX ("Ferrari") und Truffade Thrax ("Bugatti")
+Clips erstellt am 24.11.2026 – alle 1080p, 12–14 Sekunden, keine Facecam, keine Streams, alle Videos ab 20.11.2026
+Jeden Clip habe ich mit Einzelbildern geprüft. Menüs und Anzeigen habe ich in voller Auflösung gelesen.
+==========================================================================================
+
+KURZFASSUNG – WAS STIMMT, WAS NICHT
+------------------------------------------------------------------------------------------
+- Namen im Spiel: "GROTTI ITALI RSX" und "TRUFFADE THRAX". Wenn man das Auto behält, heißt es im
+  Tuning-Menü "Jason's Thrax" / "Itali RSX de Jason" (französisches Menü) (Name der Figur davor).
+- NITRO: Es gibt Nitro im Spiel. Es heißt "NITROUS BOOST" und ist ein Tuning-Teil
+  (Euroform Automotive -> Performance -> BOOST). Aktivieren: L3 gedrückt halten (Hinweis im Spiel:
+  "Hold [L3] to activate nitrous"). Auf Xbox entsprechend der linke Stick.
+  Der normale Itali RSX hat KEIN Nitro ab Werk. Der RSX aus der Vespucci-Garage ist aber schon
+  getunt und hat sehr wahrscheinlich den Nitrous Boost eingebaut (Beweis siehe unten).
+  ABER: Kein Video zeigt den RSX mit Nitro in Aktion (Flamme/Boost-Anzeige). Also eher
+  "Ferrari mit eingebautem Nitro" sagen, nicht "man sieht das Nitro".
+- SCHNELLER laut Stats: der THRAX. Werks-Thrax Speed 8.7 / Acceleration 8.6.
+  Der Vespucci-RSX (getunt) hat Speed 8.6 / Acceleration 8.7 – fast gleich, Thrax minimal schneller,
+  RSX minimal bessere Beschleunigung. Der normale RSX hat nur Speed 7.5 / Acceleration 8.1.
+  Der schnellste Thrax ist "Andrew Node's Thrax": Speed 9.2 / Acceleration 8.9.
+- "Die zwei schnellsten Autos" stimmt NICHT ganz: In der Top 10 (Werkswerte, Kanal Cognitions) ist der
+  Thrax Platz 1 (8.7), der Itali RSX nur Platz 7 (7.5). Platz 2 ist der Progen Emerus (8.3).
+  Nur der vorgetunte Vespucci-RSX kommt fast an den Thrax heran.
+- "Beide gratis" stimmt nur halb: Klauen kostet nichts. Behalten kostet aber:
+  Thrax registrieren bei Pay 'n' Spray = $100,000 (Thrax vom Speedway), Andrew Node's Thrax = $70,000.
+  Der RSX hat einen ADVANCED Tracker. Laut Einblendung bei AcezProduction kann man Autos mit
+  Advanced Tracker erst nach Randy's Wish List ("car boosting list") registrieren.
+- Ein Video, in dem RSX und Thrax direkt gegeneinander fahren (Rennen, Top-Speed-Test), habe ich
+  NICHT gefunden. Der Vergleich geht nur über die Stats-Menüs.
+
+==========================================================================================
+AUTO 1 – GROTTI ITALI RSX ("Ferrari", sieht aus wie Ferrari SF90)
+==========================================================================================
+Ort: Villa auf Vespucci Island (Inseln zwischen Vice City und Vice Beach). An der Einfahrt steht ein
+     rotes Makler-Schild "SCHLOTT", davor ein braunes Holztor. Über das Tor klettern, links die
+     Seitentür zur Garage aufbrechen, drinnen steht der RSX (schwarz-weiß-silber foliert, weiße Felgen).
+     Garagentor von innen per Schalter öffnen, dann Key Cloner.
+Scan-Menü (genau abgelesen, vor dem Diebstahl):
+     GROTTI – ITALI RSX
+     Access: KEY CLONER | Security: ALARMED | Tracker: ADVANCED
+     Sell Value / Cost to Register: werden vor dem Diebstahl NICHT angezeigt. Ein Scan danach
+     war in keinem Video zu sehen -> Werte unbekannt.
+Beim Einsteigen: Einblendung "This vehicle is wanted by Randy" (gehört zu Randy's Wish List).
+Wache: In den geprüften Videos (Imack, Jumpycode) ist an der Vespucci-Villa KEINE Wache zu sehen.
+
+NITRO-BEWEIS
+  1. Beim Turbo Ruiner (Auto mit Nitro ab Werk) erscheint "Hold [L3] to activate nitrous" mit einem
+     Pfeil-nach-oben-Symbol (Doppel-Chevron). (Clip 1g)
+  2. Im Tuning-Menü heißt das Teil "PERFORMANCE / BOOST – NITROUS BOOST". Sobald es eingebaut ist,
+     steht dieses Pfeil-Symbol neben dem Autonamen. (Clip 1h)
+  3. Der Vespucci-RSX hat im Fahrzeug-Widget 4 Symbole (Tracker, Motor, Tank, PFEIL). Der normale
+     RSX von der Straße (MonkeyKingHero, Vice Beach) hat nur 3 Symbole, ohne Pfeil. (Clip 1f, ab ca. 3 s)
+     Auch im Tuning-Menü steht der Pfeil neben "ITALI RSX DE JASON". (Clip 3b)
+  -> Schluss: Der Vespucci-RSX hat den Nitrous Boost schon eingebaut. Nitro in Aktion zeigt kein Video.
+  Hinweis: Der spanische Kanal "Vice City al Día" (DYRKal3xM9w) hat einen Abschnitt "La salida y el
+  nitro". Dort fährt aber der normale rot-grüne Straßen-RSX (Material von MonkeyKingHero), und Nitro
+  sieht man nicht. Die Beschreibung sagt selbst nur "Nitro instalado, según los jugadores".
+
+CLIPS
+1a_karte-vespucci_imack.mp4
+   Karte: Zoom von Leonida / Vice-Dale County auf die Inselgruppe Vespucci Island (Markierung an der Villa).
+   Imack Studios | https://www.youtube.com/watch?v=_376jxNakjc&t=17s (0:17–0:30)
+1b_villa-holztor-schild_imack.mp4
+   Jason läuft zur Villa, rotes "SCHLOTT"-Schild, braunes Holztor (Tageslicht).
+   Imack Studios | https://www.youtube.com/watch?v=_376jxNakjc&t=3s (0:03–0:16)
+1c_uebers-tor-in-garage_imack.mp4
+   Jason klettert über das Holztor, läuft zur Seitentür, bricht sie auf, drinnen der RSX.
+   Imack Studios | https://www.youtube.com/watch?v=_376jxNakjc&t=39s (0:39–0:52)
+1d_rsx-in-garage-scan_imack.mp4
+   RSX in der Garage, Handy, dann Scan-Menü "GROTTI ITALI RSX – Key Cloner / Alarmed / Advanced".
+   Imack Studios | https://www.youtube.com/watch?v=_376jxNakjc&t=63s (1:03–1:17)
+1e_garage-auf-sonne_imack.mp4
+   Garagentor geht per Schalter auf, Sonnenlicht fällt auf den RSX, Kamera fährt um das Auto.
+   Imack Studios | https://www.youtube.com/watch?v=_376jxNakjc&t=79s (1:19–1:33)
+1f_einsteigen-wegfahren_jumpycode.mp4
+   Lucia steigt ein (Key Cloner), Widget "GROTTI ITALI RSX" mit Nitro-Pfeil, "This vehicle is wanted
+   by Randy", RSX fährt aus der Garage auf die Einfahrt.
+   HINWEIS: Oben dauerhafter gelber Balken "GROTTI ITALI RSX LOCATION" (Kanal-Einblendung).
+   Jumpycode | https://www.youtube.com/watch?v=oi_T-fsy2pg&t=33s (0:33–0:47)
+1g_nitro-beweis-hold-L3_jfm.mp4
+   ANDERES Auto (Imponte Turbo Ruiner): Hinweis "Hold [L3] to activate nitrous" + Pfeil-Symbol. Nur als Beweis.
+   JFM | https://www.youtube.com/watch?v=iCNx2FTLuJY&t=53s (0:53–1:06)
+1h_nitro-beweis-tuning-menue_acez.mp4
+   Tuning-Menü (am Thrax): Full Engine, Induction, Transmission, dann "BOOST – NITROUS BOOST – Applied",
+   Pfeil erscheint neben dem Namen. Danach fährt der Thrax aus der Werkstatt.
+   AcezProduction | https://www.youtube.com/watch?v=pE6-ufFrkxo&t=33s (0:33–0:46)
+
+==========================================================================================
+AUTO 2 – TRUFFADE THRAX ("Bugatti", sieht aus wie Bugatti Divo)
+==========================================================================================
+Es gibt DREI bekannte Thrax:
+ A) Boone Speedway (Hamlet): roter Thrax auf einem Autoanhänger neben Containern auf dem Gelände am
+    Ovalkurs. Laut Mogi spawnt dort meistens ein Thrax, manchmal ein anderes Auto. Frei zugänglich.
+    Widget beim Einsteigen: "TRUFFADE THRAX" mit Tracker-Symbol (Typ nicht lesbar).
+    Pay 'n' Spray (Salton): Register = $100,000.
+    Stats (Werkszustand, Pay 'n' Spray): Speed 8.7 | Acceleration 8.6 | Asphalt Handling 7.5 |
+    Off-Road Handling 3.8 | Strength 3.0
+ B) Dalton Island (Randy's Wish List, letzte Mission): Karteneintrag "STEAL THE TRUFFADE THRAX".
+    Erst verfügbar, wenn alle anderen Autos der Wish List geliefert sind. Mit der Fähre (Aufschrift
+    "DALTON ISLAND") von Waxman Island rüber, Thrax (türkis/schwarz) steht auf dem Parkplatz beim
+    Dalton Island Club, Wachen (Security Guards) davor. Danach zurück zur Fähre fliehen.
+ C) Andrew Node's Thrax (blau/schwarz): Garage einer Villa auf Starfish Island, über die geheime
+    Quest "No Flusher Tags" (10 Graffiti, HQ-Türcode) oder per Glitch (JFM, Caspahz).
+    Scan-Menü (genau abgelesen):
+      TRUFFADE – ANDREW NODE'S THRAX
+      Access: UNLOCKED | Security: DEACTIVATED | Tracker: NONE
+      Sell Value: $23,375 | Cost to Register: $70,000
+    Stats: Speed 9.2 | Acceleration 8.9 (der schnellste Thrax)
+Scan-Menü des normalen Thrax (Speedway/Dalton) mit Sell Value: in keinem Video gefunden.
+
+CLIPS
+2a_karte-dalton-island_harry.mp4
+   Karte mit Auftrag "STEAL THE TRUFFADE THRAX", Zoom auf Dalton Island, dann Jason am Auto beim Fähranleger.
+   HarryNinetyFour | https://www.youtube.com/watch?v=_8vWG44OPso&t=3s (0:03–0:16)
+2b_faehre-dalton-island_harry.mp4
+   Fähre mit großer Aufschrift "DALTON ISLAND", Überfahrt.
+   HarryNinetyFour | https://www.youtube.com/watch?v=_8vWG44OPso&t=34s (0:34–0:48)
+2c_thrax-parkplatz_harry.mp4
+   Parkplatz Dalton Island Club: Jason schaltet die Wache aus, türkiser Thrax zwischen SUVs.
+   HarryNinetyFour | https://www.youtube.com/watch?v=_8vWG44OPso&t=172s (2:52–3:06)
+2d_einsteigen-wegfahren_harry.mp4
+   Key Cloner am Thrax, einsteigen, rausfahren aus dem Parkplatz ("Escape to the ferry").
+   HarryNinetyFour | https://www.youtube.com/watch?v=_8vWG44OPso&t=185s (3:05–3:19)
+2e_karte-speedway_mogi.mp4
+   Roter Thrax auf dem Anhänger, Karte mit Ovalkurs (Boone Speedway), Lucia läuft zum Anhänger.
+   Mogi | https://www.youtube.com/watch?v=g8qHpFrRa1U&t=3s (0:03–0:16)
+2f_thrax-anhaenger-speedway_mogi.mp4
+   Thrax auf dem Autoanhänger neben Container, einsteigen ("TRUFFADE THRAX"), runterfahren.
+   Mogi | https://www.youtube.com/watch?v=g8qHpFrRa1U&t=17s (0:17–0:31)
+2g_andrew-nodes-thrax-scan_caspahz.mp4
+   Blauer Thrax in dunkler Garage, Scan-Menü "ANDREW NODE'S THRAX" (Werte siehe oben).
+   Caspahz | https://www.youtube.com/watch?v=-mzJSlSHK-A&t=0s (0:00–0:12)
+
+==========================================================================================
+VERGLEICH – WELCHES IST SCHNELLER?
+==========================================================================================
+Werte aus den Stats-Menüs im Spiel (Skala bis 10):
+                          SPEED   ACCELERATION   Quelle
+  Itali RSX (normal)       7.5       8.1         Cognitions-Grafik "Stock Speed Ratings" (nicht selbst im Menü gelesen)
+  Itali RSX (Vespucci)     8.6       8.7         Eckinox, Tuning-Menü (französisch: Vitesse/Accélération)
+  Thrax (Speedway, Werk)   8.7       8.6         AcezProduction, Pay 'n' Spray-Menü (englisch)
+  Andrew Node's Thrax      9.2       8.9         Mogi, Tuning-Menü (englisch)
+  Thrax voll getunt        9.3       9.3         AcezProduction (mit Nitrous Boost usw.)
+Ergebnis: Der Thrax ist schneller (Top-Speed-Wert). Gegen den vorgetunten Vespucci-RSX nur knapp
+(8.7 zu 8.6), bei der Beschleunigung liegt der RSX sogar 0.1 vorne.
+Echter Top-Speed in km/h oder mph: nirgends im Spiel angezeigt. Webseiten nennen 135 mph (RSX) und
+124 mph (Thrax) – diese Zahlen stammen aus GTA Online, nicht aus GTA 6. NICHT verwenden.
+
+CLIPS
+3a_stats-thrax-registrieren_acez.mp4
+   Pay 'n' Spray Salton: roter Thrax, "Register $100,000", Stats-Tabelle (Speed 8.7 / Acceleration 8.6),
+   dann Euroform-Werkstatt. HINWEIS: unten großer Kanal-Text "DO RANDY'S CAR BOOSTING LIST TO REGISTER
+   ADVANCED TRACKED CARS".
+   AcezProduction | https://www.youtube.com/watch?v=pE6-ufFrkxo&t=17s (0:17–0:30)
+3b_stats-rsx_eckinox.mp4
+   Tuning-Menü Euroform: roter RSX, Stats-Tabelle (französisches Menü), Pfeil-Symbol neben dem Namen.
+   Eckinox in English | https://www.youtube.com/watch?v=o1pLlAqMz_o&t=96s (1:36–1:49)
+3c_stats-andrew-nodes-thrax_mogi.mp4
+   Tuning-Menü Euroform: Andrew Node's Thrax in verschiedenen Kits, Stats-Tabelle (englisch).
+   Mogi | https://www.youtube.com/watch?v=n9sCB9eIk9k&t=9s (0:09–0:22)
+3d_top10-tabelle_cognitions.mp4
+   Fahrt, dann Grafik "THE TOP 10 – Stock Speed Ratings": #1 Thrax 8.7 ... #7 Itali RSX 7.5.
+   HINWEIS: Die Grafik ist vom Kanal gemacht, nicht aus dem Spiel. Am Ende Kanal-Logo.
+   Cognitions | https://www.youtube.com/watch?v=Jm7Oa93cPv4&t=232s (3:52–4:05)
+3e_thrax-rennen_acez.mp4
+   Getunter weißer Thrax im Straßenrennen "Rialto Run" (Hit 'n' Run VC), Start mit "GO!".
+   AcezProduction | https://www.youtube.com/watch?v=pE6-ufFrkxo&t=50s (0:50–1:03)
+
+==========================================================================================
+0_SHOWCASE – SCHÖNE CLIPS
+==========================================================================================
+0_showcase_rsx-sonnenuntergang-skyline_monkeyking.mp4
+   Roter RSX (Straßen-RSX, nicht der Vespucci-RSX!) auf dem Highway unter der Hochbahn, Sonnenuntergang, Skyline.
+   MonkeyKingHero | https://www.youtube.com/watch?v=Fmv0t1DDugs&t=72s (1:12–1:25)
+0_showcase_rsx-tageslicht-highway_ashley.mp4
+   Roter RSX im Tageslicht auf dem Highway, Skyline. HINWEIS: in den ersten 2 s kleine Nachricht
+   unten rechts, bei ca. 8 s kurz verschwommenes Bild.
+   Ashley After Hours | https://www.youtube.com/watch?v=wp3yp-DaG24&t=72s (1:12–1:25)
+0_showcase_thrax-highway-skyline_harry.mp4
+   Türkis/schwarzer Thrax rast über den Highway, Tageslicht, Skyline.
+   HarryNinetyFour | https://www.youtube.com/watch?v=_8vWG44OPso&t=305s (5:05–5:18)
+0_showcase_thrax-stadt-skyline_trophygamers.mp4
+   Thrax auf dem Highway, weiße Wolken, Palmen.
+   Trophygamers | https://www.youtube.com/watch?v=KzrrEzAWBvE&t=445s (7:25–7:38)
+(Kleines "94"-Logo unten rechts in allen HarryNinetyFour-Clips.)
+
+------------------------------------------------------------------------------------------
+QUELLVIDEOS (alle ab 20.11.2026, unter 20 Min., keine Streams, keine Facecam)
+  Imack Studios – HOW TO GET GROTTI ITALI RSX IN GTA 6                          _376jxNakjc (ca. 16,9k, 20.11.)
+  Jumpycode – Grotti Itali RSX Location Randy's Wish List                       oi_T-fsy2pg (ca. 0,8k, 22.11.)
+  JFM – SECRET "Turbo Ruiner" Muscle Car With NITROUS                          iCNx2FTLuJY (ca. 12,9k, 20.11.)
+  AcezProduction – Truffade Thrax Best Car Upgrades                             pE6-ufFrkxo (ca. 13,6k, 22.11.)
+  HarryNinetyFour – Steal the Truffade Thrax Walkthrough (Randy's Final Mission) _8vWG44OPso (ca. 26k, 22.11.)
+  Mogi – Where To Find The Rarest Car In GTA 6 (Truffade Thrax)                 g8qHpFrRa1U (ca. 51k, 20.11.)
+  Mogi – GTA 6 Super Customization – Truffade Thrax                             n9sCB9eIk9k (24.11.)
+  Caspahz – MOST EXPENSIVE Car in GTA 6 for FREE – Thrax                        -mzJSlSHK-A (ca. 126k, 23.11.)
+  Eckinox in English – ULTRA FAST! CUSTOM GROTTI ITALI RSX                      o1pLlAqMz_o (ca. 0,8k, 23.11.)
+  Cognitions – Top 10 Fastest Cars in GTA 6                                     Jm7Oa93cPv4 (23.11.)
+  MonkeyKingHero – How to Get The Italia Grotti RSX For Randy's Wish List       Fmv0t1DDugs (ca. 5,4k, 21.11.)
+  Ashley After Hours – BEST CAR GTA 6: Grotti Itali RSX is a BEAST              wp3yp-DaG24 (22.11.)
+  Trophygamers – Truffade Thrax – Mansion Thrax on Dalton Island                KzrrEzAWBvE (ca. 30k, 21.11.)
+Geprüft, nicht genutzt: KingAlexHD uoGPLWBwNKI (zeigt lange andere Autos, Nacht), Trophygamers W51nnU5Lyiw
+  (RSX nachts in Capri), Vice City al Día DYRKal3xM9w (Reupload-Zusammenschnitt mit Texten, "Nitro" nicht
+  belegt), SolveBase k_HiLFQOUCg und Hakiii ne5Rwy0m_io (Facecam), Insider Gaming (Web-Artikel).
