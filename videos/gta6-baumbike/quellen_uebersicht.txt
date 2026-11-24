@@ -1,0 +1,145 @@
+GTA 6 – Motorrad am Baum: NAGASAKI HUNG CARBON RS
+Stand: 24.11.2026 – alle Clips 1080p, 12–14 s, YouTube-Videos vom 20.–24.11.2026, keine Facecam, keine Streams.
+
+======================================================================
+GEPRÜFTE FAKTEN (an Videobildern in voller Auflösung abgelesen)
+======================================================================
+Name im Spiel:   NAGASAKI  HUNG CARBON RS  (Einblendung beim Aufsteigen, Clip 05).
+                 Es ist eine "Standout"-Version der normalen Nagasaki Carbon RS (Superbike).
+
+Ort:             Leonard County > Belville, im Nordwesten von Belville (Karte Clip 01 + 02).
+                 Über einen Feldweg durch hohes Gras (Strommasten) zu einem großen Baum.
+                 Hinter dem Baum sieht man eine Eisenbahnbrücke (Bahngleise).
+                 Unter dem Baum ist ein kleines Camp: Picknicktische, Kühlbox, Fass, Schild.
+                 Das Motorrad hängt oben in den Ästen.
+Runterholen:     Auf die Seile/Ketten am Ast schießen (Pistole reicht) -> Motorrad fällt runter -> aufheben, aufsteigen, losfahren.
+                 Im Video kein Alarm und kein Key Cloner – Jason steigt einfach auf.
+Belohnung dazu:  "+ Tagged Bike" und "You have unlocked a livery for purchase at Vice Vinyl" (die Graffiti-Lackierung).
+
+Werte im Spiel (Werkstatt Watkins Auto Parts / Moses, Clip 06 + 07):
+   SPEED 6.7 | ACCELERATION 7.7 | ASPHALT HANDLING 7.6 | OFF-ROAD HANDLING 2.3 | STRENGTH 4.0 | Rating 120 / 750
+   REGISTER: $2,600
+   Bei Moses verkaufen: "SELL CARBON RS (+$1,100)"
+   Beim Registrieren fragt das Spiel: "REGISTER AND CHANGE NAME? This is a unique vehicle. Are you sure you want to
+   register this vehicle and lose the unique name?"  -> danach heißt es "JASON'S CARBON RS".
+
+Tuning (gezeigt an einer NORMALEN Carbon RS bei Vice Auto Customs, Empire of Vice – die Hung selbst wird in keinem
+Video getunt, nach dem Registrieren ist sie aber eine normale "Carbon RS"):
+   - Full Kits: Racing Build Standard $1,780 / Advanced $5,120 / Elite $15,760
+   - Auspuff (Exhaust) Style: Stock, Long Silencer $425, Small Bore Conical Silencer $485, Short Silencer $500
+     Material: z. B. Full Black $240, Gold $1,540 | Emission Effects: Flammen in vielen Farben, je $310
+   - Frame Materials (19 Stück): gesehen Painted $160, Chrome $175, Stainless Steel $190
+   - Performance: Full Engine (bis Stage 4), Induction (Turbo $5,400 / Supercharger), Transmission (bis Level 3), BOOST
+   - NITRO: JA -> Performance / Boost / "NITROUS BOOST" (2/2, Applied) – Clip 12.
+   - Komplett getunt: Speed 6.7 -> 7.9, Acceleration 7.8 -> 8.7 (Nitrous allein gibt +0.3 Speed / +0.2 Acceleration).
+
+======================================================================
+TIKTOK-BEHAUPTUNGEN – WAS STIMMT?
+======================================================================
+1. "Schnellstes Motorrad im Spiel" -> FALSCH.
+   - Nagasaki SFB 1000 im selben Menü: Speed 7.1 / Acceleration 8.1 (abgelesen: Vorschau 7.2 mit "+0.1", 8.3 mit "+0.2",
+     SpeedLizardYT, Clip 13). Hung Carbon RS nur 6.7 / 7.7.
+   - gameta.gg (Fastest Motorcycles, 21.11.): 1. Nagasaki SFB 1000 (7.1), 2. Principe Alvino V1 (6.9),
+     3. Nagasaki Carbon RS (6.7). Alvino-Werte NICHT selbst im Video gesehen.
+   - Kein echtes Rennen/Top-Speed-Test Carbon RS gegen andere Bikes gefunden (die "Top Speed Test"-Videos zeigen
+     keinen Tacho und andere Bikes).
+2. "Ab Kapitel 2 registrierbar" -> wahrscheinlich richtig, aber nur durch Text des YouTubers belegt:
+   OutlawAddy blendet ein: "UNLOCK MOSES IN CHAPTER 2 – To permanently register this Hung Carbon RS, you need 2600$ &
+   Moses's garage in Chapter 2." Im Spiel sieht man nur: Registrieren bei Moses (Watkins Auto Parts) für $2,600.
+   Kapitel selbst nicht im Spiel-Menü gesehen.
+3. "In der Werkstatt tunen" -> RICHTIG (Clips 08–12).
+   "Mehr Carbon" -> NICHT bestätigt: keine Carbon-Option gesehen (Frame Materials: Painted/Chrome/Stainless Steel …,
+   nicht alle 19 sichtbar).
+   "Anderer Auspuff" -> RICHTIG (4 Auspuffe + Material + Flammen).
+   "Nitro" -> RICHTIG (NITROUS BOOST unter Performance/Boost).
+
+======================================================================
+WIDERSPRÜCHE (beide Versionen)
+======================================================================
+- Ort: gamerhour "Camp unter großem Baum im Wald, Fußweg durchs Gras" | gtabase/gameta "hängt an einem Baum nahe einer
+  Biker-Bar in Belville" | Websuche "Baum neben den Bahngleisen / verlassenes Feld".
+  -> Videos: Feld + Camp + Eisenbahnbrücke direkt hinter dem Baum. Eine Biker-Bar sieht man in keinem Video.
+- Sicherheit/Tracker: gtabase "Security: Modern (May Need Key Cloner)" | gamerhour "kein Tracker, kein Alarm, kein Schlüssel"
+  | GTA Experience laut Webseiten "kein Tracker, kein Alarm".
+  -> Kein In-Game-Scan gefunden. Im Video: kein Alarm, kein Key Cloner. Trophy Tom blendet (eigener Text) ein:
+     "ACCESS: UNLOCKED // SECURITY: – // TRACKER: –".
+- Verkauf: Metaforge "Sell $2,640" (Seite blockiert, nicht geprüft) | im Spiel bei Moses "SELL CARBON RS (+$1,100)".
+  Registrieren $2,600 stimmt bei beiden.
+- Hersteller-Schreibweise: Trophy Tom Overlay schreibt "HUNG CARBOS RS" (Tippfehler), im Spiel "HUNG CARBON RS".
+
+======================================================================
+CLIPS  (Ordner gta6\baum-bike)
+======================================================================
+01_karte-belville-nordwest_outlawaddy.mp4
+   OutlawAddy Gaming – https://www.youtube.com/watch?v=vJ3cupr1X0U&t=23s   0:23–0:37
+   Karte: Leonida -> Leonard County -> Zoom auf Belville Nordwest, Wegpunkt; am Ende Jason auf dem Feldweg.
+02_karte-leonard-county-belville_trophytom.mp4
+   Trophy Tom – https://www.youtube.com/watch?v=lGPnjad2UdQ&t=3s   0:03–0:15
+   Karten-Zoom auf den Ort. Oben links Text vom Kanal "LEONARD COUNTY > BELVILLE", unten rechts Logo "TROPHY TOM".
+03_feldweg-baum-von-weitem_outlawaddy.mp4
+   OutlawAddy Gaming – https://www.youtube.com/watch?v=vJ3cupr1X0U&t=38s   0:38–0:52
+   Feldweg zum großen Baum, Eisenbahnbrücke dahinter, Camp unter dem Baum, Motorrad oben im Baum.
+04_ketten-abschiessen-bike-faellt_outlawaddy.mp4
+   OutlawAddy Gaming – https://www.youtube.com/watch?v=vJ3cupr1X0U&t=56s   0:56–1:10
+   Jason schießt auf die Seile, Motorrad hängt/fällt, liegt dann unter dem Baum. (Kurz Waffenrad eingeblendet.)
+05_aufsteigen-wegfahren_outlawaddy.mp4
+   OutlawAddy Gaming – https://www.youtube.com/watch?v=vJ3cupr1X0U&t=66s   1:06–1:20
+   Motorrad aufheben, aufsteigen, Einblendung "NAGASAKI HUNG CARBON RS", "+ Tagged Bike", Livery-Hinweis, wegfahren übers Feld.
+06_moses-verkauf-1100-stats-register-2600_outlawaddy.mp4
+   OutlawAddy Gaming – https://www.youtube.com/watch?v=vJ3cupr1X0U&t=172s  2:52–3:06
+   Bei Moses: "SELL CARBON RS (+$1,100)", Menü Watkins Auto Parts mit Stats-Tafel und "REGISTER $2,600".
+07_registrieren-name-weg-jasons-carbon-rs_outlawaddy.mp4
+   OutlawAddy Gaming – https://www.youtube.com/watch?v=vJ3cupr1X0U&t=190s  3:10–3:24
+   "REGISTER AND CHANGE NAME?" -> registriert, Name jetzt "JASON'S CARBON RS".
+08_tuning-full-kits-stats_empireofvice.mp4
+   Empire of Vice – https://www.youtube.com/watch?v=A94Peq0LpkQ&t=45s   0:45–0:59
+   Normale Carbon RS: Racing-Build-Kits (Standard/Advanced/Elite) mit Stats-Änderungen.
+09_tuning-rahmen-material_empireofvice.mp4
+   Empire of Vice – https://www.youtube.com/watch?v=A94Peq0LpkQ&t=320s  5:20–5:34
+   Bodywork: Rear Mudguards, Frame Materials (Painted, Chrome, Stainless Steel), Gas Cap.
+10_tuning-auspuff-varianten_empireofvice.mp4
+   Empire of Vice – https://www.youtube.com/watch?v=A94Peq0LpkQ&t=396s  6:36–6:50
+   Exhaust Style: Stock, Long Silencer, Short Silencer (mit Fehlzündungs-Flamme), Small Bore Conical Silencer.
+11_tuning-auspuff-material-flammen_empireofvice.mp4
+   Empire of Vice – https://www.youtube.com/watch?v=A94Peq0LpkQ&t=413s  6:53–7:07
+   Auspuff-Material und Emission Effects (farbige Flammen, $310).
+12_tuning-motor-turbo-nitrous-boost_empireofvice.mp4
+   Empire of Vice – https://www.youtube.com/watch?v=A94Peq0LpkQ&t=513s  8:33–8:47
+   Performance: Turbo/Supercharger, Transmission, BOOST -> "NITROUS BOOST", Stats steigen auf 7.9 / 8.7.
+13_vergleich-sfb1000-stats_speedlizard.mp4
+   SpeedLizardYT – https://www.youtube.com/watch?v=IT2tlDs-0tk&t=50s   0:50–1:04
+   Nagasaki SFB 1000 bei Two Wheel Fury Motorsports: Stats-Tafel (Speed ~7.1/7.2, Acceleration 8.1/8.3) zum Vergleich.
+
+SHOWCASE
+0_showcase_hung-highway-gewitter_outlawaddy.mp4
+   OutlawAddy Gaming – https://www.youtube.com/watch?v=vJ3cupr1X0U&t=118s  1:58–2:12
+   Die Hung Carbon RS in voller Fahrt auf der Landstraße/Highway, dunkle Gewitterwolken. Kein Text.
+0_showcase_hung-feld-auf-kamera-zu_outlawaddy.mp4
+   OutlawAddy Gaming – https://www.youtube.com/watch?v=vJ3cupr1X0U&t=82s   1:22–1:36
+   Hung fährt übers Feld auf die Kamera zu, Baum im Hintergrund. (Kurz Pausen-/Kameramenü verschwommen.)
+0_showcase_carbonrs-bruecke-meer_throneful.mp4
+   Throneful – https://www.youtube.com/watch?v=Xjxq87lr0co&t=102s  1:42–1:56
+   NORMALE weiße Carbon RS auf einer Brücke übers türkise Meer. Kleines Logo "KVG" unten rechts.
+0_showcase_getunt-sonnenuntergang_empireofvice.mp4
+   Empire of Vice – https://www.youtube.com/watch?v=A94Peq0LpkQ&t=538s  8:58–9:12
+   GETUNTE gelbe Carbon RS fährt bei Sonnenuntergang (lila Himmel) aus der Werkstatt durch die Stadt.
+Kein Clip "getunt im Studio" ohne Menü gefunden – alle Werkstatt-Bilder haben die Tuning-Menüs (Clips 08–12).
+
+======================================================================
+QUELLEN
+======================================================================
+YouTube:
+- OutlawAddy Gaming – "GTA 6 - How To Get The Hidden Tree Bike Early (Hung Carbon RS Location) Chapter 2" – 24.11.2026
+  https://www.youtube.com/watch?v=vJ3cupr1X0U
+- Trophy Tom – "GTA 6 - Hung Carbon RS - Unique Standout Vehicle Location" – 20.11.2026
+  https://www.youtube.com/watch?v=lGPnjad2UdQ
+- Empire of Vice – "GTA 6 Nagasaki Carbon RS Super bike Customisation" – 24.11.2026
+  https://www.youtube.com/watch?v=A94Peq0LpkQ
+- SpeedLizardYT – "Nagasaki SFB 1000 Customization & Drive | GTA 6" – 21.11.2026
+  https://www.youtube.com/watch?v=IT2tlDs-0tk
+- Throneful – "Grand Theft Auto 6 - Nagasaki Carbon RS - Gameplay (PS5 UHD)" – 20.11.2026
+  https://www.youtube.com/watch?v=Xjxq87lr0co
+Nur angesehen (kein Clip): Mr ZEUS OK "fastest bike" (zeigt anderes Bike in einer Garage), Epic GTA Falls Top-Speed-Test
+(kein Tacho, anderes Bike), StyleGTA, Dinata.
+Webseiten: gtabase.com (Hung Carbon RS), gamerhour.net, gameta.gg (Carbon RS + Fastest Motorcycles).
+Blockiert/nicht lesbar: game8.co, metaforge.app.
