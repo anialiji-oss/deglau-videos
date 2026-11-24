@@ -23,7 +23,7 @@ Features nur so, wie sie im Trailer auch zu sehen sind, damit Bild und Text spä
 - Übergänge (Blitz/Zoom-Punch) mitten im Video erlaubt, wenn es gut passt
 - **Videolänge:** endet ~1 s nach Deglaus letztem Wort. **Nur wenn Deglau „1 Minute“ sagt** → bis 60 s mit Gameplay-Montage + Beat (`"end": 60.0`). **AUSNAHME: Alle GTA-Videos IMMER 1 Minute** (Deglau, 22.11.2026)
 - Export 1080x1920, 30 fps → an Deglau schicken
-- **Dazu immer:** `posts.md` (Beschreibungen TikTok / YouTube Shorts / Instagram) – **die Beschreibungen IMMER auch direkt in den Chat schreiben** (je Plattform ein Kopier-Block), nicht nur als Datei + `titelbild.jpg` (`scripts/cover.py`, siehe STIL.md)
+- **Dazu immer:** `posts.md` (Beschreibungen TikTok / YouTube Shorts / Instagram) – **die Beschreibungen IMMER auch direkt in den Chat schreiben** (je Plattform ein Kopier-Block), nicht nur als Datei + `titelbild.jpg` (siehe STIL.md) **+ `titelbild_insta.jpg` für Instagram** (`scripts/cover_insta.py`)
 
 ElevenLabs („mainaccount“, `assets/stimme.json`) nur noch als Notlösung, wenn Deglau das ausdrücklich will.
 

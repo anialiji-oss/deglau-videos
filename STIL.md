@@ -279,3 +279,8 @@ Ziel: Alles, was gesagt wird, auch **sehen**. Gameplay läuft immer weiter dahin
   kurz genau da, wo Deglau die Schritte erwähnt („jetzt pausieren!“), und nochmal am Ende („Screenshot machen!“).
 - Im Script dann **NICHT** „steht in der Beschreibung“ schreiben, sondern z. B. „Am Ende blende ich euch die Reihenfolge ein“.
 - Beschreibungen dann kurz halten – **keine langen Listen** reinschreiben, nur Hook + Hinweis „Reihenfolge im Video“ + Credits + Hashtags.
+
+## Zweites Titelbild für Instagram (Deglau, 24.11.2026)
+- Instagram schneidet Titelbilder im Profil auf 3:4 zu → normales Titelbild wirkt „voll rangezoomt“.
+- Deshalb IMMER zusätzlich `titelbild_insta.jpg`: `python3 scripts/cover_insta.py videos/<thema>/titelbild.jpg videos/<thema>/titelbild_insta.jpg`
+  (ganzes Titelbild verkleinert in der 3:4-Mitte, außen unscharf). TikTok/YouTube = titelbild.jpg, Instagram = titelbild_insta.jpg.
