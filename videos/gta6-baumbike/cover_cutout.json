@@ -1,0 +1,35 @@
+{
+ "background": {
+  "src": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/baumbike/04_ketten-abschiessen-bike-faellt_outlawaddy.mp4",
+  "time": 6.0,
+  "blur": 3,
+  "dark": 0.15,
+  "cx": 0.55
+ },
+ "objects": [
+  {
+   "src": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/baumbike/0_showcase_hung-feld-auf-kamera-zu_outlawaddy.mp4",
+   "time": 5.0,
+   "x": 560,
+   "y": 1150,
+   "width": 820,
+   "stroke": 14,
+   "bright": 1.15
+  }
+ ],
+ "texts": [
+  {
+   "text": "MOTORRAD",
+   "color": "#39FF14",
+   "y": 330,
+   "size": 170
+  },
+  {
+   "text": "H\u00c4NGT IM BAUM",
+   "color": "#FFD000",
+   "y": 1600,
+   "size": 150
+  }
+ ],
+ "output": "titelbild.jpg"
+}

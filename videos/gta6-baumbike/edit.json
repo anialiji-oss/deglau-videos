@@ -1,0 +1,577 @@
+{
+ "voice": "voice.m4a",
+ "words": "words.json",
+ "output": "/home/user/deglau-videos/videos/gta6-baumbike/gta6_baumbike.mp4",
+ "sources": {
+  "12": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/baumbike/12_tuning-motor-turbo-nitrous-boost_empireofvice.mp4",
+  "04": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/baumbike/04_ketten-abschiessen-bike-faellt_outlawaddy.mp4",
+  "08": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/baumbike/08_tuning-full-kits-stats_empireofvice.mp4",
+  "10": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/baumbike/10_tuning-auspuff-varianten_empireofvice.mp4",
+  "07": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/baumbike/07_registrieren-name-weg-jasons-carbon-rs_outlawaddy.mp4",
+  "shw": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/baumbike/0_showcase_hung-highway-gewitter_outlawaddy.mp4",
+  "13": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/baumbike/13_vergleich-sfb1000-stats_speedlizard.mp4",
+  "sgt": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/baumbike/0_showcase_getunt-sonnenuntergang_empireofvice.mp4",
+  "sfe": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/baumbike/0_showcase_hung-feld-auf-kamera-zu_outlawaddy.mp4",
+  "09": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/baumbike/09_tuning-rahmen-material_empireofvice.mp4",
+  "05": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/baumbike/05_aufsteigen-wegfahren_outlawaddy.mp4",
+  "06": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/baumbike/06_moses-verkauf-1100-stats-register-2600_outlawaddy.mp4",
+  "sbr": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/baumbike/0_showcase_carbonrs-bruecke-meer_throneful.mp4",
+  "11": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/baumbike/11_tuning-auspuff-material-flammen_empireofvice.mp4",
+  "01": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/baumbike/01_karte-belville-nordwest_outlawaddy.mp4",
+  "03": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/baumbike/03_feldweg-baum-von-weitem_outlawaddy.mp4",
+  "02": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/baumbike/02_karte-leonard-county-belville_trophytom.mp4"
+ },
+ "_quellen": "Clips: OutlawAddy Gaming, Trophy Tom, Empire of Vice, Throneful – Links in quellen_uebersicht.txt",
+ "flash": 4.9,
+ "end": 60.0,
+ "title": {
+  "lines": [
+   "Motorrad hängt",
+   "im Baum"
+  ],
+  "emojis": [
+   "🎮",
+   "🔥"
+  ]
+ },
+ "caption_fixes": [
+  [
+   "-Lackierung",
+   "Lackierung"
+  ],
+  [
+   "regressierst",
+   "registrierst"
+  ]
+ ],
+ "caption_colors": {
+  "BAUM": "#39FF14",
+  "KETTEN": "#FF3B3B",
+  "NITRO": "#39FF14",
+  "BELVILLE": "#FFD000",
+  "MOSES": "#FFD000",
+  "2600": "#39FF14",
+  "GRAFFITI": "#FF3B8C",
+  "BIKE": "#FF3B8C"
+ },
+ "bigwords": [],
+ "icons": [
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    1.3,
+    2.4
+   ],
+   "spin": 0,
+   "size": 480,
+   "y": 470,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-baumbike/ov/pl_belville.mov",
+   "t": [
+    5.2,
+    7.0
+   ],
+   "spin": 0,
+   "size": 800,
+   "y": 620,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-baumbike/ov/so.mov",
+   "t": [
+    6.9,
+    14.6
+   ],
+   "spin": 0,
+   "size": 900,
+   "y": 310,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-baumbike/ov/st_lack.mov",
+   "t": [
+    15.6,
+    17.0
+   ],
+   "spin": 0,
+   "size": 800,
+   "y": 560,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-baumbike/ov/cta.mov",
+   "t": [
+    17.0,
+    22.0
+   ],
+   "spin": 0,
+   "size": 860,
+   "y": 560,
+   "sfx": "mouse_click",
+   "clicks": [
+    17.5
+   ]
+  },
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    18.8,
+    19.9
+   ],
+   "spin": 0,
+   "size": 420,
+   "y": 330,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-baumbike/ov/pl_moses.mov",
+   "t": [
+    23.2,
+    25.2
+   ],
+   "spin": 0,
+   "size": 800,
+   "y": 620,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-baumbike/ov/preis.mov",
+   "t": [
+    25.2,
+    27.2
+   ],
+   "spin": 0,
+   "size": 700,
+   "y": 330,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-baumbike/ov/st_nitro.mov",
+   "t": [
+    29.2,
+    30.6
+   ],
+   "spin": 0,
+   "size": 700,
+   "y": 560,
+   "sfx": "swoosh"
+  }
+ ],
+ "sfx": [],
+ "segments": [
+  {
+   "t": [
+    0,
+    1.8
+   ],
+   "src": [
+    "shw",
+    2.0,
+    null
+   ],
+   "_": "Hook Fahrt"
+  },
+  {
+   "t": [
+    1.8,
+    3.5
+   ],
+   "src": [
+    "04",
+    6.0,
+    null
+   ],
+   "_": "Hook fällt"
+  },
+  {
+   "t": [
+    3.5,
+    4.9
+   ],
+   "src": [
+    "sfe",
+    5.0,
+    null
+   ],
+   "_": "Hook Baum"
+  },
+  {
+   "t": [
+    4.9,
+    6.9
+   ],
+   "src": [
+    "01",
+    7.0,
+    null
+   ],
+   "_": "Karte"
+  },
+  {
+   "t": [
+    6.9,
+    8.8
+   ],
+   "src": [
+    "03",
+    1.0,
+    null
+   ],
+   "_": "Feldweg"
+  },
+  {
+   "t": [
+    8.8,
+    11.5
+   ],
+   "src": [
+    "03",
+    9.0,
+    null
+   ],
+   "_": "Baum Brücke"
+  },
+  {
+   "t": [
+    11.5,
+    13.2
+   ],
+   "src": [
+    "04",
+    3.0,
+    null
+   ],
+   "_": "Schießen"
+  },
+  {
+   "t": [
+    13.2,
+    14.6
+   ],
+   "src": [
+    "05",
+    5.0,
+    null
+   ],
+   "_": "Aufsteigen"
+  },
+  {
+   "t": [
+    14.6,
+    16.9
+   ],
+   "src": [
+    "05",
+    10.0,
+    null
+   ],
+   "_": "Losfahren"
+  },
+  {
+   "t": [
+    16.9,
+    19.5
+   ],
+   "src": [
+    "sfe",
+    1.0,
+    null
+   ],
+   "_": "Deglau 1"
+  },
+  {
+   "t": [
+    19.5,
+    22.0
+   ],
+   "src": [
+    "sbr",
+    3.0,
+    null
+   ],
+   "_": "Deglau 2"
+  },
+  {
+   "t": [
+    22.0,
+    24.3
+   ],
+   "src": [
+    "06",
+    0.5,
+    null
+   ],
+   "_": "Moses"
+  },
+  {
+   "t": [
+    24.3,
+    26.3
+   ],
+   "src": [
+    "06",
+    8.0,
+    null
+   ],
+   "_": "Register-Menü",
+   "fit": 1.35
+  },
+  {
+   "t": [
+    26.3,
+    27.6
+   ],
+   "src": [
+    "07",
+    6.0,
+    null
+   ],
+   "_": "Register Name",
+   "fit": 1.35
+  },
+  {
+   "t": [
+    27.6,
+    28.6
+   ],
+   "src": [
+    "10",
+    6.0,
+    null
+   ],
+   "_": "Auspuff"
+  },
+  {
+   "t": [
+    28.6,
+    29.4
+   ],
+   "src": [
+    "11",
+    8.0,
+    null
+   ],
+   "_": "Flammen",
+   "fit": 1.35
+  },
+  {
+   "t": [
+    29.4,
+    31.0
+   ],
+   "src": [
+    "12",
+    11.0,
+    null
+   ],
+   "_": "Nitro",
+   "fit": 1.35
+  },
+  {
+   "t": [
+    31.0,
+    33.9
+   ],
+   "src": [
+    "sgt",
+    2.0,
+    null
+   ],
+   "_": "getunt"
+  },
+  {
+   "t": [
+    33.9,
+    35.53
+   ],
+   "src": [
+    "shw",
+    6,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    35.53,
+    37.16
+   ],
+   "src": [
+    "sfe",
+    11,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    37.16,
+    38.79
+   ],
+   "src": [
+    "04",
+    12,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    38.79,
+    40.43
+   ],
+   "src": [
+    "sbr",
+    8,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    40.43,
+    42.06
+   ],
+   "src": [
+    "sgt",
+    6,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    42.06,
+    43.69
+   ],
+   "src": [
+    "05",
+    12,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    43.69,
+    45.32
+   ],
+   "src": [
+    "shw",
+    10,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    45.32,
+    46.95
+   ],
+   "src": [
+    "08",
+    10,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    46.95,
+    48.58
+   ],
+   "src": [
+    "sgt",
+    10,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    48.58,
+    50.21
+   ],
+   "src": [
+    "sbr",
+    12,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    50.21,
+    51.84
+   ],
+   "src": [
+    "sfe",
+    3,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    51.84,
+    53.48
+   ],
+   "src": [
+    "03",
+    13,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    53.48,
+    55.11
+   ],
+   "src": [
+    "shw",
+    13,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    55.11,
+    56.74
+   ],
+   "src": [
+    "08",
+    2,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    56.74,
+    58.37
+   ],
+   "src": [
+    "sgt",
+    12,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    58.37,
+    60.0
+   ],
+   "src": [
+    "shw",
+    0,
+    null
+   ],
+   "_": "Montage"
+  }
+ ]
+}
