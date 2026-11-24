@@ -212,6 +212,13 @@ def main(edit_path):
     mix = ["vo", "bgm", "beat", "ten"]
     # Kamera-Auslöser auf dem Blitz (Datei aus assets/sfx, Peak auf den Blitz gelegt)
     sfx_list = [["camera_shutter", FLASH]] + E.get("sfx", [])
+    # Deglau 24.11.: Einblendungen bekommen eigene Sounds – Icon-Feld "sfx" (z. B. "swoosh" beim GTA-Logo, "mouse_click" bei Boxen)
+    # spielt beim Erscheinen, "clicks": [Zeiten] spielt mouse_click bei jedem Punkt, der in einer Info-Box reinkommt
+    for ic in E.get("icons", []):
+        if ic.get("sfx"):
+            sfx_list.append([ic["sfx"], ic["t"][0] + 0.05])
+        for ct in ic.get("clicks", []):
+            sfx_list.append(["mouse_click", ct])
     sfx_in = []
     for k, (name, t, *extra) in enumerate(sfx_list):
         sfx_in += ["-i", os.path.join(A, "sfx", name + ".mp3")]

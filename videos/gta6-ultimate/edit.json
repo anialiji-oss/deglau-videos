@@ -582,7 +582,8 @@
    ],
    "spin": 0,
    "size": 480,
-   "y": 470
+   "y": 470,
+   "sfx": "swoosh"
   },
   {
    "img": "assets/gta6_kachel.png",
@@ -592,7 +593,8 @@
    ],
    "spin": 0,
    "size": 520,
-   "y": 420
+   "y": 420,
+   "sfx": "swoosh"
   },
   {
    "img": "videos/gta6-ultimate/panels/p1.mov",
@@ -602,7 +604,13 @@
    ],
    "spin": 0,
    "size": 900,
-   "y": 330
+   "y": 330,
+   "sfx": "mouse_click",
+   "clicks": [
+    7.7,
+    8.62,
+    10.96
+   ]
   },
   {
    "img": "videos/gta6-ultimate/panels/p2.mov",
@@ -612,7 +620,12 @@
    ],
    "spin": 0,
    "size": 900,
-   "y": 330
+   "y": 330,
+   "sfx": "mouse_click",
+   "clicks": [
+    13.66,
+    15.36
+   ]
   },
   {
    "img": "videos/gta6-ultimate/panels/p3.mov",
@@ -622,7 +635,14 @@
    ],
    "spin": 0,
    "size": 900,
-   "y": 330
+   "y": 330,
+   "sfx": "mouse_click",
+   "clicks": [
+    17.74,
+    18.28,
+    19.12,
+    21.52
+   ]
   },
   {
    "img": "videos/gta6-ultimate/panels/p4.mov",
@@ -632,7 +652,12 @@
    ],
    "spin": 0,
    "size": 900,
-   "y": 330
+   "y": 330,
+   "sfx": "mouse_click",
+   "clicks": [
+    30.4,
+    32.3
+   ]
   },
   {
    "img": "videos/gta6-ultimate/panels/p5.mov",
@@ -642,7 +667,15 @@
    ],
    "spin": 0,
    "size": 900,
-   "y": 330
+   "y": 330,
+   "sfx": "mouse_click",
+   "clicks": [
+    35.0,
+    36.36,
+    39.14,
+    40.98,
+    42.02
+   ]
   }
  ],
  "sfx": []

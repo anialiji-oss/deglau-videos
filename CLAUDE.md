@@ -19,7 +19,7 @@ Features nur so, wie sie im Trailer auch zu sehen sind, damit Bild und Text spä
 - Neuesten Trailer holen (Steam-API, siehe STIL.md), Szenen passend zum Gesagten
 - Intro: Hintergrundmusik → `tension.mp3` → Blitz + Beat am Ende des Hook-Satzes
 - Logo, Titel-Box, Wort-für-Wort-Untertitel, große Wort-Effekte an coolen Stellen, Einblendungen
-- Soundeffekte: **nur Steam (Sound + drehendes Logo)**. Alle anderen SFX macht Deglau selbst in CapCut (STIL.md, Abschnitt ⭐⭐ Aufgabenteilung)
+- Soundeffekte: **nur Steam (Sound + drehendes Logo)** + **Mausklick bei Info-Boxen/Einblendungen, Swoosh beim GTA-Logo** (STIL.md, 24.11.). Alle anderen SFX macht Deglau selbst in CapCut
 - Übergänge (Blitz/Zoom-Punch) mitten im Video erlaubt, wenn es gut passt
 - **Videolänge:** endet ~1 s nach Deglaus letztem Wort. **Nur wenn Deglau „1 Minute“ sagt** → bis 60 s mit Gameplay-Montage + Beat (`"end": 60.0`). **AUSNAHME: Alle GTA-Videos IMMER 1 Minute** (Deglau, 22.11.2026)
 - Export 1080x1920, 30 fps → an Deglau schicken

@@ -90,9 +90,9 @@
   "quelle": "Mixkit: Negative answer lose"
  },
  "mouse_click": {
-  "peak": 0.02,
-  "dauer": 0.3,
-  "quelle": "Deglau"
+  "peak": 0.081,
+  "dauer": 0.35,
+  "quelle": "Deglau (24.11.2026)"
  },
  "plop": {
   "peak": 0.02,

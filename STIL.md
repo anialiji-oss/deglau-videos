@@ -249,3 +249,9 @@ im Schnittplan gibt man an, wann der Sound am lautesten sein soll, der Renderer 
   Überschrift und Punkten, die **nacheinander mit grünem Haken reinfliegen, wenn Deglau sie sagt** – Gameplay läuft dahinter weiter.
 - Erzeugen: `python3 scripts/info_panel.py panel.json ausgabe.mov` → als `.mov`-Icon (size 900, y 330) in edit.json.
 - Dazu: Spiel-Logo/-Kachel gleich in Sekunde 1 über dem laufenden Gameplay.
+
+### Sounds zu Einblendungen (Deglau, 24.11.2026) – Ausnahme zur „nur Steam“-Regel
+- Jede Info-Box / jeder Punkt, der eingeblendet wird (z. B. „Waffenladen → Varianten“): **`mouse_click.mp3`** (Deglaus Klick, Datei vom 24.11.).
+- GTA-Logo / Spiel-Kachel blendet ein: **`swoosh.mp3`**.
+- Im Renderer automatisch: Icon-Feld `"sfx": "swoosh"` bzw. `"mouse_click"` (beim Erscheinen) und `"clicks": [Zeiten]` (pro Punkt).
+- Alle anderen SFX macht Deglau weiter selbst in CapCut.
