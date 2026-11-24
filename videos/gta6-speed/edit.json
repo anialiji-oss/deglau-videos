@@ -1,0 +1,722 @@
+{
+ "voice": "voice.m4a",
+ "words": "words.json",
+ "output": "/home/user/deglau-videos/videos/gta6-speed/gta6_speed.mp4",
+ "sources": {
+  "1g": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/1g_nitro-beweis-hold-L3_jfm.mp4",
+  "rsxs": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/0_showcase_rsx-sonnenuntergang-skyline_monkeyking.mp4",
+  "1f": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/1f_einsteigen-wegfahren_jumpycode.mp4",
+  "1b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/1b_villa-holztor-schild_imack.mp4",
+  "2f": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/2f_thrax-anhaenger-speedway_mogi.mp4",
+  "3a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/3a_stats-thrax-registrieren_acez.mp4",
+  "ths": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/0_showcase_thrax-stadt-skyline_trophygamers.mp4",
+  "3d": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/3d_top10-tabelle_cognitions.mp4",
+  "2b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/2b_faehre-dalton-island_harry.mp4",
+  "rsxt": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/0_showcase_rsx-tageslicht-highway_ashley.mp4",
+  "1h": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/1h_nitro-beweis-tuning-menue_acez.mp4",
+  "2g": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/2g_andrew-nodes-thrax-scan_caspahz.mp4",
+  "1c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/1c_uebers-tor-in-garage_imack.mp4",
+  "thh": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/0_showcase_thrax-highway-skyline_harry.mp4",
+  "1e": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/1e_garage-auf-sonne_imack.mp4",
+  "1d": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/1d_rsx-in-garage-scan_imack.mp4",
+  "2a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/2a_karte-dalton-island_harry.mp4",
+  "2d": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/2d_einsteigen-wegfahren_harry.mp4",
+  "3b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/3b_stats-rsx_eckinox.mp4",
+  "1a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/1a_karte-vespucci_imack.mp4",
+  "2e": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/2e_karte-speedway_mogi.mp4",
+  "3e": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/3e_thrax-rennen_acez.mp4",
+  "3c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/3c_stats-andrew-nodes-thrax_mogi.mp4",
+  "2c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/2c_thrax-parkplatz_harry.mp4"
+ },
+ "_quellen": "Clips: Imack Studios, Jumpycode, JFM, AcezProduction, HarryNinetyFour, Mogi, Caspahz, Eckinox, Cognitions, MonkeyKingHero, Ashley After Hours, Trophygamers – Links in quellen_uebersicht.txt",
+ "flash": 5.94,
+ "end": 60.0,
+ "title": {
+  "lines": [
+   "Die 2 schnellsten",
+   "Autos in GTA 6"
+  ],
+  "emojis": [
+   "🎮",
+   "🔥"
+  ]
+ },
+ "segments": [
+  {
+   "t": [
+    0,
+    1.5
+   ],
+   "src": [
+    "rsxs",
+    4.0,
+    null
+   ],
+   "_": "Hook Ferrari"
+  },
+  {
+   "t": [
+    1.5,
+    2.9
+   ],
+   "src": [
+    "rsxt",
+    3.0,
+    null
+   ],
+   "_": "Hook Ferrari 2"
+  },
+  {
+   "t": [
+    2.9,
+    4.3
+   ],
+   "src": [
+    "thh",
+    4.0,
+    null
+   ],
+   "_": "Hook Bugatti"
+  },
+  {
+   "t": [
+    4.3,
+    5.94
+   ],
+   "src": [
+    "ths",
+    2.0,
+    null
+   ],
+   "_": "Hook Bugatti 2"
+  },
+  {
+   "t": [
+    5.94,
+    7.6
+   ],
+   "src": [
+    "1a",
+    9.0,
+    null
+   ],
+   "_": "Karte Vespucci"
+  },
+  {
+   "t": [
+    7.6,
+    8.6
+   ],
+   "src": [
+    "1b",
+    4.0,
+    null
+   ],
+   "_": "Villa"
+  },
+  {
+   "t": [
+    8.6,
+    10.0
+   ],
+   "src": [
+    "1c",
+    1.0,
+    null
+   ],
+   "_": "übers Holztor"
+  },
+  {
+   "t": [
+    10.0,
+    11.5
+   ],
+   "src": [
+    "1c",
+    8.0,
+    null
+   ],
+   "_": "Seitentür"
+  },
+  {
+   "t": [
+    11.5,
+    13.08
+   ],
+   "src": [
+    "1e",
+    6.0,
+    null
+   ],
+   "_": "getunter Ferrari"
+  },
+  {
+   "t": [
+    13.08,
+    15.0
+   ],
+   "src": [
+    "1h",
+    3.0,
+    null
+   ],
+   "_": "Nitrous Boost"
+  },
+  {
+   "t": [
+    15.0,
+    16.3
+   ],
+   "src": [
+    "1g",
+    1.5,
+    null
+   ],
+   "_": "Hold L3"
+  },
+  {
+   "t": [
+    16.3,
+    17.36
+   ],
+   "src": [
+    "1f",
+    10.0,
+    null
+   ],
+   "_": "schießt durch",
+   "rect": [
+    0,
+    0.1,
+    1,
+    0.9
+   ]
+  },
+  {
+   "t": [
+    17.36,
+    19.6
+   ],
+   "src": [
+    "2e",
+    0.0,
+    null
+   ],
+   "_": "Bugatti Speedway"
+  },
+  {
+   "t": [
+    19.6,
+    21.66
+   ],
+   "src": [
+    "2f",
+    3.0,
+    null
+   ],
+   "_": "Anhänger"
+  },
+  {
+   "t": [
+    21.66,
+    23.0
+   ],
+   "src": [
+    "2b",
+    1.0,
+    null
+   ],
+   "_": "Fähre Dalton",
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ]
+  },
+  {
+   "t": [
+    23.0,
+    24.48
+   ],
+   "src": [
+    "2c",
+    6.0,
+    null
+   ],
+   "_": "Security",
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ]
+  },
+  {
+   "t": [
+    24.48,
+    27.0
+   ],
+   "src": [
+    "rsxs",
+    8.0,
+    null
+   ],
+   "_": "Ich bin Deglau"
+  },
+  {
+   "t": [
+    27.0,
+    29.94
+   ],
+   "src": [
+    "thh",
+    9.0,
+    null
+   ],
+   "_": "folgt mir"
+  },
+  {
+   "t": [
+    29.94,
+    31.5
+   ],
+   "src": [
+    "2d",
+    6.0,
+    null
+   ],
+   "_": "welches besser",
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ]
+  },
+  {
+   "t": [
+    31.5,
+    34.0
+   ],
+   "src": [
+    "3a",
+    6.0,
+    null
+   ],
+   "_": "Stats Bugatti",
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ]
+  },
+  {
+   "t": [
+    34.0,
+    36.22
+   ],
+   "src": [
+    "3b",
+    2.0,
+    null
+   ],
+   "_": "Stats Ferrari"
+  },
+  {
+   "t": [
+    36.22,
+    38.0
+   ],
+   "src": [
+    "1d",
+    9.0,
+    null
+   ],
+   "_": "Tracker"
+  },
+  {
+   "t": [
+    38.0,
+    40.0
+   ],
+   "src": [
+    "ths",
+    8.0,
+    null
+   ],
+   "_": "viel Spaß"
+  },
+  {
+   "t": [
+    40.0,
+    41.54
+   ],
+   "src": [
+    "rsxt",
+    8.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    41.54,
+    43.08
+   ],
+   "src": [
+    "3e",
+    8.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    43.08,
+    44.62
+   ],
+   "src": [
+    "thh",
+    1.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    44.62,
+    46.15
+   ],
+   "src": [
+    "1e",
+    11.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    46.15,
+    47.69
+   ],
+   "src": [
+    "rsxs",
+    1.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    47.69,
+    49.23
+   ],
+   "src": [
+    "2f",
+    9.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    49.23,
+    50.77
+   ],
+   "src": [
+    "3e",
+    11.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    50.77,
+    52.31
+   ],
+   "src": [
+    "ths",
+    11.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    52.31,
+    53.85
+   ],
+   "src": [
+    "rsxt",
+    11.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    53.85,
+    55.38
+   ],
+   "src": [
+    "2d",
+    10.0,
+    null
+   ],
+   "_": "Montage",
+   "rect": [
+    0,
+    0,
+    1,
+    0.86
+   ]
+  },
+  {
+   "t": [
+    55.38,
+    56.92
+   ],
+   "src": [
+    "3b",
+    9.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    56.92,
+    58.46
+   ],
+   "src": [
+    "thh",
+    12.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    58.46,
+    60.0
+   ],
+   "src": [
+    "rsxs",
+    11.0,
+    null
+   ],
+   "_": "Montage"
+  }
+ ],
+ "caption_fixes": [
+  [
+   "GTR",
+   "GTA"
+  ],
+  [
+   "West",
+   "Vespucci"
+  ],
+  [
+   "Pucci",
+   ""
+  ],
+  [
+   "Holzer",
+   "Holztor"
+  ],
+  [
+   "Seiten",
+   "Seitentür"
+  ],
+  [
+   "Tür",
+   ""
+  ],
+  [
+   "der",
+   ""
+  ],
+  [
+   "dein",
+   "den"
+  ],
+  [
+   "Boony",
+   "Boone"
+  ],
+  [
+   "Securities",
+   "Security"
+  ],
+  [
+   "Deckler",
+   "Deglau"
+  ],
+  [
+   "geht's",
+   "GTA"
+  ],
+  [
+   "ja",
+   ""
+  ],
+  [
+   "sechs",
+   "6"
+  ],
+  [
+   "Track",
+   "Tracker"
+  ],
+  [
+   "-Eyes",
+   ""
+  ]
+ ],
+ "caption_colors": {
+  "FERRARI": "#FF3B8C",
+  "BUGATTI": "#FF3B8C",
+  "NITRO": "#39FF14",
+  "TRACKER": "#FF3B3B",
+  "SCHNELLER": "#FFD000",
+  "SCHNELLSTEN": "#FFD000"
+ },
+ "bigwords": [],
+ "icons": [
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    1.58,
+    2.6
+   ],
+   "spin": 0,
+   "size": 480,
+   "y": 470,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    26.7,
+    28.0
+   ],
+   "spin": 0,
+   "size": 480,
+   "y": 420,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-speed/ov/step1.mov",
+   "t": [
+    5.96,
+    17.36
+   ],
+   "spin": 0,
+   "size": 900,
+   "y": 310,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-speed/ov/pl_vesp.mov",
+   "t": [
+    6.76,
+    8.56
+   ],
+   "spin": 0,
+   "size": 800,
+   "y": 620,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-speed/ov/st_nitro.mov",
+   "t": [
+    14.1,
+    15.4
+   ],
+   "spin": 0,
+   "size": 800,
+   "y": 560,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-speed/ov/step2.mov",
+   "t": [
+    17.38,
+    24.48
+   ],
+   "spin": 0,
+   "size": 900,
+   "y": 310,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-speed/ov/pl_boone.mov",
+   "t": [
+    19.76,
+    21.66
+   ],
+   "spin": 0,
+   "size": 800,
+   "y": 620,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-speed/ov/pl_dalton.mov",
+   "t": [
+    22.8,
+    24.5
+   ],
+   "spin": 0,
+   "size": 800,
+   "y": 620,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-speed/ov/cta.mov",
+   "t": [
+    24.5,
+    29.9
+   ],
+   "spin": 0,
+   "size": 860,
+   "y": 560,
+   "sfx": "mouse_click",
+   "clicks": [
+    25.0
+   ]
+  },
+  {
+   "img": "videos/gta6-speed/ov/vergleich.mov",
+   "t": [
+    29.94,
+    36.22
+   ],
+   "spin": 0,
+   "size": 900,
+   "y": 310,
+   "sfx": "mouse_click",
+   "clicks": [
+    32.62,
+    33.04,
+    34.54,
+    35.04
+   ]
+  },
+  {
+   "img": "videos/gta6-speed/ov/st_tracker.mov",
+   "t": [
+    37.2,
+    38.6
+   ],
+   "spin": 0,
+   "size": 800,
+   "y": 560,
+   "sfx": "swoosh"
+  }
+ ],
+ "sfx": []
+}
