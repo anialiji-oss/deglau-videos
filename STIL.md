@@ -271,4 +271,5 @@ Ziel: Alles, was gesagt wird, auch **sehen**. Gameplay läuft immer weiter dahin
 ## Titelbild bei Vergleichen „A vs. B“ (Deglau, 24.11.2026)
 - Zwei Szenen übereinander, die Autos/Sachen **groß im Vordergrund**, oben + unten je ein Titel (z. B. „FERRARI MIT NITRO“ / „BUGATTI“), in der Mitte gelber „VS“-Kreis, Logo oben.
 - `python3 scripts/cover_vs.py videos/<thema>/cover_vs.json` (Beispiel: videos/gta6-speed/cover_vs.json). Menütexte/Tab-Leisten mit `"rect"` wegschneiden.
+- **Bevorzugt (Deglau 24.11.):** beide Autos/Sachen **freigestellt in EINEM Bild mit dickem weißen Sticker-Rand**, Titel oben/unten, VS in der Mitte: `python3 scripts/cover_cutout.py videos/<thema>/cover_cutout.json` (braucht `pip install "rembg[cpu]" scipy`). Für ein einzelnes Thema genauso mit nur einem Objekt.
 - Auch sonst: Titelbild so, dass man das Thema (Auto, Waffe, Ort) groß sieht – nicht nur Text.

@@ -1,0 +1,45 @@
+{
+ "background": {
+  "src": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/0_showcase_rsx-sonnenuntergang-skyline_monkeyking.mp4",
+  "time": 1.0,
+  "blur": 12,
+  "dark": 0.4
+ },
+ "objects": [
+  {
+   "src": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/3b_stats-rsx_eckinox.mp4",
+   "time": 1.5,
+   "x": 540,
+   "y": 640,
+   "width": 960,
+   "flip": true,
+   "rot": 4
+  },
+  {
+   "src": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/3a_stats-thrax-registrieren_acez.mp4",
+   "time": 5.0,
+   "x": 540,
+   "y": 1260,
+   "width": 960,
+   "rot": -3
+  }
+ ],
+ "texts": [
+  {
+   "text": "FERRARI MIT NITRO",
+   "color": "#FF3B8C",
+   "y": 340
+  },
+  {
+   "text": "BUGATTI",
+   "color": "#3FC5FF",
+   "y": 1590,
+   "size": 170
+  }
+ ],
+ "vs": {
+  "x": 540,
+  "y": 960
+ },
+ "output": "titelbild.jpg"
+}
