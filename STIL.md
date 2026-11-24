@@ -243,3 +243,9 @@ im Schnittplan gibt man an, wann der Sound am lautesten sein soll, der Renderer 
 ### Stimme glätten (Deglau, 22.11.2026)
 - Deglaus Aufnahmen haben Spitzen (bis 0 dB, „spiked“ in den Kopfhörern) → `render.py` macht jetzt automatisch
   Hochpass + De-Esser + Kompressor + Limiter (Spitzen max. ca. −3 dB). Abschalten nur mit `"voice_fx": false`.
+
+### Erklär-Boxen wie in Guide-TikToks (Deglau, 24.11.2026)
+- Bei Anleitungen/Listen (Schritte, Belohnungen, „Nummer 1–5“): dunkle Info-Box oben (unter dem Logo) mit gelbem Tag „NUMMER X“,
+  Überschrift und Punkten, die **nacheinander mit grünem Haken reinfliegen, wenn Deglau sie sagt** – Gameplay läuft dahinter weiter.
+- Erzeugen: `python3 scripts/info_panel.py panel.json ausgabe.mov` → als `.mov`-Icon (size 900, y 330) in edit.json.
+- Dazu: Spiel-Logo/-Kachel gleich in Sekunde 1 über dem laufenden Gameplay.

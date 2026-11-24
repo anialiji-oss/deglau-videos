@@ -572,98 +572,7 @@
    "euch"
   ]
  ],
- "bigwords": [
-  {
-   "text": "#1",
-   "color": "#FFD000",
-   "size": 200,
-   "t": [
-    6.12,
-    7.0
-   ],
-   "y": 540,
-   "anim": "slide",
-   "hide_captions": [
-    6.12,
-    6.74
-   ]
-  },
-  {
-   "text": "#2",
-   "color": "#FFD000",
-   "size": 200,
-   "t": [
-    11.76,
-    12.6
-   ],
-   "y": 540,
-   "anim": "slide",
-   "hide_captions": [
-    11.76,
-    12.38
-   ]
-  },
-  {
-   "text": "#3",
-   "color": "#FFD000",
-   "size": 200,
-   "t": [
-    16.78,
-    17.6
-   ],
-   "y": 540,
-   "anim": "slide",
-   "hide_captions": [
-    16.78,
-    17.3
-   ]
-  },
-  {
-   "text": "#4",
-   "color": "#FFD000",
-   "size": 200,
-   "t": [
-    28.88,
-    29.7
-   ],
-   "y": 540,
-   "anim": "slide",
-   "hide_captions": [
-    28.88,
-    29.46
-   ]
-  },
-  {
-   "text": "#5",
-   "color": "#FFD000",
-   "size": 200,
-   "t": [
-    32.9,
-    33.7
-   ],
-   "y": 540,
-   "anim": "slide",
-   "hide_captions": [
-    32.9,
-    33.48
-   ]
-  },
-  {
-   "text": "GRATIS",
-   "color": "#39FF14",
-   "size": 170,
-   "t": [
-    21.5,
-    22.5
-   ],
-   "y": 560,
-   "anim": "drop",
-   "hide_captions": [
-    21.52,
-    21.98
-   ]
-  }
- ],
+ "bigwords": [],
  "icons": [
   {
    "img": "assets/gta6_kachel.png",
@@ -684,6 +593,56 @@
    "spin": 0,
    "size": 520,
    "y": 420
+  },
+  {
+   "img": "videos/gta6-ultimate/panels/p1.mov",
+   "t": [
+    6.12,
+    11.76
+   ],
+   "spin": 0,
+   "size": 900,
+   "y": 330
+  },
+  {
+   "img": "videos/gta6-ultimate/panels/p2.mov",
+   "t": [
+    11.76,
+    16.78
+   ],
+   "spin": 0,
+   "size": 900,
+   "y": 330
+  },
+  {
+   "img": "videos/gta6-ultimate/panels/p3.mov",
+   "t": [
+    16.78,
+    23.42
+   ],
+   "spin": 0,
+   "size": 900,
+   "y": 330
+  },
+  {
+   "img": "videos/gta6-ultimate/panels/p4.mov",
+   "t": [
+    28.88,
+    32.9
+   ],
+   "spin": 0,
+   "size": 900,
+   "y": 330
+  },
+  {
+   "img": "videos/gta6-ultimate/panels/p5.mov",
+   "t": [
+    32.9,
+    44.6
+   ],
+   "spin": 0,
+   "size": 900,
+   "y": 330
   }
  ],
  "sfx": []
