@@ -103,17 +103,6 @@
    "sfx": "mouse_click"
   },
   {
-   "img": "videos/gta6-portal/ov/zaehler.mov",
-   "t": [
-    12.9,
-    17.0
-   ],
-   "spin": 0,
-   "size": 560,
-   "y": 330,
-   "sfx": "mouse_click"
-  },
-  {
    "img": "videos/gta6-portal/ov/cheat.mov",
    "t": [
     17.1,
@@ -213,6 +202,17 @@
    "spin": 0,
    "size": 940,
    "y": 250,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-portal/ov/liste_kurz.mov",
+   "t": [
+    12.2,
+    17.0
+   ],
+   "spin": 0,
+   "size": 860,
+   "y": 200,
    "sfx": "mouse_click"
   }
  ],
