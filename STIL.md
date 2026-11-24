@@ -273,3 +273,9 @@ Ziel: Alles, was gesagt wird, auch **sehen**. Gameplay läuft immer weiter dahin
 - `python3 scripts/cover_vs.py videos/<thema>/cover_vs.json` (Beispiel: videos/gta6-speed/cover_vs.json). Menütexte/Tab-Leisten mit `"rect"` wegschneiden.
 - **Bevorzugt (Deglau 24.11.):** beide Autos/Sachen **freigestellt in EINEM Bild mit dickem weißen Sticker-Rand**, Titel oben/unten, VS in der Mitte: `python3 scripts/cover_cutout.py videos/<thema>/cover_cutout.json` (braucht `pip install "rembg[cpu]" scipy`). Für ein einzelnes Thema genauso mit nur einem Objekt.
 - Auch sonst: Titelbild so, dass man das Thema (Auto, Waffe, Ort) groß sieht – nicht nur Text.
+
+## Schritt-Listen im Video statt in der Beschreibung (Deglau, 24.11.2026)
+- Wenn es viele Schritte/Orte gibt (z. B. 12 Umspannwerke): die komplette Liste **im Video einblenden** (`scripts/overlays.py liste`),
+  kurz genau da, wo Deglau die Schritte erwähnt („jetzt pausieren!“), und nochmal am Ende („Screenshot machen!“).
+- Im Script dann **NICHT** „steht in der Beschreibung“ schreiben, sondern z. B. „Am Ende blende ich euch die Reihenfolge ein“.
+- Beschreibungen dann kurz halten – **keine langen Listen** reinschreiben, nur Hook + Hinweis „Reihenfolge im Video“ + Credits + Hashtags.
