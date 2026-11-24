@@ -255,3 +255,15 @@ im Schnittplan gibt man an, wann der Sound am lautesten sein soll, der Renderer 
 - GTA-Logo / Spiel-Kachel blendet ein: **`swoosh.mp3`**.
 - Im Renderer automatisch: Icon-Feld `"sfx": "swoosh"` bzw. `"mouse_click"` (beim Erscheinen) und `"clicks": [Zeiten]` (pro Punkt).
 - Alle anderen SFX macht Deglau weiter selbst in CapCut.
+
+### MEHR Einblendungen wie in Guide-TikToks (Deglau, 24.11.2026 – Referenz: @gta6.insight „Before the cartel heist“)
+Ziel: Alles, was gesagt wird, auch **sehen**. Gameplay läuft immer weiter dahinter. Baukasten: `scripts/overlays.py` (+ `info_panel.py`, `code_card.py`).
+- **Schritt-Nummer + Label** oben links (`step`): pinker Kreis „1/2/3“ + Schild mit Stichwort, das zum Gesagten wechselt.
+- **Geld-Zähler** (`counter`): grüne Box, zählt hoch („+$0 → +$3.800“), wann immer ein Betrag genannt wird.
+- **Stempel** (`stamp`): schräge Neon-Schrift für Warnungen („NUR KAPITEL 1“, „FÜR IMMER WEG“, „TRACKER!“).
+- **Zähler für Sachen** (`things`): „0 → 2 MAGAZINE“.
+- **Ortsschild** (`place`): gelbes Schild über Karten-Szenen („VESPUCCI ISLAND“).
+- **Checkliste** (`info_panel.py`): Punkte mit grünem Haken nacheinander.
+- **Folgen/Speichern-Buttons** (`cta`) beim „Ich bin Deglau“-Satz.
+- **Schlüsselwörter in den Untertiteln farbig** (edit.json `"caption_colors": {"NITRO": "#FF3B8C", ...}`).
+- Jede Einblendung mit **Mausklick** (Boxen/Schilder) bzw. **Swoosh** (Logo/Stempel).

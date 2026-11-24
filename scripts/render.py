@@ -191,7 +191,8 @@ def main(edit_path):
         fs = 84   # lange Wörter automatisch kleiner, damit sie nicht aus dem Bild ragen (max. 1000 px breit)
         while fs > 40 and ImageFont.truetype(os.path.join(A, "caption.ttf"), fs).getlength(w) + 14 > 1000:
             fs -= 2
-        dt.append(f"drawtext=fontfile={A}/caption.ttf:textfile={tf}:fontsize={fs}:fontcolor=white:borderw=7:bordercolor=black:"
+        col = E.get("caption_colors", {}).get(w.strip(".,!?").upper(), "white")   # Schlüsselwörter farbig (z. B. pink)
+        dt.append(f"drawtext=fontfile={A}/caption.ttf:textfile={tf}:fontsize={fs}:fontcolor={col}:borderw=7:bordercolor=black:"
                   f"x=(w-text_w)/2:y=h*0.57:enable='gte(t,{s:.3f})*lt(t,{e:.3f})'")
     v += f";[{last}]" + ",".join(dt) + "[vout]"
 
