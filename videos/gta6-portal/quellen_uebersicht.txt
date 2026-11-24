@@ -1,0 +1,165 @@
+GTA 6 – Geheimes Portal ins alte Vice City (Malibu Club im PS2-Look)
+Stand: 24.11.2026 – alle Clips 1080p, 13–15 s, nur YouTube-Videos ab 23.11.2026, keine Facecam, keine Streams.
+
+======================================================================
+KURZFASSUNG (geprüft an Videobildern)
+======================================================================
+- Start: Radioturm in Key Lento (Badger R&D Radio Tower, bei Nifty Threads Island Wear).
+  Im Kontrollraum: erst Stromkasten/Hebel an der Wand umlegen, dann am Schaltpult "PRESS" drücken.
+  Fernseher: Testbild -> rote Schrift -> Neon-Logo "Malibu". Poster im Raum: "LPL" und "LOSE TRACK OF TIME".
+- Danach 12 LPL-Umspannwerke (LPL Substation) in fester Reihenfolge, an jedem genau EIN Schalter.
+  Buchstaben an den Gebäuden ergeben den Vice-City-Cheat "LIFEISPASSINGMEBY" (Uhr schneller laufen lassen –
+  passt zum Poster "Lose Track of Time").
+- Nach dem 12. Umspannwerk kommt KEIN ANRUF, sondern eine SMS von "Unknown":
+      "U-235 REACTOR2 19-06"
+  = Reaktor 2 im T.H. Power Station (Turtle Head, östlich von Hamlet), zwischen 19:00 und 6:00 Uhr.
+- Am Reaktor 2 Strom/Hebel an -> Portal mit lila Blitzen -> durchlaufen -> Malibu Club im PS2-Look (1986er Vice City).
+  Oben in der VIP-Lounge sitzt Kent Paul. Er kommt durch ein Portal mit zurück.
+- Zurück kommt man vor dem heutigen Club "Paradiso", Jason trägt das türkise Hawaiihemd (Tommy-Style),
+  daneben steht das Motorrad.
+- Motorrad im Spiel heißt: WESTERN  MALIBU ZOMBIE BOBBER   (NICHT "Biker Angel" wie auf Newsseiten!)
+  Scan-Menü: Access UNLOCKED / Security DEACTIVATED / Tracker NONE / Sell Value $3,740 / Cost to Register $3,750
+  Dazu Einblendung "+ American Glory" und "You have unlocked a livery for purchase at Vice Vinyl"
+  (= Flaggen-Lackierung wie beim alten Angel-Bike aus Vice City).
+- Radio springt auf VICE CITY FM ("Neutron Dance – The Pointer Sisters"), zu sehen in Clip 13.
+
+======================================================================
+DIE 12 UMSPANNWERKE (Reihenfolge + Schalter)
+======================================================================
+Schalter-Symbol (D, A, W, •) = Beschriftung im Dan-Allen-Video (Overlay "1: D" usw.) und in allen 3 Guides gleich.
+Buchstaben am Gebäude: selbst gesehen bei P (5), ME (10), Y (12); Rest laut Guides.
+
+ Nr | Buchstabe | Ort (laut Guides)                                   | Schalter | Karte im Video (Dan Allen)
+----+-----------+-----------------------------------------------------+----------+-----------------------------
+  1 | L         | Downtown Vice City                                  | D        | Vice City, nahe Autobahn/VCIA
+  2 | iF        | Balsero (Türen Nordseite)                           | D        | Vice City Süd
+  3 | Ei        | Key Lento (Tür Südseite, kann man aufbrechen)       | •        | Mariana County / Keys
+  4 | S         | North Vice Beach, Penmarch Isle (kleines Gebäude)   | A        | Vice Beach
+  5 | P         | North Vice City (Außenwand mit "P")                 | •        | Vice-Dale / Leonard County
+  6 | A         | Port Gellhorn                                       | A        | Kelly County
+  7 | Ss        | East Hamlet                                         | A        | Hamlet
+  8 | iN        | Gloriana Key, Kläranlage ("Waste Water Plant")      | A        | Vice-Dale County
+  9 | G         | West Hamlet                                         | •        | Hamlet
+ 10 | Me        | South Port Gellhorn (Wand mit "ME")                 | W        | South Kelly County
+ 11 | B         | South Hamlet                                        | D        | Hamlet
+ 12 | Y         | siehe Widerspruch unten (Wand mit "Y")              | W        | North Mariana County, beim Flughafen
+Volle Folge: D, D, •, A, •, A, A, A, •, W, D, W
+Symbole laut Hold To Reset: D = Kreis, W = Dreieck, A = Quadrat, • = Punkt (nicht selbst geprüft).
+
+======================================================================
+WIDERSPRÜCHE / WAS NICHT STIMMT
+======================================================================
+1. "Anruf von Unknown" -> FALSCH. Es ist eine SMS (Textnachricht) von "Unknown": "U-235 REACTOR2 19-06".
+   (Dan Allen 6:58–7:07, Clip 06; auch Incredilags)
+2. Motorrad "Biker Angel" (Hold To Reset, Khel Now) -> im Spiel heißt es "WESTERN MALIBU ZOMBIE BOBBER".
+   Gesehen bei Dan Allen (10:14), Shirrako (2:11) und Incredilags (4:25).
+3. "Altes Vice City 2002" -> 2002 ist nur das Erscheinungsjahr des Spiels. Im Spiel ist es das Vice City von 1986
+   (GTA Series Videos: "1986 Vice City", Shirrako: "1980s Vice City").
+4. Hemd: Kein geprüftes Video zeigt den Namen im Kleiderschrank. Gesichert ist nur: Jason kommt im
+   türkisen Hawaiihemd (Tommys Muster) aus dem Portal. Hold To Reset nennt es "teal Hawaiian shirt" (im Schrank).
+   "Anziehen" muss man es nicht – man trägt es nach der Rückkehr schon.
+5. "Als Tommy Vercetti spielen" (Titel von TmarTn2, ZacCoxTV, Diggy) -> übertrieben. Man spielt weiter Jason,
+   nur in PS2-Grafik und im Hawaiihemd ("Holy shit… Am I back?" sagt Jason).
+6. Charakter wechseln / Begleitung:
+   - Hold To Reset: Schnellreise ODER Charakterwechsel setzt alles zurück.
+   - Khel Now: nur Schnellreise erwähnt.
+   - GTA Series Videos: Am Reaktor ALLEIN als Jason oder Lucia hin – ist der andere Charakter dabei,
+     geht der Reaktor-Schalter nicht. (Bei Dan Allen läuft Lucia bei den Umspannwerken mit – das ist also okay.)
+7. 4 Sterne im Kraftwerk:
+   - The Based Otaku: Kraftwerk bewacht, sofort 4 Sterne.
+   - GTA Series Videos: Wer alleine für das Easter Egg reingeht, bekommt NICHT sofort 4 Sterne.
+8. Radioturm: Hold To Reset "Power-Schalter + Knopf", Based Otaku "Hebel am Stromkasten + Schalter neben TV".
+   Im Video (Clip 01): erst Hebel/Kasten an der Wand, dann "PRESS" am Pult – beide Versionen meinen dasselbe.
+9. Umspannwerk 5: "zwischen Bayside und Stockyard" (Hold To Reset) vs. "zwischen Bayside und La Perie" (Based Otaku).
+10. Umspannwerk 12: "Breakwater Quarry, südwestlich vom Flughafen" (Hold To Reset, Khel Now) vs. "North Mariana County"
+    (Based Otaku). Die Karte bei Dan Allen und GTA Series zeigt den Punkt in North Mariana County beim Flughafen
+    – wahrscheinlich ist beides derselbe Ort.
+11. Kapitel: Eine Seite sagt, erst ab Kapitel 3 (ganze Karte offen). Die anderen erwähnen nichts – nicht geprüft.
+12. Wer es gefunden hat: "Memeio / MemeioYT" (Based Otaku, Khel Now) vs. Tweet "NickEh30 found an Easter egg"
+    – nicht geprüft, kein Original-Video gefunden.
+13. Danach (GTA Series Videos): Kent Paul ruft an den nächsten Spieltagen 4-mal an (Anrufe auch in Clip 14
+    unten als Untertitel), später ein Snapmatic-Foto von ihm. Rita die Wahrsagerin erwähnt ihn auch.
+
+======================================================================
+CLIPS  (Ordner gta6\portal)
+======================================================================
+01_radioturm-hebel-knopf-malibu-tv_danallen.mp4
+   Dan Allen Gaming – https://www.youtube.com/watch?v=4KwBs_RkilM&t=45s   0:45–1:00
+   Kontrollraum im Radioturm: Hebel/Knopf, TV Testbild -> rotes Logo -> Neon "Malibu" groß. Poster LPL + "Lose Track of Time".
+02_umspannwerk1-karte-LPL-gebaeude_danallen.mp4
+   Dan Allen Gaming – https://www.youtube.com/watch?v=4KwBs_RkilM&t=61s   1:01–1:14
+   Karte zoomt auf Umspannwerk 1 (Vice City), dann LPL-Gebäude von außen, Tür. Overlay oben rechts "1: D".
+03_umspannwerk1-schalter-D_danallen.mp4
+   Dan Allen Gaming – https://www.youtube.com/watch?v=4KwBs_RkilM&t=74s   1:14–1:28
+   Rein ins Umspannwerk ("LPL Substation"), Schaltschrank, Jason drückt den D-Schalter.
+04_umspannwerk5-P-wand-schalter_danallen.mp4
+   Dan Allen Gaming – https://www.youtube.com/watch?v=4KwBs_RkilM&t=205s  3:25–3:39
+   Nachts, Umspannwerk 5, Jason läuft zur Außenwand mit "P" und legt den •-Schalter um. (Erste Sekunde schwarz.)
+05_umspannwerk10-ME-schalter_danallen.mp4
+   Dan Allen Gaming – https://www.youtube.com/watch?v=4KwBs_RkilM&t=330s  5:30–5:44
+   Karte Umspannwerk 10, Sonnenuntergang, große Buchstaben "ME" an der Wand, Schalter W.
+06_umspannwerk12-Y-hebel-sms-unknown_danallen.mp4
+   Dan Allen Gaming – https://www.youtube.com/watch?v=4KwBs_RkilM&t=413s  6:53–7:07
+   Letztes Umspannwerk (Wand mit "Y"), Hebel W, dann SMS-Hinweis "Unknown – U-235 REACTOR2 19-06" + Handy offen.
+07_heli-nacht-zum-kraftwerk_danallen.mp4
+   Dan Allen Gaming – https://www.youtube.com/watch?v=4KwBs_RkilM&t=428s  7:08–7:22
+   Hubschrauberflug bei Nacht über die beleuchtete Stadt Richtung T.H. Power Station.
+08_kraftwerk-portal-geht-auf_danallen.mp4
+   Dan Allen Gaming – https://www.youtube.com/watch?v=4KwBs_RkilM&t=484s  8:04–8:18
+   Im Kraftwerk nachts: Portal am Reaktor 2 geht auf, Blitze, Jason läuft drauf zu.
+09_reaktor2-portal-reingehen-ps2-club_shirrako.mp4
+   Shirrako – https://www.youtube.com/watch?v=ZZdJmu00bME&t=12s   0:12–0:26
+   Nahaufnahme Portal ("REACTOR 2"), lila Wirbel, weißer Blitz, Jason taucht in PS2-Grafik im Malibu Club auf.
+10_malibu-club-ps2-tanzflaeche_gameriot.mp4
+   GameRiot – https://www.youtube.com/watch?v=lw-Go9kSIj4&t=53s   0:53–1:07
+   Alter Malibu Club innen, PS2-Look: Tanzfläche, Neon-Sterne, tanzende Leute. Kein Text.
+11_kent-paul-lounge_shirrako.mp4
+   Shirrako – https://www.youtube.com/watch?v=ZZdJmu00bME&t=97s   1:37–1:51
+   VIP-Lounge oben: Kent Paul auf dem Sofa (kleine Untertitel), am Ende Blitz/Portal.
+12_zurueck-paradiso-zombie-bobber_danallen.mp4
+   Dan Allen Gaming – https://www.youtube.com/watch?v=4KwBs_RkilM&t=604s  10:04–10:18
+   Weißer Blitz, Jason kommt im Hawaiihemd vor dem "Paradiso" aus dem Portal, steigt aufs Motorrad,
+   Einblendung "WESTERN MALIBU ZOMBIE BOBBER" + "American Glory".
+13_bobber-scan-werte_incredilags.mp4
+   Incredilags – https://www.youtube.com/watch?v=GgWg8mL4rss&t=263s  4:23–4:37
+   Auf dem Bobber, Radio "Vice City FM" + Scan-Menü (Unlocked / Deactivated / None / $3,740 / $3,750) – nur kurz eingeblendet.
+14_bobber-nachts-fahren_shirrako.mp4
+   Shirrako – https://www.youtube.com/watch?v=ZZdJmu00bME&t=160s  2:40–2:54
+   Nachtfahrt auf dem Bobber durch Vice City, unten kleine Untertitel vom Kent-Paul-Anruf.
+15_jason-im-hawaiihemd_shirrako.mp4
+   Shirrako – https://www.youtube.com/watch?v=ZZdJmu00bME&t=223s  3:43–3:57
+   Tag, Ocean-Drive-Look: Jason steigt aus und läuft im türkisen Hawaiihemd die Straße entlang.
+
+SHOWCASE
+0_showcase_portal-blitze-gross_gameriot.mp4
+   GameRiot – https://www.youtube.com/watch?v=lw-Go9kSIj4&t=0s   0:00–0:14
+   Portal riesig mit vielen Blitzen, Figur läuft hinein. Schönster Portal-Shot.
+0_showcase_malibu-club-neon-sterne_shirrako.mp4
+   Shirrako – https://www.youtube.com/watch?v=ZZdJmu00bME&t=44s   0:44–0:58
+   Malibu Club PS2: Blick über die Tanzfläche auf die Neon-Sterne.
+0_showcase_bobber-nacht-stadt_shirrako.mp4
+   Shirrako – https://www.youtube.com/watch?v=ZZdJmu00bME&t=185s  3:05–3:19
+   Bobber nachts durch die Stadt, Neonlichter. (Unten kurz "Call Ended".)
+0_showcase_hawaiihemd-ocean-drive_shirrako.mp4
+   Shirrako – https://www.youtube.com/watch?v=ZZdJmu00bME&t=238s  3:58–4:12
+   Jason im Hawaiihemd zwischen Palmen und Art-Deco-Häusern, ohne HUD.
+
+Hinweise: Dan-Allen-Clips haben oben rechts ein Overlay wie "1: D" (mittelgroß). Shirrako hat ein sehr blasses
+Wasserzeichen "SHIRRAKO" unten. Sonst keine großen Texte.
+Nicht gefunden: der Malibu Club von AUSSEN im PS2-Look (alle Videos zeigen nur innen) und der Radioturm von
+außen ohne große Texteinblendung (Dan Allen hat dort "SKIP TO 8:19").
+
+======================================================================
+QUELLEN-VIDEOS
+======================================================================
+- Dan Allen Gaming – "GTA 6 - How to Unlock the Secret Vice City Portal Easter Egg (Full Guide)" – 23.11.2026
+  https://www.youtube.com/watch?v=4KwBs_RkilM
+- Shirrako – "GTA 6 - Secret Portal to 1980s Vice City (Tommy Vercetti Easter Egg)" – 23.11.2026
+  https://www.youtube.com/watch?v=ZZdJmu00bME
+- GameRiot – "GTA 6 - Travelling Back to Vice City (Kent Paul)" – 23.11.2026
+  https://www.youtube.com/watch?v=lw-Go9kSIj4
+- Incredilags – "GTA 6 - Vice City Portal Easter Egg Guide (Tommy Vercetti Shirt & Bike Reward)" – 23.11.2026
+  https://www.youtube.com/watch?v=GgWg8mL4rss
+Nur gelesen (kein Clip): GTA Series Videos _25LRegkOgg (Hinweise "alleine hin", 1986, Kent-Paul-Anrufe;
+große Text-Tafeln + Logo), GameRiot bxWAygrBsIs (verwaschenes Bild), AFGuidesHD, Zack Zwiezen, Lootward, TmarTn2.
+Webseiten: holdtoreset.com, thebasedotaku.com, khelnow.com (dotesports.com blockiert).
