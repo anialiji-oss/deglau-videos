@@ -1,0 +1,35 @@
+{
+ "top": {
+  "src": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/3b_stats-rsx_eckinox.mp4",
+  "time": 2.0,
+  "cx": 0.55,
+  "cy": 0.55,
+  "zoom": 1.0,
+  "label": "FERRARI MIT NITRO",
+  "color": "#FF3B8C",
+  "rect": [
+   0,
+   0.14,
+   0.8,
+   0.75
+  ]
+ },
+ "bottom": {
+  "src": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/speed/3a_stats-thrax-registrieren_acez.mp4",
+  "time": 5.0,
+  "cx": 0.42,
+  "cy": 0.55,
+  "zoom": 1.05,
+  "label": "BUGATTI",
+  "color": "#3FC5FF",
+  "rect": [
+   0,
+   0.12,
+   1,
+   0.88
+  ]
+ },
+ "output": "titelbild.jpg",
+ "bottom_label_y": 1145,
+ "top_label_y": 360
+}
