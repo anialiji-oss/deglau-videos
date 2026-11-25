@@ -152,7 +152,9 @@ def main(edit_path):
     icons = E.get("icons", [])          # kurze Icon-Einblendungen, z. B. drehendes Steam-Logo
     for ic in icons:   # .mov = fertige Animation (z. B. Cheat-Karte mit gedrückten Pfeilen), sonst Standbild
         inputs += (["-i"] if ic["img"].endswith(".mov") else ["-loop", "1", "-i"]) + [p(ic["img"], REPO)]
-    zoom = f"(1+if(lt(t,{FLASH}),0.02*t+if(gt(t,{TS}),0.07*(t-{TS})*(t-{TS}),0),0.12*exp(-(t-{FLASH})*6)))"
+    # Reinzoomen vor dem Blitz: auf Deglaus Wunsch (25.11.) standardmäßig AUS (edit.json: "zoom_in": true)
+    ramp = f"0.02*t+if(gt(t,{TS}),0.07*(t-{TS})*(t-{TS}),0)" if E.get("zoom_in", False) else "0"
+    zoom = f"(1+if(lt(t,{FLASH}),{ramp},0.12*exp(-(t-{FLASH})*6)))"
     # Wackeln + Abdunkeln vor dem Blitz: auf Deglaus Wunsch standardmäßig AUS (edit.json: "shake": true / "darken": true)
     shake = f"if(between(t,{TS},{FLASH}),9*(t-{TS})*sin(t*70),0)" if E.get("shake", False) else "0"
     dark = f"eq=brightness='if(between(t,{TS},{FLASH}),-0.15*(t-{TS})/2,0)':eval=frame" if E.get("darken", False) else "null"

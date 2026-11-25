@@ -284,3 +284,6 @@ Ziel: Alles, was gesagt wird, auch **sehen**. Gameplay läuft immer weiter dahin
 - Instagram schneidet Titelbilder im Profil auf 3:4 zu → normales Titelbild wirkt „voll rangezoomt“.
 - Deshalb IMMER zusätzlich `titelbild_insta.jpg`: `python3 scripts/cover_insta.py videos/<thema>/titelbild.jpg videos/<thema>/titelbild_insta.jpg`
   (ganzes Titelbild verkleinert in der 3:4-Mitte, außen unscharf). TikTok/YouTube = titelbild.jpg, Instagram = titelbild_insta.jpg.
+
+## Kein Reinzoomen vor dem Blitz (Deglau, 25.11.2026)
+- Das langsame Reinzoomen in den Sekunden vor dem Blitz (ca. Sek. 3–5) ist weg – „unnötig“. Standard in render.py jetzt aus (`"zoom_in": true` nur auf Wunsch).
