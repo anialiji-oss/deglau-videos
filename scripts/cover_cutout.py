@@ -91,7 +91,10 @@ def main(path):
     im = Image.fromarray(np.clip(arr, 0, 255).astype("uint8")).convert("RGBA")
     sess = new_session(C.get("model", "isnet-general-use"))
     for O in C["objects"]:
-        o = cutout(frame(base, O["src"], O["time"]), sess)
+        fr = frame(base, O["src"], O["time"])
+        if O.get("rect"):  # nur diesen Bildteil freistellen (x,y,w,h Anteile), z. B. Nachbar-Figur weglassen
+            rx, ry, rw, rh = O["rect"]; fr = fr.crop((int(rx * fr.width), int(ry * fr.height), int((rx + rw) * fr.width), int((ry + rh) * fr.height)))
+        o = cutout(fr, sess)
         if O.get("bright"):  # dunkle Szenen aufhellen
             from PIL import ImageEnhance
             a_ = o.getchannel("A"); o = ImageEnhance.Brightness(o.convert("RGB")).enhance(O["bright"]).convert("RGBA"); o.putalpha(a_)

@@ -1,0 +1,47 @@
+{
+ "background": {
+  "src": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/fuchs/0_showcase_fuchs-im-scheinwerferlicht_rubhen925.mp4",
+  "time": 7.0,
+  "blur": 3,
+  "dark": 0.0,
+  "cx": 0.55,
+  "rect": [
+   0.2,
+   0,
+   0.7,
+   0.85
+  ]
+ },
+ "objects": [
+  {
+   "src": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/fuchs/12_wahl-cash-12500-jason_natecity.mp4",
+   "time": 0.5,
+   "x": 540,
+   "y": 1080,
+   "width": 640,
+   "stroke": 14,
+   "bright": 1.5,
+   "rect": [
+    0.0,
+    0.0,
+    0.47,
+    1.0
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "text": "HILF DIESEM FUCHS",
+   "color": "#FF8A00",
+   "y": 330,
+   "size": 140
+  },
+  {
+   "text": "ODER NICHT?",
+   "color": "#3FC5FF",
+   "y": 1600,
+   "size": 150
+  }
+ ],
+ "output": "titelbild.jpg"
+}

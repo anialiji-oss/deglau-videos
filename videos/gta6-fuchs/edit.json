@@ -1,0 +1,603 @@
+{
+ "voice": "voice.m4a",
+ "words": "words.json",
+ "output": "/home/user/deglau-videos/videos/gta6-fuchs/gta6_fuchs.mp4",
+ "sources": {
+  "17": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/fuchs/17_verrat-leichen-looten-nur-61-65-dollar_natecity.mp4",
+  "09": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/fuchs/09_starfish-island-ankunft_kookengi.mp4",
+  "06": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/fuchs/06_parkhaus-vice-city-parking-department_kookengi.mp4",
+  "12": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/fuchs/12_wahl-cash-12500-jason_natecity.mp4",
+  "07": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/fuchs/07_fuchs-freunde-van-tausch_kookengi.mp4",
+  "05": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/fuchs/05_flucht-vor-cops_hardcoregamer.mp4",
+  "11": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/fuchs/11_wahl-gun-oder-cash-15000_spookyfairy.mp4",
+  "19": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/fuchs/19_nicht-helfen-leiche-41-dollar_obbersgta.mp4",
+  "01": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/fuchs/01_karte-event-ort-vice-city_aimske.mp4",
+  "16": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/fuchs/16_verrat-chase-erschiessen_natecity.mp4",
+  "18": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/fuchs/18_nicht-helfen-cops-erschiessen-fuchs_obbersgta.mp4",
+  "ssw": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/fuchs/0_showcase_fuchs-im-scheinwerferlicht_rubhen925.mp4",
+  "14": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/fuchs/14_furry-dw9-im-waffenrad_maxemilio.mp4",
+  "sba": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/fuchs/0_showcase_basis-von-innen_hardcoregamer.mp4",
+  "13": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/fuchs/13_basis-waffenwand-gratis-waffen_spookyfairy.mp4",
+  "15": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/fuchs/15_waffe-in-aktion-basis-schiessen_obbersgta.mp4",
+  "02": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/fuchs/02_nachts-hinfahren-bayside-crosstown_kookengi.mp4",
+  "08": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/fuchs/08_im-van-mit-fuchs-freunden_kookengi.mp4",
+  "04": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/fuchs/04_einsteigen-crime-reported-flucht_kookengi.mp4",
+  "10": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/fuchs/10_ankunft-villa-garage_hardcoregamer.mp4",
+  "sva": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/fuchs/0_showcase_fuechse-im-van_kookengi.mp4",
+  "03": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/fuchs/03_fuchs-von-cops-umzingelt_kookengi.mp4"
+ },
+ "_quellen": "Clips: KooKenGI, Rubhen925, AIMSKE, Hardcore Gamer, SpookyFairy, NateCity, Maxemilio Gaming, ObbersGTA – Links in quellen_uebersicht.txt",
+ "flash": 4.95,
+ "end": 60.0,
+ "title": {
+  "lines": [
+   "Hilf diesem",
+   "Fuchs 🦊"
+  ],
+  "emojis": [
+   "🎮",
+   "🔥"
+  ]
+ },
+ "caption_fixes": [
+  [
+   "und",
+   "umzingelt"
+  ],
+  [
+   "Single",
+   ""
+  ],
+  [
+   "hängen",
+   "häng"
+  ],
+  [
+   "-Freunde",
+   "Freunde"
+  ],
+  [
+   "15",
+   "15.000"
+  ],
+  [
+   "000",
+   ""
+  ],
+  [
+   "-Maschinenpistole",
+   "Maschinenpistole"
+  ],
+  [
+   "durch",
+   "euch"
+  ]
+ ],
+ "caption_colors": {
+  "FURRY": "#FF8A00",
+  "COPS": "#3FC5FF",
+  "41": "#FF3B3B",
+  "GELD": "#39FF14",
+  "15.000": "#39FF14",
+  "STERNE": "#FF3B3B",
+  "GRATIS": "#39FF14",
+  "WAFFE": "#FFD000",
+  "WAFFEN": "#FFD000",
+  "ENTSCHEIDUNG": "#FF3B3B"
+ },
+ "bigwords": [],
+ "icons": [
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    0.36,
+    1.4
+   ],
+   "spin": 0,
+   "size": 480,
+   "y": 470,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-fuchs/ov/pl_ort.mov",
+   "t": [
+    6.3,
+    8.0
+   ],
+   "spin": 0,
+   "size": 800,
+   "y": 620,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-fuchs/ov/st_41.mov",
+   "t": [
+    8.0,
+    10.8
+   ],
+   "spin": 0,
+   "size": 860,
+   "y": 560,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-fuchs/ov/rett.mov",
+   "t": [
+    11.2,
+    19.0
+   ],
+   "spin": 0,
+   "size": 900,
+   "y": 310,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-fuchs/ov/wahl.mov",
+   "t": [
+    19.2,
+    22.4
+   ],
+   "spin": 0,
+   "size": 900,
+   "y": 310,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-fuchs/ov/st_beides.mov",
+   "t": [
+    25.0,
+    26.6
+   ],
+   "spin": 0,
+   "size": 760,
+   "y": 560,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-fuchs/ov/st_sterne.mov",
+   "t": [
+    27.4,
+    28.9
+   ],
+   "spin": 0,
+   "size": 760,
+   "y": 560,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-fuchs/ov/cta.mov",
+   "t": [
+    29.0,
+    34.0
+   ],
+   "spin": 0,
+   "size": 860,
+   "y": 560,
+   "sfx": "mouse_click",
+   "clicks": [
+    29.5
+   ]
+  },
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    30.8,
+    31.9
+   ],
+   "spin": 0,
+   "size": 420,
+   "y": 330,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-fuchs/ov/st_gratis.mov",
+   "t": [
+    36.7,
+    38.0
+   ],
+   "spin": 0,
+   "size": 700,
+   "y": 560,
+   "sfx": "swoosh"
+  }
+ ],
+ "sfx": [],
+ "segments": [
+  {
+   "t": [
+    0,
+    2.4
+   ],
+   "src": [
+    "ssw",
+    0.5,
+    null
+   ],
+   "_": "Hook Fuchs"
+  },
+  {
+   "t": [
+    2.4,
+    4.95
+   ],
+   "src": [
+    "03",
+    1.0,
+    null
+   ],
+   "_": "Hook Cops"
+  },
+  {
+   "t": [
+    4.95,
+    7.6
+   ],
+   "src": [
+    "02",
+    2.0,
+    null
+   ],
+   "_": "Nachtfahrt"
+  },
+  {
+   "t": [
+    7.6,
+    9.4
+   ],
+   "src": [
+    "18",
+    3.0,
+    null
+   ],
+   "_": "Cops schießen"
+  },
+  {
+   "t": [
+    9.4,
+    11.1
+   ],
+   "src": [
+    "19",
+    4.0,
+    null
+   ],
+   "_": "$41"
+  },
+  {
+   "t": [
+    11.1,
+    12.5
+   ],
+   "src": [
+    "04",
+    2.0,
+    null
+   ],
+   "_": "Mitfahrt"
+  },
+  {
+   "t": [
+    12.5,
+    13.6
+   ],
+   "src": [
+    "05",
+    3.0,
+    null
+   ],
+   "_": "Flucht"
+  },
+  {
+   "t": [
+    13.6,
+    14.6
+   ],
+   "src": [
+    "06",
+    3.0,
+    null
+   ],
+   "_": "Parkhaus"
+  },
+  {
+   "t": [
+    14.6,
+    16.3
+   ],
+   "src": [
+    "07",
+    3.0,
+    null
+   ],
+   "_": "Freunde Van"
+  },
+  {
+   "t": [
+    16.3,
+    17.8
+   ],
+   "src": [
+    "08",
+    2.0,
+    null
+   ],
+   "_": "Van"
+  },
+  {
+   "t": [
+    17.8,
+    18.9
+   ],
+   "src": [
+    "09",
+    11.0,
+    null
+   ],
+   "_": "Starfish"
+  },
+  {
+   "t": [
+    18.9,
+    20.6
+   ],
+   "src": [
+    "10",
+    6.0,
+    null
+   ],
+   "_": "Villa"
+  },
+  {
+   "t": [
+    20.6,
+    22.4
+   ],
+   "src": [
+    "11",
+    5.0,
+    null
+   ],
+   "_": "Wahl"
+  },
+  {
+   "t": [
+    22.4,
+    24.0
+   ],
+   "src": [
+    "12",
+    6.0,
+    null
+   ],
+   "_": "Cash"
+  },
+  {
+   "t": [
+    24.0,
+    25.9
+   ],
+   "src": [
+    "16",
+    4.0,
+    null
+   ],
+   "_": "Verrat"
+  },
+  {
+   "t": [
+    25.9,
+    27.3
+   ],
+   "src": [
+    "16",
+    11.0,
+    null
+   ],
+   "_": "SMG aufheben"
+  },
+  {
+   "t": [
+    27.3,
+    29.0
+   ],
+   "src": [
+    "15",
+    7.0,
+    null
+   ],
+   "_": "3 Sterne"
+  },
+  {
+   "t": [
+    29.0,
+    31.5
+   ],
+   "src": [
+    "sva",
+    1.0,
+    null
+   ],
+   "_": "Deglau Van"
+  },
+  {
+   "t": [
+    31.5,
+    34.1
+   ],
+   "src": [
+    "sba",
+    2.0,
+    null
+   ],
+   "_": "Deglau Basis"
+  },
+  {
+   "t": [
+    34.1,
+    37.5
+   ],
+   "src": [
+    "13",
+    3.0,
+    null
+   ],
+   "_": "Waffenwand"
+  },
+  {
+   "t": [
+    37.5,
+    39.8
+   ],
+   "src": [
+    "14",
+    10.5,
+    null
+   ],
+   "_": "Waffenrad"
+  },
+  {
+   "t": [
+    39.8,
+    41.48
+   ],
+   "src": [
+    "sba",
+    9,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    41.48,
+    43.17
+   ],
+   "src": [
+    "ssw",
+    6,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    43.17,
+    44.85
+   ],
+   "src": [
+    "sva",
+    8,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    44.85,
+    46.53
+   ],
+   "src": [
+    "03",
+    8,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    46.53,
+    48.22
+   ],
+   "src": [
+    "08",
+    9,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    48.22,
+    49.9
+   ],
+   "src": [
+    "10",
+    10,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    49.9,
+    51.58
+   ],
+   "src": [
+    "13",
+    8.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    51.58,
+    53.27
+   ],
+   "src": [
+    "sba",
+    4.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    53.27,
+    54.95
+   ],
+   "src": [
+    "11",
+    8.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    54.95,
+    56.63
+   ],
+   "src": [
+    "07",
+    9,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    56.63,
+    58.32
+   ],
+   "src": [
+    "16",
+    1,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    58.32,
+    60.0
+   ],
+   "src": [
+    "ssw",
+    3.0,
+    null
+   ],
+   "_": "Montage"
+  }
+ ]
+}
