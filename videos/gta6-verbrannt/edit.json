@@ -1,0 +1,506 @@
+{
+ "voice": "voice.m4a",
+ "words": "words.json",
+ "output": "/home/user/deglau-videos/videos/gta6-verbrannt/gta6_verbrannt.mp4",
+ "sources": {
+  "sst": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/verbrannt/0_showcase_sahara-mirage-truck_fusiongaming.mp4",
+  "01": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/verbrannt/01_karte-ort-industriegebiet_gfinity.mp4",
+  "04": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/verbrannt/04_7-figure-settlement-steigt-wieder-ein_skillgames.mp4",
+  "09": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/verbrannt/09_sms-were-good-antwort-probably_amharbinger.mp4",
+  "11": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/verbrannt/11_pity-settlement-andere-variante_keyboardwarrior.mp4",
+  "10": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/verbrannt/10_bribe-ohne-blackmail-bucked-you-18750_maxemilio.mp4",
+  "08": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/verbrannt/08_buckme-18750-pending_amharbinger.mp4",
+  "sbn": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/verbrannt/0_showcase_brennendes-auto-nacht_amharbinger.mp4",
+  "ssu": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/verbrannt/0_showcase_brennendes-auto-sonnenuntergang_keyboardwarrior.mp4",
+  "06": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/verbrannt/06_menue-good-luck-blackmail_amharbinger.mp4",
+  "07": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/verbrannt/07_blackmail-half-the-payout_amharbinger.mp4",
+  "02": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/verbrannt/02_sahara-truck-crash-auto-brennt_benedictplays.mp4",
+  "05": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/verbrannt/05_menue-accept-decline-bribe_amharbinger.mp4",
+  "03": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/verbrannt/03_pull-open-fahrer-rausziehen_benedictplays.mp4"
+ },
+ "_quellen": "Clips: AMHarbinger, BenedictPlays, Skill Games, Maxemilio Gaming, The Keyboard Warrior, Fusion Gaming, Gfinity – Links in quellen_uebersicht.txt",
+ "flash": 5.9,
+ "end": 60.0,
+ "title": {
+  "lines": [
+   "Rette diesen",
+   "Typen 🔥"
+  ],
+  "emojis": [
+   "🎮",
+   "🔥"
+  ]
+ },
+ "caption_fixes": [
+  [
+   "40",
+   "40.000"
+  ],
+  [
+   "000",
+   ""
+  ],
+  [
+   "gekraft",
+   "gekracht"
+  ],
+  [
+   "zieht",
+   "zieh ihn"
+  ],
+  [
+   "sauber",
+   "sauer"
+  ],
+  [
+   "neben",
+   "nimm"
+  ],
+  [
+   "18",
+   "18.000"
+  ],
+  [
+   "000",
+   ""
+  ],
+  [
+   "ergeblich",
+   "angeblich"
+  ]
+ ],
+ "caption_colors": {
+  "40.000": "#39FF14",
+  "18.000": "#39FF14",
+  "DOLLAR": "#39FF14",
+  "BRENNENDEN": "#FF8A00",
+  "AUTO": "#FF8A00",
+  "BESTECHUNG": "#FFD000",
+  "HÄLFTE": "#FFD000",
+  "PROBABLY": "#3FC5FF",
+  "SCHMERZENSGELD": "#39FF14",
+  "LIEFERWAGEN": "#FFD000"
+ },
+ "bigwords": [],
+ "icons": [
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    2.34,
+    3.4
+   ],
+   "spin": 0,
+   "size": 480,
+   "y": 470,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-verbrannt/ov/st_sahara.mov",
+   "t": [
+    6.3,
+    7.7
+   ],
+   "spin": 0,
+   "size": 700,
+   "y": 560,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-verbrannt/ov/so.mov",
+   "t": [
+    7.9,
+    20.5
+   ],
+   "spin": 0,
+   "size": 900,
+   "y": 310,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-verbrannt/ov/geld.mov",
+   "t": [
+    21.5,
+    23.5
+   ],
+   "spin": 0,
+   "size": 700,
+   "y": 560,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-verbrannt/ov/st_prob.mov",
+   "t": [
+    25.6,
+    27.1
+   ],
+   "spin": 0,
+   "size": 760,
+   "y": 560,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-verbrannt/ov/cta.mov",
+   "t": [
+    28.6,
+    31.7
+   ],
+   "spin": 0,
+   "size": 860,
+   "y": 560,
+   "sfx": "mouse_click",
+   "clicks": [
+    29.1
+   ]
+  },
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    28.86,
+    29.9
+   ],
+   "spin": 0,
+   "size": 420,
+   "y": 330,
+   "sfx": "swoosh"
+  }
+ ],
+ "sfx": [],
+ "segments": [
+  {
+   "t": [
+    0,
+    2.0
+   ],
+   "src": [
+    "sbn",
+    0.5,
+    null
+   ],
+   "_": "Hook Feuer"
+  },
+  {
+   "t": [
+    2.0,
+    3.9
+   ],
+   "src": [
+    "10",
+    2.0,
+    null
+   ],
+   "_": "Hook Geld"
+  },
+  {
+   "t": [
+    3.9,
+    5.9
+   ],
+   "src": [
+    "ssu",
+    1.0,
+    null
+   ],
+   "_": "Hook Sonnenuntergang"
+  },
+  {
+   "t": [
+    5.9,
+    7.8
+   ],
+   "src": [
+    "02",
+    2.0,
+    null
+   ],
+   "_": "Truck"
+  },
+  {
+   "t": [
+    7.8,
+    9.4
+   ],
+   "src": [
+    "03",
+    1.0,
+    null
+   ],
+   "_": "Pull open"
+  },
+  {
+   "t": [
+    9.4,
+    12.3
+   ],
+   "src": [
+    "sst",
+    2.0,
+    null
+   ],
+   "_": "Sahara"
+  },
+  {
+   "t": [
+    12.3,
+    16.4
+   ],
+   "src": [
+    "04",
+    3.0,
+    null
+   ],
+   "_": "zurück zum Auto"
+  },
+  {
+   "t": [
+    16.4,
+    18.4
+   ],
+   "src": [
+    "05",
+    6.0,
+    null
+   ],
+   "_": "Accept Bribe"
+  },
+  {
+   "t": [
+    18.4,
+    20.6
+   ],
+   "src": [
+    "06",
+    7.0,
+    null
+   ],
+   "_": "Blackmail"
+  },
+  {
+   "t": [
+    20.6,
+    22.9
+   ],
+   "src": [
+    "10",
+    0.3,
+    null
+   ],
+   "_": "Bucked you"
+  },
+  {
+   "t": [
+    22.9,
+    24.5
+   ],
+   "src": [
+    "08",
+    0.3,
+    null
+   ],
+   "_": "Pending"
+  },
+  {
+   "t": [
+    24.5,
+    26.6
+   ],
+   "src": [
+    "09",
+    5.0,
+    null
+   ],
+   "_": "Probably"
+  },
+  {
+   "t": [
+    26.6,
+    28.5
+   ],
+   "src": [
+    "07",
+    3.0,
+    null
+   ],
+   "_": "Kommentare"
+  },
+  {
+   "t": [
+    28.5,
+    31.7
+   ],
+   "src": [
+    "sbn",
+    6.0,
+    null
+   ],
+   "_": "CTA"
+  },
+  {
+   "t": [
+    31.7,
+    33.72
+   ],
+   "src": [
+    "sst",
+    8,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    33.72,
+    35.74
+   ],
+   "src": [
+    "ssu",
+    6,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    35.74,
+    37.76
+   ],
+   "src": [
+    "02",
+    8,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    37.76,
+    39.79
+   ],
+   "src": [
+    "sbn",
+    10,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    39.79,
+    41.81
+   ],
+   "src": [
+    "03",
+    9,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    41.81,
+    43.83
+   ],
+   "src": [
+    "04",
+    10,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    43.83,
+    45.85
+   ],
+   "src": [
+    "sst",
+    11,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    45.85,
+    47.87
+   ],
+   "src": [
+    "ssu",
+    10,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    47.87,
+    49.89
+   ],
+   "src": [
+    "05",
+    2,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    49.89,
+    51.91
+   ],
+   "src": [
+    "sbn",
+    3,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    51.91,
+    53.94
+   ],
+   "src": [
+    "07",
+    8,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    53.94,
+    55.96
+   ],
+   "src": [
+    "02",
+    12,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    55.96,
+    57.98
+   ],
+   "src": [
+    "ssu",
+    12,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    57.98,
+    60.0
+   ],
+   "src": [
+    "sbn",
+    12,
+    null
+   ],
+   "_": "Montage"
+  }
+ ]
+}
