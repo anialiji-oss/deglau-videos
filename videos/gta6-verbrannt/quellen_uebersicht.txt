@@ -1,0 +1,166 @@
+GTA 6 – "BURNED MAN": Sahara-Lieferwagen kracht ins Auto, Fahrer will Sahara verklagen (Zufallsereignis)
+Ordner: gta6\verbrannt   |   geladen am 25.11.2026   |   alle Clips 1080p, 14 s, mit Ton
+Nur YouTube-Videos ab 19.11.2026, keine Facecam, keine Streams, keine TikTok-Reuploads.
+Menüs, Handy-Texte und BuckMe-Beträge wurden in voller Auflösung gelesen.
+
+======================================================================
+GEPRÜFTE FAKTEN (aus den Videos)
+======================================================================
+
+ORT
+- Es gibt NICHT den einen Ort. In den Videos passiert es an verschiedenen Stellen in Vice City:
+  * nachts an einer Kreuzung mit bunten Wandbildern, Straßenschild "NE 5th Ave"; beim Wegfahren
+    zeigt die Minimap "Bayside" (AMHarbinger)
+  * tagsüber in Downtown zwischen Hochhäusern, neben einem roten "Leonida City Tours"-Bus (BenedictPlays)
+  * tagsüber in Downtown vor Bürotürmen (Skill Games, Fusion Gaming, Games from Mars)
+  * tagsüber an einer Tankstelle (Maxemilio Gaming)
+  * abends im Industriegebiet an einer Schnellstraße (Gfinity, Uhrzeit im Menü 5:27 pm)
+  * bei Sonnenuntergang an einer Kreuzung mit Palmen (The Keyboard Warrior)
+- Auf der Karte ist das Event NICHT mit einem Symbol markiert. Clip 01 zeigt nur die Karte von der
+  Stelle, an der es bei Gfinity passiert ist.
+- Tageszeit: tagsüber, abends und nachts gesehen -> keine feste Uhrzeit.
+- Figur: meistens Jason; bei Games from Mars mit Lucia -> geht mit beiden.
+
+ABLAUF (Texte genau wie im Spiel)
+1. Ein grauer Sahara-Lieferwagen (Aufschrift "sahara mirage") hat ein Auto gerammt, das Auto brennt.
+   Der Fahrer ruft "Hey! Hey! I need some fucking help! Help me! Now!"
+2. Taste "PULL OPEN" (dazu "BRACE") -> du ziehst ihn raus. Er: "Holy shit, I was gonna fucking die."
+3. Er sieht den Truck: "Wait... is that a Sahara truck? Oh, fuck yes!" /
+   "Do you- do you have any idea how much money Sahara has?" /
+   "This is a seven-figure settlement..." / "I could've gotten eight if I got some really fucked-up burns!"
+4. Er geht ABSICHTLICH wieder ans brennende Auto: "Just get back in there, burn my dick a little,
+   get out, get paid. I got this." Antwort-Tasten davor: "YOU SERIOUS?" / "REALLY?"
+5. Zeugen-Gespräch: "It's not fraud, okay? It's creative financing. Look, look, just back me up."
+   "I'll get my lawyer to send you some of the payout."
+   Menü 1:  ACCEPT BRIBE  /  DECLINE BRIBE
+   Danach telefoniert er mit seinem Anwalt "Robbie".
+   Menü 2:  GOOD LUCK  /  BLACKMAIL
+6. Mit BLACKMAIL sagt Jason "Way I see it, that's worth half the payout."
+   Burned Man: "Half? Fucking... fine, just... relax, okay? Don't screw this up for me."
+7. Danach kommt eine SMS vom Kontakt "Burned Man": "Hey, it's the guy who got hit by the Sahara truck.
+   Lock my contact in cause there's about to be some BIG money headed your way after I take Sahara to
+   court. As soon as I get paid, I'll send your cut."
+
+GELD (nur was im Spiel zu sehen ist)
+- Mit BLACKMAIL (AMHarbinger): später BuckMe-Meldung "Burned Man  $18,750 Pending".
+  Bei ihm war das Konto voll ("You won't receive pending BuckMe transactions until there's room in
+  your account."), deshalb stand es auf "Pending".
+- Nur ACCEPT BRIBE, ohne BLACKMAIL (Maxemilio): "Burned Man  Bucked You $18,750".
+  -> Der erste Betrag ist in beiden Fällen $18,750.
+- Danach SMS: "Hey, I'm back. Sahara put up a good fight, but once I showed them pics of my dick burns
+  they couldn't WAIT to settle. The judge said it looked like an overcooked Vienna sausage!"
+  "I sent you the cut we agreed on, so... we're good, right? Please don't come after me?"
+  Antworten: "Yeah, we're good."  /  "Probably."
+- ZWEITE ZAHLUNG nach "Probably.": in KEINEM Video zu sehen. AMHarbinger antwortet "Probably.", das
+  Video endet aber direkt danach. -> "nochmal $18,750 / fast $40.000" ist NICHT bestätigt.
+- Wann: Die erste Zahlung kommt nicht sofort. Bei AMHarbinger nachts passiert, Zahlung am nächsten
+  Tag (hell). Maxemilio blendet "A few weeks later..." ein (das ist sein Schnitt, kein Spieltext).
+- Andere Variante (The Keyboard Warrior, nur ACCEPT BRIBE, wegfahren ohne zweite Wahl):
+  SMS "Hey. Those bastards at Sahara gave me a pity settlement. Their lawyers brought in "forensics
+  experts" or whatever to "prove"..." + "A deal's a deal though. It's not much, but your cut should be
+  in your account." -> Hier gibt es WENIGER Geld. Der Kanal blendet "HE BUCKED ME 15K" ein; den
+  genauen Betrag sieht man im Spiel NICHT (Kontostand davor $18,151, danach nicht gezeigt).
+- DECLINE BRIBE und GOOD LUCK: in keinem gefundenen Video bis zum Ende gezeigt -> unbekannt.
+- KAPITEL: in keinem Video zu sehen. -> nicht bestätigt.
+
+======================================================================
+WIDERSPRÜCHE
+======================================================================
+- Betrag gesamt:
+  * TikTok / vicecityhustle.com: 2 x $18,750 = $37,500 (zweite Zahlung nach "Probably").
+  * sportskeeda (laut Auftrag): $37,500.
+  * Bloomberg / LADbible: nur "a few thousand dollars" (ohne Erpressen).
+  * Videos: $18,750 einmal sicher gesehen (mit und ohne BLACKMAIL). Zweite Zahlung nicht gesehen.
+    Variante "pity settlement" = weniger Geld (Kanal sagt 15K, im Spiel nicht lesbar).
+  -> Vermutlich gibt es zwei Ausgänge (guter Vergleich / "pity settlement"), das würde
+     "ein paar Tausend" vs. "$18,750" erklären. Ist aber nicht sicher.
+- Ort: gtaviceguides.com nennt "Chastity Ave" mit Peewees und Schild "62 West Ambrosia". In den Videos
+  sind es viele verschiedene Orte (siehe oben). Chastity Ave war in keinem Video zu sehen.
+- Wer rammt wen: Guides sagen mal "Truck rammt Auto", mal "Auto rammt Truck". In den Videos sieht man
+  nur die Folgen (Truck steht da, Auto brennt), den Aufprall selbst zeigt kein Video.
+- Figur: Guides sagen Jason Kapitel 1 bzw. Lucia. Videos: beide.
+- "steigt wieder ins Auto": In den Videos geht er zurück ans brennende Auto und sagt, dass er sich
+  verbrennen will. Ganz hineinsetzen sieht man nicht deutlich.
+
+======================================================================
+CLIPS
+======================================================================
+01_karte-ort-industriegebiet_gfinity.mp4
+   Kanal: Gfinity – "GTA 6: How to Find the Burned Man & Get $18,000 (Random Encounter)"
+   Link:  https://www.youtube.com/watch?v=OyDX4MmNQGY   Zeit: 0:31–0:45
+   Zu sehen: Ende der Rettung, dann Karte (5:27 pm, Industriegebiet), danach Fahrt.
+   Achtung: GFINITY-Logo oben rechts, kurz Abo-Button.
+
+02_sahara-truck-crash-auto-brennt_benedictplays.mp4
+   Kanal: BenedictPlays – "GTA 6 | Burned Man Random Event (PS5 Pro Gameplay 4K)"
+   Link:  https://www.youtube.com/watch?v=JXQzMWfsUuM   Zeit: 0:16–0:30
+   Zu sehen: Jason kommt an, Sahara-Truck + brennendes Auto, "Oh God! Shit!".
+
+03_pull-open-fahrer-rausziehen_benedictplays.mp4
+   Kanal: BenedictPlays   Link: https://www.youtube.com/watch?v=JXQzMWfsUuM   Zeit: 0:33–0:47
+   Zu sehen: "PULL OPEN", Fahrer wird rausgezogen, "Holy shit, I was gonna fucking die."
+
+04_7-figure-settlement-steigt-wieder-ein_skillgames.mp4
+   Kanal: Skill Games – "Jason Saves a Driver Who Climbs Back Into His Burning Car to Sue Sahara"
+   Link:  https://www.youtube.com/watch?v=Rdc9-PTBNmg   Zeit: 0:56–1:10
+   Zu sehen: "Wait, there still might be time", "Okay, I can do it", "Just get back in there, burn my
+   dick a little, get out, get paid. I got this." + Tasten YOU SERIOUS? / REALLY?
+
+05_menue-accept-decline-bribe_amharbinger.mp4
+   Kanal: AMHarbinger – "GTA 6 Blackmailing Car Accident and Burned Guy"
+   Link:  https://www.youtube.com/watch?v=4oDoqAkft_A   Zeit: 1:57–2:11
+   Zu sehen: nachts, brennendes Auto, Menü ACCEPT BRIBE / DECLINE BRIBE.
+   Achtung: AMHARBINGER-Schriftzug unten Mitte (in allen AMHarbinger-Clips).
+
+06_menue-good-luck-blackmail_amharbinger.mp4
+   Kanal: AMHarbinger   Link: https://www.youtube.com/watch?v=4oDoqAkft_A   Zeit: 2:13–2:27
+   Zu sehen: Telefonat mit Anwalt "Robbie", Menü GOOD LUCK / BLACKMAIL.
+
+07_blackmail-half-the-payout_amharbinger.mp4
+   Kanal: AMHarbinger   Link: https://www.youtube.com/watch?v=4oDoqAkft_A   Zeit: 2:46–3:00
+   Zu sehen: Schild "NE 5th Ave", Krankenwagen, "Half? Fucking... fine, just... relax, okay?"
+
+08_buckme-18750-pending_amharbinger.mp4
+   Kanal: AMHarbinger   Link: https://www.youtube.com/watch?v=4oDoqAkft_A   Zeit: 4:07–4:21
+   Zu sehen: erste SMS im Auto, dann an der Tankstelle "Burned Man $18,750 Pending".
+
+09_sms-were-good-antwort-probably_amharbinger.mp4
+   Kanal: AMHarbinger   Link: https://www.youtube.com/watch?v=4oDoqAkft_A   Zeit: 4:28–4:42
+   Zu sehen: Handy, SMS "we're good, right? Please don't come after me?", Antwort "Probably."
+
+10_bribe-ohne-blackmail-bucked-you-18750_maxemilio.mp4
+   Kanal: Maxemilio Gaming – "GTA 6 – What Happens If You Accept Burned Man's Insurance Bribe? (Huge $$$ Reward)"
+   Link:  https://www.youtube.com/watch?v=49eHRiC_nLQ   Zeit: 0:50–1:04
+   Zu sehen: Handy im Auto, Antwort "Yeah, we're good.", Meldung "Burned Man Bucked You $18,750".
+   Achtung: Bild ist im Original etwas dunkel/grau.
+
+11_pity-settlement-andere-variante_keyboardwarrior.mp4
+   Kanal: The Keyboard Warrior – "DO NOT Ignore The BURNING GUY npc in GTA 6 | Here is Why"
+   Link:  https://www.youtube.com/watch?v=uDDJQ57SFjU   Zeit: 3:20–3:34
+   Zu sehen: SMS "pity settlement" + "It's not much, but your cut should be in your account".
+   Achtung: direkt NACH dem Clip blendet der Kanal "HE BUCKED ME 15K" ein (im Clip nicht drin).
+
+0_showcase_brennendes-auto-nacht_amharbinger.mp4
+   Kanal: AMHarbinger   Link: https://www.youtube.com/watch?v=4oDoqAkft_A   Zeit: 1:38–1:52
+   Zu sehen: brennendes Auto groß bei Nacht, "It's not fraud, okay? It's creative financing."
+
+0_showcase_sahara-mirage-truck_fusiongaming.mp4
+   Kanal: Fusion Gaming – "GTA 6 Huge Car Crash – Saving a Driver From a Burning Car | PS5 Pro 4K HDR"
+   Link:  https://www.youtube.com/watch?v=aEFjgtiHeMU   Zeit: 2:18–2:32
+   Zu sehen: Sahara-Truck, Krankenwagen, brennendes Auto in Downtown bei Tag.
+
+0_showcase_brennendes-auto-sonnenuntergang_keyboardwarrior.mp4
+   Kanal: The Keyboard Warrior   Link: https://www.youtube.com/watch?v=uDDJQ57SFjU   Zeit: 2:30–2:44
+   Zu sehen: lila Sonnenuntergang, brennendes Auto, Menü ACCEPT BRIBE / DECLINE BRIBE.
+
+======================================================================
+NICHT GEFUNDEN
+======================================================================
+- Der Aufprall selbst (Truck kracht ins Auto) – alle Videos kommen erst danach an.
+- Zweite Zahlung nach "Probably." (die angeblichen weiteren $18,750).
+- Was bei DECLINE BRIBE oder GOOD LUCK passiert (wie viel Geld).
+- Ab welchem Kapitel das Event kommt.
+- Ein Karten-Symbol für das Event.
+
+Nicht genommen: "How to Everything" (wcnmteu_hfU) zeigt nur einen KI-Text, kein Gameplay.
+BankStellaro (w7oyM537VuY) hat große Texteinblendungen im Bild.
