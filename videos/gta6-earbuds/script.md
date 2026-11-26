@@ -2,7 +2,7 @@
 
 **Titel-Box:** „Radio zu Fuß in GTA 6 🎧“
 **Einblendungen:** Karten-Schild STYLE → ELECTRONICS · Preis-Karten EARBUDS $119 / KOPFHÖRER $199 ·
-Info-Box „So geht's“ (kaufen → Steuerkreuz links halten → anschalten → L1/R1) · Stempel „WIE IM AUTO“ · CTA · GTA-Kachel mit Swoosh
+Info-Box „So geht's“ (kaufen → Steuerkreuz links halten → anschalten → L1/R1) · Stempel „WIE IM AUTO“ · CTA · **Schritt-Liste am Ende** · GTA-Kachel mit Swoosh
 
 ## Text zum Einsprechen (~30 s, Video 1 Minute)
 **[Hook – danach Blitz + Beat]**
@@ -16,7 +16,7 @@ Ich bin Deglau und zeige euch jeden Tag neue Sachen zu GTA 6, also folgt mir doc
 
 Danach haltet ihr das Steuerkreuz nach links, schaltet die Earbuds an – und oben kommt die Senderleiste, genau wie im Auto.
 
-Mit L1 und R1 wechselt ihr den Sender, und jetzt könnt ihr mit Musik durch ganz Vice City laufen. Viel Spaß!
+Mit L1 und R1 wechselt ihr den Sender, und jetzt könnt ihr mit Musik durch ganz Vice City laufen. Am Ende blende ich euch alle Schritte nochmal ein – viel Spaß!
 
 ## Clips
 | Satz | Clip |

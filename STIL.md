@@ -291,3 +291,7 @@ Ziel: Alles, was gesagt wird, auch **sehen**. Gameplay läuft immer weiter dahin
 ## Keine Gameplay-Credits in den Beschreibungen (Deglau, 26.11.2026)
 - In posts.md / Chat-Beschreibungen **keine Zeile „Gameplay: …“ / „Gameplay von: …“** mehr.
 - Die Quellen (Kanal + Link) bleiben trotzdem intern in `quellen_uebersicht.txt` und `edit.json` ("_quellen") – falls es mal eine Anfrage/Meldung gibt.
+
+## Am Ende IMMER alle Schritte (Deglau, 26.11.2026)
+- Jedes Video (auch mit wenigen Schritten) bekommt am Ende eine **Schritt-Liste** zum Pausieren (`scripts/overlays.py liste`, „Screenshot machen!“), ca. 8–11 s nach Deglaus letztem Wort über der Montage.
+- Im Script dafür einen Satz einbauen wie „Am Ende blende ich euch alle Schritte nochmal ein“.
