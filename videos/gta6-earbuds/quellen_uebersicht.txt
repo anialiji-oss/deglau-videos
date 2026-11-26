@@ -1,0 +1,164 @@
+GTA 6 – EARBUDS / KOPFHÖRER KAUFEN UND ZU FUSS RADIO HÖREN
+Stand: 26.11.2026 – alle Clips 1080p, nur Videos ab 19.11.2026, keine Facecam, keine Streams, keine TikTok-Reuploads.
+Texte unten wurden aus Bildern in voller Auflösung abgelesen (Namen genau wie im Spiel).
+
+======================================================================
+GEPRÜFTE FAKTEN
+======================================================================
+
+1) LÄDEN (Karte -> STYLE -> ELECTRONICS, Symbol = Kopfhörer)
+   Kartentext bei jedem Laden: "Electronics shop selling headphones, earbuds, and phone cases."
+   In den Videos gesehene Namen (genau wie im Spiel):
+   - Zekes Gadgets      (Excelsior Plaza, Hamlet / South Vice-Dale County – "WE DO REPAIRS") – in den meisten Videos
+   - Tech Point - Tequesta (Apple-Store-Stil, weiß/hell)
+   - Electronick        (Vice City, nachts lila Neon, "SAME DAY REPAIRS")
+   - Simply Sound       (Vice City)
+   - Electric Boulevard
+   - Game Horde         (Port Gellhorn, Retro-Spieleladen "Classic, retro games bought and sold")
+   - Außerdem in den Listen anderer Spieler: Aural Expert, Cell Phone Zone, Super Friki Inc., Best Priced Electrical Suppl(y), ACPC, Empowered Electronics
+   -> Die Liste zeigt nur Läden, die der Spieler schon entdeckt hat, deshalb hat jeder eine andere Liste.
+   -> "Ein bestimmter Laden" stimmt also nicht: Es gibt VIELE Läden, und in allen wird dasselbe verkauft.
+
+2) MODELLE UND PREISE (Kaufmenü, Normalpreis)
+   CLEF EARBUDS     – BLACK $119, WHITE $119 | YELLOW, RED, GREEN, PURPLE je $139
+   CLEF HEADPHONES  – BLACK $199, WHITE $199 | YELLOW, RED, GREEN, PURPLE je $220
+   Das passt zum TikTok ("EARBUDS, CLEF, WEISS" für $119). Ein anderes Modell als CLEF wurde in keinem Video gefunden.
+   Im Laden gibt es außerdem Handyhüllen ($30–$120).
+   Rabatt gesehen: $107 statt $119 (Zekes Gadgets, Exploration Gmer13) und $125 statt $139 (Game Horde, GCROCK XTRA).
+   Beim Preis steht ein lila Symbol. Warum es Rabatt gibt, sieht man in den Videos NICHT.
+   Kaufen: "BUY" oder "BUY & WEAR". Danach steht "Purchased" und "Wearing".
+
+3) TASTE FÜRS RADIO (Hinweis im Spiel nach dem Kauf, wörtlich):
+   "Equip headphones from your loadout. Hold [Steuerkreuz LINKS] then press [X] to turn them on or off."
+   - Steuerkreuz LINKS HALTEN öffnet das Rad WEAPONS / ITEMS (Reiter ITEMS). Dort steht der Platz "CLEF EARBUDS – HEADGEAR" (ON/OFF).
+   - Danach erscheint oben die Senderleiste wie im Auto: mit L1 / R1 Sender wechseln, mit [X] "TURN ON" / "TURN OFF".
+   - Gesehene Sender: WKTT, Worldwide FM, Afrobank FM, Back Country Radio, The Chamber 106.6, Flash FM, Cocoteo FM,
+     Dirty South Classics, Kaleidoscope FM, Circulo Records Radio, Rock-Sender, "The Vibe" u. a.
+   -> Die TikTok-Aussage "Steuerkreuz links halten" STIMMT.
+
+4) BRAUCHT JEDE FIGUR EIGENE KOPFHÖRER?
+   Wahrscheinlich ja, aber NICHT 100 % bewiesen.
+   - Jason und Lucia kaufen in den Videos jeweils selbst (Lucia: Clips 03f, 03g, 05e, 06b).
+   - Bei Lucia stehen im Menü dieselben Preise ($119/$139/$199) und "Not owned", obwohl andere Spieler mit Jason schon gekauft hatten.
+     Es war aber nicht derselbe Spielstand, deshalb ist das kein Beweis.
+   - Kein Video zeigt einen Wechsel Jason -> Lucia mit demselben Spielstand.
+
+5) WAS PASSIERT IM WASSER?
+   NICHT GEFUNDEN. Kein Video zeigt Schwimmen oder Tauchen mit Earbuds, und keines zeigt "kaputt".
+   Die Aussage "nicht wasserfest" ist also NICHT bestätigt (sie kommt nur aus Guides/TikTok).
+
+6) PODCASTS / EIGENE MUSIK
+   - Podcasts: Rockstar hat "Radio und On-Demand-Podcasts zu Fuß" angekündigt (Presse, z. B. TopGear/Gfinity).
+     In den Videos sieht man nur Radiosender, KEINE eigene Podcast-Auswahl -> nicht selbst bestätigt.
+   - Eigene Musik (wie die "Self Radio"-Funktion in GTA 5): in keinem Video und keinem Guide -> nicht bestätigt.
+
+======================================================================
+WIDERSPRÜCHE
+======================================================================
+- Laden:   games.gg nennt "Simply Sound"; Beebom (Leak) nennt "Game Horde" in Port Gellhorn.
+           Videos: BEIDE stimmen, dazu viele weitere Läden (siehe Punkt 1).
+- Preise:  TikTok sagt $119; Guides sagen "100–150 $"; games.gg sagt "Clef Headphones $199 schwarz, $220 lila".
+           Videos: Earbuds $119 (Schwarz/Weiß) bzw. $139 (Farbe), Headphones $199 bzw. $220.
+           Mit Rabatt auch $107 bzw. $125. Alle Angaben stimmen also teilweise.
+- Taste:   games.gg sagt "Hold D-pad Left"; Beebom/Ofzen sagen "über das Item Wheel" bzw. "über das Handy".
+           Videos: Steuerkreuz links halten -> Item-Rad -> [X] an/aus, L1/R1 Sender. Über das Handy wurde nichts gezeigt.
+- Kosmetik oder Funktion: Beebom schrieb vor dem Release, die Earbuds seien "rein kosmetisch".
+           FALSCH: Mit Earbuds läuft Radio zu Fuß.
+- Wasser / getrennte Kopfhörer: nur Guides, in den Videos nicht zu sehen (siehe Punkte 4 und 5).
+
+======================================================================
+CLIPS
+======================================================================
+Datei | Kanal | Link | Von–Bis | Inhalt
+
+01a_karte_electronics-liste_zekes-techpoint-electronick-simplysound_GuideZone.mp4
+    GuideZone | https://www.youtube.com/watch?v=599tGLaIR2w | 0:31–0:44
+    Karte STYLE -> ELECTRONICS: Zekes Gadgets, Tech Point - Tequesta, Electronick, Simply Sound, Electric Boulevard, mit Tooltips
+01b_karte_electronick-symbol_Dragonsubmann.mp4
+    Dragonsubmann | https://www.youtube.com/watch?v=YUJz12u7Ok4 | 0:14–0:25
+    3D-Karte, Kopfhörer-Symbol, Tooltip "ELECTRONICK", danach Laden nachts
+01c_karte_game-horde_port-gellhorn_GCROCKXTRA.mp4
+    GCROCK XTRA | https://www.youtube.com/watch?v=3adSU1o5g0I | 0:08–0:20
+    Karte von Leonida -> Port Gellhorn, Tooltip "GAME HORDE" (kleines GCROCK-Logo unten links)
+02a_zekes-gadgets_aussen-reinlaufen_GuideZone.mp4
+    GuideZone | https://www.youtube.com/watch?v=599tGLaIR2w | 0:53–1:06
+    Tooltip Zekes Gadgets -> Jason läuft über den Parkplatz in den Laden, Verkäufer an der Theke
+02b_tech-point-tequesta_reinlaufen_Dragonsubmann.mp4
+    Dragonsubmann | https://www.youtube.com/watch?v=lkF_Zl4hA2o | 0:27–0:40
+    Tech Point von außen (Glastür, Uhren-Werbung) und reinlaufen, heller Laden
+02c_electronick_nachts_reinlaufen_Dragonsubmann.mp4
+    Dragonsubmann | https://www.youtube.com/watch?v=YUJz12u7Ok4 | 0:23–0:35
+    Electronick nachts mit lila Neon, Jason geht rein, Wand mit Handyhüllen
+02d_game-horde_reinlaufen_GCROCKXTRA.mp4
+    GCROCK XTRA | https://www.youtube.com/watch?v=3adSU1o5g0I | 0:22–0:30
+    Game Horde: Arcade-Automaten, roter Teppich, Theke mit Earbuds
+03a_kaufmenue_clef-earbuds_119-139_farben_GuideZone.mp4
+    GuideZone | https://www.youtube.com/watch?v=599tGLaIR2w | 1:08–1:20
+    Kaufmenü CLEF EARBUDS: Black $119, Green $139, White $119 -> "Purchased" / "Wearing"
+03b_kaufmenue_clef-headphones_199-220_farben_Dragonsubmann.mp4
+    Dragonsubmann | https://www.youtube.com/watch?v=YUJz12u7Ok4 | 2:00–2:15
+    CLEF HEADPHONES: Black/White $199, Yellow/Red $220 (Electronick)
+03c_kaufmenue_clef-headphones_gruen-lila_220_Dragonsubmann.mp4
+    Dragonsubmann | https://www.youtube.com/watch?v=lkF_Zl4hA2o | 3:00–3:14
+    CLEF HEADPHONES Green/Purple $220 (Tech Point, "Not enough cash")
+03d_rabatt_107-statt-119_ExplorationGmer13.mp4
+    Exploration Gmer13 | https://www.youtube.com/watch?v=IGkQ5PPiWu0 | 4:35–4:45
+    CLEF EARBUDS $107 statt $119 (Zekes Gadgets), Kauf
+03e_rabatt_125-statt-139_game-horde_GCROCKXTRA.mp4
+    GCROCK XTRA | https://www.youtube.com/watch?v=3adSU1o5g0I | 0:29–0:36
+    CLEF EARBUDS Green $125 statt $139 (Game Horde)
+03f_lucia_clef-headphones-weiss_199_NeedForGaming.mp4
+    NeedForGaming | https://www.youtube.com/watch?v=UN2Wwz9T9k0 | 0:31–0:41
+    LUCIA im Game Horde: CLEF HEADPHONES Black $199, Yellow $220, White -> Wearing
+03g_lucia_clef-earbuds_119-139_TheRDRLegend.mp4
+    TheRDRLegend | https://www.youtube.com/watch?v=CxT18Ul-IrQ | 0:08–0:22
+    LUCIA (Sonnenbrille) CLEF EARBUDS Black/White $119, Yellow/Purple $139 -> Purchased
+04a_nahaufnahme_earbuds-im-ohr_farben_Dragonsubmann.mp4
+    Dragonsubmann | https://www.youtube.com/watch?v=lkF_Zl4hA2o | 3:39–3:53
+    Nahaufnahme Jason, Earbuds im Ohr: schwarz, weiß, gelb, rot (Tech Point)
+04b_nahaufnahme_earbuds-im-ohr_jason_KnowledgeBase.mp4
+    KnowledgeBase | https://www.youtube.com/watch?v=d9rDQbXpmJo | 0:41–0:53
+    Nahaufnahme Jason im Hoodie: Earbuds schwarz/weiß/gelb (Zekes Gadgets)
+05a_item-rad_clef-earbuds_headgear_AcceleratedIdeas.mp4
+    Accelerated Ideas | https://www.youtube.com/watch?v=kqjEn2t6K9M | 0:37–0:45
+    Item-Rad (WEAPONS/ITEMS): "CLEF EARBUDS – HEADGEAR" OFF -> ON
+05b_hinweis_steuerkreuz-links-halten_GuideZone.mp4
+    GuideZone | https://www.youtube.com/watch?v=599tGLaIR2w | 1:23–1:30
+    Hinweis: "Equip headphones from your loadout. Hold [links] then press [X] to turn them on or off."
+05c_radio-menue-zu-fuss_sender-wechseln_GCROCKXTRA.mp4
+    GCROCK XTRA | https://www.youtube.com/watch?v=3adSU1o5g0I | 0:49–1:04
+    Zu Fuß: Senderleiste oben, wechselt durch mehrere Sender (L1/R1), "TURN OFF"
+05d_radio-menue-zu-fuss_sender_KnowledgeBase.mp4
+    KnowledgeBase | https://www.youtube.com/watch?v=d9rDQbXpmJo | 1:11–1:20
+    Nachts vor dem Laden: Senderleiste, Afrobank FM / Cocoteo FM / Back Country Radio
+05e_radio-zu-fuss_lucia_RDKtutorials.mp4
+    RDKtutorials | https://www.youtube.com/watch?v=onQkIVg7Qs0 | 0:24–0:33
+    LUCIA im Laden mit Kopfhörern: Senderleiste, danach geht sie raus
+06a_zu-fuss-mit-kopfhoerern_strasse_PS5GamesOnly.mp4
+    PS5 Games Only | https://www.youtube.com/watch?v=p-VmW5hTenM | 0:09–0:22
+    Jason mit weißen CLEF HEADPHONES an der Straße, tagsüber, Palmen
+06b_lucia_zu-fuss-mit-kopfhoerern_NikoDuval.mp4
+    Niko_Duval | https://www.youtube.com/watch?v=f7W9I_4YOp0 | 0:36–0:50
+    LUCIA mit weißen Kopfhörern über den Zebrastreifen, Stadt (Bild etwas blass, so im Original)
+
+SHOWCASE
+0_showcase_neon-ocean-drive-nacht_whatGTA6.mp4
+    what GTA 6 | https://www.youtube.com/watch?v=TJqV1VC9eOg | 1:04–1:16
+    Nachts auf dem Ocean Drive, Art-Deco-Hotels in Pink/Grün/Blau-Neon (Figur ohne sichtbare Kopfhörer)
+0_showcase_ocean-drive-tag_TheBenchmarkGuy.mp4
+    The Benchmark Guy | https://www.youtube.com/watch?v=gLuEQoxUJvE | 0:00–0:12
+    Ocean Drive tagsüber, Palmen, Hotels, Leute (ohne sichtbare Kopfhörer)
+0_showcase_strand-sonnenuntergang_StillworldJourneys.mp4
+    Stillworld Journeys | https://www.youtube.com/watch?v=l7Z2WXy20co | 7:16–7:28
+    Strand in der Dämmerung, Abendrot, Wellen (Ich-Perspektive, keine Figur)
+0_showcase_wasser-terrasse-mit-earbuds_DanielAlves.mp4
+    Daniel Alves | https://www.youtube.com/watch?v=fgGkICn1NA4 | 0:21–0:33
+    Jason mit Earbuds auf einer Holzterrasse am Wasser, Boote, Sonne (Spiel-Menü auf Spanisch)
+
+======================================================================
+NICHT GEFUNDEN
+======================================================================
+- Kopfhörer im Wasser kaputt / nicht wasserfest
+- Jason und Lucia im selben Spielstand mit getrennten Kopfhörern
+- Podcast-Auswahl zu Fuß, eigene Musik
+- Showcase "Strand/Ocean Drive MIT sichtbaren Kopfhörern": nicht gefunden. Die Showcase-Clips zeigen nur die Orte.
