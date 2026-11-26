@@ -295,3 +295,9 @@ Ziel: Alles, was gesagt wird, auch **sehen**. Gameplay läuft immer weiter dahin
 ## Am Ende IMMER alle Schritte (Deglau, 26.11.2026)
 - Jedes Video (auch mit wenigen Schritten) bekommt am Ende eine **Schritt-Liste** zum Pausieren (`scripts/overlays.py liste`, „Screenshot machen!“), ca. 8–11 s nach Deglaus letztem Wort über der Montage.
 - Im Script dafür einen Satz einbauen wie „Am Ende blende ich euch alle Schritte nochmal ein“.
+
+## Geld-Zähler bei jedem Betrag (Deglau, 26.11.2026)
+- Immer wenn Deglau sagt, dass man Geld bekommt/macht („so bekommt ihr 18k“, „15.000 Dollar“): genau bei dem Wort
+  den grünen Geld-Zähler einblenden, der von 100 hoch auf den Betrag zählt:
+  `python3 scripts/overlays.py counter "+$" 100 18750 2.0 ov/geld.mov` (als icon, size ~760, y ~560, Klick-Sound).
+- Den echten Betrag aus dem Spiel nehmen (wenn er „18k“ sagt und es 18.750 sind → bis 18.750 zählen).
