@@ -1,0 +1,40 @@
+{
+ "background": {
+  "src": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/0_showcase_neon-ocean-drive-nacht_whatGTA6.mp4",
+  "time": 3.0,
+  "blur": 3,
+  "dark": 0.05
+ },
+ "objects": [
+  {
+   "src": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/03b_kaufmenue_clef-headphones_199-220_farben_Dragonsubmann.mp4",
+   "time": 4.0,
+   "x": 540,
+   "y": 1080,
+   "width": 860,
+   "stroke": 14,
+   "bright": 1.1,
+   "rect": [
+    0.25,
+    0.0,
+    0.5,
+    1.0
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "text": "RADIO ZU FUSS",
+   "color": "#39FF14",
+   "y": 330,
+   "size": 160
+  },
+  {
+   "text": "IN GTA 6",
+   "color": "#FF3B8C",
+   "y": 1600,
+   "size": 170
+  }
+ ],
+ "output": "titelbild.jpg"
+}

@@ -1,0 +1,592 @@
+{
+ "voice": "voice.m4a",
+ "words": "words.json",
+ "output": "/home/user/deglau-videos/videos/gta6-earbuds/gta6_earbuds.mp4",
+ "sources": {
+  "05d": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/05d_radio-menue-zu-fuss_sender_KnowledgeBase.mp4",
+  "03c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/03c_kaufmenue_clef-headphones_gruen-lila_220_Dragonsubmann.mp4",
+  "02b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/02b_tech-point-tequesta_reinlaufen_Dragonsubmann.mp4",
+  "01a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/01a_karte_electronics-liste_zekes-techpoint-electronick-simplysound_GuideZone.mp4",
+  "03f": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/03f_lucia_clef-headphones-weiss_199_NeedForGaming.mp4",
+  "02a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/02a_zekes-gadgets_aussen-reinlaufen_GuideZone.mp4",
+  "sss": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/0_showcase_strand-sonnenuntergang_StillworldJourneys.mp4",
+  "sod": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/0_showcase_ocean-drive-tag_TheBenchmarkGuy.mp4",
+  "06a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/06a_zu-fuss-mit-kopfhoerern_strasse_PS5GamesOnly.mp4",
+  "03g": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/03g_lucia_clef-earbuds_119-139_TheRDRLegend.mp4",
+  "05a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/05a_item-rad_clef-earbuds_headgear_AcceleratedIdeas.mp4",
+  "05e": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/05e_radio-zu-fuss_lucia_RDKtutorials.mp4",
+  "01c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/01c_karte_game-horde_port-gellhorn_GCROCKXTRA.mp4",
+  "01b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/01b_karte_electronick-symbol_Dragonsubmann.mp4",
+  "03d": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/03d_rabatt_107-statt-119_ExplorationGmer13.mp4",
+  "03b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/03b_kaufmenue_clef-headphones_199-220_farben_Dragonsubmann.mp4",
+  "02d": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/02d_game-horde_reinlaufen_GCROCKXTRA.mp4",
+  "04b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/04b_nahaufnahme_earbuds-im-ohr_jason_KnowledgeBase.mp4",
+  "02c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/02c_electronick_nachts_reinlaufen_Dragonsubmann.mp4",
+  "03a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/03a_kaufmenue_clef-earbuds_119-139_farben_GuideZone.mp4",
+  "sno": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/0_showcase_neon-ocean-drive-nacht_whatGTA6.mp4",
+  "sws": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/0_showcase_wasser-terrasse-mit-earbuds_DanielAlves.mp4",
+  "04a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/04a_nahaufnahme_earbuds-im-ohr_farben_Dragonsubmann.mp4",
+  "05c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/05c_radio-menue-zu-fuss_sender-wechseln_GCROCKXTRA.mp4",
+  "03e": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/03e_rabatt_125-statt-139_game-horde_GCROCKXTRA.mp4",
+  "05b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/05b_hinweis_steuerkreuz-links-halten_GuideZone.mp4",
+  "06b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/earbuds/06b_lucia_zu-fuss-mit-kopfhoerern_NikoDuval.mp4"
+ },
+ "_quellen": "Clips: GuideZone, Dragonsubmann, GCROCK XTRA, Exploration Gmer13, NeedForGaming, TheRDRLegend, KnowledgeBase, Accelerated Ideas, RDKtutorials, PS5 Games Only, Niko_Duval, what GTA 6, The Benchmark Guy, Stillworld Journeys, Daniel Alves – Links in quellen_uebersicht.txt",
+ "flash": 4.0,
+ "end": 60.0,
+ "title": {
+  "lines": [
+   "Radio zu Fuß",
+   "in GTA 6 🎧"
+  ],
+  "emojis": [
+   "🎮",
+   "🔥"
+  ]
+ },
+ "caption_fixes": [
+  [
+   "Electronic",
+   "Electronics"
+  ],
+  [
+   "Elektro",
+   "Elektroläden"
+  ],
+  [
+   "-Läden",
+   ""
+  ],
+  [
+   "Kopfhörer",
+   "Kopfhörer-Symbolen"
+  ],
+  [
+   "-Symbolen",
+   ""
+  ],
+  [
+   "Senderleistung",
+   "Senderleiste"
+  ],
+  [
+   "durch",
+   "durch"
+  ],
+  [
+   "Weiß",
+   "Vice"
+  ],
+  [
+   "durch",
+   "euch"
+  ]
+ ],
+ "caption_colors": {
+  "RADIO": "#39FF14",
+  "AIRPODS": "#3FC5FF",
+  "KOPFHÖRER": "#3FC5FF",
+  "119": "#39FF14",
+  "199": "#39FF14",
+  "STEUERKREUZ": "#FFD000",
+  "LINKS": "#FFD000",
+  "L1": "#FFD000",
+  "R1": "#FFD000",
+  "MUSIK": "#FF3B8C",
+  "STYLE": "#FFD000",
+  "ELECTRONICS": "#FFD000"
+ },
+ "bigwords": [],
+ "icons": [
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    0.92,
+    2.0
+   ],
+   "spin": 0,
+   "size": 480,
+   "y": 470,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-earbuds/ov/pl_karte.mov",
+   "t": [
+    4.8,
+    6.6
+   ],
+   "spin": 0,
+   "size": 800,
+   "y": 620,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-earbuds/ov/pl_earbuds.mov",
+   "t": [
+    12.6,
+    14.0
+   ],
+   "spin": 0,
+   "size": 760,
+   "y": 620,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-earbuds/ov/pl_kopfh.mov",
+   "t": [
+    14.6,
+    16.2
+   ],
+   "spin": 0,
+   "size": 760,
+   "y": 620,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-earbuds/ov/cta.mov",
+   "t": [
+    17.9,
+    22.8
+   ],
+   "spin": 0,
+   "size": 860,
+   "y": 560,
+   "sfx": "mouse_click",
+   "clicks": [
+    18.4
+   ]
+  },
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    19.86,
+    20.9
+   ],
+   "spin": 0,
+   "size": 420,
+   "y": 330,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-earbuds/ov/so.mov",
+   "t": [
+    23.3,
+    31.0
+   ],
+   "spin": 0,
+   "size": 900,
+   "y": 310,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-earbuds/ov/liste.mov",
+   "t": [
+    33.3,
+    44.3
+   ],
+   "spin": 0,
+   "size": 900,
+   "y": 230,
+   "sfx": "mouse_click"
+  }
+ ],
+ "sfx": [],
+ "segments": [
+  {
+   "t": [
+    0,
+    1.4
+   ],
+   "src": [
+    "sws",
+    1.0,
+    null
+   ],
+   "_": "Hook Earbuds"
+  },
+  {
+   "t": [
+    1.4,
+    2.7
+   ],
+   "src": [
+    "05c",
+    3.0,
+    null
+   ],
+   "_": "Hook Sender"
+  },
+  {
+   "t": [
+    2.7,
+    4.0
+   ],
+   "src": [
+    "04a",
+    3.0,
+    null
+   ],
+   "_": "Hook Nah"
+  },
+  {
+   "t": [
+    4.0,
+    6.0
+   ],
+   "src": [
+    "01a",
+    2.0,
+    null
+   ],
+   "_": "Karte"
+  },
+  {
+   "t": [
+    6.0,
+    7.3
+   ],
+   "src": [
+    "01b",
+    3.0,
+    null
+   ],
+   "_": "Symbol"
+  },
+  {
+   "t": [
+    7.3,
+    8.5
+   ],
+   "src": [
+    "02c",
+    2.0,
+    null
+   ],
+   "_": "Electronick"
+  },
+  {
+   "t": [
+    8.5,
+    10.0
+   ],
+   "src": [
+    "02a",
+    4.0,
+    null
+   ],
+   "_": "Zekes"
+  },
+  {
+   "t": [
+    10.0,
+    11.6
+   ],
+   "src": [
+    "02d",
+    1.0,
+    null
+   ],
+   "_": "Game Horde"
+  },
+  {
+   "t": [
+    11.6,
+    13.9
+   ],
+   "src": [
+    "03a",
+    2.0,
+    null
+   ],
+   "_": "Earbuds-Menü"
+  },
+  {
+   "t": [
+    13.9,
+    16.3
+   ],
+   "src": [
+    "03b",
+    3.0,
+    null
+   ],
+   "_": "Kopfhörer-Menü"
+  },
+  {
+   "t": [
+    16.3,
+    17.9
+   ],
+   "src": [
+    "04a",
+    7.0,
+    null
+   ],
+   "_": "Farben"
+  },
+  {
+   "t": [
+    17.9,
+    20.4
+   ],
+   "src": [
+    "sno",
+    1.0,
+    null
+   ],
+   "_": "Deglau 1"
+  },
+  {
+   "t": [
+    20.4,
+    23.2
+   ],
+   "src": [
+    "06a",
+    2.0,
+    null
+   ],
+   "_": "Deglau 2"
+  },
+  {
+   "t": [
+    23.2,
+    25.0
+   ],
+   "src": [
+    "05b",
+    1.0,
+    null
+   ],
+   "_": "Hinweis"
+  },
+  {
+   "t": [
+    25.0,
+    26.5
+   ],
+   "src": [
+    "05a",
+    1.0,
+    null
+   ],
+   "_": "Item-Rad"
+  },
+  {
+   "t": [
+    26.5,
+    28.0
+   ],
+   "src": [
+    "05d",
+    1.0,
+    null
+   ],
+   "_": "Senderleiste"
+  },
+  {
+   "t": [
+    28.0,
+    30.2
+   ],
+   "src": [
+    "05c",
+    7.0,
+    null
+   ],
+   "_": "Sender wechseln"
+  },
+  {
+   "t": [
+    30.2,
+    33.0
+   ],
+   "src": [
+    "06b",
+    2.0,
+    null
+   ],
+   "_": "Outro"
+  },
+  {
+   "t": [
+    33.0,
+    34.8
+   ],
+   "src": [
+    "sod",
+    1,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    34.8,
+    36.6
+   ],
+   "src": [
+    "sss",
+    2,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    36.6,
+    38.4
+   ],
+   "src": [
+    "sws",
+    6,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    38.4,
+    40.2
+   ],
+   "src": [
+    "sno",
+    5,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    40.2,
+    42.0
+   ],
+   "src": [
+    "06a",
+    8,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    42.0,
+    43.8
+   ],
+   "src": [
+    "06b",
+    8,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    43.8,
+    45.6
+   ],
+   "src": [
+    "04b",
+    3,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    45.6,
+    47.4
+   ],
+   "src": [
+    "sod",
+    7,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    47.4,
+    49.2
+   ],
+   "src": [
+    "sss",
+    7,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    49.2,
+    51.0
+   ],
+   "src": [
+    "02c",
+    6,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    51.0,
+    52.8
+   ],
+   "src": [
+    "02a",
+    8.0,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    52.8,
+    54.6
+   ],
+   "src": [
+    "sws",
+    9,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    54.6,
+    56.4
+   ],
+   "src": [
+    "sno",
+    9,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    56.4,
+    58.2
+   ],
+   "src": [
+    "06a",
+    4,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    58.2,
+    60.0
+   ],
+   "src": [
+    "sod",
+    10,
+    null
+   ],
+   "_": "Montage"
+  }
+ ]
+}
