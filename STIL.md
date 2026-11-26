@@ -287,3 +287,7 @@ Ziel: Alles, was gesagt wird, auch **sehen**. Gameplay läuft immer weiter dahin
 
 ## Kein Reinzoomen vor dem Blitz (Deglau, 25.11.2026)
 - Das langsame Reinzoomen in den Sekunden vor dem Blitz (ca. Sek. 3–5) ist weg – „unnötig“. Standard in render.py jetzt aus (`"zoom_in": true` nur auf Wunsch).
+
+## Keine Gameplay-Credits in den Beschreibungen (Deglau, 26.11.2026)
+- In posts.md / Chat-Beschreibungen **keine Zeile „Gameplay: …“ / „Gameplay von: …“** mehr.
+- Die Quellen (Kanal + Link) bleiben trotzdem intern in `quellen_uebersicht.txt` und `edit.json` ("_quellen") – falls es mal eine Anfrage/Meldung gibt.
