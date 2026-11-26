@@ -7,7 +7,7 @@
 
 ## Text zum Einsprechen (~40 s, Video 1 Minute)
 **[Hook – danach Blitz + Beat]**
-So bekommt ihr dieses CS:GO-Messer in GTA 6 – und dabei seht ihr sogar den Flying Dutchman!
+So bekommt ihr dieses CS:GO-Messer in GTA 6 – und dabei macht ihr ein Geister-Easter-Egg und seht den Flying Dutchman!
 
 Fahr nachts zum Leuchtturm auf Little Hardin Island und kletter ganz nach oben. Da streiten sich zwei Geister – und einer stürzt runter.
 
