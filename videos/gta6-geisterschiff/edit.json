@@ -1,0 +1,635 @@
+{
+ "voice": "voice.m4a",
+ "words": "words.json",
+ "output": "/home/user/deglau-videos/videos/gta6-geisterschiff/gta6_geisterschiff.mp4",
+ "sources": {
+  "05a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geisterschiff/05a_huette-taschenlampe_kamin_IGN.mp4",
+  "slf": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geisterschiff/0_showcase_leuchtturm-fernglas-lichtstrahl_Postmode.mp4",
+  "sjl": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geisterschiff/0_showcase_jetski-leuchtturm-nacht_RobbinRams.mp4",
+  "03a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geisterschiff/03a_geister-streiten_Postmode.mp4",
+  "05d": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geisterschiff/05d_logbuch-letzter-eintrag_Postmode.mp4",
+  "08a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geisterschiff/08a_waffenrad_cursed-knife-melee_IGN.mp4",
+  "01b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geisterschiff/01b_karte_ziel-punkt-im-meer-oestlich_IGN.mp4",
+  "09": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geisterschiff/09_geisterschiff-fernglas_IGN.mp4",
+  "03c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geisterschiff/03c_geist-faellt_fernglas_RobbinRams.mp4",
+  "04": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geisterschiff/04_foto-aufheben_text-1909_Postmode.mp4",
+  "02a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geisterschiff/02a_boot-zum-leuchtturm_treppe_leiter_IGN.mp4",
+  "08b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geisterschiff/08b_messer-in-der-hand_throw_IGN.mp4",
+  "07b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geisterschiff/07b_detektor-gruen_wrack_Postmode.mp4",
+  "08c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geisterschiff/08c_menue-variants_beschreibung_LunarGaming.mp4",
+  "06a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geisterschiff/06a_boot-am-steg_taucherausruestung_IGN.mp4",
+  "suw": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geisterschiff/0_showcase_unterwasser-wrack_LunarGaming.mp4",
+  "07d": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geisterschiff/07d_wrack_messer-aufheben_LunarGaming.mp4",
+  "02b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geisterschiff/02b_leiter-hoch-nachts_Postmode.mp4",
+  "08d": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geisterschiff/08d_messer-in-der-hand_throw_Postmode.mp4",
+  "06b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geisterschiff/06b_fahrt-aufs-meer_nebel_boot-stoppt_Postmode.mp4",
+  "07c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geisterschiff/07c_wrack_messer-aufheben_IGN.mp4",
+  "03b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geisterschiff/03b_geist-stuerzt-runter_Postmode.mp4",
+  "sgs": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geisterschiff/0_showcase_geisterschiff_RobbinRams.mp4",
+  "05b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geisterschiff/05b_huette-kamin-buch_Postmode.mp4",
+  "05c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geisterschiff/05c_logbuch-text_0130-uhr_Postmode.mp4",
+  "07a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geisterschiff/07a_tauchen_metalldetektor-signal_Postmode.mp4",
+  "01a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/geisterschiff/01a_karte_leonard-county_little-hardin-island_IGN.mp4"
+ },
+ "_quellen": "Clips: IGN, Postmode, Robbin Rams, LunarGaming – Links in quellen_uebersicht.txt",
+ "flash": 4.7,
+ "end": 60.0,
+ "title": {
+  "lines": [
+   "CS:GO-Messer",
+   "in GTA 6 🔪"
+  ],
+  "emojis": [
+   "🎮",
+   "👻"
+  ]
+ },
+ "caption_fixes": [
+  [
+   "CSGO",
+   "CS:GO-Messer"
+  ],
+  [
+   "-Messer",
+   ""
+  ],
+  [
+   "Geister",
+   "Geister-Easter-Egg"
+  ],
+  [
+   "-Easter",
+   ""
+  ],
+  [
+   "-Egg",
+   ""
+  ],
+  [
+   "Declan",
+   "Deglau"
+  ],
+  [
+   "zu",
+   "zu"
+  ],
+  [
+   "bis",
+   "bis"
+  ],
+  [
+   "bis",
+   "bist"
+  ],
+  [
+   "zu",
+   "du"
+  ],
+  [
+   "60",
+   "richtig"
+  ]
+ ],
+ "caption_colors": {
+  "CS:GO-MESSER": "#39FF14",
+  "GEISTER-EASTER-EGG": "#39FF14",
+  "FLYING": "#39FF14",
+  "DUTCHMAN": "#39FF14",
+  "LEUCHTTURM": "#FFD000",
+  "GEISTER": "#39FF14",
+  "FOTO": "#FFD000",
+  "LOGBUCH": "#FFD000",
+  "GRÜN": "#39FF14",
+  "MESSER": "#39FF14",
+  "TAUCHERAUSRÜSTUNG": "#3FC5FF",
+  "METALLDETEKTOR": "#3FC5FF"
+ },
+ "bigwords": [],
+ "icons": [
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    1.7,
+    2.8
+   ],
+   "spin": 0,
+   "size": 480,
+   "y": 470,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-geisterschiff/ov/pl_insel.mov",
+   "t": [
+    6.2,
+    7.9
+   ],
+   "spin": 0,
+   "size": 800,
+   "y": 620,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-geisterschiff/ov/hinweise.mov",
+   "t": [
+    10.6,
+    16.0
+   ],
+   "spin": 0,
+   "size": 900,
+   "y": 310,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-geisterschiff/ov/cta.mov",
+   "t": [
+    16.0,
+    20.1
+   ],
+   "spin": 0,
+   "size": 860,
+   "y": 560,
+   "sfx": "mouse_click",
+   "clicks": [
+    16.5
+   ]
+  },
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    17.2,
+    18.3
+   ],
+   "spin": 0,
+   "size": 420,
+   "y": 330,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-geisterschiff/ov/pl_tauch.mov",
+   "t": [
+    21.2,
+    23.0
+   ],
+   "spin": 0,
+   "size": 860,
+   "y": 620,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-geisterschiff/ov/st_gruen.mov",
+   "t": [
+    27.4,
+    28.9
+   ],
+   "spin": 0,
+   "size": 760,
+   "y": 560,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-geisterschiff/ov/st_fd.mov",
+   "t": [
+    34.6,
+    36.2
+   ],
+   "spin": 0,
+   "size": 860,
+   "y": 560,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-geisterschiff/ov/liste.mov",
+   "t": [
+    38.5,
+    49.5
+   ],
+   "spin": 0,
+   "size": 900,
+   "y": 230,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-geisterschiff/ov/messer.png",
+   "t": [
+    0.15,
+    4.65
+   ],
+   "spin": 0,
+   "size": 820,
+   "y": 720,
+   "sfx": "swoosh"
+  }
+ ],
+ "sfx": [],
+ "segments": [
+  {
+   "t": [
+    0,
+    1.6
+   ],
+   "src": [
+    "08b",
+    1.0,
+    null
+   ],
+   "_": "Hook Messer",
+   "wide": 1.8
+  },
+  {
+   "t": [
+    1.6,
+    3.0
+   ],
+   "src": [
+    "07d",
+    3.0,
+    null
+   ],
+   "_": "Hook Knife"
+  },
+  {
+   "t": [
+    3.0,
+    4.7
+   ],
+   "src": [
+    "sgs",
+    1.0,
+    null
+   ],
+   "_": "Hook Schiff"
+  },
+  {
+   "t": [
+    4.7,
+    6.2
+   ],
+   "src": [
+    "01a",
+    3.0,
+    null
+   ],
+   "_": "Karte"
+  },
+  {
+   "t": [
+    6.2,
+    7.2
+   ],
+   "src": [
+    "sjl",
+    1.0,
+    null
+   ],
+   "_": "Jetski"
+  },
+  {
+   "t": [
+    7.2,
+    8.4
+   ],
+   "src": [
+    "02b",
+    3.0,
+    null
+   ],
+   "_": "Leiter"
+  },
+  {
+   "t": [
+    8.4,
+    9.9
+   ],
+   "src": [
+    "03a",
+    4.0,
+    null
+   ],
+   "_": "Geister"
+  },
+  {
+   "t": [
+    9.9,
+    10.6
+   ],
+   "src": [
+    "03b",
+    5.0,
+    null
+   ],
+   "_": "stürzt"
+  },
+  {
+   "t": [
+    10.6,
+    12.0
+   ],
+   "src": [
+    "04",
+    3.0,
+    null
+   ],
+   "_": "Foto"
+  },
+  {
+   "t": [
+    12.0,
+    13.8
+   ],
+   "src": [
+    "05a",
+    2.0,
+    null
+   ],
+   "_": "Hütte"
+  },
+  {
+   "t": [
+    13.8,
+    16.0
+   ],
+   "src": [
+    "05b",
+    8.5,
+    null
+   ],
+   "_": "Buch"
+  },
+  {
+   "t": [
+    16.0,
+    18.0
+   ],
+   "src": [
+    "slf",
+    0.5,
+    null
+   ],
+   "_": "Deglau 1"
+  },
+  {
+   "t": [
+    18.0,
+    20.1
+   ],
+   "src": [
+    "03c",
+    2.0,
+    null
+   ],
+   "_": "Deglau 2"
+  },
+  {
+   "t": [
+    20.1,
+    22.9
+   ],
+   "src": [
+    "06a",
+    4.0,
+    null
+   ],
+   "_": "Scuba"
+  },
+  {
+   "t": [
+    22.9,
+    25.4
+   ],
+   "src": [
+    "06b",
+    4.0,
+    null
+   ],
+   "_": "Nebel"
+  },
+  {
+   "t": [
+    25.4,
+    27.0
+   ],
+   "src": [
+    "07a",
+    3.0,
+    null
+   ],
+   "_": "Tauchen"
+  },
+  {
+   "t": [
+    27.0,
+    28.8
+   ],
+   "src": [
+    "07b",
+    6.0,
+    null
+   ],
+   "_": "grün"
+  },
+  {
+   "t": [
+    28.8,
+    31.0
+   ],
+   "src": [
+    "07c",
+    8.0,
+    null
+   ],
+   "_": "Wrack Messer"
+  },
+  {
+   "t": [
+    31.0,
+    34.2
+   ],
+   "src": [
+    "09",
+    0.5,
+    null
+   ],
+   "_": "Fernglas"
+  },
+  {
+   "t": [
+    34.2,
+    36.0
+   ],
+   "src": [
+    "09",
+    6.0,
+    null
+   ],
+   "_": "Schiff"
+  },
+  {
+   "t": [
+    36.0,
+    38.9
+   ],
+   "src": [
+    "sgs",
+    0.5,
+    null
+   ],
+   "_": "Schiff groß"
+  },
+  {
+   "t": [
+    38.9,
+    40.52
+   ],
+   "src": [
+    "suw",
+    1,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    40.52,
+    42.15
+   ],
+   "src": [
+    "sjl",
+    3,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    42.15,
+    43.77
+   ],
+   "src": [
+    "08c",
+    2,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    43.77,
+    45.39
+   ],
+   "src": [
+    "07d",
+    2,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    45.39,
+    47.02
+   ],
+   "src": [
+    "03a",
+    8,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    47.02,
+    48.64
+   ],
+   "src": [
+    "slf",
+    3,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    48.64,
+    50.26
+   ],
+   "src": [
+    "09",
+    7,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    50.26,
+    51.88
+   ],
+   "src": [
+    "sgs",
+    2,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    51.88,
+    53.51
+   ],
+   "src": [
+    "06b",
+    9,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    53.51,
+    55.13
+   ],
+   "src": [
+    "02a",
+    4,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    55.13,
+    56.75
+   ],
+   "src": [
+    "07b",
+    9,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    56.75,
+    58.38
+   ],
+   "src": [
+    "08d",
+    4,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    58.38,
+    60.0
+   ],
+   "src": [
+    "sgs",
+    4,
+    null
+   ],
+   "_": "Montage"
+  }
+ ]
+}
