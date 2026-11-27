@@ -1,0 +1,587 @@
+{
+ "voice": "voice.m4a",
+ "words": "words.json",
+ "output": "/home/user/deglau-videos/videos/gta6-batman/gta6_batman.mp4",
+ "sources": {
+  "02c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/batman/02c_nachts-zur-villa_enter-the-mansion_Shirrako.mp4",
+  "01a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/batman/01a_karte_auftrag-meet-drequan_dantes-mansion_TrophyTom.mp4",
+  "sfb": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/batman/0_showcase_flucht-speedboot-skyline-nacht_HowToGaming.mp4",
+  "ssz": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/batman/0_showcase_anzug-gross-zoom_Shirrako.mp4",
+  "03e": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/batman/03e_anzug_zoom_hes-got-all-kinda-costumes_HowToGaming.mp4",
+  "01b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/batman/01b_karte_starfish-island_Alexander.mp4",
+  "05a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/batman/05a_waffenwand-ueberwachungsraum_HowToGaming.mp4",
+  "05b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/batman/05b_ketten-peitschen_roter-raum_CrispyShay.mp4",
+  "03c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/batman/03c_roter-raum_zoom-auf-anzug_Shirrako.mp4",
+  "01c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/batman/01c_karte_grundriss-villa_fresh-evidence_TrophyTom.mp4",
+  "03d": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/batman/03d_roter-raum_masken-helme_zoom-anzug_ViceCityStandard.mp4",
+  "02d": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/batman/02d_villa-pool-terrasse-nachts_ViceCityStandard.mp4",
+  "05c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/batman/05c_schlafzimmer-keller_ketten-bett_HowToGaming.mp4",
+  "stn": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/batman/0_showcase_terrasse-skyline-nachts_ViceCityStandard.mp4",
+  "02b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/batman/02b_wachhaus-eingang-starfish-island_HowToGaming.mp4",
+  "03a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/batman/03a_reingehen_roter-raum_vitrine-von-weitem_CrispyShay.mp4",
+  "03b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/batman/03b_vitrine_nahaufnahme_logo-maske-bauchtasche_MrJackLayne.mp4",
+  "02a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/batman/02a_fahrt-bruecke-starfish-island_HowToGaming.mp4"
+ },
+ "_quellen": "Clips: Trophy Tom, Alexander, How To Gaming, Shirrako, Vice City Standard, CrispyShay, Mr Jack Layne – Links in quellen_uebersicht.txt",
+ "flash": 3.8,
+ "end": 60.0,
+ "title": {
+  "lines": [
+   "Geheimer Batman",
+   "in GTA 6 🦇"
+  ],
+  "emojis": [
+   "🎮",
+   "🔥"
+  ]
+ },
+ "caption_fixes": [
+  [
+   "Comic",
+   "Comic-Held"
+  ],
+  [
+   "-Held",
+   ""
+  ],
+  [
+   "seinen",
+   "seiner"
+  ],
+  [
+   "Dre",
+   "Dre'Quan"
+  ],
+  [
+   "'Quan",
+   ""
+  ],
+  [
+   "Maskenketten",
+   "Masken, Ketten"
+  ],
+  [
+   "E",
+   "Easter-Egg"
+  ],
+  [
+   "-Stag",
+   ""
+  ]
+ ],
+ "caption_colors": {
+  "BATMAN": "#FF3B8C",
+  "RATFACE": "#FF3B8C",
+  "KELLER": "#FFD000",
+  "KAPITEL": "#FFD000",
+  "4": "#FFD000",
+  "VITRINE": "#3FC5FF",
+  "R2": "#FFD000",
+  "ANZUG": "#FF3B8C",
+  "EASTER-EGG": "#39FF14",
+  "GENIE": "#39FF14"
+ },
+ "bigwords": [],
+ "icons": [
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    0.86,
+    1.9
+   ],
+   "spin": 0,
+   "size": 480,
+   "y": 470,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-batman/ov/st_ratface.mov",
+   "t": [
+    4.2,
+    5.6
+   ],
+   "spin": 0,
+   "size": 760,
+   "y": 560,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-batman/ov/pl_mission.mov",
+   "t": [
+    9.6,
+    11.6
+   ],
+   "spin": 0,
+   "size": 860,
+   "y": 620,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-batman/ov/pl_insel.mov",
+   "t": [
+    13.7,
+    15.0
+   ],
+   "spin": 0,
+   "size": 760,
+   "y": 620,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-batman/ov/weg.mov",
+   "t": [
+    14.9,
+    20.5
+   ],
+   "spin": 0,
+   "size": 900,
+   "y": 310,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-batman/ov/cta.mov",
+   "t": [
+    20.6,
+    25.5
+   ],
+   "spin": 0,
+   "size": 860,
+   "y": 560,
+   "sfx": "mouse_click",
+   "clicks": [
+    21.1
+   ]
+  },
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    22.58,
+    23.6
+   ],
+   "spin": 0,
+   "size": 420,
+   "y": 330,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-batman/ov/st_zoom.mov",
+   "t": [
+    26.2,
+    27.6
+   ],
+   "spin": 0,
+   "size": 700,
+   "y": 560,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-batman/ov/st_nicht.mov",
+   "t": [
+    29.6,
+    31.0
+   ],
+   "spin": 0,
+   "size": 800,
+   "y": 560,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-batman/ov/liste.mov",
+   "t": [
+    36.3,
+    47.3
+   ],
+   "spin": 0,
+   "size": 900,
+   "y": 230,
+   "sfx": "mouse_click"
+  }
+ ],
+ "sfx": [],
+ "segments": [
+  {
+   "t": [
+    0,
+    1.3
+   ],
+   "src": [
+    "ssz",
+    0.5,
+    null
+   ],
+   "_": "Hook Anzug"
+  },
+  {
+   "t": [
+    1.3,
+    2.6
+   ],
+   "src": [
+    "03a",
+    4.0,
+    null
+   ],
+   "_": "Hook Raum"
+  },
+  {
+   "t": [
+    2.6,
+    3.8
+   ],
+   "src": [
+    "02d",
+    2.0,
+    null
+   ],
+   "_": "Hook Villa"
+  },
+  {
+   "t": [
+    3.8,
+    6.9
+   ],
+   "src": [
+    "03b",
+    6.0,
+    null
+   ],
+   "_": "Ratface"
+  },
+  {
+   "t": [
+    6.9,
+    8.9
+   ],
+   "src": [
+    "03b",
+    9.5,
+    null
+   ],
+   "_": "Bauchtasche"
+  },
+  {
+   "t": [
+    8.9,
+    10.6
+   ],
+   "src": [
+    "01a",
+    1.0,
+    null
+   ],
+   "_": "Karte Auftrag"
+  },
+  {
+   "t": [
+    10.6,
+    11.8
+   ],
+   "src": [
+    "01c",
+    1.0,
+    null
+   ],
+   "_": "Fresh Evidence"
+  },
+  {
+   "t": [
+    11.8,
+    13.0
+   ],
+   "src": [
+    "02c",
+    2.0,
+    null
+   ],
+   "_": "Nachts zur Villa"
+  },
+  {
+   "t": [
+    13.0,
+    14.8
+   ],
+   "src": [
+    "01b",
+    1.0,
+    null
+   ],
+   "_": "Starfish"
+  },
+  {
+   "t": [
+    14.8,
+    16.5
+   ],
+   "src": [
+    "05c",
+    2.0,
+    null
+   ],
+   "_": "Keller"
+  },
+  {
+   "t": [
+    16.5,
+    18.4
+   ],
+   "src": [
+    "03a",
+    7.0,
+    null
+   ],
+   "_": "Roter Raum"
+  },
+  {
+   "t": [
+    18.4,
+    20.5
+   ],
+   "src": [
+    "03d",
+    3.0,
+    null
+   ],
+   "_": "Masken"
+  },
+  {
+   "t": [
+    20.5,
+    23.0
+   ],
+   "src": [
+    "stn",
+    1.0,
+    null
+   ],
+   "_": "Deglau 1"
+  },
+  {
+   "t": [
+    23.0,
+    25.6
+   ],
+   "src": [
+    "02a",
+    4.0,
+    null
+   ],
+   "_": "Deglau 2"
+  },
+  {
+   "t": [
+    25.6,
+    28.3
+   ],
+   "src": [
+    "03c",
+    4.0,
+    null
+   ],
+   "_": "Zoom"
+  },
+  {
+   "t": [
+    28.3,
+    31.2
+   ],
+   "src": [
+    "03e",
+    5.0,
+    null
+   ],
+   "_": "Zoom 2"
+  },
+  {
+   "t": [
+    31.2,
+    33.6
+   ],
+   "src": [
+    "05b",
+    1.0,
+    null
+   ],
+   "_": "Peitschen"
+  },
+  {
+   "t": [
+    33.6,
+    36.3
+   ],
+   "src": [
+    "ssz",
+    1.0,
+    null
+   ],
+   "_": "Outro"
+  },
+  {
+   "t": [
+    36.3,
+    37.99
+   ],
+   "src": [
+    "sfb",
+    1,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    37.99,
+    39.69
+   ],
+   "src": [
+    "03d",
+    8,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    39.69,
+    41.38
+   ],
+   "src": [
+    "02d",
+    7,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    41.38,
+    43.07
+   ],
+   "src": [
+    "ssz",
+    2,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    43.07,
+    44.76
+   ],
+   "src": [
+    "05a",
+    3,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    44.76,
+    46.46
+   ],
+   "src": [
+    "02c",
+    8,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    46.46,
+    48.15
+   ],
+   "src": [
+    "stn",
+    3,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    48.15,
+    49.84
+   ],
+   "src": [
+    "sfb",
+    8,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    49.84,
+    51.54
+   ],
+   "src": [
+    "03c",
+    8,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    51.54,
+    53.23
+   ],
+   "src": [
+    "02a",
+    9,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    53.23,
+    54.92
+   ],
+   "src": [
+    "05b",
+    5,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    54.92,
+    56.61
+   ],
+   "src": [
+    "ssz",
+    3,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    56.61,
+    58.31
+   ],
+   "src": [
+    "03a",
+    10,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    58.31,
+    60.0
+   ],
+   "src": [
+    "sfb",
+    11,
+    null
+   ],
+   "_": "Montage"
+  }
+ ]
+}

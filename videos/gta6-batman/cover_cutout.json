@@ -1,0 +1,46 @@
+{
+ "background": {
+  "src": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/batman/03d_roter-raum_masken-helme_zoom-anzug_ViceCityStandard.mp4",
+  "time": 3.0,
+  "blur": 3,
+  "dark": 0.0,
+  "rect": [
+   0,
+   0,
+   1,
+   0.8
+  ]
+ },
+ "objects": [
+  {
+   "src": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/batman/03b_vitrine_nahaufnahme_logo-maske-bauchtasche_MrJackLayne.mp4",
+   "time": 7.0,
+   "x": 540,
+   "y": 1060,
+   "width": 760,
+   "stroke": 14,
+   "bright": 1.1,
+   "rect": [
+    0.2,
+    0,
+    0.6,
+    0.85
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "text": "GEHEIMER BATMAN",
+   "color": "#FF3B8C",
+   "y": 330,
+   "size": 150
+  },
+  {
+   "text": "IN GTA 6",
+   "color": "#FFD000",
+   "y": 1600,
+   "size": 170
+  }
+ ],
+ "output": "titelbild.jpg"
+}
