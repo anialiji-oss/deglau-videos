@@ -1,0 +1,192 @@
+GTA 6 – PROGEN BLACK WIDOW EMERUS (McLaren-Senna-Style) IM SCOOP-CONTAINER AM HAFEN
+Stand: 27.11.2026 – alle Clips 1080p mit Ton, nur Videos ab 19.11.2026, keine Facecam, keine Streams, keine TikTok-Reuploads.
+Menütexte wurden aus Bildern in voller Auflösung abgelesen (Namen und Zahlen genau wie im Spiel).
+
+======================================================================
+GEPRÜFTE FAKTEN
+======================================================================
+
+1) NAME (genau wie im Spiel)
+   PROGEN – BLACK WIDOW EMERUS
+   Schwarz, Carbon-Optik mit weißen Streifen ("Spinnen"-Muster am Heck), großer Heckflügel mit "EMERUS",
+   Aufkleber MYAS, KAINOS, EXHALTEN, ZENSHIN, AMAP, goldene Felgen. Kennzeichen "CPR4L22".
+   Vorbild: McLaren Senna (GTR) – so nennen es fast alle Videos.
+   Beim Rausfahren erscheint "Street Racer 6 / 16" -> es zählt als STANDOUT-Fahrzeug der Kategorie Street Racer.
+
+2) ORT
+   PORT VICE CITY = die Hafeninsel direkt östlich von Downtown Vice City (Vice-Dale County).
+   - Auf der Karte ist der Hafen ein großes rotes Sperrgebiet (betritt man es, gibt es Fahndung).
+   - Der Container steht im Containerlager auf der Hafeninsel, auf einem Platz zwischen roten "BOXTRAX"-Stapeln,
+     neben einem orangen TELESKOPLADER und einem Wachauto "STERLING PRIVATE SECURITY".
+   - Der Container ist GELB-ORANGE mit Aufschrift "SCOOP" (Nummer PCNU 623405 / 33G1).
+   - Wege hin (alle in Videos gezeigt):
+     a) Boot von der Marina gegenüber (Downtown) quer übers Wasser, dann schwimmen und an einer LEITER
+        die Kaimauer hoch ("Swim to the wall and take the ladder") – Tactical Disaster.
+     b) Mit dem Boot an den Steinen anlegen und die Mauer hochklettern – AIMSKE.
+     c) Mit dem Boot zum Liegeplatz 26 ("Next to berth number 26"), Kaimauer hoch – ViceStuntsGTA.
+     d) Einfach mit dem Auto durch die Einfahrt fahren, dann zu Fuß über den Zaun – Perfect Score.
+   - "Ostseite" passt grob: Der Container steht im östlichen Teil der Hafeninsel.
+
+3) SECURITY
+   - Wachen ("Guards everywhere. Clear a path.") und Fahrzeuge von STERLING PRIVATE SECURITY.
+   - Man muss über einen Zaun ("Run along the fence, then hop it."), zwischen den Containern durch.
+   - In fast allen Videos wird geschossen oder die Wache ausgeschaltet. In mehreren Videos bekommt man FAHNDUNG
+     (ViceStuntsGTA: "You can't avoid the wanted level here" / "Cops will come").
+
+4) CUT-OFF TOOL (Trennschleifer) – AB KAPITEL 3
+   - Man bekommt es in der Story-Mission "MEET THE HEDERS" (Kapitel 3, Lucia, Hafen, Port-Vice-City-Lieferwagen).
+     Eingeblendet bei WoW Quests: "CUT-OFF TOOL CUTS LOCKS ON HEAVY CONTAINERS AND VEHICLE PARTS – UNLOCKED IN CHAPTER 3
+     MEET THE HEDERS MISSION". Gamer Guru: "You need to have the Cut-off Tool which you get during Chapter 3 of the
+     Main Story." -> stimmt mit den Guides überein.
+   - Bedienung: "Hold R2 – keep the bar in the marked section" (Balken in der Markierung halten), dann geht die Tür auf.
+
+5) SCAN (gelesen in voller Auflösung, AIMSKE)
+   ACCESS UNLOCKED | SECURITY DEACTIVATED | TRACKER NONE | SELL VALUE $27,980 | COST TO REGISTER $29,900
+   -> TRACKER: NEIN (NONE) – stimmt.
+   -> REGISTER $29,900 – stimmt (auch im Pay 'n' Spray bei Perfect Score, Dominatorz Crew, Tactical Disaster).
+   -> SELL VALUE: WIDERSPRUCH. TikTok: $30,325. AIMSKE-Scan: $27,980 (Auto schon beschädigt, Scheibe kaputt).
+      Verkauf im Pay 'n' Spray (Tactical Disaster): "SELL FOR $30,000?" / "+$30,000".
+      Dominatorz Crew: "SELL EMERUS (+$26,390)" (beschädigt).
+      -> Der Verkaufswert hängt vom SCHADEN ab. Unbeschädigt etwa $30.000, $30,325 ist also plausibel.
+   - Beim Registrieren: "REGISTER AND CHANGE NAME? This is a unique vehicle ..." Danach heißt das Auto z. B.
+     "LUCIA'S EMERUS" (oder Jasons). Es ist ein UNIQUE (einzigartiges) Fahrzeug.
+
+6) STATS (Pay 'n' Spray, Werkszustand – gelesen bei Tactical Disaster UND Dominatorz Crew, gleiche Werte)
+   SPEED 8.9 | ACCELERATION 8.6 | ASPHALT HANDLING 8.4 | OFF-ROAD HANDLING 3.4 | STRENGTH 3.8 | RATING 212 / 863
+
+7) NITRO? -> NICHT BESTÄTIGT.
+   - Im Status-Menü steht KEIN Nitro, und beim Fahren erscheint in KEINEM der geprüften Videos ein Nitro-Hinweis.
+     Zum Vergleich: Bei einem Nitro-Auto blendet das Spiel "Hold [Taste] to activate Nitrous" ein
+     (gesehen bei ViceStuntsGTA beim roten Auto aus "Meet the Heders"). Beim Black Widow kommt das nicht.
+   - AIMSKE nennt sein Video "Black Widow Emerus WITH Nitrous", zeigt aber im Video keinen Nitro-Hinweis
+     und keine Nitro-Flamme.
+   - Das Nitro-Gerücht kommt wahrscheinlich von ANDEREN Emerus-Varianten: "Seaspray Emerus" und
+     "Purple Drank Emerus" werden als "Nitrous McLaren" bezeichnet (Videos von AIMSKE, MkElite, MySpaceGuide).
+   -> Fazit: TikTok "Nitro" = NICHT belegt. Ehrlich: Ich konnte es weder sicher bestätigen noch 100 % ausschließen.
+
+8) IST ES DER SCHNELLSTE McLAREN / EINS DER SCHNELLSTEN AUTOS?
+   - Speed 8.9 ist höher als der Werks-THRAX (Bugatti-Style, Speed 8.7 / Accel 8.6, aus gta6\speed geprüft)
+     und höher als der normale Progen Emerus (8.3).
+   - Schneller ist z. B. "Andrew Node's Thrax" (Speed 9.2 / Accel 8.9, gta6\speed).
+   - Videotitel: "The NEW FASTEST CAR Black Widow Emerus" (AIMSKE), "GTA 6's FASTEST McLaren" (AK GameVerse),
+     "How to Find the Fastest McLaren" (tracedagoat17).
+   -> "Schnellster McLaren (Emerus)": wahrscheinlich JA. Unter allen Emerus-Varianten habe ich keine mit mehr
+      als 8.9 Speed gesehen (Purple-Drank- und Seaspray-Werte konnte ich aber nicht lesen).
+   -> "Schnellstes Auto im Spiel": NEIN, Andrew Node's Thrax hat mehr (9.2).
+      Laut Werks-Stats aber eines der SCHNELLSTEN Autos, sogar vor dem normalen Thrax.
+
+9) "CARBON": Die Optik ist Carbon-/Streifen-Folie (sieht man im Clip 0_showcase_design und 05c).
+   Ein eigener "Carbon"-Eintrag im Menü wurde nicht gesehen.
+
+======================================================================
+CLIPS
+======================================================================
+Datei | Kanal | Link | Von–Bis | Was man sieht
+
+01 KARTE
+01a_karte_hafen-port-vice-city_sperrgebiet_AIMSKE.mp4
+    AIMSKE | https://www.youtube.com/watch?v=HJy0firHF_c | 0:00–0:14
+    Große Karte: Vice City, Hafeninsel mit rotem Sperrgebiet und Punkt, Zoom rein/raus.
+01b_karte_black-widow-emerus-here_TacticalDisaster.mp4
+    Tactical Disaster | https://www.youtube.com/watch?v=btfw3uArM5Q | 0:33–0:40
+    Karte mit Text "BLACK WIDOW EMERUS HERE", roter Kreis auf dem Hafen, "The car's over here." Am Ende Marina-Steg.
+01c_karte_ziel-container-rote-zone_PerfectScore.mp4
+    Perfect Score | https://www.youtube.com/watch?v=mTHLr5D10O0 | 0:46–0:53
+    Lucia zwischen den Containern, dann Karte mit rotem Kreis und Zielpunkt im Hafen.
+
+02 BOOT / SCHWIMMEN / LEITER
+02a_boot-von-marina-zum-hafen_TacticalDisaster.mp4
+    Tactical Disaster | https://www.youtube.com/watch?v=btfw3uArM5Q | 0:39–0:54
+    Boot an der Marina klauen, losfahren Richtung Hafen.
+02b_schwimmen-leiter-kaimauer-hoch_TacticalDisaster.mp4
+    Tactical Disaster | https://www.youtube.com/watch?v=btfw3uArM5Q | 1:06–1:20
+    Am Frachter (BTN ILAYDA) aus dem Boot springen, schwimmen, LEITER an der Kaimauer hoch ("Swim to the wall and take the ladder").
+02c_boot-ueber-wasser-containerhafen_AIMSKE.mp4
+    AIMSKE | https://www.youtube.com/watch?v=HJy0firHF_c | 0:36–0:50
+    Schnelle Bootsfahrt, Kräne und Container, Skyline.
+02d_anlegen-mauer-hoch_AIMSKE.mp4
+    AIMSKE | https://www.youtube.com/watch?v=HJy0firHF_c | 1:02–1:14
+    An den Steinen anlegen, Mauer hochklettern auf das Hafengelände.
+
+03 WACHEN / SECURITY
+03a_security-wachen_ausschalten_PerfectScore.mp4
+    Perfect Score | https://www.youtube.com/watch?v=mTHLr5D10O0 | 0:54–1:08
+    Zwischen Containern, Wache ausschalten, Wachen und Sterling-Security-Auto am Platz.
+03b_schusswechsel-mit-wachen_AIMSKE.mp4
+    AIMSKE | https://www.youtube.com/watch?v=HJy0firHF_c | 3:35–3:47
+    Schießerei mit den Wachen hinter Kabelrolle, BOXTRAX-Container.
+
+04 WEG ZWISCHEN CONTAINERN / TELESKOPLADER / ORANGER CONTAINER
+04a_zaun-und-zwischen-containern_TacticalDisaster.mp4
+    Tactical Disaster | https://www.youtube.com/watch?v=btfw3uArM5Q | 1:30–1:44
+    "Run along the fence, then hop it." – über den Zaun, zwischen den Containern, Wachen.
+04b_arbeiter-scoop-container-teleskoplader_Vedvyk.mp4
+    Vedvyk | https://www.youtube.com/watch?v=TI9e7H03iMI | 1:38–1:52
+    Teleskoplader, SCOOP-Container, Rangelei mit der Security-Wache direkt am Container.
+04c_teleskoplader-oranger-scoop-container_PerfectScore.mp4
+    Perfect Score | https://www.youtube.com/watch?v=mTHLr5D10O0 | 1:06–1:15
+    Sterling-Security-Auto, Teleskoplader und der gelb-orange SCOOP-Container.
+
+05 SCHLOSS AUFSCHNEIDEN / TÜR AUF / AUTO IM CONTAINER
+05a_schloss-aufschneiden_tuer-auf_auto_PerfectScore.mp4
+    Perfect Score | https://www.youtube.com/watch?v=mTHLr5D10O0 | 1:12–1:27
+    Cut-Off Tool am Schloss, Tür auf, Black Widow im Container (Heck mit Flügel).
+05b_cut-off-tool-funken_AIMSKE.mp4
+    AIMSKE | https://www.youtube.com/watch?v=HJy0firHF_c | 3:23–3:34
+    Container, Funken beim Aufschneiden in Nahaufnahme.
+05c_black-widow-im-container_AIMSKE.mp4
+    AIMSKE | https://www.youtube.com/watch?v=HJy0firHF_c | 3:47–3:55
+    Black Widow im Container von hinten, Name "PROGEN BLACK WIDOW EMERUS" unten links.
+
+06 RAUSFAHREN / SCAN
+06a_rausfahren_street-racer-6-16_AIMSKE.mp4
+    AIMSKE | https://www.youtube.com/watch?v=HJy0firHF_c | 3:52–4:06
+    Aus dem Container fahren, "Street Racer 6 / 16", durch den Hafen.
+06b_scan_tracker-none_sell-27980_register-29900_AIMSKE.mp4
+    AIMSKE | https://www.youtube.com/watch?v=HJy0firHF_c | 5:06–5:11
+    Scan-Menü: ACCESS UNLOCKED, SECURITY DEACTIVATED, TRACKER NONE, SELL VALUE $27,980, COST TO REGISTER $29,900.
+    (Am Anfang ein kurzer weißer Blitz – vorne 0,5 s abschneiden.)
+06c_rausfahren-aus-dem-hafen_Vedvyk.mp4
+    Vedvyk | https://www.youtube.com/watch?v=TI9e7H03iMI | 2:08–2:16
+    Schuss, Black Widow fährt durch die Container weg, dann Karte vom Hafen.
+
+07 STATS / PREISE / CUT-OFF TOOL
+07b_stats-und-register_lucias-emerus_DominatorzCrew.mp4
+    Dominatorz Crew | https://www.youtube.com/watch?v=W2bxlCG2jbs | 1:52–2:04
+    Pay 'n' Spray: Stats-Panel (Speed 8.9, Acceleration 8.6 ...), Register $29,900, "Register and change name?", danach "LUCIA'S EMERUS".
+07c_register-29900_unique-vehicle_PerfectScore.mp4
+    Perfect Score | https://www.youtube.com/watch?v=mTHLr5D10O0 | 1:40–1:48
+    Pay 'n' Spray Stockyard: Repair, Sell (+$30,000), "REGISTER AND CHANGE NAME? This is a unique vehicle".
+07d_stats-panel_register-29900_verkaufen-30000_TacticalDisaster.mp4
+    Tactical Disaster | https://www.youtube.com/watch?v=btfw3uArM5Q | 2:48–2:56
+    Fahrt, Pay 'n' Spray mit Stats-Panel, "REGISTER: $29,900", "SELL: $30,000", "SELL FOR $30,000?". Mit Text-Overlays des Kanals.
+07e_cut-off-tool_kapitel-3_meet-the-heders_WoWQuests.mp4
+    WoW Quests | https://www.youtube.com/watch?v=XE7y09zBnjM | 0:02–0:12
+    Karte "MEET THE HEDERS" + Lieferwagen, Einblendung "Cut-off tool ... unlocked in Chapter 3 Meet the Heders mission".
+
+    -> NITRO: kein Clip, weil in keinem Video ein Nitro-Hinweis beim Black Widow zu sehen ist (siehe Fakten Punkt 7).
+    -> VERGLEICH mit anderen Autos: siehe Fakten Punkt 8 (Werte aus gta6\speed, dort gibt es die Thrax-Clips).
+
+0_ SHOWCASE
+0_showcase_nachtfahrt-rotes-licht_DominatorzCrew.mp4
+    Dominatorz Crew | https://www.youtube.com/watch?v=W2bxlCG2jbs | 1:12–1:26
+    NACHT: Black Widow mit roter Unterbodenbeleuchtung fährt aus dem Hafen, Straßenlaternen.
+0_showcase_tunnel-volle-fahrt_Vedvyk.mp4
+    Vedvyk | https://www.youtube.com/watch?v=TI9e7H03iMI | 3:21–3:35
+    Volle Fahrt in den Tunnel, rote Rücklichter, grünes Tunnellicht.
+0_showcase_skyline-bruecke_Vedvyk.mp4
+    Vedvyk | https://www.youtube.com/watch?v=TI9e7H03iMI | 3:50–4:04
+    Schnelle Fahrt auf der Hochstraße zwischen Hochhäusern (Sonne/Wolken).
+0_showcase_design-nahaufnahme_AIMSKE.mp4
+    AIMSKE | https://www.youtube.com/watch?v=HJy0firHF_c | 4:42–4:56
+    Auto parkt auf dem Rasen, Lucia läuft drumherum: Nahaufnahme Design (MYAS, Streifen, goldene Felgen).
+    (Sonnenuntergang wurde in keinem Black-Widow-Video gefunden.)
+
+======================================================================
+WIDERSPRÜCHE / NICHT GEFUNDEN
+======================================================================
+- Sell Value: TikTok $30,325 / Scan AIMSKE $27,980 (beschädigt) / Pay 'n' Spray $30,000 / Dominatorz $26,390 (beschädigt).
+- Nitro: TikTok + AIMSKE-Titel "mit Nitro" <-> kein Nitro-Hinweis in irgendeinem Video. Nicht bestätigt.
+- "Schnellster": schnellster McLaren/Emerus = wahrscheinlich ja (8.9). Schnellstes Auto = nein (Andrew Node's Thrax 9.2).
+- Wache/Fahndung: Manche schleichen ohne Fahndung (Tactical Disaster), andere bekommen sicher Fahndung (ViceStuntsGTA).
+- Clip "Black Widow bei Sonnenuntergang": nicht gefunden.
