@@ -1,0 +1,34 @@
+{
+ "background": {
+  "src": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/blackwidow/04c_teleskoplader-oranger-scoop-container_PerfectScore.mp4",
+  "time": 4.0,
+  "blur": 3,
+  "dark": 0.0
+ },
+ "objects": [
+  {
+   "src": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/blackwidow/0_showcase_design-nahaufnahme_AIMSKE.mp4",
+   "time": 3.0,
+   "x": 540,
+   "y": 1080,
+   "width": 1020,
+   "stroke": 14,
+   "bright": 1.25
+  }
+ ],
+ "texts": [
+  {
+   "text": "McLAREN",
+   "color": "#FF3B8C",
+   "y": 330,
+   "size": 180
+  },
+  {
+   "text": "IM CONTAINER",
+   "color": "#FFD000",
+   "y": 1600,
+   "size": 160
+  }
+ ],
+ "output": "titelbild.jpg"
+}

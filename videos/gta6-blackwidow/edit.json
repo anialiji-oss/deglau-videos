@@ -1,0 +1,593 @@
+{
+ "voice": "voice.m4a",
+ "words": "words.json",
+ "output": "/home/user/deglau-videos/videos/gta6-blackwidow/gta6_blackwidow.mp4",
+ "sources": {
+  "sdn": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/blackwidow/0_showcase_design-nahaufnahme_AIMSKE.mp4",
+  "07d": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/blackwidow/07d_stats-panel_register-29900_verkaufen-30000_TacticalDisaster.mp4",
+  "stu": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/blackwidow/0_showcase_tunnel-volle-fahrt_Vedvyk.mp4",
+  "06c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/blackwidow/06c_rausfahren-aus-dem-hafen_Vedvyk.mp4",
+  "04c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/blackwidow/04c_teleskoplader-oranger-scoop-container_PerfectScore.mp4",
+  "07e": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/blackwidow/07e_cut-off-tool_kapitel-3_meet-the-heders_WoWQuests.mp4",
+  "04b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/blackwidow/04b_arbeiter-scoop-container-teleskoplader_Vedvyk.mp4",
+  "02a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/blackwidow/02a_boot-von-marina-zum-hafen_TacticalDisaster.mp4",
+  "04a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/blackwidow/04a_zaun-und-zwischen-containern_TacticalDisaster.mp4",
+  "07c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/blackwidow/07c_register-29900_unique-vehicle_PerfectScore.mp4",
+  "06a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/blackwidow/06a_rausfahren_street-racer-6-16_AIMSKE.mp4",
+  "07b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/blackwidow/07b_stats-und-register_lucias-emerus_DominatorzCrew.mp4",
+  "01c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/blackwidow/01c_karte_ziel-container-rote-zone_PerfectScore.mp4",
+  "02c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/blackwidow/02c_boot-ueber-wasser-containerhafen_AIMSKE.mp4",
+  "05c": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/blackwidow/05c_black-widow-im-container_AIMSKE.mp4",
+  "03a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/blackwidow/03a_security-wachen_ausschalten_PerfectScore.mp4",
+  "05a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/blackwidow/05a_schloss-aufschneiden_tuer-auf_auto_PerfectScore.mp4",
+  "snf": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/blackwidow/0_showcase_nachtfahrt-rotes-licht_DominatorzCrew.mp4",
+  "06b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/blackwidow/06b_scan_tracker-none_sell-27980_register-29900_AIMSKE.mp4",
+  "01b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/blackwidow/01b_karte_black-widow-emerus-here_TacticalDisaster.mp4",
+  "05b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/blackwidow/05b_cut-off-tool-funken_AIMSKE.mp4",
+  "01a": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/blackwidow/01a_karte_hafen-port-vice-city_sperrgebiet_AIMSKE.mp4",
+  "03b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/blackwidow/03b_schusswechsel-mit-wachen_AIMSKE.mp4",
+  "02d": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/blackwidow/02d_anlegen-mauer-hoch_AIMSKE.mp4",
+  "02b": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/blackwidow/02b_schwimmen-leiter-kaimauer-hoch_TacticalDisaster.mp4",
+  "ssb": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/blackwidow/0_showcase_skyline-bruecke_Vedvyk.mp4"
+ },
+ "_quellen": "Clips: AIMSKE, Tactical Disaster, Perfect Score, Vedvyk, Dominatorz Crew, WoW Quests – Links in quellen_uebersicht.txt",
+ "flash": 4.95,
+ "end": 60.0,
+ "title": {
+  "lines": [
+   "McLaren im",
+   "Container 🕷️"
+  ],
+  "emojis": [
+   "🎮",
+   "🔥"
+  ]
+ },
+ "caption_fixes": [
+  [
+   "30",
+   "30.000"
+  ],
+  [
+   "000",
+   ""
+  ],
+  [
+   "29",
+   "29.000"
+  ],
+  [
+   "000",
+   ""
+  ],
+  [
+   "freut",
+   "folgt"
+  ],
+  [
+   "noch",
+   "doch"
+  ],
+  [
+   "Shitte",
+   "Schritte"
+  ]
+ ],
+ "caption_colors": {
+  "MCLAREN": "#FF3B8C",
+  "SCHNELLSTEN": "#39FF14",
+  "SCHNELLSTE": "#39FF14",
+  "TRACKER": "#FF3B3B",
+  "CONTAINER": "#FFD000",
+  "WACHEN": "#FF3B3B",
+  "TRENNSCHLEIFER": "#3FC5FF",
+  "30.000": "#39FF14",
+  "29.000": "#39FF14",
+  "SCHWARZ": "#FF3B8C"
+ },
+ "bigwords": [],
+ "icons": [
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    1.62,
+    2.7
+   ],
+   "spin": 0,
+   "size": 480,
+   "y": 470,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-blackwidow/ov/pl_tracker.mov",
+   "t": [
+    3.9,
+    4.9
+   ],
+   "spin": 0,
+   "size": 700,
+   "y": 620,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-blackwidow/ov/pl_hafen.mov",
+   "t": [
+    6.4,
+    8.0
+   ],
+   "spin": 0,
+   "size": 760,
+   "y": 620,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-blackwidow/ov/weg.mov",
+   "t": [
+    7.0,
+    16.0
+   ],
+   "spin": 0,
+   "size": 900,
+   "y": 310,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-blackwidow/ov/st_kap3.mov",
+   "t": [
+    18.6,
+    20.0
+   ],
+   "spin": 0,
+   "size": 760,
+   "y": 560,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-blackwidow/ov/st_speed.mov",
+   "t": [
+    21.0,
+    22.6
+   ],
+   "spin": 0,
+   "size": 700,
+   "y": 560,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-blackwidow/ov/geld.mov",
+   "t": [
+    23.4,
+    25.3
+   ],
+   "spin": 0,
+   "size": 760,
+   "y": 560,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-blackwidow/ov/pl_reg.mov",
+   "t": [
+    25.3,
+    27.0
+   ],
+   "spin": 0,
+   "size": 860,
+   "y": 620,
+   "sfx": "mouse_click"
+  },
+  {
+   "img": "videos/gta6-blackwidow/ov/cta.mov",
+   "t": [
+    27.3,
+    32.5
+   ],
+   "spin": 0,
+   "size": 860,
+   "y": 560,
+   "sfx": "mouse_click",
+   "clicks": [
+    27.8
+   ]
+  },
+  {
+   "img": "assets/gta6_kachel.png",
+   "t": [
+    29.38,
+    30.4
+   ],
+   "spin": 0,
+   "size": 420,
+   "y": 330,
+   "sfx": "swoosh"
+  },
+  {
+   "img": "videos/gta6-blackwidow/ov/liste.mov",
+   "t": [
+    36.3,
+    47.3
+   ],
+   "spin": 0,
+   "size": 900,
+   "y": 230,
+   "sfx": "mouse_click"
+  }
+ ],
+ "sfx": [],
+ "segments": [
+  {
+   "t": [
+    0,
+    1.7
+   ],
+   "src": [
+    "stu",
+    0.5,
+    null
+   ],
+   "_": "Hook Tunnel"
+  },
+  {
+   "t": [
+    1.7,
+    3.3
+   ],
+   "src": [
+    "05a",
+    12.0,
+    null
+   ],
+   "_": "Hook Tür auf"
+  },
+  {
+   "t": [
+    3.3,
+    4.95
+   ],
+   "src": [
+    "06b",
+    0.6,
+    null
+   ],
+   "_": "Hook im Container",
+   "fit": 1.35
+  },
+  {
+   "t": [
+    4.95,
+    6.6
+   ],
+   "src": [
+    "01b",
+    1.0,
+    null
+   ],
+   "_": "Karte"
+  },
+  {
+   "t": [
+    6.6,
+    7.4
+   ],
+   "src": [
+    "02a",
+    6.0,
+    null
+   ],
+   "_": "Boot"
+  },
+  {
+   "t": [
+    7.4,
+    9.0
+   ],
+   "src": [
+    "02b",
+    6.0,
+    null
+   ],
+   "_": "Leiter"
+  },
+  {
+   "t": [
+    9.0,
+    11.2
+   ],
+   "src": [
+    "03a",
+    4.0,
+    null
+   ],
+   "_": "Wachen"
+  },
+  {
+   "t": [
+    11.2,
+    13.3
+   ],
+   "src": [
+    "04a",
+    3.0,
+    null
+   ],
+   "_": "Zaun"
+  },
+  {
+   "t": [
+    13.3,
+    16.0
+   ],
+   "src": [
+    "04c",
+    2.0,
+    null
+   ],
+   "_": "Teleskoplader"
+  },
+  {
+   "t": [
+    16.0,
+    17.9
+   ],
+   "src": [
+    "05b",
+    2.0,
+    null
+   ],
+   "_": "Funken"
+  },
+  {
+   "t": [
+    17.9,
+    19.3
+   ],
+   "src": [
+    "07e",
+    3.0,
+    null
+   ],
+   "_": "Kapitel 3"
+  },
+  {
+   "t": [
+    19.3,
+    20.6
+   ],
+   "src": [
+    "05c",
+    3.0,
+    null
+   ],
+   "_": "Auto"
+  },
+  {
+   "t": [
+    20.6,
+    23.0
+   ],
+   "src": [
+    "06a",
+    4.0,
+    null
+   ],
+   "_": "Rausfahren"
+  },
+  {
+   "t": [
+    23.0,
+    25.0
+   ],
+   "src": [
+    "07c",
+    3.0,
+    null
+   ],
+   "_": "Verkaufen",
+   "fit": 1.35
+  },
+  {
+   "t": [
+    25.0,
+    27.3
+   ],
+   "src": [
+    "07b",
+    6.0,
+    null
+   ],
+   "_": "Registrieren",
+   "fit": 1.35
+  },
+  {
+   "t": [
+    27.3,
+    30.5
+   ],
+   "src": [
+    "snf",
+    1.0,
+    null
+   ],
+   "_": "Deglau 1"
+  },
+  {
+   "t": [
+    30.5,
+    32.8
+   ],
+   "src": [
+    "ssb",
+    2.0,
+    null
+   ],
+   "_": "Deglau 2"
+  },
+  {
+   "t": [
+    32.8,
+    36.3
+   ],
+   "src": [
+    "sdn",
+    2.0,
+    null
+   ],
+   "_": "Outro"
+  },
+  {
+   "t": [
+    36.3,
+    38.12
+   ],
+   "src": [
+    "stu",
+    6,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    38.12,
+    39.95
+   ],
+   "src": [
+    "sdn",
+    6,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    39.95,
+    41.77
+   ],
+   "src": [
+    "snf",
+    6,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    41.77,
+    43.59
+   ],
+   "src": [
+    "ssb",
+    7,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    43.59,
+    45.42
+   ],
+   "src": [
+    "06c",
+    2,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    45.42,
+    47.24
+   ],
+   "src": [
+    "stu",
+    9,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    47.24,
+    49.06
+   ],
+   "src": [
+    "02c",
+    3,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    49.06,
+    50.88
+   ],
+   "src": [
+    "05a",
+    10,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    50.88,
+    52.71
+   ],
+   "src": [
+    "snf",
+    9,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    52.71,
+    54.53
+   ],
+   "src": [
+    "ssb",
+    10,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    54.53,
+    56.35
+   ],
+   "src": [
+    "sdn",
+    9,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    56.35,
+    58.18
+   ],
+   "src": [
+    "stu",
+    11,
+    null
+   ],
+   "_": "Montage"
+  },
+  {
+   "t": [
+    58.18,
+    60.0
+   ],
+   "src": [
+    "06a",
+    9,
+    null
+   ],
+   "_": "Montage"
+  }
+ ]
+}
