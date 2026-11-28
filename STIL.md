@@ -301,3 +301,9 @@ Ziel: Alles, was gesagt wird, auch **sehen**. Gameplay läuft immer weiter dahin
   den grünen Geld-Zähler einblenden, der von 100 hoch auf den Betrag zählt:
   `python3 scripts/overlays.py counter "+$" 100 18750 2.0 ov/geld.mov` (als icon, size ~760, y ~560, Klick-Sound).
 - Den echten Betrag aus dem Spiel nehmen (wenn er „18k“ sagt und es 18.750 sind → bis 18.750 zählen).
+
+## Hashtags: allgemein statt spielspezifisch (Deglau, 28.11.2026)
+- KEINE Nischen-Hashtags zum Spiel/Thema (z. B. #100000tickets, #rubbellos, #steam-Spielname).
+- Stattdessen allgemeine, große Hashtags, z. B.:
+  `#indiegame #gaming #newgames #whattoplay #gamer #pcgaming #fyp #deglaugaming`
+- Bei GTA-Videos bleiben #gta6 #gtavi (das sind selbst große Hashtags), plus #gaming #whattoplay #fyp #deglaugaming.
