@@ -6,7 +6,7 @@
 
 ## YouTube Shorts
 **Titel:** 100.000 Rubbellose freirubbeln 🎟️ (100,000 Tickets)
-**Beschreibung:** Ein riesiger Berg aus Rubbellosen in einem Casino: Freirubbeln, scannen, kassieren, Werkzeuge und Roboter kaufen – und am Ende den Tresor öffnen. 100,000 Tickets kommt für PC, die Demo ist schon kostenlos auf Steam.
+**Beschreibung:** Ein riesiger Berg aus Rubbellosen: Freirubbeln, scannen, kassieren, Werkzeuge und Roboter kaufen – und am Ende den Tresor öffnen. 100,000 Tickets kommt für PC, die Demo ist schon kostenlos auf Steam.
 #100000tickets #steam #shorts
 
 ## Instagram
