@@ -1,0 +1,35 @@
+{
+ "background": {
+  "src": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/tickets/trailer.mp4",
+  "time": 20.5,
+  "blur": 3,
+  "dark": 0.0
+ },
+ "objects": [
+  {
+   "src": "/tmp/claude-0/-home-user-deglau-videos/9a03f581-ea83-5a1f-b271-e1fdeefd0144/scratchpad/tickets/trailer.mp4",
+   "time": 1.0,
+   "x": 540,
+   "y": 1080,
+   "width": 720,
+   "stroke": 14,
+   "bright": 1.05,
+   "rot": -8
+  }
+ ],
+ "texts": [
+  {
+   "text": "100.000",
+   "color": "#FFD000",
+   "y": 330,
+   "size": 190
+  },
+  {
+   "text": "RUBBELLOSE",
+   "color": "#39FF14",
+   "y": 1600,
+   "size": 170
+  }
+ ],
+ "output": "titelbild.jpg"
+}
