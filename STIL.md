@@ -305,5 +305,6 @@ Ziel: Alles, was gesagt wird, auch **sehen**. Gameplay läuft immer weiter dahin
 ## Hashtags: allgemein statt spielspezifisch (Deglau, 28.11.2026)
 - KEINE Nischen-Hashtags zum Spiel/Thema (z. B. #100000tickets, #rubbellos, #steam-Spielname).
 - Stattdessen allgemeine, große Hashtags, z. B.:
-  `#indiegame #gaming #newgames #whattoplay #gamer #pcgaming #fyp #deglaugaming`
+  `#indiegame #gaming #newgames #whattoplay #steam #gamer #pcgaming #fyp #deglaugaming`
+- Auch erlaubt (allgemeine Plattform-/Genre-Tags): #steam #steamgames #pcgames #coop #multiplayer #simulator #horrorgame – je nach Spiel.
 - Bei GTA-Videos bleiben #gta6 #gtavi (das sind selbst große Hashtags), plus #gaming #whattoplay #fyp #deglaugaming.
